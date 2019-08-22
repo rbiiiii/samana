@@ -1,4 +1,4 @@
-baseURL = "https://www.yoga-samana.be/"
+baseURL = "https://samana.netlify.com/"
 languageCode = "fr-be"
 title = "Samana le souffle, yoga et méditation"
 disableKinds = ["taxonomy", "taxonomyTerm"]
