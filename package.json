@@ -1,0 +1,35 @@
+{
+  "name": "Samana",
+  "version": "1.0.0",
+  "description": "",
+  "main": "postcss.config.js",
+  "browserslist": [
+    "last 1 version",
+    "> 1%",
+    "ie 10-11",
+    "not dead"
+  ],
+  "postcss": {
+    "plugins": {
+      "autoprefixer": {}
+    }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rbiiiii/samana.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rbiiiii/samana/issues"
+  },
+  "homepage": "https://github.com/rbiiiii/samana#readme",
+  "dependencies": {
+    "autoprefixer": "^9.6.1",
+    "postcss-cli": "^6.1.3"
+  }
+}

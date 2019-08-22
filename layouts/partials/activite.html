@@ -1,0 +1,24 @@
+<article class="activite block-bg-medium" itemscope itemtype="http://schema.org/Event">
+    {{ if .img }}
+        <picture class="event__img">
+            <source type="image/webp" srcset="/assets/img/{{ .img }}-small.webp 768w, /assets/img/{{ .img }}.webp 4096w">
+            <source type="image/jpeg" srcset="/assets/img/{{ .img }}-small.jpg 768w, /assets/img/{{ .img }}.jpg 4096w">
+            <img src="/assets/img/{{ .img }}-small.jpg" itemprop="image" alt="" width="768" height="512" sizes="100vw">
+        </picture>
+    {{ end }}
+    <meta itemprop="startDate" content="{{ .start_date }}">
+    {{ if .enddate }}<meta itemprop="endDate" content="{{ .enddate }}">{{ else }}<meta itemprop="endDate" content="{{ .start_date }}">{{ end }} 
+    <header>
+        <h1 itemprop="name">{{ .title | safeHTML }}</h1>
+        <p class="event__subtitle">{{ .subtitle | safeHTML }}</p>
+        <time class="event__time" datetime="{{ .start_date }}">{{ .date_for_humans }}</time>
+        <div class="event__venue-price">
+            <span class="event__venue" itemprop="location" itemscope itemtype="http://schema.org/Place">
+                <meta itemprop="address" content="{{ .address }}">
+                <span itemprop="name">{{ .place }}</span>
+            </span>
+            - <span class="event__price">{{ .price | safeHTML }}</span>
+        </div>
+    </header>
+    <div itemprop="description">{{ .description | safeHTML }}</div>
+</article>      

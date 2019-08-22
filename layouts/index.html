@@ -1,0 +1,16 @@
+{{ define "main" }}
+
+    <section class="home-section" id="intro" aria-labelledby="site-title">
+        <figure class="fullw-img-wrapper">
+            <picture class="home-intro__img fullw-img">
+                <source type="image/jpeg" srcset="{{.Site.BaseURL}}assets/img/home-intro-small.jpg 768w,
+                                                    {{.Site.BaseURL}}assets/img/home-intro.jpg 4096w">
+                <img class="fullw-img" src="{{.Site.BaseURL}}assets/img/home-intro.jpg" alt="" sizes="100vw">
+            </picture>
+            <figcaption>
+                <h2>Animer son corps, habiter son souffle, <span>ressentir</span>.
+            </figcaption>
+        </figure>
+    </section>
+
+{{ end }}

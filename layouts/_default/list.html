@@ -1,0 +1,10 @@
+{{ define "main" }}
+    <p>{{ .Content }}</p>
+    <ul>
+        {{ range .Pages }}
+            <li>{{ .Title }}</li>
+        {{ end }}
+    </ul>
+    <br>
+    <a href="javascript:window.history.back()">Retour</a>
+{{ end }}

@@ -1,0 +1,43 @@
+/*
+* MIXINS
+*/
+
+@mixin ff-r {
+    font-family: "Ubuntu","Helvetica Neue",Helvetica,Arial,sans-serif;  
+} 
+
+@mixin ff-l {
+    font-family: "Ubuntu Light","Helvetica Neue",Helvetica,Arial,sans-serif; 
+} 
+
+@mixin ff-i {
+    font-family: "IBM Plex Serif Italic","Georgia",serif;
+} 
+
+@mixin fs-xs {
+    font-size:0.8125rem; // 13
+}
+
+@mixin fs-s{
+    font-size:0.9375rem; // 15
+}
+
+@mixin fs-m{
+    font-size:0.9444rem; // 17
+}
+
+@mixin fs-b {
+    font-size:1.375rem; // 22
+}
+
+@mixin block-mw {
+    max-width:840px;
+    margin-right:auto;
+    margin-left:auto;
+    padding:0 1.2rem;
+    box-sizing: border-box;
+
+    @media screen and (min-width:600px) {
+        padding:0 $su*2;        
+    }
+}

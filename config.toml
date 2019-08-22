@@ -1,0 +1,7 @@
+baseURL = "https://www.yoga-samana.be/"
+languageCode = "fr-be"
+title = "Samana le souffle, yoga et méditation"
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[params]
+    description = "Description de Samana"

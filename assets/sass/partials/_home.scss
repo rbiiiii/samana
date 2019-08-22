@@ -1,0 +1,20 @@
+.home-section#intro {
+    
+    .fullw-img-wrapper {
+        display:flex;
+        align-items:center;
+        justify-content: center;
+        
+        figcaption {
+            position:absolute;
+            color:$white;
+            @include ff-l;
+            font-size:28px;
+
+            span {
+                @include ff-i;
+                letter-spacing:1px;
+            }
+        }
+    }
+}

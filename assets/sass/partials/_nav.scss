@@ -1,0 +1,18 @@
+.site-nav {
+    display:flex;
+    align-items:center;
+    justify-content: center;
+}
+
+.site-nav__link {
+    margin:0;
+    padding:1em;
+    text-transform: uppercase;
+    @include fs-xs;
+    letter-spacing:1px;
+    transition: opacity 200ms ease-out;
+
+    &:hover, &:focus {
+        opacity:0.7;
+    }
+}

@@ -1,0 +1,103 @@
+/*
+* FOOTER
+*/
+
+.site-footer {
+    background:transparent;
+    @include ff-l;
+    @include fs-xs;
+    max-width: $mw;
+    margin:0 auto;
+    padding:$su*2 $su; 
+    display: flex;
+    justify-content: space-between;
+
+    h3 {
+        margin: 0 0 1.25em 0;
+        text-transform: uppercase;
+        font-weight: normal;
+        letter-spacing:2px;
+        @include fs-b; 
+    }
+
+    a, input[type="submit"] {
+        transition:opacity 200ms ease-out;
+
+        &:hover, &:focus {
+            opacity:0.7;
+        }
+    }
+}
+
+.site-footer__block {
+    margin-right:$su*2;
+    max-width: 20em;
+
+    &:last-of-type {
+        margin-right:0;
+    }
+}
+
+.site-footer__nav {
+    display: flex;
+    flex-direction: column;
+
+    a {
+        display: block;
+        margin-bottom:0.5em;
+        @include fs-m;
+    }
+}
+
+.site-footer__chloe {
+
+    a {
+        font-weight:bold;
+    }
+
+    p {
+        @include fs-s; 
+    }
+}
+
+.site-footer__stayintouch {
+
+    .input-wrapper {
+        display: block;
+        position: relative;
+        
+        &:after {
+            content:'';
+            position:absolute;
+            width:100%;
+            height:1px;
+            background-color:$dark;
+            bottom:1.2em;
+            left:0;
+        }
+    }
+    
+    input {
+        background: none;
+        border: none;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        margin-bottom:1.2em;
+        font-size: 1rem;
+    }
+
+    input[type="submit"] {
+        margin: 0;
+        padding: 0.2em 0.2em 0.2em 0;
+
+        &:hover, &:focus {
+            cursor: pointer;
+        }
+    }
+}
+
+.follow-wrapper {
+    display:flex;
+    justify-content: space-between;
+    margin-bottom:1.5em;
+}

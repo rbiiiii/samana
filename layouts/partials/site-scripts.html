@@ -1,0 +1,7 @@
+{{ $contentLoaded := resources.Get "js/content-loaded.js" }}
+{{ $ieDetection := resources.Get "js/ie-detection.js" }}
+{{ $navUnfocus := resources.Get "js/nav-unfocus.js" }}
+{{ $defaultJS := slice $contentLoaded $ieDetection $navUnfocus | resources.Concat "js/global.js" }}
+{{ $globalJS := $defaultJS | resources.Fingerprint }}
+<script>document.querySelector('body').classList.remove('no-js');</script>
+<script src="{{ $globalJS.Permalink }}"></script>
