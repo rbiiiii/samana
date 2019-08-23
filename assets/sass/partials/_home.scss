@@ -12,6 +12,10 @@
             font-size:28px;
             font-size:calc(0.5rem + 1.1vw);
 
+            h2 {
+                margin:0;
+            }
+
             span {
                 @include ff-i;
                 letter-spacing:1px;
