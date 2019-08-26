@@ -2,6 +2,30 @@
     display:flex;
     align-items:center;
     justify-content: center;
+    display:none;
+}
+
+#site-nav-btn {
+    height: 2em;
+    background: none;
+    width: auto;
+    text-transform: uppercase;
+    border: none;
+    color:$dark;
+    transition: opacity 200ms ease-out;
+
+    &:hover, &:focus {
+        opacity:0.7;
+        cursor:pointer;
+    }
+
+    @media screen and (min-width: 980px) {
+        display:none;
+    }
+}
+
+button {
+    display: none;
 }
 
 .site-nav__link {

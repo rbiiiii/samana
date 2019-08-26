@@ -51,3 +51,17 @@
 		<a class="link-underlined" href="{{.Site.BaseURL}}privacy-policy">Privacy policy</a>
 	</div>
 </footer>
+<script type="text/javascript">
+	var root = document.body,
+		siteNavBtn = document.getElementById('site-nav-btn');
+
+	siteNavBtn.addEventListener('click', function() {
+		if (root.classList.contains('open')) {
+			root.classList.remove('open');
+			this.setAttribute('aria-expanded', false);
+		} else {
+			root.classList.add('open');
+			this.setAttribute('aria-expanded', true);
+		}
+	})
+</script>
