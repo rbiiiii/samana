@@ -1,30 +1,37 @@
 .site-nav {
-    display:none;
+    order:2;
+    width:0;
+    display:flex;
     flex-direction:row;
     align-items:center;
     justify-content: center;
     transform:translateY(-512px);
-    transition: transform 200ms ease-out;
+    
 
     body.open & {
         display:flex;
         flex-direction:column;
         position: absolute;
-        top: 80px;
+        left: 0;
+        top:80px;
+        width:100%;
         background: $light;
         width: 100%;
-        left: 0;
         box-shadow: 0 2px 10px $light;
         transform:translateY(0px);
+        z-index:-1;
+        transition: transform 300ms ease-in-out;
     }
 
     @media screen and (min-width: 980px) {
         display:flex;
         transform:none;
+        width:auto;
     }
 }
 
 #site-nav-btn {
+    order:3;
     height: 2em;
     background: none;
     width: auto;

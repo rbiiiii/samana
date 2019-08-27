@@ -17,3 +17,11 @@ body {
     scroll-behavior: smooth;
     box-sizing: border-box;
 }
+
+#site-main {
+    position:relative;
+    
+    body.open & {
+        z-index:-2;
+    }
+}

@@ -3,10 +3,10 @@
 */
 
 .site-header {
+    order:1;
     position:sticky;
     top:0;
     background-color:$white;
-    z-index:10;
 
     @media screen and (min-width: 980px) {
         position:relative;
@@ -22,9 +22,15 @@
     padding:0 $su;
     margin:0 auto;
     height:80px;
+    z-index:10;
 
     @media screen and (min-width: 980px) {
         height:100px;
+    }
+
+    body.open & {
+        z-index:auto;
+        background-color:$white;
     }
 }
 
@@ -51,6 +57,7 @@
 }
 
 .stay-connected {
+    order:4;
     display:none;
     align-items:center;
     @include fs-xs;
