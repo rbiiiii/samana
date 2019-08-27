@@ -16,6 +16,9 @@ body {
     min-height:100%;
     scroll-behavior: smooth;
     box-sizing: border-box;
+    overflow-x: hidden;
+    opacity:0;
+    animation: show-smooth 200ms 300ms ease-in-out forwards;
 }
 
 #site-main {
