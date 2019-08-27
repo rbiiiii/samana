@@ -1,8 +1,27 @@
 .site-nav {
-    display:flex;
+    display:none;
+    flex-direction:row;
     align-items:center;
     justify-content: center;
-    display:none;
+    transform:translateY(-512px);
+    transition: transform 200ms ease-out;
+
+    body.open & {
+        display:flex;
+        flex-direction:column;
+        position: absolute;
+        top: 80px;
+        background: $light;
+        width: 100%;
+        left: 0;
+        box-shadow: 0 2px 10px $light;
+        transform:translateY(0px);
+    }
+
+    @media screen and (min-width: 980px) {
+        display:flex;
+        transform:none;
+    }
 }
 
 #site-nav-btn {
@@ -13,19 +32,21 @@
     border: none;
     color:$dark;
     transition: opacity 200ms ease-out;
+    margin-left:auto;
+    font-size:14px;
 
-    &:hover, &:focus {
-        opacity:0.7;
-        cursor:pointer;
+    @media screen and (min-width: 420px) {
+        font-size:16px;
     }
 
     @media screen and (min-width: 980px) {
         display:none;
     }
-}
 
-button {
-    display: none;
+    &:hover, &:focus {
+        opacity:0.7;
+        cursor:pointer;
+    }
 }
 
 .site-nav__link {
@@ -36,7 +57,14 @@ button {
     letter-spacing:1px;
     transition: opacity 200ms ease-out;
 
+    body.open & {
+        padding:1.4em 1em;
+        width:100%;
+        text-align: center;
+    }
+
     &:hover, &:focus {
         opacity:0.7;
+        background-color:$white;
     }
 }
