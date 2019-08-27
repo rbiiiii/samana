@@ -24,6 +24,7 @@
     margin:0 auto;
     height:80px;
     z-index:10;
+    box-shadow: 0 2px 10px $light;
 
     @media screen and (min-width: 980px) {
         height:100px;
