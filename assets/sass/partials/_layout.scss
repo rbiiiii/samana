@@ -24,6 +24,12 @@ body {
     animation: show-smooth 200ms 300ms ease-in-out forwards;
 }
 
+.site-wrapper {
+    max-width: 1920px;
+    margin: 0 auto;
+    box-shadow: 0 0 6px lighten($dark, 40%);
+}
+
 #site-main {
     position:relative;
     
