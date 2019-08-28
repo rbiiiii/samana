@@ -89,6 +89,10 @@
         background-color:rgba($dark, 0.5);
         transition: background-color 200ms ease-out, opacity 200ms ease-out;
 
+        @media screen and (min-width: 640px) and (max-width: 979px) {
+            @include fs-s;
+        }
+
         @media (hover: none) and (pointer: coarse) {
             opacity:1;
         }
