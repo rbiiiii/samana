@@ -22,6 +22,14 @@ body {
     box-sizing: border-box;
     opacity:0;
     animation: show-smooth 200ms 300ms ease-in-out forwards;
+
+    @media screen and (min-width: 460px) {
+        font-size:20px;
+    }
+
+    @media screen and (min-width: 980px) {
+        font-size:22px;
+    }
 }
 
 .site-wrapper {

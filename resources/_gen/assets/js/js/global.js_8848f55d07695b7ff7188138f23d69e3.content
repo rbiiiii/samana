@@ -28,10 +28,8 @@ function setTabIndex(index, array) {
 function toggleTabIndex(array, width) {
 	if(window.innerWidth < width){
       setTabIndex(-1,array);
-      console.log('narrow');
    }
    else{
-      console.log('large');
        setTabIndex(0, array);
    }
 }

@@ -55,3 +55,15 @@ ul {
 strong {
     font-weight:bold;
 }
+
+.ff-r {
+    @include ff-r;
+}
+
+.ff-l {
+    @include ff-l;
+}
+
+.ff-i {
+    @include ff-i;
+}

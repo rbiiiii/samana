@@ -27,7 +27,15 @@
 }
 
 @mixin fs-b {
-    font-size:1.375rem; // 22
+    font-size:1rem;
+
+    @media screen and (min-width: 460px) {
+        font-size:1.2rem;       
+    }
+
+    @media screen and (min-width: 980px) {
+        font-size:1.375rem; // 22        
+    }
 }
 
 @mixin block-mw {
