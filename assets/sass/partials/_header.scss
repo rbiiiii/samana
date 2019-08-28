@@ -8,6 +8,7 @@
     top:0;
     z-index:1;
     background-color:$white;
+    transform: translate3d(0,0,0);
 
     @media screen and (min-width: 980px) {
         position:relative;
