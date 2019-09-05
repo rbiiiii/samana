@@ -116,9 +116,15 @@ figure {
             margin:$su*3 0;
             font-size:1rem;
         }
+
+        @media screen and (min-width:768px) {
+            margin:$su*3 0;
+            font-size:1.2rem;
+        }
         
         @media screen and (min-width:980px) {
             max-width: $mw;
+            font-size: 1rem;
 
             * {
                 margin-right:57%;
