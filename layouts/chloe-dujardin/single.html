@@ -1,4 +1,21 @@
 {{ define "main" }}
-    <h1>{{.Params.Title}}</h1>
-    <p style="margin-top:80px;"><a class="button" href="{{ .Site.BaseURL }}">Retour</a></p>
+
+    <section class="single-section" id="chloe">
+        <figure class="fullw-img-wrapper fullw-img-wrapper--long-text">
+            <picture class="fullw-img">
+                <source type="image/webp" srcset="{{.Site.BaseURL}}assets/img/chloe-dujardin-full-small.jpg 980w,
+                                                  {{.Site.BaseURL}}assets/img/chloe-dujardin-full.webp 4096w"
+                                                  sizes="100vw">
+                <source type="image/jpeg" srcset="{{.Site.BaseURL}}assets/img/chloe-dujardin-full-small.jpg 980w,
+                                                  {{.Site.BaseURL}}assets/img/chloe-dujardin-full.jpg 4096w"
+                                                  sizes="100vw">
+                <img class="fullw-img" src="{{.Site.BaseURL}}assets/img/chloe-dujardin-full.jpg" alt=""  width="1640" height="900">
+            </picture>
+            {{ with .Params.intro_text }}
+            <figcaption>
+                {{ range . }}<p>{{ .text | safeHTML}}</p>{{ end }}
+            </figcaption>
+            {{ end }}
+        </figure>
+    </section>
 {{ end }}
