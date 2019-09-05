@@ -32,6 +32,10 @@ body {
     }
 }
 
+body * {
+    box-sizing: border-box;
+}
+
 .site-wrapper {
     max-width: 1920px;
     margin: 0 auto;

@@ -26,6 +26,10 @@
     font-size:0.9444rem; // 17
 }
 
+@mixin fs-h2{
+    font-size:1.67rem; // 40
+}
+
 @mixin fs-b {
     font-size:1rem;
 
@@ -43,7 +47,6 @@
     margin-right:auto;
     margin-left:auto;
     padding:0 1.2rem;
-    box-sizing: border-box;
 
     @media screen and (min-width:600px) {
         padding:0 $su*2;        
