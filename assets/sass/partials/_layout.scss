@@ -49,3 +49,37 @@ body * {
         z-index:-2;
     }
 }
+
+.flex-2-cols {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 100%;
+    max-width: $mw;
+    padding:0 $su;
+    max-width: 1360px;
+    margin-right:auto;
+    margin-left:auto;
+
+    @media screen and (min-width:980px) {
+        flex-direction:row;
+        padding:0 $su*2;
+    }
+}
+
+.flex-2-cols__col {
+    width:100%;
+
+    @media screen and (min-width:980px) {
+        width:calc(50% - #{$su*2});
+        
+        &:first-of-type {
+            margin-right:$su*2;
+        }
+    }
+
+    img {
+        width:100%;
+        height:auto;
+    }
+}

@@ -12,6 +12,10 @@
     display: flex;
     flex-wrap: wrap;
 
+    @media screen and (min-width: 768px) {
+        padding:$su*2;
+    }
+
     @media screen and (min-width: 980px) {
         justify-content: space-between;
         flex-wrap: nowrap;

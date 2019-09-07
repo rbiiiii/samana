@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-    <section class="single-section" id="chloe">
+    <section class="single-section" id="chloe-intro">
         <figure class="fullw-img-wrapper fullw-img-wrapper--long-text">
             <picture class="fullw-img">
                 <source type="image/webp" srcset="{{.Site.BaseURL}}assets/img/chloe-dujardin-full-small.jpg 980w,
@@ -17,5 +17,23 @@
             </figcaption>
             {{ end }}
         </figure>
+    </section>
+
+    <section class="single-section" id="chloe-content">
+        <div class="flex-2-cols">
+          <div class="flex-2-cols__col chloe-content__img">
+            <img src="{{.Site.BaseURL}}assets/img/chloe-dujardin-content.jpg" alt="Photographie de Chloé Dujardin">
+          </div>
+          <div class="flex-2-cols__col chloe-content__txt">
+            {{ with .Params.content_blocks }}
+              {{ range . }}
+                <h2>{{ .block.title | safeHTML }} {{ with .block.title_italic | safeHTML }}<span class="ff-i">{{ . }}</span>{{ end }}</h2>
+                {{ range .block.texts }}
+                  <p>{{ .text | safeHTML }}</p>
+                {{ end }}
+              {{ end }}
+            {{ end }}
+          </div>
+        </div>
     </section>
 {{ end }}

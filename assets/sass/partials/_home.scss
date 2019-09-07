@@ -5,6 +5,10 @@
     align-items:center;
     padding:0 $su;
 
+    @media screen and (min-width:768px) {
+        padding:0 $su*2;
+    }
+
     h3 {
         margin:0 auto $su*4 auto;
         text-align: center;
@@ -31,7 +35,7 @@
         max-width: 100%;
         
         @media screen and (min-width:768px) {
-            grid-template-columns:repeat(auto-fit, minmax(242px, 1fr));
+            grid-template-columns:repeat(auto-fit, minmax(216px, 1fr));
             grid-column-gap: $su;
             width:100%;
         }

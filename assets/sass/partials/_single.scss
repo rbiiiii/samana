@@ -1,0 +1,55 @@
+#chloe-content {
+	margin:$su*6 auto;
+
+	.flex-2-cols {
+		justify-content: space-between;
+		max-width: 1360px;
+
+		@media screen and (max-width:979px) {
+			align-items: center;
+		}
+
+		@media screen and (min-width: 980px) {
+			flex-wrap: nowrap;
+			max-width: 1260px;
+			margin-right: auto;
+			margin-left: auto;
+		}
+	}
+
+	.flex-2-cols__col {
+
+		@media screen and (max-width:979px) {
+			max-width: 24em;
+
+			&.chloe-content__img {
+				order:2;
+				margin-top:$su*2;
+			}
+		}
+
+		@media screen and (min-width:980px) {
+
+			&.chloe-content__img {
+				max-width: 580px;
+				width:50%;
+			}
+
+			&.chloe-content__txt {
+				max-width: 520px;
+				width:47%;
+			}
+		}
+
+		
+	}
+
+	h2 {
+		margin-top: 1.25em;
+		margin-bottom: 1em;
+
+		&:first-of-type {
+			margin-top: 0;
+		}
+	}
+}
