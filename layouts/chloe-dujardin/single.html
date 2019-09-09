@@ -3,12 +3,10 @@
     <section class="single-section" id="chloe-intro">
         <figure class="fullw-img-wrapper fullw-img-wrapper--long-text">
             <picture class="fullw-img">
-                <source type="image/webp" srcset="{{.Site.BaseURL}}assets/img/chloe-dujardin-full-small.jpg 980w,
-                                                  {{.Site.BaseURL}}assets/img/chloe-dujardin-full.webp 4096w"
-                                                  sizes="100vw">
-                <source type="image/jpeg" srcset="{{.Site.BaseURL}}assets/img/chloe-dujardin-full-small.jpg 980w,
-                                                  {{.Site.BaseURL}}assets/img/chloe-dujardin-full.jpg 4096w"
-                                                  sizes="100vw">
+                <source type="image/webp" media="(max-width: 979px)" srcset="{{.Site.BaseURL}}assets/img/chloe-dujardin-full-small.webp">
+                <source type="image/jpeg" media="(max-width: 979px)" srcset="{{.Site.BaseURL}}assets/img/chloe-dujardin-full-small.jpg">
+                <source type="image/webp" media="(min-width: 980px)" srcset="{{.Site.BaseURL}}assets/img/chloe-dujardin-full.webp">
+                <source type="image/jpeg" media="(min-width: 980px)" srcset="{{.Site.BaseURL}}assets/img/chloe-dujardin-full.jpg">
                 <img class="fullw-img" src="{{.Site.BaseURL}}assets/img/chloe-dujardin-full.jpg" alt=""  width="1640" height="900">
             </picture>
             {{ with .Params.intro_text }}
