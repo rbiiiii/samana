@@ -114,29 +114,27 @@ figure {
         
         @media screen and (min-width:420px) {
             margin:$su*3 0;
-            font-size:1rem;
         }
 
         @media screen and (min-width:768px) {
             margin:$su*3 0;
-            font-size:1.2rem;
-            padding:0 $su*2;
+            max-width:38em;
         }
         
         @media screen and (min-width:980px) {
             max-width: $mw;
-            font-size: 1rem;
-
+            
             * {
                 margin-right:57%;
+                font-size: 1rem;
             }
         }
         
         @media screen and (min-width:1360px) {
-            font-size:1.2rem;
 
             * {
                 margin-right:62%;
+                font-size:1.2rem;
             }
         }
     }
