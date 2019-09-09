@@ -39,7 +39,7 @@ body * {
 .site-wrapper {
     max-width: 1920px;
     margin: 0 auto;
-    box-shadow: 0 0 6px lighten($dark, 40%);
+    box-shadow: 0 0 10px -4px $dark;
 }
 
 #site-main {
