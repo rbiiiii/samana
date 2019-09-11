@@ -50,6 +50,25 @@ body * {
     }
 }
 
+.mw {
+    width:100%;
+    max-width:$mw;
+    margin-right:auto;
+    margin-left:auto;
+}
+
+.cw {
+    width:100%;
+    max-width:$cw;
+    margin-right:auto;
+    margin-left:auto;
+    padding:0 $su;
+
+    @media screen and (min-width:980px) {
+        padding:0 $su*2;
+    }
+}
+
 .flex-2-cols {
     display: flex;
     flex-wrap: wrap;
@@ -57,7 +76,7 @@ body * {
     width: 100%;
     max-width: $mw;
     padding:0 $su;
-    max-width: 1360px;
+    max-width: $cw;
     margin-right:auto;
     margin-left:auto;
 
