@@ -1,4 +1,42 @@
 {{ define "main" }}
-    <h1>{{.Params.Title}}</h1>
-    <p style="margin-top:80px;"><a class="button" href="{{ .Site.BaseURL }}">Retour</a></p>
+
+    <section class="single-section" id="meditation-intro">
+        <figure class="fullw-img-wrapper fullw-img-wrapper--long-text">
+            <picture class="fullw-img">
+                <source type="image/webp" media="(max-width: 979px)" srcset="{{.Site.BaseURL}}assets/img/chloe-dujardin-full-small.webp">
+                <source type="image/jpeg" media="(max-width: 979px)" srcset="{{.Site.BaseURL}}assets/img/chloe-dujardin-full-small.jpg">
+                <source type="image/webp" media="(min-width: 980px)" srcset="{{.Site.BaseURL}}assets/img/chloe-dujardin-full.webp">
+                <source type="image/jpeg" media="(min-width: 980px)" srcset="{{.Site.BaseURL}}assets/img/chloe-dujardin-full.jpg">
+                <img class="fullw-img" src="{{.Site.BaseURL}}assets/img/chloe-dujardin-full.jpg" alt=""  width="1640" height="900">
+            </picture>
+            {{ with .Params.intro_text }}
+            <figcaption>
+                {{ range . }}<p>{{ .text | safeHTML}}</p>{{ end }}
+            </figcaption>
+            {{ end }}
+        </figure>
+    </section>
+
+    <section class="single-section" id="chloe-content">
+        <div class="flex-2-cols">
+          <div class="flex-2-cols__col chloe-content__img">
+            <img src="{{.Site.BaseURL}}assets/img/meditation-content.jpg" alt="Photographie de Chloé Dujardin">
+          </div>
+          <div class="flex-2-cols__col chloe-content__txt">
+            {{ with .Params.content_blocks }}
+              {{ range . }}
+                <h2>{{ .block.title | safeHTML }} {{ with .block.title_italic | safeHTML }}<span class="ff-i">{{ . }}</span>{{ end }}</h2>
+                {{ range .block.texts }}
+                  <p>{{ .text | safeHTML }}</p>
+                {{ end }}
+              {{ end }}
+            {{ end }}
+          </div>
+        </div>
+    </section>
+
+    <section class="single-section" id="yoga-horaire">
+        <h2>Grille horaire</h2>
+    </section>
+
 {{ end }}

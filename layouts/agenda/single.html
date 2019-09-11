@@ -1,4 +1,48 @@
 {{ define "main" }}
-    <h1>{{.Params.Title}}</h1>
-    <p style="margin-top:80px;"><a class="button" href="{{ .Site.BaseURL }}">Retour</a></p>
+
+	<section class="single-section" id="agenda-header">
+	    <div class="home-welcome__list">
+	        <a class="home-welcome__item" href="/chloe-dujardin">
+	            <figure>
+	                <picture class="home-welcome__img">
+	                    <source type="image/webp" srcset="{{.Site.BaseURL}}assets/img/home-welcome-01.webp">
+	                    <source type="image/jpeg" srcset="{{.Site.BaseURL}}assets/img/home-welcome-01.jpg">
+	                    <img src="{{.Site.BaseURL}}assets/img/home-welcome-01.jpg" alt=""  width="520" height="356">
+	                </picture>
+	                <figcaption>Chloé Dujardin</figcaption>
+	            </figure>
+	        </a>
+	        <a class="home-welcome__item" href="/yoga">
+	            <figure>
+	                <picture class="home-welcome__img">
+	                    <source type="image/webp" srcset="{{.Site.BaseURL}}assets/img/home-welcome-02.webp">
+	                    <source type="image/jpeg" srcset="{{.Site.BaseURL}}assets/img/home-welcome-02.jpg">
+	                    <img src="{{.Site.BaseURL}}assets/img/home-welcome-02.jpg" alt=""  width="520" height="356">
+	                </picture>
+	                <figcaption>Le yoga</figcaption>
+	            </figure>
+	        </a>
+	        <a class="home-welcome__item" href="/meditation">
+	            <figure>
+	                <picture class="home-welcome__img">
+	                    <source type="image/webp" srcset="{{.Site.BaseURL}}assets/img/home-welcome-03.webp">
+	                    <source type="image/jpeg" srcset="{{.Site.BaseURL}}assets/img/home-welcome-03.jpg">
+	                    <img src="{{.Site.BaseURL}}assets/img/home-welcome-03.jpg" alt=""  width="520" height="356">
+	                </picture>
+	                <figcaption>La méditation</figcaption>
+	            </figure>
+	        </a>
+	    </div>
+	</section>
+
+    <section class="single-section" id="agenda-content">
+        <div class="flex-3-cols">
+
+        	{{ range where .Site.Pages "Section" "evenement" }}
+            	<div class="flex-3-cols__col">
+	            	<h3>{{ .Title }}</h3>
+	         	</div>    
+            {{ end }}
+        </div>
+    </section>
 {{ end }}

@@ -134,6 +134,7 @@ figure {
         
         @media screen and (min-width:980px) {
             max-width: $mw;
+            padding:0 $su*2;
             
             > * {
                 margin-right:57%;
