@@ -41,14 +41,3 @@
         font-size:1.375rem; // 22        
     }
 }
-
-@mixin block-mw {
-    max-width:840px;
-    margin-right:auto;
-    margin-left:auto;
-    padding:0 1.2rem;
-
-    @media screen and (min-width:600px) {
-        padding:0 $su*2;        
-    }
-}
