@@ -97,3 +97,16 @@
 		}
 	}
 }
+
+#yoga-vision {
+	margin: $su*4 auto;
+
+	@media screen and (min-width: 980px) {
+		margin:$su*6 auto;
+	}
+
+	.flex-3-cols {
+		margin-top:$su*4;
+	}
+}
+

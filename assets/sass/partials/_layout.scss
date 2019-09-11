@@ -102,3 +102,37 @@ body * {
         height:auto;
     }
 }
+
+.flex-3-cols {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 100%;
+    max-width: $mw;
+    padding:0 $su;
+    max-width: $cw;
+    margin-right:auto;
+    margin-left:auto;
+
+    @media screen and (min-width:980px) {
+        flex-direction:row;
+        padding:0 $su*2;
+    }
+}
+
+.flex-3-cols__col {
+    width:100%;
+
+    @media screen and (min-width:980px) {
+        width:calc(33.333% - #{$su*2});
+        
+        &:not(first-of-type) {
+            margin-left:$su*2;
+        }
+    }
+
+    img {
+        width:100%;
+        height:auto;
+    }
+}

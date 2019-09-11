@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-    <section class="single-section" id="chloe-intro">
+    <section class="single-section" id="yoga-intro">
         <figure class="fullw-img-wrapper fullw-img-wrapper--long-text">
             <picture class="fullw-img">
                 <source type="image/webp" media="(max-width: 767px)" srcset="{{.Site.BaseURL}}assets/img/yoga-full-medium.webp">
@@ -15,6 +15,30 @@
             </figcaption>
             {{ end }}
         </figure>
+    </section>
+
+    <section class="single-section" id="yoga-vision">
+        <div class="flex-2-cols">
+            <div class="flex-2-cols__col"></div>
+            <div class="flex-2-cols__col">
+                {{ with .Params.vision_title }}
+                    <h2>{{ . | safeHTML }}</h2>
+                {{ end }}                
+                {{ with .Params.vision_text }}
+                    {{ range . }}<p>{{ .text | safeHTML}}</p>{{ end }}
+                {{ end }}
+            </div>
+        </div>
+        <div class="flex-3-cols">
+            {{ with .Params.offre_blocks }}
+                {{ range . }}
+                    <div class="flex-3-cols__col">
+                        <h2 class="ff-i">{{ .block.title }}</h2>
+                        <p>{{ .block.text }}</p>
+                    </div>
+                {{ end }}
+            {{ end }}
+        </div>
     </section>
 
 {{ end }}
