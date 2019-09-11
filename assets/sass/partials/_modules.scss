@@ -111,6 +111,17 @@ figure {
         text-align: left;
         @include fs-xs;
         margin:$su/2 0;
+
+        > * {
+            font-size: 0.85rem;
+        }
+
+        @media screen and (min-width:360px) {
+            
+            > * {
+                font-size: 1rem;
+            }
+        }
         
         @media screen and (min-width:420px) {
             margin:$su*3 0;
@@ -124,25 +135,19 @@ figure {
         @media screen and (min-width:980px) {
             max-width: $mw;
             
-            * {
+            > * {
                 margin-right:57%;
-                font-size: 1rem;
             }
         }
         
         @media screen and (min-width:1360px) {
 
-            * {
+            > * {
                 margin-right:62%;
                 font-size:1.2rem;
             }
         }
     }
-}
-
-.mw {
-    width:100%;
-    max-width:$mw;
 }
 
 .hide {
