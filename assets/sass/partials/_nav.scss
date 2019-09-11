@@ -74,4 +74,12 @@
         opacity:0.7;
         background-color:$white;
     }
+
+    $pages: chloe-dujardin yoga meditation agenda contact;
+
+    @each $page in $pages {
+        body.#{$page} &[href="/#{$page}"] {
+            font-weight: bold;
+        }
+    }
 }
