@@ -34,4 +34,16 @@
           </div>
         </div>
     </section>
+
+    <section class="single-section cw" id="chloe-formation">
+        <h2>Ma formation</h2>
+          {{ with .Params.formations }}
+            <ul>
+              {{ range . }}
+                <li>{{ .text | safeHTML }}</li>
+              {{ end }}
+            </ul>
+          {{ end }}
+  </section>
+
 {{ end }}
