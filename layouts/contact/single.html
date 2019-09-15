@@ -1,4 +1,31 @@
 {{ define "main" }}
-    <h1>{{.Params.Title}}</h1>
-    <p style="margin-top:80px;"><a class="button" href="{{ .Site.BaseURL }}">Retour</a></p>
+    
+    <section class="single-section" id="contact-intro">
+        <figure class="fullw-img-wrapper fullw-img-wrapper--long-text">
+            <picture class="fullw-img">
+                <source type="image/webp" media="(max-width: 979px)" srcset="{{.Site.BaseURL}}assets/img/contact-full-small.webp">
+                <source type="image/jpeg" media="(max-width: 979px)" srcset="{{.Site.BaseURL}}assets/img/contact-full-small.jpg">
+                <source type="image/webp" media="(min-width: 980px)" srcset="{{.Site.BaseURL}}assets/img/contact-full.webp">
+                <source type="image/jpeg" media="(min-width: 980px)" srcset="{{.Site.BaseURL}}assets/img/contact-full.jpg">
+                <img class="fullw-img" src="{{.Site.BaseURL}}assets/img/contact-full.jpg" alt=""  width="1640" height="900">
+            </picture>
+        </figure>
+    </section>
+
+    <section class="single-section" id="contact-content">
+        <div class="flex-2-cols">
+            <div class="flex-2-cols__col contact-content__img">
+            <img src="{{.Site.BaseURL}}assets/img/contact-content.jpg" alt="Photographie de Chloé Dujardin">
+            </div>
+            <div class="flex-2-cols__col contact-content__txt">
+                <h2>{{ .Params.title_text | safeHTML }}</h2>
+                <p class="contact-content__name">{{ .Params.name }}</p>
+                <p class="contact-content__tel"><a href="tel:{{ .Params.tel }}">{{ .Params.tel_for_humans }}</a></p>
+                <p class="contact-content__email"><a href="mailto:{{ .Params.email }}">{{ .Params.email }}</a></p>
+                <h3>Stay in touch</h3>
+                {{ partial "contact-form.html" }}
+            </div>
+        </div>
+    </section>
+
 {{ end }}
