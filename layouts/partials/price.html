@@ -1,0 +1,29 @@
+<table>
+    <tr>
+      <th {{ if eq .type "yoga" }}colspan="2"{{ end }}>Trimestriel {{ if eq .type "yoga" }}/ Prix adapté<sup>*</sup>{{ end }}</th>
+      <th>A l'unité</th>
+    </tr>
+    {{ range .data }}
+        <tr>
+            <td>{{ .title | safeHTML }}</td>
+            {{ if eq $.type "yoga" }}
+                <td>
+                    <ul>
+                        {{ range .prices }}
+                            <li>{{ .price | safeHTML }}</li>
+                        {{ end }}
+                    </ul>
+                </td>
+            {{ end }}
+            <td>{{ .unit | safeHTML }}</td>
+        </tr>    
+    {{ end }}
+    {{ if eq .type "yoga" }}
+        <tr>
+            <td colspan="3" style="text-align:right">
+                <sup>*</sup>réduction pour étudiants, personnes au chômage, sous la mutuelle
+            </td>
+        </tr>
+    {{ end}}
+  </table>
+ 
