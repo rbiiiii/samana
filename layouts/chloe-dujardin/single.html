@@ -11,7 +11,7 @@
             </picture>
             {{ with .Params.intro_text }}
             <figcaption>
-                {{ range . }}<p>{{ .text | safeHTML}}</p>{{ end }}
+                {{ range . }}<p>{{ .text | safeHTML }}</p>{{ end }}
             </figcaption>
             {{ end }}
         </figure>
@@ -36,7 +36,7 @@
     </section>
 
     <section class="single-section cw" id="chloe-formation">
-        <h2>Ma formation</h2>
+        <h2 class="ff-i">Ma formation</h2>
           {{ with .Params.formations }}
             <ul>
               {{ range . }}
