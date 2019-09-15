@@ -1,3 +1,21 @@
+.single-section {
+
+	&.single-section--price {
+		margin:$su*6 auto;
+
+		h2 {
+			margin-top:0;
+			margin-bottom:$su*2;
+			text-align: center;
+		}
+
+		table {
+			margin-right:auto;
+			margin-left:auto;
+		}
+	}
+}
+
 #chloe-content {
 	margin:$su*4 auto;
 
@@ -110,6 +128,27 @@
 	}
 }
 
+.yoga-vision__img {
+	display:none;
+	position:absolute;
+	left:-10px;
+
+	@media screen and (min-width: 980px) {
+		display: block;
+		width:100%;
+		height:auto;
+		max-width: 45%;
+	}
+
+	@media screen and (min-width: 1200px) {
+		max-width: 559px;
+	}
+
+	@media screen and (min-width: 1920px) {
+		left:-7px;
+	}
+}
+
 #agenda-header {
 	margin: 0 auto $su*4 auto;
 
@@ -119,10 +158,88 @@
 }
 
 #agenda-content {
-	
+	margin-bottom:$su*4;
+
 	h2 {
 		display: block;
 		text-align: center;
 		margin-bottom:$su*4;
 	}
+}
+
+.agenda-list__item {
+
+	h3 {
+		@include ff-i;
+		font-size:1.3rem;
+		margin:0.5em 0;
+	}
+
+	> p, > address {
+		font-size:0.9rem;
+		font-style: normal;
+		margin-top:0;
+		margin-bottom:0.5em;
+		text-transform: uppercase;
+		@include ff-l;
+	}
+}
+
+img.agenda__icons {
+	width:1em;
+	height:1em;
+	display: inline-block;
+	margin-right: 1em;
+}
+
+.agenda-list__content {
+	
+	> * {
+		font-size:0.9rem;
+		margin-top: 0.5em;
+		margin-bottom: 0;
+	}
+}
+
+#contact-content {
+	margin:$su*4 auto;
+	@include ff-l;
+
+	.input-wrapper {
+		
+		&:after {
+			bottom:0.7em;
+		}
+	}
+
+	h3 {
+		margin-top:$su*2;
+		text-transform: uppercase;
+		font-weight: normal;
+	}
+
+	form {
+		max-width:14em;
+	}
+} 
+
+.contact-content__img {
+
+	@media screen and (max-width:979px) {
+		order: 2;
+		margin-top:$su*4;
+	}
+}
+
+.contact-content__name {
+	text-transform: uppercase;
+	margin-top:$su*2;
+}
+
+.contact-content__tel {
+	margin-bottom:0;
+}
+
+.contact-content__email {
+	margin:0;
 }
