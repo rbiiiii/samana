@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-	<section class="single-section" id="agenda-header">
+	<section class="single-section cw" id="agenda-header">
 	    <div class="block__list block__list--4-cols">
 	        <a class="block__item" href="/chloe-dujardin">
 	            <figure>
@@ -48,18 +48,21 @@
     <section class="single-section cw" id="agenda-content">
         <h2>Les événements <span class="ff-i">à&nbsp;venir</span></h2>
         <div class="flex-3-cols agenda-list">
-        	{{ $events := where $.Site.RegularPages "Section" "evenement" }}
-			{{ if len $events | gt 0 }}
+			{{ $events := where $.Site.RegularPages "Section" "evenement" }}
+			{{ $eventsLength := len $events }}
+			{{ if gt $eventsLength 0 }}
 				{{ range $events }}
-				    <div class="flex-3-cols__col agenda-list__item">
-		            	<img class="agenda-list__img" src="{{.Params.img}}">
-		            	<h3>{{ .Title }}</h3>
-		            	<p class="agenda-list__date">{{ .Date.Format "2006-01-02" }}</p>
-		            	<p class="agenda-list__schedule">{{ .Params.schedule_in }}{{ with .Params.schedule_out }} - {{ . }}{{ end }}</p>
-		            	<address>{{ .Params.address}}</address>
-		            	<p>{{ .Content }}</p>
-		         	</div> 
-		         {{ end }}
+					<a class="flex-3-cols__col agenda-list__item" href="{{ .Permalink }}">
+						<img class="agenda-list__img" src="{{.Params.img}}">
+						<h3>{{ .Title }}</h3>
+						<p class="agenda-list__date"><img class="agenda__icons" src="/assets/img/agenda-when.svg" width="15" height="15" alt="Quand"> {{ .Date.Format "02/01/2006" }}</p>
+						<p class="agenda-list__schedule"><img class="agenda__icons" src="/assets/img/agenda-schedule.svg" width="15" height="15" alt="Horaire"> {{ .Params.schedule_in }}{{ with .Params.schedule_out }} - {{ . }}{{ end }}</p>
+						<address><img class="agenda__icons" src="/assets/img/agenda-where.svg" width="15" height="15" alt="Où"> {{ .Params.address}}</address>
+						<div class="agenda-list__content">
+							{{ .Content | safeHTML | truncate 130 }}
+						</div>
+					</a> 
+				{{ end }}	
 			{{ else }}
 			    Désolé, il n'y a aucun événement prévu en ce moment.
 			{{ end }}
