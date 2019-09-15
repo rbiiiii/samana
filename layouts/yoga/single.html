@@ -17,9 +17,11 @@
         </figure>
     </section>
 
-    <section class="single-section" id="yoga-vision">
+    <section class="single-section mw" id="yoga-vision">
         <div class="flex-2-cols">
-            <div class="flex-2-cols__col"></div>
+            <div class="flex-2-cols__col">
+                <img class="yoga-vision__img" src="{{.Site.BaseURL}}assets/img/yoga-vision-img.png" width="559" height="637" alt="">
+            </div>
             <div class="flex-2-cols__col">
                 {{ with .Params.vision_title }}
                     <h2>{{ . | safeHTML }}</h2>
@@ -41,20 +43,21 @@
         </div>
     </section>
 
-    <section class="single-section" id="yoga-horaire">
-        <h2>Grille horaire</h2>
+    <section class="single-section single-section--price cw" id="yoga-prix">
+        <h2 class="ff-i">Tarif</h2>
+        {{ partial "price.html" (dict "type" "yoga" "data" $.Site.Data.tarif_yoga) }}
     </section>
 
     <figure class="fullw-img-wrapper">
         <picture class="fullw-img">
-            <!-- <source type="image/webp" srcset="{{.Site.BaseURL}}assets/img/home-contact-small.jpg 420w,
-                                              {{.Site.BaseURL}}assets/img/home-contact-medium.webp 768w,
-                                              {{.Site.BaseURL}}assets/img/home-contact.webp 4096w"
+            <source type="image/webp" srcset="{{.Site.BaseURL}}assets/img/yoga-bottom-full-small.webp 420w,
+                                              {{.Site.BaseURL}}assets/img/yoga-bottom-full-medium.webp 768w,
+                                              {{.Site.BaseURL}}assets/img/yoga-bottom-full.webp 4096w"
                                               sizes="100vw">
-            <source type="image/jpeg" srcset="{{.Site.BaseURL}}assets/img/home-contact-small.jpg 420w,
-                                              {{.Site.BaseURL}}assets/img/home-contact-medium.jpg 768w,
-                                              {{.Site.BaseURL}}assets/img/home-contact.jpg 4096w"
-                                              sizes="100vw"> -->
+            <source type="image/jpeg" srcset="{{.Site.BaseURL}}assets/img/yoga-bottom-full-small.jpg 420w,
+                                              {{.Site.BaseURL}}assets/img/yoga-bottom-full-medium.jpg 768w,
+                                              {{.Site.BaseURL}}assets/img/yoga-bottom-full.jpg 4096w"
+                                              sizes="100vw">
             <img class="fullw-img" src="{{.Site.BaseURL}}assets/img/yoga-bottom-full.jpg" alt=""  width="1640" height="900">
         </picture>
     </figure>
