@@ -110,3 +110,19 @@
 	}
 }
 
+#agenda-header {
+	margin: 0 auto $su*4 auto;
+
+	@media screen and (min-width: 980px) {
+		margin:0 auto $su*6 auto;
+	}
+}
+
+#agenda-content {
+	
+	h2 {
+		display: block;
+		text-align: center;
+		margin-bottom:$su*4;
+	}
+}
