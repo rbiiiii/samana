@@ -3,11 +3,11 @@
     <section class="single-section" id="meditation-intro">
         <figure class="fullw-img-wrapper fullw-img-wrapper--long-text">
             <picture class="fullw-img">
-                <source type="image/webp" media="(max-width: 979px)" srcset="{{.Site.BaseURL}}assets/img/chloe-dujardin-full-small.webp">
-                <source type="image/jpeg" media="(max-width: 979px)" srcset="{{.Site.BaseURL}}assets/img/chloe-dujardin-full-small.jpg">
-                <source type="image/webp" media="(min-width: 980px)" srcset="{{.Site.BaseURL}}assets/img/chloe-dujardin-full.webp">
-                <source type="image/jpeg" media="(min-width: 980px)" srcset="{{.Site.BaseURL}}assets/img/chloe-dujardin-full.jpg">
-                <img class="fullw-img" src="{{.Site.BaseURL}}assets/img/chloe-dujardin-full.jpg" alt=""  width="1640" height="900">
+                <source type="image/webp" media="(max-width: 979px)" srcset="{{.Site.BaseURL}}assets/img/meditation-full-small.webp">
+                <source type="image/jpeg" media="(max-width: 979px)" srcset="{{.Site.BaseURL}}assets/img/meditation-full-small.jpg">
+                <source type="image/webp" media="(min-width: 980px)" srcset="{{.Site.BaseURL}}assets/img/meditation-full.webp">
+                <source type="image/jpeg" media="(min-width: 980px)" srcset="{{.Site.BaseURL}}assets/img/meditation-full.jpg">
+                <img class="fullw-img" src="{{.Site.BaseURL}}assets/img/meditation-full.jpg" alt=""  width="1640" height="900">
             </picture>
             {{ with .Params.intro_text }}
             <figcaption>
@@ -35,8 +35,9 @@
         </div>
     </section>
 
-    <section class="single-section" id="yoga-horaire">
-        <h2>Grille horaire</h2>
+    <section class="single-section single-section--price cw" id="meditation-prix">
+        <h2 class="ff-i">Tarif</h2>
+        {{ partial "price.html" (dict "context" . "type" "meditation" "data" $.Site.Data.tarif_meditation) }}
     </section>
 
 {{ end }}
