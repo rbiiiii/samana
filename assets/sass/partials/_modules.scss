@@ -161,11 +161,27 @@ figure {
         grid-template-columns:1fr;
         grid-row-gap: $su;
         max-width: 100%;
+
+        @media screen and (min-width:460px) {
+
+            &.block__list--4-cols {
+                grid-column-gap: $su;
+                width:100%;
+                grid-template-columns:1fr 1fr;
+            }
+        }
         
         @media screen and (min-width:768px) {
-            grid-template-columns:repeat(auto-fit, minmax(216px, 1fr));
             grid-column-gap: $su;
             width:100%;
+
+            &.block__list--3-cols {
+                grid-template-columns:repeat(auto-fit, minmax(216px, 1fr));
+            }
+
+            &.block__list--4-cols {
+                grid-template-columns:repeat(auto-fit, minmax(167px, 1fr));
+            }
         }
     }
 }
@@ -180,27 +196,31 @@ figure {
 
     @media screen and (min-width: 640px) {
         
-        .block-list--3-cols & {
+        .block__list--3-cols & {
             max-width: 33.33%;
+
+            @supports (display:grid) {
+                max-width:100%;
+            }
         }
 
-        .block-list--4-cols & {
+        .block__list--4-cols & {
             max-width: 50%;
-        }
 
-        @supports (display:grid) {
-            max-width:100%;
+            @supports (display:grid) {
+                max-width:100%;
+            }
         }
     }
 
     @media screen and (min-width: 768px) {
 
-        .block-list--4-cols & {
-            max-width: 25%;
-        }
+        .block__list--4-cols & {
+            max-width: 23%;
 
-        @supports (display:grid) {
-            max-width:100%;
+            @supports (display:grid) {
+                max-width:100%;
+            }
         }
     }
 
@@ -248,6 +268,71 @@ figure {
     img {
         width: 100%;
         height: auto;
+    }
+}
+
+table {
+    border-collapse: collapse;
+    font-size: 1rem;
+    width:100%;
+    max-width:800px;
+}
+
+td, th {
+    border:1px solid lighten($dark, 20%);
+    padding:0.3em;
+    text-align: center;
+
+    @media screen and (min-width:420px) {
+        padding:0.5em;
+    }
+
+    li {
+        list-style: none;
+    }
+}
+
+form {
+    width:100%;
+    max-width: 32em;
+
+    @media screen and (min-width: 560px) {
+        max-width: 20em;
+    }
+}
+
+.input-wrapper {
+    display: block;
+    position: relative;
+    
+    &:after {
+        content:'';
+        position:absolute;
+        width:100%;
+        height:1px;
+        background-color:$dark;
+        bottom:1.2em;
+        left:0;
+    }
+}
+
+input {
+    background: none;
+    border: none;
+    letter-spacing: 1px;
+    margin-bottom:1.2em;
+    font-size: 1rem;
+}
+
+input[type="submit"] {
+    margin: 0;
+    padding: 0.2em 0.2em 0.2em 0;
+    font-size: 1rem;
+    transition:opacity 200ms ease-out;
+
+    &:hover, &:focus {
+        cursor: pointer;
+        opacity:0.7;
     }
 }
 
