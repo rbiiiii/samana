@@ -86,48 +86,6 @@
     }
 }
 
-.site-footer__stayintouch {
-    width:100%;
-    max-width: 32em;
-
-    @media screen and (min-width: 560px) {
-        max-width: 20em;
-    }
-
-    .input-wrapper {
-        display: block;
-        position: relative;
-        
-        &:after {
-            content:'';
-            position:absolute;
-            width:100%;
-            height:1px;
-            background-color:$dark;
-            bottom:1.2em;
-            left:0;
-        }
-    }
-    
-    input {
-        background: none;
-        border: none;
-        text-transform: uppercase;
-        letter-spacing: 1px;
-        margin-bottom:1.2em;
-        font-size: 1rem;
-    }
-
-    input[type="submit"] {
-        margin: 0;
-        padding: 0.2em 0.2em 0.2em 0;
-
-        &:hover, &:focus {
-            cursor: pointer;
-        }
-    }
-}
-
 .site-footer__nav {
     display: flex;
     flex-direction: column;
