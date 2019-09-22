@@ -1,0 +1,2 @@
+var agendaFilters=document.querySelectorAll('.agenda-filter');var addFilter=function(el){el.addEventListener('click',function(e){e.preventDefault();var filter=el.dataset.filter;var filteredItems=document.querySelectorAll('.agenda-filter.'+filter);agendaFilters.style.display='none';filteredItems.style.display='block';})}
+for(var i=0;i<agendaFilters.length;i++){agendaFilters[i].addFilter(agendaFilters[i]);}
