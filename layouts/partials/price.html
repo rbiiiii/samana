@@ -1,6 +1,10 @@
 <table>
     <tr>
-      <th {{ if eq .type "yoga" }}colspan="2"{{ end }}>Trimestriel {{ if eq .type "yoga" }}/ Prix adapté<sup>*</sup>{{ end }}</th>
+        {{ if eq .type "yoga" }}
+            <th colspan="2">Trimestriel / Prix adapté<sup>*</sup></th>
+        {{ else }}
+            <th>Cours</th>
+        {{ end }}
       <th>A l'unité</th>
     </tr>
     {{ range .data }}
