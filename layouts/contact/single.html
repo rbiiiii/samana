@@ -9,13 +9,24 @@
                 <source type="image/jpeg" media="(min-width: 980px)" srcset="{{.Site.BaseURL}}assets/img/contact-full.jpg">
                 <img class="fullw-img" src="{{.Site.BaseURL}}assets/img/contact-full.jpg" alt=""  width="1640" height="900">
             </picture>
+            {{ with .Params.intro_text }}
+            <figcaption>
+                {{ range . }}<p>{{ .text | safeHTML }}</p>{{ end }}
+            </figcaption>
+            {{ end }}
         </figure>
     </section>
 
     <section class="single-section" id="contact-content">
         <div class="flex-2-cols">
             <div class="flex-2-cols__col contact-content__img">
-            <img src="{{.Site.BaseURL}}assets/img/contact-content.jpg" alt="Photographie de Chloé Dujardin">
+                <picture class="fullw-img">
+                    <source type="image/webp" media="(max-width: 419px)" srcset="{{.Site.BaseURL}}assets/img/contact-content-small.webp">
+                    <source type="image/jpeg" media="(max-width: 419px)" srcset="{{.Site.BaseURL}}assets/img/contact-content-small.jpg">
+                    <source type="image/webp" media="(min-width: 420px)" srcset="{{.Site.BaseURL}}assets/img/contact-content.webp">
+                    <source type="image/jpeg" media="(min-width: 420px)" srcset="{{.Site.BaseURL}}assets/img/contact-content.jpg">
+                    <img class="fullw-img" src="{{.Site.BaseURL}}assets/img/contact-content.jpg" alt="Photographie de Chloé Dujardin"  width="550" height="759">
+                </picture>
             </div>
             <div class="flex-2-cols__col contact-content__txt">
                 <h2>{{ .Params.title_text | safeHTML }}</h2>

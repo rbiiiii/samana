@@ -201,6 +201,20 @@ img.agenda__icons {
 	}
 }
 
+.contact {
+
+	.fullw-img {
+		width:auto;
+		min-height:20em;
+
+		@media screen and (min-width:720px) {
+			width:100%;
+			height:auto;
+			min-height: auto;
+		}
+	}
+}
+
 #contact-content {
 	margin:$su*4 auto;
 	@include ff-l;
