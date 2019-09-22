@@ -23,5 +23,5 @@ content_blocks:
         title_italic: avec&nbsp;moi &nbsp;!
         texts:
             - text: >-
-                La méditation en mouvement consiste en une pratique d’une heure et demie comprenant des moments de méditation pure axée sur l’instant présent, des mouvements de yoga, des partages de lectures et des visualisations. Il ne faut pas avoir de prérequis spécifique pour y participer.
+                La méditation en mouvement consiste en une pratique d’une heure et demie comprenant des moments de méditation pure axée sur l’instant présent, des mouvements de yoga, des partages de lectures et des visualisations. Il ne faut pas avoir de prérequis spécifiques pour y participer.
 ---
