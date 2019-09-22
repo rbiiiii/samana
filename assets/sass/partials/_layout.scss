@@ -4,10 +4,6 @@
 	background-color: $dark;
 }
 
-html, body {
-    overflow-x:hidden;
-}
-
 body {
     @include ff-r; 
     font-size:18px;

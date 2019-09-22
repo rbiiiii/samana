@@ -58,8 +58,10 @@ figure {
 
 .fullw-img {
     width:100%;
+    max-width: 100%;
     height:auto;
     display:block;
+    object-fit: cover;
 }
 
 .fullw-img-wrapper {
@@ -128,9 +130,16 @@ figure {
             margin:$su*3 0;
         }
 
+        @media screen and (min-width:620px) {
+            max-width:38em;
+            
+            > * {
+                font-size:1.3rem;
+            }
+        }
+
         @media screen and (min-width:768px) {
             margin:$su*3 0;
-            max-width:38em;
         }
         
         @media screen and (min-width:980px) {
@@ -138,6 +147,7 @@ figure {
             padding:0 $su*2;
             
             > * {
+                font-size:1.1rem;
                 margin-right:57%;
             }
         }
@@ -146,7 +156,14 @@ figure {
 
             > * {
                 margin-right:62%;
-                font-size:1.2rem;
+                font-size:1.4rem;
+            }
+        }
+
+        @media screen and (min-width:1600px) {
+
+            > * {
+                font-size:1.7rem;
             }
         }
     }
