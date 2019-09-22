@@ -22,10 +22,10 @@
   </head>
 	<body id="root" class="{{ with .IsHome }}home{{ else }}single{{ end }} {{ .Params.slug }}">
     <div class="site-wrapper">
-      {{ block "header" . }}{{ partialCached "site-header.html" .}}{{ end }}
+      {{ partial "site-header.html" .}}
       <main class="site-main {{ if ne .IsHome true }}main-single{{ else }}main-home{{ end }}" id="site-main">{{ block "main" . }}{{ end }}</main>
-      {{ block "footer" . }}{{ partialCached "site-footer.html" . }}{{ end }}
+      {{ partial "site-footer.html" . }}
     </div>
-    {{ block "scripts" . }}{{ partialCached "site-scripts.html" . }}{{ end }}
+    {{ partial "site-scripts.html" . }}
   </body>
 </html>

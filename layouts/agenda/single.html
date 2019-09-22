@@ -2,7 +2,7 @@
 
 	<section class="single-section cw" id="agenda-header">
 	    <div class="block__list block__list--4-cols">
-	        <a class="block__item" href="/chloe-dujardin">
+	        <a class="block__item agenda-filter" href="#agenda-content" id="agenda-cours" data-filter="cours">
 	            <figure>
 	                <picture class="block__img">
 	                    <source type="image/webp" srcset="{{.Site.BaseURL}}assets/img/home-welcome-01.webp">
@@ -12,7 +12,7 @@
 	                <figcaption>Les cours</figcaption>
 	            </figure>
 	        </a>
-	        <a class="block__item" href="/yoga">
+	        <a class="block__item agenda-filter" href="#agenda-content" id="agenda-ateliers" data-filter="ateliers">
 	            <figure>
 	                <picture class="block__img">
 	                    <source type="image/webp" srcset="{{.Site.BaseURL}}assets/img/home-welcome-02.webp">
@@ -22,7 +22,7 @@
 	                <figcaption>Les ateliers</figcaption>
 	            </figure>
 	        </a>
-	        <a class="block__item" href="/meditation">
+	        <a class="block__item agenda-filter" href="#agenda-content" id="agenda-stages" data-filter="stages">
 	            <figure>
 	                <picture class="block__img">
 	                    <source type="image/webp" srcset="{{.Site.BaseURL}}assets/img/home-welcome-03.webp">
@@ -32,7 +32,7 @@
 	                <figcaption>Les stages</figcaption>
 	            </figure>
 	        </a>
-	        <a class="block__item" href="/meditation">
+	        <a class="block__item agenda-filter" href="#agenda-content" id="agenda-retraites" data-filter="retraites">
 	            <figure>
 	                <picture class="block__img">
 	                    <source type="image/webp" srcset="{{.Site.BaseURL}}assets/img/home-welcome-03.webp">
@@ -46,13 +46,14 @@
 	</section>
 
     <section class="single-section cw" id="agenda-content">
-        <h2>Les événements <span class="ff-i">à&nbsp;venir</span></h2>
+		<h2>Les événements <span class="ff-i">à&nbsp;venir</span></h2>
+		<p id="agenda__filter-wrapper" style="display:none;">Filtre : <span id="agenda__filter-text"></span></p>
         <div class="flex-3-cols agenda-list">
 			{{ $events := where $.Site.RegularPages "Section" "evenement" }}
 			{{ $eventsLength := len $events }}
 			{{ if gt $eventsLength 0 }}
 				{{ range $events }}
-					<a class="flex-3-cols__col agenda-list__item" href="{{ .Permalink }}">
+					<a class="flex-3-cols__col agenda-list__item {{ .Params.category }}" href="{{ .Permalink }}">
 						<img class="agenda-list__img" src="{{.Params.img}}">
 						<h3>{{ .Title }}</h3>
 						<p class="agenda-list__date"><img class="agenda__icons" src="/assets/img/agenda-when.svg" width="15" height="15" alt="Quand"> {{ .Date.Format "02/01/2006" }}</p>

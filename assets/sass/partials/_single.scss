@@ -149,6 +149,69 @@
 	}
 }
 
+#yoga-horaire {
+	overflow-x: auto;
+
+	table {
+		width:1180px;
+	}
+
+	th {
+		font-weight: normal;
+		text-transform: uppercase;
+		padding:1em;
+	}
+
+	td {
+		padding:0;
+		min-width:1em;
+		height:4em;
+		position:relative;
+
+		span {
+			@include ff-i;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			flex-direction: column;
+			height: 100%;
+			position: absolute;
+			top: 0;
+			right: 0;
+			left: 0;
+			bottom: 0;
+
+			&.middleRight {
+				margin-right:25%;
+			}
+
+			&.middleLeft {
+				margin-left:25%;
+			}
+
+			&.quarterRight {
+				margin-right:12.5%;
+			}
+
+			&.quarterLeft {
+				margin-left:12.5%;
+			}
+
+			&.enfants {
+				background:#C2DBDE;
+			}
+
+			&.ados {
+				background:#EFD58A;
+			}
+
+			&.adultes {
+				background:#F4E9E6;
+			}
+		}
+	}
+}
+
 #agenda-header {
 	margin: 0 auto $su*4 auto;
 
@@ -157,17 +220,29 @@
 	}
 }
 
+h2 + #agenda__filter-wrapper {
+	margin-bottom:0;
+}
+
+#agenda__filter-wrapper {
+	font-size:1.2rem;
+	text-align: center;
+	margin:0 auto $su auto;
+	display:block;
+}
+
 #agenda-content {
 	margin-bottom:$su*4;
 
 	h2 {
 		display: block;
 		text-align: center;
-		margin-bottom:$su*4;
 	}
 }
 
 .agenda-list__item {
+	margin-top:$su*4;
+	margin-bottom:$su*2;
 
 	h3 {
 		@include ff-i;

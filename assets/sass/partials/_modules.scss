@@ -293,7 +293,10 @@ table {
     border-collapse: collapse;
     font-size: 1rem;
     width:100%;
-    max-width:800px;
+
+    &.table-price {
+        max-width:800px;
+    }
 }
 
 td, th {
