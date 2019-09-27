@@ -1,8 +1,9 @@
 +++
 address = "Bvd Kleyer 107, 4000 Liège (Espace Corps et Conscience)"
 category = "cours"
+content = ""
 date = "2019-09-18"
-img = "/assets/uploadsOut/grass-Johannes Plenio.jpg"
+img = "/assets/uploadsOut/AdobeStock_245653305.jpeg"
 schedule_in = "10:45"
 schedule_out = "11:45"
 title = "Cours de yoga adultes /Mercredi matin II"
