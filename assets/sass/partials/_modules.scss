@@ -201,15 +201,24 @@ figure {
                 grid-template-columns:repeat(auto-fit, minmax(167px, 1fr));
             }
         }
+
+        @media screen and (min-width:980px) {
+
+            &.block__list--4-cols {
+                grid-column-gap:$su*2;
+            }
+        }
     }
 }
 
 .block__item {
     padding:$su/2;
     box-sizing: border-box;
+    margin:$su/2;
 
     @supports (display:grid) {
         padding:0;
+        margin:0;
     }
 
     @media screen and (min-width: 640px) {
@@ -293,6 +302,7 @@ table {
     border-collapse: collapse;
     font-size: 1rem;
     width:100%;
+    border-color:$green;
 
     &.table-price {
         max-width:800px;
@@ -300,7 +310,7 @@ table {
 }
 
 td, th {
-    border:1px solid lighten($dark, 20%);
+    border:1px solid $green;
     padding:0.3em;
     text-align: center;
 
