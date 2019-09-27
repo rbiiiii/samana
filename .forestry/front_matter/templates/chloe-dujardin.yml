@@ -1,0 +1,48 @@
+---
+label: Chloé Dujardin
+hide_body: true
+fields:
+- type: text
+  name: slug
+  label: slug
+- type: text
+  name: type
+  label: type
+- type: text
+  name: title
+  label: title
+- type: field_group_list
+  name: intro_text
+  label: intro_text
+  fields:
+  - type: textarea
+    name: text
+    label: text
+- type: field_group_list
+  name: content_blocks
+  label: content_blocks
+  fields:
+  - type: field_group
+    name: block
+    label: block
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: text
+      name: title_italic
+      label: title_italic
+    - type: field_group_list
+      name: texts
+      label: texts
+      fields:
+      - type: textarea
+        name: text
+        label: text
+- type: field_group_list
+  name: formations
+  label: formations
+  fields:
+  - type: textarea
+    name: text
+    label: text
