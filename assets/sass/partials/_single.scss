@@ -12,6 +12,17 @@
 		table {
 			margin-right:auto;
 			margin-left:auto;
+
+		}
+		
+		@media screen and (max-width:559px) {
+			li {
+				display:block;
+
+				&:before {
+					display:none;
+				}
+			}
 		}
 	}
 }
@@ -146,6 +157,14 @@
 
 	@media screen and (min-width: 1920px) {
 		left:-7px;
+	}
+}
+
+#yoga-horaire {
+
+	h2 {
+		text-align: center;
+		margin-bottom: $su*2;
 	}
 }
 

@@ -17,9 +17,52 @@
       duration: 6
       category: 'adultes'
 - title: 'Mercredi'
+  blocks:
+    - start: '9h15'
+      end: '10h30'
+      duration: 5
+      category: 'adultes'
+    - start: '10h45'
+      end: '11h45'
+      duration: 4
+      category: 'adultes'
+    - start: '14h'
+      end: '15h'
+      duration: 4
+      category: 'enfants'
+    - start: '15h'
+      end: '16h'
+      duration: 4
+      category: 'ados'
 - title: 'Jeudi'
+  blocks:
+    - start: '16h'
+      end: '17h'
+      duration: 4
+      category: 'enfants'
+      subtext: '(Ecole Don Bosco)'
 - title: 'Vendredi'
+  blocks:
+    - start: '9h15'
+      end: '10h15'
+      duration: 4
+      category: 'adultes'
 - title: 'Samedi'
+  blocks:
+    - start: '9h30'
+      end: '10h30'
+      duration: 4
+      category: 'adultes'
+    - start: '11h'
+      end: '12h'
+      duration: 4
+      category: 'ados'
+      subtext: '(bal spécial)'
+    - start: '12h'
+      end: '13h'
+      duration: 4
+      category: 'ados'
+      subtext: '(bal spécial)'
 - title: 'Dimanche'
 ---
 
