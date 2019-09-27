@@ -38,7 +38,7 @@
 			{{ if gt $eventsLength 0 }}
 				{{ range $events }}
 					<article class="flex-3-cols__col agenda-list__item {{ .Params.category }}">
-						<img class="agenda-list__img" src="/assets/uploadsOut/{{.Params.img}}">
+						<img class="agenda-list__img" src="{{.Params.img}}" alt="Illustration de l'événement {{ .Title }}">
 						<h3>{{ .Title }}</h3>
 						<p class="agenda-list__date"><img class="agenda__icons" src="/assets/img/agenda-when.svg" width="15" height="15" alt="Quand"> {{ .Date.Format "02/01/2006" }}</p>
 						<p class="agenda-list__schedule"><img class="agenda__icons" src="/assets/img/agenda-schedule.svg" width="15" height="15" alt="Horaire"> {{ .Params.schedule_in }}{{ with .Params.schedule_out }} - {{ . }}{{ end }}</p>
