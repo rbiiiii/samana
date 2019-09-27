@@ -37,7 +37,7 @@
 			{{ $events := where $.Site.RegularPages "Section" "evenement" }}
 			{{ $eventsLength := len $events }}
 			{{ if gt $eventsLength 0 }}
-				{{ range $events }}
+				{{ range $events.ByDate }}
 					<article class="flex-3-cols__col agenda-list__item {{ .Params.category }}">
 						<img class="agenda-list__img" src="{{.Params.img}}" alt="Illustration de l'événement {{ .Title }}">
 						<h3>{{ .Title }}</h3>
