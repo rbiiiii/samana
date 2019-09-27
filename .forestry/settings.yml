@@ -23,6 +23,7 @@ sections:
   label: Evenement
   create: all
   match: "**/*"
+  templates: evenement
 upload_dir: static/uploads
 public_path: "/uploadsOut"
 front_matter_path: ''
