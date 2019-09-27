@@ -12,7 +12,7 @@ fields:
     required: false
   label: Heure de début
   description: 'Ex: 9:00'
-- name: heure_de_fin
+- name: schedule_out
   type: text
   config:
     required: false
