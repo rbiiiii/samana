@@ -8,14 +8,14 @@ fields:
   fields:
   - type: text
     name: title
-    label: title
+    label: Titre du cours
   - type: field_group_list
     name: prices
-    label: prices
+    label: Les prix
     fields:
     - type: text
       name: price
-      label: price
+      label: Prix
   - type: text
     name: unit
-    label: unit
+    label: A l'unité
