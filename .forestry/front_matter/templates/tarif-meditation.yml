@@ -1,0 +1,21 @@
+---
+label: Tarif méditation
+hide_body: true
+fields:
+- type: field_group_list
+  name: Tarif meditation
+  label: Tarif meditation
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: field_group_list
+    name: prices
+    label: prices
+    fields:
+    - type: text
+      name: price
+      label: price
+  - type: text
+    name: unit
+    label: unit
