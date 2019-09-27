@@ -131,3 +131,34 @@
         height:auto;
     }
 }
+
+#top-btn {
+    display: flex;
+    position: fixed;
+    z-index: 5;
+    right: 20px;
+    bottom: 20px;
+    background: #f4e9e6;
+    font-size: 1.8rem;
+    line-height: 0.9;
+    border-radius: 50% 50%;
+    width: 1.2em;
+    height: 1.2em;
+    align-items: flex-end;
+    justify-content: center;
+    box-shadow: 2px 2px 3px -2px $dark;
+    opacity: 0.8;
+    transition:box-shadow 100ms ease-out, opacity 200ms ease-out;
+
+    @media screen and (min-width:980px) {
+        font-size:2.2rem;
+    }
+
+    &:focus, &:hover {
+        opacity:1;
+    }
+
+    &:active {
+        box-shadow: none;
+    }
+}
