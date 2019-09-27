@@ -1,0 +1,44 @@
+---
+label: Yoga
+hide_body: true
+fields:
+- type: text
+  name: slug
+  label: slug
+- type: text
+  name: type
+  label: type
+- type: text
+  name: title
+  label: title
+- type: field_group_list
+  name: intro_text
+  label: intro_text
+  fields:
+  - type: textarea
+    name: text
+    label: text
+- type: text
+  name: vision_title
+  label: vision_title
+- type: field_group_list
+  name: vision_text
+  label: vision_text
+  fields:
+  - type: textarea
+    name: text
+    label: text
+- type: field_group_list
+  name: offre_blocks
+  label: offre_blocks
+  fields:
+  - type: field_group
+    name: block
+    label: block
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: textarea
+      name: text
+      label: text
