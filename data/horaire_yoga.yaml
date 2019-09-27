@@ -8,7 +8,7 @@
   - start: 16h
     end: 17h
     duration: 4
-    category: adultes
+    category: enfants
     subtext: "(Ecole Saint-Maur)"
 - title: Mardi
   blocks:
