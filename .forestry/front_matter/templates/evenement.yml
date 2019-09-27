@@ -50,6 +50,11 @@ fields:
   config:
     maxSize: 250
   label: Image
+- name: content
+  type: text
+  config:
+    required: false
+  label: Description
 pages:
 - content/evenement/méditation-en-mouvement.md
 - content/evenement/atelier-yoga-avec-bal-spécial.md
