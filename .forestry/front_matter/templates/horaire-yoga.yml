@@ -48,3 +48,5 @@ fields:
       label: Catégorie
     config:
       labelField: category
+pages:
+- data/horaire_yoga.yaml
