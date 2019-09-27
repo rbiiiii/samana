@@ -6,6 +6,23 @@ fields:
 - type: text
   name: title
   label: Titre
+- type: datetime
+  name: date
+  label: Date
+  config:
+    date_format: DD/MM/YYYY
+    export_format: YYYY-MM-DD
+  description: 'Ex: 01/01/2001'
+- name: enddate
+  type: datetime
+  label: Date de fin
+  description: ''
+  config:
+    required: false
+    date_format: DD/MM/YYYYY
+    time_format: 
+    display_utc: false
+    export_format: YYYYY/MM/DD
 - name: schedule_in
   type: text
   config:
@@ -18,13 +35,6 @@ fields:
     required: false
   label: Heure de fin
   description: 'Ex: 10:00'
-- type: datetime
-  name: date
-  label: Date
-  config:
-    date_format: DD/MM/YYYY
-    export_format: YYYY-MM-DD
-  description: 'Ex: 01/01/2001'
 - type: text
   name: address
   label: Adresse
