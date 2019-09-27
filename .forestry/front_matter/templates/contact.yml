@@ -1,0 +1,35 @@
+---
+label: Contact
+hide_body: true
+fields:
+- type: text
+  name: slug
+  label: slug
+- type: text
+  name: type
+  label: type
+- type: text
+  name: title
+  label: title
+- type: text
+  name: title_text
+  label: title_text
+- type: text
+  name: name
+  label: name
+- type: text
+  name: tel
+  label: tel
+- type: text
+  name: tel_for_humans
+  label: tel_for_humans
+- type: text
+  name: email
+  label: email
+- type: field_group_list
+  name: intro_text
+  label: intro_text
+  fields:
+  - type: text
+    name: text
+    label: text
