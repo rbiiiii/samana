@@ -1,17 +1,16 @@
-- title: 'Cours de yoga adultes'
+---
+- title: Cours de yoga adultes
   prices:
-    - price: '170€'
-    - price: '120€<sup>*</sup>'
-  unit: '15€'
-
-- title: 'Cours de yoga ados'
-  prices: 
-    - price: '120€, 100€ pour 2<sup>e</sup> enfant'
-    - price: '75€, 50€ pour 2<sup>e</sup> enfant*'
-  unit: '/'
-
-- title: 'Cours de yoga enfants'
-  prices: 
-    - price: '120€, 100€ pour 2<sup>e</sup> enfant'
-    - price: '75€, 50€ pour 2<sup>e</sup> enfant*'
-  unit: '/'
+  - price: 170€
+  - price: 120€<sup>*</sup>
+  unit: 15€
+- title: Cours de yoga ados
+  prices:
+  - price: 120€, 100€ pour 2<sup>e</sup> enfant
+  - price: 75€, 50€ pour 2<sup>e</sup> enfant*
+  unit: "/"
+- title: Cours de yoga enfants
+  prices:
+  - price: 120€, 100€ pour 2<sup>e</sup> enfant
+  - price: 75€, 50€ pour 2<sup>e</sup> enfant*
+  unit: "/"

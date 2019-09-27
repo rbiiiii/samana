@@ -1,0 +1,49 @@
+---
+label: Yoga
+hide_body: true
+fields:
+- type: text
+  name: slug
+  label: slug
+  hidden: true
+- type: text
+  name: type
+  label: type
+  hidden: true
+- type: text
+  name: title
+  label: title
+  hidden: true
+- type: field_group_list
+  name: intro_text
+  label: Texte d'intro
+  fields:
+  - type: textarea
+    name: text
+    label: Paragraphe
+- type: text
+  name: vision_title
+  label: Titre "ma vision"
+- type: field_group_list
+  name: vision_text
+  label: Textes "ma vision"
+  fields:
+  - type: textarea
+    name: text
+    label: Paragraphe
+- type: field_group_list
+  name: offre_blocks
+  label: Offres
+  fields:
+  - type: field_group
+    name: block
+    label: Offre
+    fields:
+    - type: text
+      name: title
+      label: Titre
+    - type: textarea
+      name: text
+      label: Paragraphe
+pages:
+- content/yoga.md

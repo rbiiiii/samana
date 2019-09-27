@@ -1,0 +1,40 @@
+---
+label: Contact
+hide_body: true
+fields:
+- type: text
+  name: slug
+  label: slug
+  hidden: true
+- type: text
+  name: type
+  label: type
+  hidden: true
+- type: text
+  name: title
+  label: title
+  hidden: true
+- type: field_group_list
+  name: intro_text
+  label: Text d'intro
+  fields:
+  - type: text
+    name: text
+    label: Paragraphe
+- type: text
+  name: title_text
+  label: Titre "contactez-moi"
+- type: text
+  name: name
+  label: Nom
+- type: text
+  name: tel
+  label: Téléphone pour les robots
+- type: text
+  name: tel_for_humans
+  label: Téléphone comme affiché sur le site
+- type: text
+  name: email
+  label: E-mail
+pages:
+- content/contact.md

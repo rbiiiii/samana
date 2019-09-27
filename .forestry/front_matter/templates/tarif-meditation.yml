@@ -1,0 +1,23 @@
+---
+label: Tarif méditation
+hide_body: true
+fields:
+- type: field_group_list
+  name: Tarif meditation
+  label: Tarif meditation
+  fields:
+  - type: text
+    name: title
+    label: Titre
+  - type: field_group_list
+    name: prices
+    label: Prix
+    fields:
+    - type: text
+      name: price
+      label: Prix
+  - type: text
+    name: unit
+    label: Unité
+pages:
+- data/tarif_meditation.yaml

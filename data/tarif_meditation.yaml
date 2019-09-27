@@ -1,4 +1,5 @@
-- title: 'Méditation en mouvement'
+---
+- title: Méditation en mouvement
   prices:
-    - price: '/'
-  unit: '15€'
+  - price: "/"
+  unit: 15€

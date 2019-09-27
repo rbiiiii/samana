@@ -1,5 +1,5 @@
 ---
-label: Chloé Dujardin
+label: Méditation
 hide_body: true
 fields:
 - type: text
@@ -16,18 +16,18 @@ fields:
   hidden: true
 - type: field_group_list
   name: intro_text
-  label: Paragraphe d'intro
+  label: Text d'intro
   fields:
   - type: textarea
     name: text
-    label: Contenu
+    label: Paragraphe
 - type: field_group_list
   name: content_blocks
-  label: Texte de contenu
+  label: Blocs de contenu
   fields:
   - type: field_group
     name: block
-    label: Bloc de texte
+    label: Bloc
     fields:
     - type: text
       name: title
@@ -37,17 +37,10 @@ fields:
       label: Titre en italique
     - type: field_group_list
       name: texts
-      label: Paragraphes
       fields:
       - type: textarea
         name: text
         label: Paragraphe
-- type: field_group_list
-  name: formations
-  label: Ma formation
-  fields:
-  - type: textarea
-    name: text
-    label: Entrée
+      label: Textes
 pages:
-- content/chloe-dujardin.md
+- content/meditation.md
