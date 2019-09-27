@@ -16,9 +16,9 @@
     end: '19:00'
     duration: 4
     category: adultes
-  - start: 18h
-    end: 19h30
-    duration: 6
+  - start: 19h10
+    end: 20h10
+    duration: 4
     category: adultes
 - title: Mercredi
   blocks:
