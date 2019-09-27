@@ -13,7 +13,7 @@ function minify() {
 
 function images() {
     return src('static/assets/uploads/**')
-        .pipe(gulpNewer("static/assets/uploads"))
+        .pipe(gulpNewer("static/assets/uploadsOut"))
         .pipe(imagemin([    
             imagemin.gifsicle({interlaced: true}),
             imagemin.jpegtran({progressive: true}),
