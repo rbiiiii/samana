@@ -50,3 +50,5 @@ fields:
   config:
     maxSize: 250
   label: Image
+pages:
+- content/evenement/2019-12-04-meditez-avec-moi copie.md
