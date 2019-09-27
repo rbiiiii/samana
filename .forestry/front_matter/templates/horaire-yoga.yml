@@ -47,4 +47,4 @@ fields:
           path: 
       label: Catégorie
     config:
-      labelField: start
+      labelField: category
