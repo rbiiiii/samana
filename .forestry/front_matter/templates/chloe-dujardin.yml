@@ -5,12 +5,15 @@ fields:
 - type: text
   name: slug
   label: slug
+  hidden: true
 - type: text
   name: type
   label: type
+  hidden: true
 - type: text
   name: title
   label: title
+  hidden: true
 - type: field_group_list
   name: intro_text
   label: intro_text
