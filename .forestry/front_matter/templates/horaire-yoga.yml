@@ -8,20 +8,43 @@ fields:
   fields:
   - type: text
     name: title
-    label: title
+    label: Jour
   - type: field_group_list
     name: blocks
-    label: blocks
+    label: Cours
     fields:
     - type: text
       name: start
-      label: start
+      label: Heure de début
+      description: 'Ex: 11h ou 11h15 (par tranche de 15 min)'
     - type: text
       name: end
-      label: end
-    - type: number
-      name: duration
-      label: duration
-    - type: text
-      name: category
-      label: category
+      label: Heure de fin
+      description: 'Ex: 12h ou 12h45 (par tranche de 15 min)'
+    - name: duration
+      type: number
+      label: Durée en nombre de quarts d'heures
+      description: 'Ex: 4 pour 1h ou 5 pour 1h15'
+      default: 0
+      required: true
+      config:
+        min: 
+        max: 
+        step: 
+    - name: category
+      type: select
+      default: adultes
+      config:
+        required: false
+        options:
+        - adultes
+        - enfants
+        - ados
+        source:
+          type: simple
+          section: 
+          file: 
+          path: 
+      label: Catégorie
+    config:
+      labelField: start
