@@ -51,6 +51,7 @@ fields:
     maxSize: 250
   label: Image
 pages:
+- content/evenement/cours-de-yoga-adultes-mercredi-matin-ii.md
 - content/evenement/cours-de-yoga-adultes-mercredi-matin-i.md
 - content/evenement/2019-12-04-meditez-avec-moi copie.md
 - content/evenement/cours-de-yoga-adultes-mardi-soir-ii.md
