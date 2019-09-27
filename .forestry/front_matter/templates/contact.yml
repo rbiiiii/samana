@@ -36,3 +36,5 @@ fields:
 - type: text
   name: email
   label: E-mail
+pages:
+- content/contact.md
