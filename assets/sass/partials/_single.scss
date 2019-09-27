@@ -196,6 +196,38 @@ h2 + #agenda__filter-wrapper {
 	}
 }
 
+#delete-filters {
+	position:relative;
+	margin:12px auto $su auto;
+	border:none;
+	padding:0.3em 0;
+	font-size: 1.2rem;
+	background:none;
+	color:$dark;
+	
+	&:after {
+		content: '';
+		display: block;
+		position: absolute;
+		bottom: 0;
+		left: 0;
+		height: 1px;
+		width: 100%;
+		background-color: #326d6c;
+		opacity: 1;
+		transition: opacity 200ms ease-out;
+	}
+
+	&:hover, &:focus {
+		cursor:pointer;
+
+		&:after {
+			opacity: 0;
+		}
+	}
+
+}
+
 #agenda-content {
 	margin-bottom:$su*4;
 

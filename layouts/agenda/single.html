@@ -2,25 +2,25 @@
 
 	<section class="single-section" id="agenda-header">
 	    <div class="block__list block__list--4-cols">
-	        <a class="block__item agenda-filter" href="#agenda-content" id="agenda-cours" data-filter="cours">
+	        <a role="button" class="block__item agenda-filter" href="#agenda-content" id="agenda-cours" data-filter="cours">
 	            <figure>
 	                <img class="block__img" src="{{.Site.BaseURL}}assets/img/agenda-filter-cours.jpg" alt=""  width="520" height="356">
 	                <figcaption>Les cours</figcaption>
 	            </figure>
 	        </a>
-	        <a class="block__item agenda-filter" href="#agenda-content" id="agenda-ateliers" data-filter="ateliers">
+	        <a role="button" class="block__item agenda-filter" href="#agenda-content" id="agenda-ateliers" data-filter="ateliers">
 	            <figure>
 	                <img class="block__img" src="{{.Site.BaseURL}}assets/img/agenda-filter-ateliers.jpg" alt=""  width="520" height="356">
 	                <figcaption>Les ateliers</figcaption>
 	            </figure>
 	        </a>
-	        <a class="block__item agenda-filter" href="#agenda-content" id="agenda-stages" data-filter="stages">
+	        <a role="button" class="block__item agenda-filter" href="#agenda-content" id="agenda-stages" data-filter="stages">
 	            <figure>
 	                <img class="block__img" src="{{.Site.BaseURL}}assets/img/agenda-filter-stages.jpg" alt=""  width="520" height="356">
 	                <figcaption>Les stages</figcaption>
 	            </figure>
 	        </a>
-	        <a class="block__item agenda-filter" href="#agenda-content" id="agenda-retraites" data-filter="retraites">
+	        <a role="button" class="block__item agenda-filter" href="#agenda-content" id="agenda-retraites" data-filter="retraites">
 	            <figure>
 	                <img class="block__img" src="{{.Site.BaseURL}}assets/img/agenda-filter-retraites.jpg" alt=""  width="520" height="356">
 	                <figcaption>Les retraites</figcaption>
@@ -32,6 +32,7 @@
     <section class="single-section cw" id="agenda-content">
 		<h2>Les événements <span class="ff-i">à&nbsp;venir</span></h2>
 		<p id="agenda__filter-wrapper" style="display:none;">Filtre : <span id="agenda__filter-text"></span></p>
+		<button id="delete-filters" style="display:none;">Supprimer les filtres</button>
         <div class="flex-3-cols agenda-list">
 			{{ $events := where $.Site.RegularPages "Section" "evenement" }}
 			{{ $eventsLength := len $events }}
