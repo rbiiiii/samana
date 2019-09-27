@@ -45,3 +45,5 @@ fields:
     - type: textarea
       name: text
       label: Paragraphe
+pages:
+- content/yoga.md
