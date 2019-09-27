@@ -5,37 +5,40 @@ fields:
 - type: text
   name: slug
   label: slug
+  hidden: true
 - type: text
   name: type
   label: type
+  hidden: true
 - type: text
   name: title
   label: title
+  hidden: true
 - type: field_group_list
   name: intro_text
-  label: intro_text
+  label: Text d'intro
   fields:
   - type: textarea
     name: text
-    label: text
+    label: Paragraphe
 - type: field_group_list
   name: content_blocks
-  label: content_blocks
+  label: Blocs de contenu
   fields:
   - type: field_group
     name: block
-    label: block
+    label: Bloc
     fields:
     - type: text
       name: title
-      label: title
+      label: Titre
     - type: text
       name: title_italic
-      label: title_italic
+      label: Titre en italique
     - type: field_group_list
       name: texts
-      label: texts
       fields:
       - type: textarea
         name: text
-        label: text
+        label: Paragraphe
+      label: Textes
