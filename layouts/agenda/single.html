@@ -1,44 +1,28 @@
 {{ define "main" }}
 
-	<section class="single-section cw" id="agenda-header">
+	<section class="single-section" id="agenda-header">
 	    <div class="block__list block__list--4-cols">
 	        <a class="block__item agenda-filter" href="#agenda-content" id="agenda-cours" data-filter="cours">
 	            <figure>
-	                <picture class="block__img">
-	                    <source type="image/webp" srcset="{{.Site.BaseURL}}assets/img/home-welcome-01.webp">
-	                    <source type="image/jpeg" srcset="{{.Site.BaseURL}}assets/img/home-welcome-01.jpg">
-	                    <img src="{{.Site.BaseURL}}assets/img/home-welcome-01.jpg" alt=""  width="520" height="356">
-	                </picture>
+	                <img class="block__img" src="{{.Site.BaseURL}}assets/img/agenda-filter-cours.jpg" alt=""  width="520" height="356">
 	                <figcaption>Les cours</figcaption>
 	            </figure>
 	        </a>
 	        <a class="block__item agenda-filter" href="#agenda-content" id="agenda-ateliers" data-filter="ateliers">
 	            <figure>
-	                <picture class="block__img">
-	                    <source type="image/webp" srcset="{{.Site.BaseURL}}assets/img/home-welcome-02.webp">
-	                    <source type="image/jpeg" srcset="{{.Site.BaseURL}}assets/img/home-welcome-02.jpg">
-	                    <img src="{{.Site.BaseURL}}assets/img/home-welcome-02.jpg" alt=""  width="520" height="356">
-	                </picture>
+	                <img class="block__img" src="{{.Site.BaseURL}}assets/img/agenda-filter-ateliers.jpg" alt=""  width="520" height="356">
 	                <figcaption>Les ateliers</figcaption>
 	            </figure>
 	        </a>
 	        <a class="block__item agenda-filter" href="#agenda-content" id="agenda-stages" data-filter="stages">
 	            <figure>
-	                <picture class="block__img">
-	                    <source type="image/webp" srcset="{{.Site.BaseURL}}assets/img/home-welcome-03.webp">
-	                    <source type="image/jpeg" srcset="{{.Site.BaseURL}}assets/img/home-welcome-03.jpg">
-	                    <img src="{{.Site.BaseURL}}assets/img/home-welcome-03.jpg" alt=""  width="520" height="356">
-	                </picture>
+	                <img class="block__img" src="{{.Site.BaseURL}}assets/img/agenda-filter-stages.jpg" alt=""  width="520" height="356">
 	                <figcaption>Les stages</figcaption>
 	            </figure>
 	        </a>
 	        <a class="block__item agenda-filter" href="#agenda-content" id="agenda-retraites" data-filter="retraites">
 	            <figure>
-	                <picture class="block__img">
-	                    <source type="image/webp" srcset="{{.Site.BaseURL}}assets/img/home-welcome-03.webp">
-	                    <source type="image/jpeg" srcset="{{.Site.BaseURL}}assets/img/home-welcome-03.jpg">
-	                    <img src="{{.Site.BaseURL}}assets/img/home-welcome-03.jpg" alt=""  width="520" height="356">
-	                </picture>
+	                <img class="block__img" src="{{.Site.BaseURL}}assets/img/agenda-filter-retraites.jpg" alt=""  width="520" height="356">
 	                <figcaption>Les retraites</figcaption>
 	            </figure>
 	        </a>
@@ -53,7 +37,7 @@
 			{{ $eventsLength := len $events }}
 			{{ if gt $eventsLength 0 }}
 				{{ range $events }}
-					<a class="flex-3-cols__col agenda-list__item {{ .Params.category }}" href="{{ .Permalink }}">
+					<article class="flex-3-cols__col agenda-list__item {{ .Params.category }}">
 						<img class="agenda-list__img" src="{{.Params.img}}">
 						<h3>{{ .Title }}</h3>
 						<p class="agenda-list__date"><img class="agenda__icons" src="/assets/img/agenda-when.svg" width="15" height="15" alt="Quand"> {{ .Date.Format "02/01/2006" }}</p>
@@ -62,10 +46,10 @@
 						<div class="agenda-list__content">
 							{{ .Content | safeHTML | truncate 130 }}
 						</div>
-					</a> 
+					</article> 
 				{{ end }}	
 			{{ else }}
-			    Désolé, il n'y a aucun événement prévu en ce moment.
+			    <p style="display:block;margin-left:auto;margin-right:auto;">Désolé, il n'y a aucun événement prévu en ce moment.</p>
 			{{ end }}
         </div>
     </section>
