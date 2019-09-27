@@ -119,3 +119,20 @@
 		{{ end }}
 	</div>
 </div>
+<div class="schedule-mobile">
+	{{ range .Site.Data.horaire_yoga }}
+		<div class="schedule-mobile__item">
+			{{ $title := .title }}
+			{{ with .blocks }}
+				<h4 class="schedule-mobile__title">{{ $title }}</h4>
+				{{ range . }}
+					<div class="schedule-mobile__block {{ .category}}">
+						<p class="schedule-mobile__block__title ff-i">{{ .category }}</p>
+						{{ with .subtext }}<small class="schedule-mobile__block__subtext ff-i">{{ . }}</small>{{ end }}
+						<p class="schedule-mobile__block__schedule ff-i">{{ .start }} - {{ .end }}</p>
+					</div>	
+				{{ end }}
+			{{ end }}
+		</div>
+	{{ end }}
+</div>

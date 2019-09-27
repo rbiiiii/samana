@@ -2,12 +2,17 @@ $heightUnit :15px;
 $widthUnit: 120px;
 
 .schedule {
+	display:none;
 	position:relative;
 	width:7.753846 * $widthUnit;
 	height:$heightUnit*52;
 	margin:0 auto $su*8 auto;
 	@include ff-l;
 	border:1px solid $green;
+
+	@media screen and (min-width:979px) {
+		display:block;
+	}
 }
 
 .lines {
@@ -135,4 +140,67 @@ $widthUnit: 120px;
 	small {
 		font-size:0.8rem;
 	}
+}
+
+.schedule-mobile {
+	margin-bottom:$su*8;
+	display: flex;
+	flex-direction: column;
+
+	@media screen and (min-width:480px) {
+		flex-direction: row;
+		flex-wrap: wrap;
+	}
+
+	@media screen and (min-width:1000px) {
+		display:none;
+	}
+}
+
+.schedule-mobile__item {
+	margin-bottom:$su*2;
+
+	@media screen and (min-width:480px) {
+		width:45%;
+		margin-right:2.5%;
+		margin-left:2.5%;
+	}
+}
+
+.schedule-mobile__title {
+	margin:0 0 $su 0;
+	text-transform: uppercase;
+	@include ff-l;
+	text-align: center;
+	font-size: 1.6rem;
+}
+
+.schedule-mobile__block {
+	margin-bottom:$su;
+	padding:0.5em;
+	text-align: center;
+
+	&.adultes {
+		background:#F4E9E6;
+	}
+
+	&.enfants {
+		background:#C2DBDE;
+	}
+
+	&.ados {
+		background:#EFD58A;
+	}
+
+	p {
+		margin:0;
+	}
+
+	span, small {
+		line-height: 1.2;
+	}
+}
+
+.schedule-mobile__block__subtext {
+	font-size: 80%;
 }
