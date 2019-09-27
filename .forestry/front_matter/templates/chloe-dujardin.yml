@@ -16,36 +16,36 @@ fields:
   hidden: true
 - type: field_group_list
   name: intro_text
-  label: intro_text
+  label: Paragraphe d'intro
   fields:
   - type: textarea
     name: text
-    label: text
+    label: Contenu
 - type: field_group_list
   name: content_blocks
-  label: content_blocks
+  label: Texte de contenu
   fields:
   - type: field_group
     name: block
-    label: block
+    label: Bloc de texte
     fields:
     - type: text
       name: title
-      label: title
+      label: Titre
     - type: text
       name: title_italic
-      label: title_italic
+      label: Titre en italique
     - type: field_group_list
       name: texts
-      label: texts
+      label: Paragraphes
       fields:
       - type: textarea
         name: text
-        label: text
+        label: Paragraphe
 - type: field_group_list
   name: formations
-  label: formations
+  label: Ma formation
   fields:
   - type: textarea
     name: text
-    label: text
+    label: Entrée
