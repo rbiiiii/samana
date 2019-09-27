@@ -1,17 +1,15 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: 
+admin_path: ''
 webhook_url: 
 sections:
 - type: document
   path: data/tarif_yoga.yaml
   label: Tarif yoga
-  match: "**/*"
 - type: document
   path: data/tarif_meditation.yaml
   label: Tarif méditation
-  match: "**/*"
 - type: document
   path: data/horaire_yoga.yaml
   label: Horaire yoga
