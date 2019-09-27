@@ -12,6 +12,10 @@
     subtext: "(Ecole Saint-Maur)"
 - title: Mardi
   blocks:
+  - start: '18:00'
+    end: '19:00'
+    duration: 4
+    category: adultes
   - start: 18h
     end: 19h30
     duration: 6
