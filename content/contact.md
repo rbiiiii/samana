@@ -15,5 +15,5 @@ intro_text:
     - text: >-
         Volonté d’offrir une activité ressourçante et énergisante pour votre équipe&nbsp;?
     - text: >-
-        Parlons-en&nbsp;!
+        <span class="ff-i">Parlons-en&nbsp;!</span>
 ---
