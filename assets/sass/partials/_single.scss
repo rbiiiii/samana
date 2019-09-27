@@ -194,6 +194,10 @@ h2 + #agenda__filter-wrapper {
 		width:100%;
 		height:auto;
 	}
+
+	&.block__item figcaption {
+		opacity:1;
+	}
 }
 
 #delete-filters {
