@@ -49,3 +49,5 @@ fields:
   - type: textarea
     name: text
     label: Entrée
+pages:
+- content/chloe-dujardin.md
