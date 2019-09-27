@@ -55,11 +55,6 @@ fields:
       file: 
       path: 
   label: Catégorie
-- name: content
-  type: text
-  config:
-    required: false
-  label: Description
 - name: img
   type: file
   config:
