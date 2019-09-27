@@ -7,6 +7,7 @@
     position:relative;
     z-index:1;
     background-color:$white;
+    border-bottom: 1px solid $green;
 
     @media screen and (min-width: 980px) {
         position:relative;
