@@ -1,0 +1,165 @@
+$heightUnit : 20px;
+$widthUnit: 150px;
+
+.schedule {
+	display:flex;
+	position:relative;
+}
+
+.day {
+	border-left:1px solid $green;
+}
+
+.day__title {
+	display:block;
+	height:$heightUnit*5;
+	margin:0;
+	padding:1em;
+	box-sizing: border-box;
+}
+
+.day__schedule, .day__schedule tbody {
+	margin:0;
+	width:$widthUnit;
+	height:$heightUnit*45;
+	position:relative;
+}
+
+.day__hours {
+	margin-top:$heightUnit*5;
+	position:absolute;
+	top:0;
+	right:0;
+	bottom:0;
+	left:0;
+	width:calc(7.49 * #{$widthUnit});
+}
+
+ul.day__list {
+	margin:0;
+	padding:0;
+
+	.hour {
+		display:flex;
+		padding:0.5em;
+		align-items:center;
+		justify-content: center;
+
+		.hour__text {
+			position:absolute;
+			left:0;
+		}
+	}
+}
+
+.days {
+	display:flex;
+	margin-left:60px;
+}
+
+.hour, .day__block td {
+	display:block;
+	height:$heightUnit;
+	border-top: 1px solid $green;
+	margin:0;
+
+	&:before {
+		display: none;
+	}
+}
+
+.day__block {
+	position:absolute;
+	width:100%;
+
+	&.adultes td {
+		background:#F4E9E6;
+	}
+
+	&.enfants td {
+		background:#C2DBDE;
+	}
+
+	&.ados td {
+		background:#EFD58A;
+	}
+
+	td {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+	}
+
+	> * {
+		line-height:1.4;
+	}
+
+	span, small {
+		display:block;
+		@include ff-i;
+	}
+}
+
+
+/*#yoga-horaire {
+	overflow-x: auto;
+
+	table {
+		width:1180px;
+	}
+
+	th {
+		font-weight: normal;
+		text-transform: uppercase;
+		padding:1em;
+	}
+
+	td {
+		padding:0;
+		min-width:1em;
+		height:4em;
+		position:relative;
+
+		span {
+			@include ff-i;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			flex-direction: column;
+			height: 100%;
+			position: absolute;
+			top: 0;
+			right: 0;
+			left: 0;
+			bottom: 0;
+
+			&.middleRight {
+				margin-right:25%;
+			}
+
+			&.middleLeft {
+				margin-left:25%;
+			}
+
+			&.quarterRight {
+				margin-right:12.5%;
+			}
+
+			&.quarterLeft {
+				margin-left:12.5%;
+			}
+
+			&.enfants {
+				background:#C2DBDE;
+			}
+
+			&.ados {
+				background:#EFD58A;
+			}
+
+			&.adultes {
+				background:#F4E9E6;
+			}
+		}
+	}
+}*/

@@ -62,7 +62,7 @@
     padding:1em;
     text-transform: uppercase;
     @include fs-xs;
-    letter-spacing:1px;
+    letter-spacing:2px;
     transition: opacity 200ms ease-out;
 
     body.open & {

@@ -1,3 +1,8 @@
+#home-intro, #home-intro .fullw-img-wrapper {
+    max-height: 600px;
+    overflow: hidden;
+}
+
 #home-welcome {
     margin: $su*4 auto;
     display:flex;
@@ -19,8 +24,24 @@
         margin:0 auto $su*4 auto;
         text-align: center;
         font-weight: normal;
-        @include fs-b;
+        font-size:1rem;
         @include ff-l;
+
+        @media screen and (min-width:400px) {
+            font-size:1.3rem;
+        }
+
+        @media screen and (min-width:480px) {
+            font-size:1.5rem;
+        }
+
+        @media screen and (min-width:560px) {
+            font-size:1.8rem;
+        }
+
+        @media screen and (min-width:1200px) {
+            font-size:2rem;
+        }
 
         span {
             display:block;
@@ -48,4 +69,9 @@
     max-width:515px;
     height:auto;
     margin:$su*4 auto;
+}
+
+#home-contact, #home-contact .fullw-img-wrapper {
+    max-height: 600px;
+    overflow: hidden;
 }

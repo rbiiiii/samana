@@ -11,6 +11,7 @@
     padding:$su*2 $su; 
     display: flex;
     flex-wrap: wrap;
+    border-top: 1px solid $green;
 
     @media screen and (min-width: 768px) {
         padding:$su*2;

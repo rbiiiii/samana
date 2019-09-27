@@ -343,6 +343,37 @@ input {
     letter-spacing: 1px;
     margin-bottom:1.2em;
     font-size: 1rem;
+    color:$green;
+}
+
+input::placeholder {
+    color:$green;
+    opacity:1;
+}
+
+.submit-form {
+    position:relative;
+    display:inline-block;
+
+    &:after {
+        content:'';
+        display:block;
+        position:absolute;
+        bottom:-0.1em;
+        left:0;
+        height:1px;
+        width:100%;
+        background-color:$green;
+        opacity:1;
+        transition:opacity 200ms ease-out;
+    }
+
+    &:hover, &:focus {
+
+        &:after {
+            opacity:0;
+        }
+    }
 }
 
 input[type="submit"] {
