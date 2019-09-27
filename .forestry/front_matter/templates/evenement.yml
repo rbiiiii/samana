@@ -1,0 +1,25 @@
+---
+label: Evénement
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: number
+  name: schedule_in
+  label: schedule_in
+- type: number
+  name: schedule_out
+  label: schedule_out
+- type: text
+  name: address
+  label: address
+- type: file
+  name: img
+  label: img
+- type: text
+  name: category
+  label: category
