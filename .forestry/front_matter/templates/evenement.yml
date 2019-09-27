@@ -51,6 +51,7 @@ fields:
     maxSize: 250
   label: Image
 pages:
+- content/evenement/atelier-yoga-à-l-école.md
 - content/evenement/cours-de-yoga-ados-12-18-ans.md
 - content/evenement/cours-de-yoga-enfants-dès-8-ans.md
 - content/evenement/cours-de-yoga-adultes-vendredi-matin.md
