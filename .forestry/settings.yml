@@ -23,8 +23,8 @@ sections:
   label: Evenement
   create: all
   match: "**/*"
-upload_dir: static/uploads
-public_path: "/uploadsOut"
+upload_dir: static/assets/uploads
+public_path: "/assets/uploadsOut"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
