@@ -5,6 +5,6 @@ date = "2019-09-16"
 img = "/assets/uploadsOut/yogaenfants-14h.png"
 schedule_in = "16:00"
 schedule_out = "17:00"
-title = "Atelier Yoga à l'école"
+title = "Atelier Yoga à l'école Saint-Maur"
 
 +++
