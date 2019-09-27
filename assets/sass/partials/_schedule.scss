@@ -1,49 +1,38 @@
-$heightUnit : 15px;
-$widthUnit: 130px;
+$heightUnit :15px;
+$widthUnit: 120px;
 
 .schedule {
-	display:flex;
 	position:relative;
-	width:7.866 * $widthUnit;
+	width:7.753846 * $widthUnit;
 	height:$heightUnit*52;
 	margin:0 auto $su*8 auto;
 	@include ff-l;
-	border-bottom:1px solid $green;
+	border:1px solid $green;
 }
 
-.schedule__wrapper {
-	height:4*$heightUnit;
-	border-top:1px solid $green;
-	border-right:1px solid $green;
-	border-left:1px solid $green;
-}
-
-.schedule__col {
-	border:none;
-}
-
-.schedule__col--first {
-	width: 0.65*$widthUnit;
-}
-
-.schedule__col--second {
-	width:7.169230*$widthUnit;
+.lines {
+	width:7.04615384*$widthUnit;
 	position: absolute;
 	top:4*$heightUnit;
 	left:0.692307*$widthUnit;
 	padding:0;
+	overflow:hidden;
 
 	td {
 		padding:0;
-		height:15px;
+		height:$heightUnit;
 		border:1px solid lighten($green, 50%);
+		border-bottom: none;
+		border-right: none;
+		border-left: none;
 	}
 }
 
 .days {
 	display:flex;
 	position: relative;
-	left:-(0.115384*$widthUnit);
+	left:0.692307*$widthUnit;
+	width:7.05*$widthUnit;
 }
 
 .day {
@@ -66,7 +55,7 @@ $widthUnit: 130px;
 .day__schedule, .day__schedule tbody {
 	margin:0;
 	width:$widthUnit;
-	height:$heightUnit*78.6;
+	height:$heightUnit*47.933333;
 	position:relative;
 }
 
@@ -77,9 +66,7 @@ $widthUnit: 130px;
 	right:0;
 	bottom:0;
 	left:0;
-	width:7.8666666667 * $widthUnit;
-	border-right:1px solid $green;
-	border-left:1px solid $green;
+	width:7.746153 * $widthUnit;
 
 	.hour {
 		display:flex;
@@ -97,7 +84,7 @@ $widthUnit: 130px;
 	}
 }
 
-.hour, .day__block td {
+.hour {
 	display:block;
 	height:$heightUnit;
 	border-top: 1px solid $green;
