@@ -1,0 +1,27 @@
+---
+label: Horaire yoga
+hide_body: true
+fields:
+- type: field_group_list
+  name: Horaire yoga
+  label: Horaire yoga
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: field_group_list
+    name: blocks
+    label: blocks
+    fields:
+    - type: text
+      name: start
+      label: start
+    - type: text
+      name: end
+      label: end
+    - type: number
+      name: duration
+      label: duration
+    - type: text
+      name: category
+      label: category
