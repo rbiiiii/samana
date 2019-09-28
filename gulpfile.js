@@ -12,11 +12,11 @@ function minify() {
 }
 
 const imgSrc = "static/assets/uploads/**";
-const imgDest = "static/assets/uploadsOut";
+const imgDest = "public/assets/uploadsOut";
 
 function images() {
     return src(imgSrc)
-        .pipe(gulpNewer(imgSrc))
+        .pipe(gulpNewer(imgDest))
         .pipe(imagemin([    
             imagemin.gifsicle({interlaced: true}),
             imagemin.jpegtran({progressive: true}),
