@@ -19,10 +19,10 @@ fields:
   description: ''
   config:
     required: false
-    date_format: DD/MM/YYYYY
+    date_format: DD/MM/YYYY
     time_format: 
     display_utc: false
-    export_format: YYYYY/MM/DD
+    export_format: YYYY-MM-DD
 - name: schedule_in
   type: text
   config:
