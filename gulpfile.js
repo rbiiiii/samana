@@ -11,9 +11,12 @@ function minify() {
     .pipe(dest('public'));
 }
 
+const imgSrc = "static/assets/uploads/**";
+const imgDest = "public/assets/uploadsOut";
+
 function images() {
-    return src('static/assets/uploads/**')
-        .pipe(gulpNewer("static/assets/uploadsOut"))
+    return src(imgSrc)
+        .pipe(gulpNewer(imgDest))
         .pipe(imagemin([    
             imagemin.gifsicle({interlaced: true}),
             imagemin.jpegtran({progressive: true}),
@@ -34,7 +37,7 @@ function images() {
             crop : true,
             upscale : false
           }))
-        .pipe(dest('static/assets/uploadsOut'))
+        .pipe(dest(imgDest))
 }
 
 exports.default = series(minify, images);
