@@ -1,17 +1,16 @@
-var agendaContent = document.getElementById('agenda-content');
-var agendaFilters = document.querySelectorAll('.agenda-filter');
-var deleteFilters = document.getElementById('delete-filters');
-var filterWrapper = document.getElementById('agenda__filter-wrapper');
-var filterText = document.getElementById('agenda__filter-text');
-var errorMsg = "Désolé, il n'y a aucun événement futur correspondant à vos critères.";
+var agendaContent = document.getElementById('agenda-content'),
+    agendaFilters = document.querySelectorAll('.agenda-filter'),
+    deleteFilters = document.getElementById('delete-filters'),
+    filterWrapper = document.getElementById('agenda__filter-wrapper'),
+    filterText = document.getElementById('agenda__filter-text'),
+    errorText = document.getElementById('agenda-error');
 
 for (var i = 0; i < agendaFilters.length; i++) {
     agendaFilters[i].addEventListener('click', function() {
+        var filter = this.dataset.filter,
+            filteredItems = document.querySelectorAll('.agenda-list__item.'+filter),
+            agendaItems = document.querySelectorAll('.agenda-list__item');
         deleteFilters.style.display = "block";
-        var filter = this.dataset.filter;
-        var agendaItems = document.querySelectorAll('.agenda-list__item');
-        var filteredItems = document.querySelectorAll('.agenda-list__item.'+filter);
-        var errorText = document.getElementById('agenda-error');
         filterWrapper.style.display = "block";
 
         switch (filter) {
@@ -30,7 +29,7 @@ for (var i = 0; i < agendaFilters.length; i++) {
         }
 
         function filterItems() {
-            for (var i = 0; i < agendaFilters.length; i++) {
+            for (var i = 0; i < agendaItems.length; i++) {
                 agendaItems[i].style.display = 'none';
             }
             for (var i = 0; i < filteredItems.length; i++) {
@@ -40,16 +39,11 @@ for (var i = 0; i < agendaFilters.length; i++) {
         
         if (filteredItems.length == 0) {
             filterItems();
-            if (!errorText) {
-                var errorEl = document.createElement('p');
-                errorEl.innerHTML = errorMsg;
-                errorEl.id = 'agenda-error';
-                agendaContent.appendChild(errorEl);
-            }
+            errorText.style.display = 'block';
             
         } else {
             filterItems();
-            errorText.parentElement.removeChild(errorText);
+            errorText.style.display = 'none';
         }
     });
 }
@@ -59,8 +53,7 @@ deleteFilters.addEventListener('click', function() {
     for (var i = 0; i < agendaFilters.length; i++) {
         agendaItems[i].style.display = 'block';
     }
-    deleteFilters.style.display = "none";
-    filterWrapper.style.display = "none";
-    var errorText = document.getElementById('agenda-error');
-    errorText.parentElement.removeChild(errorText);
+    deleteFilters.style.display = 'none';
+    filterWrapper.style.display = 'none';
+    errorText.style.display = 'none';
 });

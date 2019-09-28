@@ -2,7 +2,7 @@
 address = "Rue du laveu 30, 4000 Liège (Bonjour)"
 category = "cours"
 date = "2019-09-25"
-enddate = "02019/12/18"
+enddate = "2019-12-18"
 img = "/assets/uploadsOut/AdobeStock_214582274.jpeg"
 schedule_in = "15:00"
 schedule_out = "16:00"

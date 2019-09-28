@@ -2,7 +2,7 @@
 address = ""
 category = "cours"
 date = "2019-09-28"
-enddate = "02019/12/20"
+enddate = "2019-12-20"
 img = "/assets/uploadsOut/sunset-RÜŞTÜ BOZKUŞ.jpg"
 schedule_in = "09:30"
 schedule_out = "10:30"

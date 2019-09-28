@@ -1,6 +1,6 @@
 ---
 title: Catégorie stages
-date: 2019-12-02
+date: "2019-12-02"
 schedule_in: '11:00'
 schedule_out: '13:00'
 address: Rue Paradis, 66 à 4000 Liège
