@@ -16,7 +16,7 @@ const imgDest = "public/assets/uploadsOut";
 
 function images() {
     return src(imgSrc)
-        .pipe(gulpNewer(imgDest))
+        .pipe(gulpNewer(imgSrc))
         .pipe(imagemin([    
             imagemin.gifsicle({interlaced: true}),
             imagemin.jpegtran({progressive: true}),
