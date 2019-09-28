@@ -1,5 +1,5 @@
 ---
-title: 'Cours de yoga adultes /Mardi soir I '
+title: Cours de yoga adultes /Mardi soir I
 date: 2019-09-16
 schedule_in: '18:00'
 schedule_out: '19:00'
