@@ -7,10 +7,7 @@ address: Bvd Kleyer 107, 4000 Liège (Espace Corps et Conscience)
 img: "/assets/uploadsOut/AdobeStock_216060429.jpeg"
 category: cours
 heure_de_fin: '12:00'
+enddate: 
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt piscing elit, sed do eiusmod tempor incididunt piscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt piscing elit, sed do eiusmod tempor incididunt piscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt piscing elit, sed do eiusmod tempor incididunt piscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.
+Cours semi collectifs pour adultes, niveau débutant et intermédiaire
