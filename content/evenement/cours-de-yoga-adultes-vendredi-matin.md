@@ -9,4 +9,4 @@ schedule_out = "10:15"
 title = "Cours de yoga adultes /Vendredi matin"
 
 +++
-Cours semi-collectifs pour adultes, niveau débutant et intermédiaire. Possibilité de débuter à n'importe quel moment de l'année.
+Cours collectifs pour adultes, niveau débutant et intermédiaire. Possibilité de débuter toute l'année.
