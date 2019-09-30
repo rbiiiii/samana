@@ -1,5 +1,5 @@
 ---
-title: Catégorie retraites
+title: Retraite Yoga et méditation
 date: 2020-04-05
 schedule_in: '9:00'
 schedule_out: '10:00'
