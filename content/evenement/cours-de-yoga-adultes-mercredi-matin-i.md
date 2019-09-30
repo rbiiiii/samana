@@ -9,4 +9,4 @@ schedule_out = "10:30"
 title = "Cours de yoga adultes /Mercredi matin I "
 
 +++
-Cours collectifs pour adultes, niveau débutant et intermédiaire. Possibilité de débuter toute l'année.
+Cours collectifs d'1h15 pour adultes, niveau débutant et intermédiaire. Possibilité de débuter toute l'année.
