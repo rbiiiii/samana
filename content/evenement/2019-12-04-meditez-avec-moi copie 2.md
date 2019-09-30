@@ -2,8 +2,8 @@
 title: Retraite Yoga et méditation
 date: 2020-04-05
 schedule_in: '9:00'
-schedule_out: '10:00'
-address: ''
+schedule_out: '18:00'
+address: Desert
 img: "/assets/uploadsOut/AdobeStock_187432957.jpeg"
 enddate: 2020-04-11
 category: stages
