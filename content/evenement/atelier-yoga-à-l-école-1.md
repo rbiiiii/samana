@@ -9,4 +9,4 @@ schedule_out = "17:00"
 title = "Atelier Yoga à l'école Don Bosco"
 
 +++
-Cours de yoga en activité extra scolaire pour les élèves de l'école primaire Don Bosco dès 8 ans.
+Cours de yoga en activité extra scolaire pour les élèves de l'école primaire Don Bosco dès 8 ans. 
