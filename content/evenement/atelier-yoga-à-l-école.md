@@ -10,4 +10,4 @@ schedule_out = "17:00"
 title = "Atelier Yoga à l'école Saint-Maur "
 
 +++
-Cours de yoga en activité extra scolaire pour les élèves de l'école primaire de Saint-Maur dès 8 ans.
+Cours de yoga en activité extra scolaire pour les élèves de l'école primaire de Saint-Maur dès 8 ans. 
