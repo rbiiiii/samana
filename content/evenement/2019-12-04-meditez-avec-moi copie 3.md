@@ -1,15 +1,12 @@
 ---
 title: Catégorie stages
-date: "2019-12-02"
-schedule_in: '11:00'
-schedule_out: '13:00'
-address: Rue Paradis, 66 à 4000 Liège
-img: "/assets/uploadsOut/meditation-full-medium.jpg"
+date: 2019-12-23
+schedule_in: '09:00'
+schedule_out: '16:00'
+address: Quartier Laveu-Cointe
+img: "/assets/uploadsOut/AdobeStock_134920437.jpeg"
 category: stages
+enddate: 2019-12-27
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt piscing elit, sed do eiusmod tempor incididunt piscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt piscing elit, sed do eiusmod tempor incididunt piscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt piscing elit, sed do eiusmod tempor incididunt piscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.
+Stage pour enfants dès 8 ans : yoga, méditation, philosophie et rires garantis :-)!
