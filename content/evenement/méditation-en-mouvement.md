@@ -9,4 +9,4 @@ schedule_out = "20:30"
 title = "Méditation en Mouvement"
 
 +++
-Pratique méditative d’1h30 comprenant des moments de méditation axés sur l’instant présent, des mouvements de yoga, des partages de lectures et des visualisations. Pas de prérequis spécifiques pour y participer. (-> 04/10, 25/10, 08/11, 22/11, 06/12 <-)
+Pratique méditative d’1h30 avec méditation, yoga, lectures et visualisations. (-> 04/10, 25/10, 08/11, 22/11, 06/12 <-)
