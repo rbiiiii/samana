@@ -9,6 +9,4 @@ category: cours
 enddate: 2019-12-17
 
 ---
-Cours collectifs pour adultes, niveau débutant et intermédiaire. 
-
-Bienvenue toute l'année.
+Cours collectifs pour adultes, niveau débutant et intermédiaire. Possibilité de débuter toute l'année.
