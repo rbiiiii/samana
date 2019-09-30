@@ -1,5 +1,5 @@
 ---
-title: Catégorie stages
+title: Stage pour enfant congé de Noël
 date: 2019-12-23
 schedule_in: '09:00'
 schedule_out: '16:00'
