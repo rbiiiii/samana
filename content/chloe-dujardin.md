@@ -52,7 +52,7 @@ content_blocks:
 formations:
 - text: Certification comme professeur de yoga  de 500h sur 4 années en cours de finalisation  (2020)
     auprès de Philip Rigo à Liège. (Certification reconnue par l’ADEPS et la Fédération
-    belge d'hébertisme et de Yoga).
-- text: Membre de la Fédération belge d'herbétisme et de yoga.
+    belge d'Hébertisme et de Yoga).
+- text: Membre de la Fédération belge d'Hébertisme et de yoga.
 
 ---
