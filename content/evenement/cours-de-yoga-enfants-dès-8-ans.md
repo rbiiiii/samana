@@ -9,4 +9,4 @@ schedule_out = "15:00"
 title = "Cours de yoga enfants (dès 8 ans)"
 
 +++
-Cours semi-collectifs pour enfants dès 8 ans et jusque 12 ans. Pratique du yoga adaptée à leur age, moment de calme et de sérénité assuré!
+Cours collectifs d'1h pour enfants dès 8 ans et jusque 12 ans. Pratique du yoga adaptée à leur age, moment de calme et de sérénité assuré!
