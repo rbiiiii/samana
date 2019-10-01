@@ -1,5 +1,5 @@
 +++
-address = "Bvd Kleyer 107, 4000 Liège (Espace Corps et Conscience)"
+address = "Rue de la Justice 20, 4420 Saint-Nicolas (Tout Coquelicot)"
 category = "cours"
 date = "2019-09-28"
 enddate = "2019-12-20"
