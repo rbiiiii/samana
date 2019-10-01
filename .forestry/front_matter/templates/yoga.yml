@@ -45,5 +45,14 @@ fields:
     - type: textarea
       name: text
       label: Paragraphe
+- name: text_under_price
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Text en dessous du tarif
 pages:
 - content/yoga.md
