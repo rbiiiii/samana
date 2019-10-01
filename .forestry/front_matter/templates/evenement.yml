@@ -61,10 +61,11 @@ fields:
     maxSize: 250
   label: Image
 pages:
+- content/evenement/atelier-yoga-à-l-école-1.md
+- content/evenement/atelier-yoga-à-l-école.md
+- content/evenement/méditation-en-mouvement.md
 - content/evenement/cours-de-yoga-adultes-mardi-soir-ii.md
 - content/evenement/cours-de-yoga-adultes-samedi-matin.md
-- content/evenement/méditation-en-mouvement.md
-- content/evenement/atelier-yoga-à-l-école.md
 - content/evenement/cours-de-yoga-adultes-mercredi-matin-ii.md
 - content/evenement/2019-12-04-meditez-avec-moi copie 2.md
 - content/evenement/2019-12-04-meditez-avec-moi copie 3.md
@@ -73,5 +74,4 @@ pages:
 - content/evenement/cours-de-yoga-adultes-vendredi-matin.md
 - content/evenement/cours-de-yoga-adultes-mercredi-matin-i.md
 - content/evenement/2019-12-04-meditez-avec-moi copie.md
-- content/evenement/atelier-yoga-à-l-école-1.md
 - content/evenement/atelier-yoga-avec-bal-spécial.md
