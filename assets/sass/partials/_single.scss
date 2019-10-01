@@ -160,6 +160,11 @@
 	}
 }
 
+.yoga-prix__text-under {
+	max-width: 800px;
+	margin:$su auto 0 auto;
+}
+
 #yoga-horaire {
 
 	h2 {
@@ -376,10 +381,12 @@ img.agenda__icons {
 .contact-content__name {
 	text-transform: uppercase;
 	margin-top:$su*2;
+	margin-bottom:0;
 	font-size: 1.4rem;
 }
 
 .contact-content__tel {
+	margin-top:0;
 	margin-bottom:0;
 	font-size: 1.4rem;
 }

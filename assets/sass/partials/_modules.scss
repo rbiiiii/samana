@@ -284,6 +284,10 @@ figure {
             @include fs-s;
         }
 
+        @media screen and (min-width: 980px) {
+            font-size: 1.1rem;
+        }
+
         @media (hover: none) and (pointer: coarse) {
             opacity:1;
         }
