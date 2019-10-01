@@ -44,12 +44,15 @@
     </section>
 
     <section class="single-section single-section--price cw" id="yoga-prix">
-        <h2 class="ff-i">Tarif</h2>
+        <h2 class="ff-i">Tarifs</h2>
         {{ partial "price.html" (dict "type" "yoga" "data" $.Site.Data.tarif_yoga) }}
+        {{ with .Params.text_under_price }}
+            <p class="yoga-prix__text-under">{{.}}</p>
+        {{ end }}
     </section>
 
     <section class="single-section cw" id="yoga-horaire">
-        <h2 class="ff-i">Horaire</h2>
+        <h2 class="ff-i">Horaires</h2>
         {{ partial "horaire-yoga.html" . }}
     </section>
 

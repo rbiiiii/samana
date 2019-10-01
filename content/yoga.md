@@ -53,5 +53,5 @@ offre_blocks:
       prendre de meilleures décisions… Cela peut s’inscrire dans une politique de
       gestion des ressources humaines ouverte à des expériences différentes et constructive
       pour le bien-être du personnel.
-
+text_under_price: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus fermentum erat non nunc rutrum luctus. Integer a augue scelerisque, bibendum urna a, consectetur metus. Sed nec maximus nisl, ut posuere risus. Etiam finibus tristique magna. Pellentesque id diam porttitor, tempus libero ac, ullamcorper dolor. Morbi magna ipsum, blandit ac nunc ac, fringilla lobortis enim. Ut blandit est iaculis, facilisis arcu id, vulputate tortor. Suspendisse volutpat tortor non eros faucibus consequat. Sed a lectus in nisl mattis molestie vitae sit amet eros. Donec et eros et mi tempor congue eget ac nibh. Mauris tortor lectus, elementum sit amet consectetur vel, aliquam eu leo. Nam in eros gravida, convallis sem a, pellentesque tellus. Maecenas commodo nisi viverra, pulvinar urna sed, dignissim erat. Sed in lacus urna. Nulla nec dictum neque. Suspendisse potenti. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus fermentum erat non nunc rutrum luctus. Integer a augue scelerisque, bibendum urna a, consectetur metus. Sed nec maximus nisl, ut posuere risus."
 ---
