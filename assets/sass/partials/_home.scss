@@ -1,5 +1,11 @@
-#home-intro, #home-intro .fullw-img-wrapper {
+#home-intro, #home-intro .fullw-img-wrapper, #home-contact {
     overflow: hidden;
+
+    figcaption {
+        left:50%;
+        transform: translateX(-50%);
+        width:100%;
+    }
 }
 
 #home-welcome {

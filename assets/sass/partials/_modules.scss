@@ -72,6 +72,10 @@ figure {
     
     figcaption {
         position:absolute;
+        left:0;
+        @supports (display:grid) {
+            left:auto;
+        }
         color:$white;
         @include ff-l;
         font-size:20px;
