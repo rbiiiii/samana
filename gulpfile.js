@@ -12,7 +12,7 @@ function minify() {
 }
 
 const imgSrc = "static/assets/uploads/**";
-const imgDest = "public/assets/uploadsOut";
+const imgDest = "static/assets/uploadsOut";
 
 function images() {
     return src(imgSrc)
