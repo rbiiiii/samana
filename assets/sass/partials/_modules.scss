@@ -62,7 +62,7 @@ figure {
     height:auto;
     display:block;
     object-fit: cover;
-    max-height: 800px;
+    max-height: 500px;
 }
 
 .fullw-img-wrapper {
@@ -76,6 +76,7 @@ figure {
         @supports (display:grid) {
             left:auto;
         }
+        max-height: 100%;
         color:$white;
         @include ff-l;
         font-size:20px;

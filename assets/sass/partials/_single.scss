@@ -27,6 +27,13 @@
 	}
 }
 
+#chloe-intro {
+
+	.fullw-img {
+		max-height:800px;
+	}
+}
+
 #chloe-content {
 	margin:$su*4 auto;
 
@@ -170,6 +177,13 @@
 	h2 {
 		text-align: center;
 		margin-bottom: $su*2;
+	}
+}
+
+#meditation-intro {
+
+	.fullw-img, figcaption {
+		max-height: 650px;
 	}
 }
 
