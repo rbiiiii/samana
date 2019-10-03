@@ -9,4 +9,4 @@ category: stages
 enddate: 2019-12-27
 
 ---
-Stage pour enfants dès 8 ans : yoga, méditation, philosophie et rires garantis :-)!
+Stage pour enfants dès 8 ans : yoga, méditation, philosophie et rires garantis :-)! 75€ (4 jours)
