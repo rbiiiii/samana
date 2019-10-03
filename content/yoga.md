@@ -55,7 +55,7 @@ offre_blocks:
       pour le bien-être du personnel.
 text_under_price: "Année scolaire 2019-2020:                                                                                                \n-
   1er trimestre (16 septembre au 21 décembre 2019 inclus): 13 séances soit 170 €/120€
-  pris réduit.                                                                                                                         \n
+  \n   pris réduit.                                                                                                                         \n
   - 2ème ( 06 janvier au 3 avril 2020 inclus): 12 séances soit 155 €/110€ prix réduit.
   \         \n - 3ème (15 avril au 20 juin 2020 inclus): 8 séances soit 105 €/75€
   prix réduit.\n\nLes prix réduits concernent les personnes étudiantes, au chômage,
