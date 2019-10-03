@@ -53,5 +53,18 @@ offre_blocks:
       prendre de meilleures décisions… Cela peut s’inscrire dans une politique de
       gestion des ressources humaines ouverte à des expériences différentes et constructive
       pour le bien-être du personnel.
-text_under_price: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus fermentum erat non nunc rutrum luctus. Integer a augue scelerisque, bibendum urna a, consectetur metus. Sed nec maximus nisl, ut posuere risus. Etiam finibus tristique magna. Pellentesque id diam porttitor, tempus libero ac, ullamcorper dolor. Morbi magna ipsum, blandit ac nunc ac, fringilla lobortis enim. Ut blandit est iaculis, facilisis arcu id, vulputate tortor. Suspendisse volutpat tortor non eros faucibus consequat. Sed a lectus in nisl mattis molestie vitae sit amet eros. Donec et eros et mi tempor congue eget ac nibh. Mauris tortor lectus, elementum sit amet consectetur vel, aliquam eu leo. Nam in eros gravida, convallis sem a, pellentesque tellus. Maecenas commodo nisi viverra, pulvinar urna sed, dignissim erat. Sed in lacus urna. Nulla nec dictum neque. Suspendisse potenti. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus fermentum erat non nunc rutrum luctus. Integer a augue scelerisque, bibendum urna a, consectetur metus. Sed nec maximus nisl, ut posuere risus."
+text_under_price: |-
+  Année scolaire 2019-2020 :
+  - 1er trimestre (16 septembre au 21 décembre 2019 inclus): 13 séances soit 170 €/120€ pris réduit.
+  - 2ème ( 08 janvier au 3 avril 2020 inclus): 12 séances soit 155 €/110€ prix réduit.
+  - 3ème (15 avril au 20 juin 2020 inclus): 9 séances soit 120 €/85€ prix réduit.
+
+  Les prix réduits concernent les personnes étudiantes, au chômage, en situation de maladie ou invalidité et les familles mono-parentales.
+
+  Les cours peuvent être réglés en espèces ou par virement sur le compte IBAN suivant: BE09 0636 6795 3957 de Chloé Dujardin. Certaines mutuelles interviennent partiellement dans le prix de l’abonnement jusqu'à 40€ par an, renseignez-vous.
+
+  Concernant les abonnements : si vous êtes absent, la séance peut-être récupérée à un autre horaire pendant le même trimestre. Si vous vous inscrivez en cours de trimestre, vous payerez uniquement les leçons à venir.
+
+  Il est tout à fait possible d'étaler le paiement d'un abonnement alors n'hésitez pas à m'en parler. Je ne souhaite pas que l’argent soit un frein à votre pratique.
+
 ---
