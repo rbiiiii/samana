@@ -61,11 +61,11 @@ text_under_price: "Année scolaire 2019-2020:                                   
   prix réduit.\n\nLes prix réduits concernent les personnes étudiantes, au chômage,
   en situation de maladie ou invalidité et les familles mono-parentales. \n\nLes cours
   peuvent être réglés en espèces ou par virement sur le compte IBAN suivant: BE09
-  0636 6795 3957 de Chloé Dujardin. Certaines mutuelles interviennent partiellement
-  dans le prix de l’abonnement jusqu'à 40€ par an, renseignez-vous. \n\nConcernant
-  les abonnements : si vous êtes absent, la séance peut-être récupérée à un autre
-  horaire pendant le même trimestre. Si vous vous inscrivez en cours de trimestre,
-  vous payerez uniquement les leçons à venir. \n\nIl est tout à fait possible d'étaler
-  le paiement d'un abonnement, nous pouvons en parler en toute discrétion. "
+  0636 6795 3957 de Chloé Dujardin. Certaines mutuelles interviennent dans le prix
+  de l’abonnement jusqu'à 40€ par an, renseignez-vous. \n\nConcernant les abonnements
+  : si vous êtes absent, la séance peut-être récupérée à un autre horaire pendant
+  le même trimestre. Si vous vous inscrivez en cours de trimestre, vous payerez uniquement
+  les leçons à venir. \n\nIl est tout à fait possible d'étaler le paiement d'un abonnement,
+  nous pouvons en parler en toute discrétion. "
 
 ---
