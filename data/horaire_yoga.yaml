@@ -39,16 +39,7 @@
     duration: 4
     category: ados
 - title: Jeudi
-  blocks:
-  - start: 10h
-    end: 12h
-    duration: 8
-    category: adultes
-  - start: 16h
-    end: 17h
-    duration: 4
-    category: enfants
-    subtext: "(Ecole Don Bosco)"
+  blocks: []
 - title: Vendredi
   blocks:
   - start: 9h15
