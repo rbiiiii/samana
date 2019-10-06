@@ -6,7 +6,7 @@ $widthUnit: 120px;
 	position:relative;
 	width:7.753846 * $widthUnit;
 	height:$heightUnit*52;
-	margin:0 auto $su*8 auto;
+	margin:0 auto;
 	@include ff-l;
 	border:1px solid $green;
 
@@ -138,12 +138,11 @@ $widthUnit: 120px;
 	}
 
 	small {
-		font-size:0.8rem;
+		font-size:0.7rem;
 	}
 }
 
 .schedule-mobile {
-	margin-bottom:$su*8;
 	display: flex;
 	flex-direction: column;
 

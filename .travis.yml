@@ -1,0 +1,18 @@
+dist: xenial
+sudo: required
+language: node_js
+node_js:
+- lts/*
+install:
+- wget "https://github.com/gohugoio/hugo/releases/download/v${HUGO_RELEASE}/hugo_extended_${HUGO_RELEASE}_Linux-64bit.deb"
+- sudo dpkg -i hugo*.deb
+script:
+- hugo version
+- hugo -F
+env:
+  global:
+  - PRODUCTION=true
+  - HUGO_RELEASE=0.58.3
+before_install:
+- openssl aes-256-cbc -K $encrypted_1e748dde8e80_key -iv $encrypted_1e748dde8e80_iv
+  -in deploy_rsa.enc -out deploy_rsa -d
