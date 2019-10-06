@@ -47,7 +47,7 @@
         <h2 class="ff-i">Tarifs</h2>
         {{ partial "price.html" (dict "type" "yoga" "data" $.Site.Data.tarif_yoga) }}
         {{ with .Params.text_under_price }}
-            <p class="yoga-prix__text-under">{{.}}</p>
+            <div class="yoga-prix__text-under">{{ . | markdownify }}</div>
         {{ end }}
     </section>
 
