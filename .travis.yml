@@ -37,3 +37,9 @@ deploy:
   script: rsync -r --quiet --delete-after ${TRAVIS_BUILD_DIR}/public/* ${DEPLOY_USER}@${DEPLOY_HOST}:${DEPLOY_DIRECTORY}
   on:
     branch: master
+notifications:
+  email:
+    recipients:
+      - bonjour@studiocolibri.be
+    on_success: never # default: change
+    on_failure: always # default: always
