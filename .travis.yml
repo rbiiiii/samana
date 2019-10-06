@@ -17,11 +17,12 @@ env:
   - secure: cJruCLf3X1xb3NPJOTzFPbc9PQhDzF0dzuA4P7YdMnVJzQNMDrSVgsvJl2NPmrUGFL18mCFuId445w9+jzsIysEKS3PFEPOEpMhKzV2+wXrJqNo62s+ITDIIhkQtTWLuvYHPTVHyYzCmLyQs2B8fnFNCjTpYd4QiRM7nKufSaRSzRYAuxqnsE5/B+VjZf2DpKiIgAni81rxTuXy8qLSLV68azvx867MHz7mqjNOAU4UwDLIghwcwwTmipfnV7Jz9ItFHBGmQt042x7g/hONOwZBICz4L7RHrWKpwavIkW91TJb9UfQkGMefuS7pgj95cy5IdKCLBg4qh8GRfeodSRmBreShXHtgB/Sp0HdXz/CRrgZUy8H9WhNmJXy5kpWhhekBbJI5KgI5fx+04ZME4xoXOabAshveZ7vB1OiFOjuNWcKOIeufb1fu9aLjHI09l/p1orzMWQBks9qkueUQWOV4mErYTQQU6oLPwnoAorgfdwoOv+lu7UAiCcOLwnWORKH48dctjXYVrAAp+sxypMPhqQS9mT2hiU2zHY84xe5AIoWswV+8uvygLUos/8dowstpWEANepHuW6ULnYtF54bzgm4J+j47rorY2U9RA/66se39awYSQ5mtnx0AE43XaGA0SUCBnnn18P7w8CG1rxoA0NV4AkBffG1wrsDhRn14=
   - secure: mGhOBsGD+EpIy4x0g4pjDphy2hTLDunm0GGQesvrDrIiEOfcKMiwkcKiE4ygMr6XZKJ8JFcs+wZk1tJeMuEurjIQLZRJfITIhujH3aarxQ9tAvhI+OkFRlDAr4822jS9XQQ+wzcThc4biCwVx1U1bIzieD4qkiIqTvPQZYwnCcjm7lOSWd2rst9OM1gbPeGYvjO5db7yu7hEqjfV2QgFBikcyYy2YEOAECD2xfzhTnE6Pd8SI5p1zWOrgqQ7IPTebI+AIPIS6BD6stT+IkliD7trWIU6b8kmDVtDwF6cIKqGN2H3D+1u/qr2g32uvI3exvYbFADTJWWEm6qNvya3HjMH9UIze9b/31xPEtkLWWbJ3Z5xUoLBhRn5Ym8rIbApFjk71tEDt5IlDJr0tHazcncNd8n22QSi86S4Lk0BTnD5Ymc0kFqmL8KlCuskd4MX7vozI8YIhWJR3CaNOEY+XLwp9qsx/CNUiDysFHskO7NKi9NRevFLl3qd+iThk8KwP+W/KG4/ScqiGuqSjjTdbgnk/+vbAplwhPgO4hwv7YB38WITG1+3iuSwDH7tswo+1aMUNr9edXBK6cgPPREf/I+wzyZYmLs0ZCh5QkhwkJ3xhPoAtwZPrzB6e1dc9OuQwyolIITqsFEtiRZZLk7FQ8ZG7IPBuqBOV7dHqEkhyv4=
 before_deploy:
-  - openssl aes-256-cbc -K $encrypted_1e748dde8e80_key -iv $encrypted_1e748dde8e80_iv -in deploy_rsa.enc -out /tmp/deploy_rsa -d
-  - eval "$(ssh-agent -s)"
-  - chmod 600 /tmp/deploy_rsa
-  - ssh-add /tmp/deploy_rsa
-  - echo -e "Host ${DEPLOY_HOST}\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
+- openssl aes-256-cbc -K $encrypted_1e748dde8e80_key -iv $encrypted_1e748dde8e80_iv
+  -in deploy_rsa.enc -out deploy_rsa -d
+- eval "$(ssh-agent -s)"
+- chmod 600 /tmp/deploy_rsa
+- ssh-add /tmp/deploy_rsa
+- echo -e "Host ${DEPLOY_HOST}\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
 deploy:
   provider: script
   skip-cleanup: true
