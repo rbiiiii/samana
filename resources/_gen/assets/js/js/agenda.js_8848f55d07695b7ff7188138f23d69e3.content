@@ -50,7 +50,7 @@ for (var i = 0; i < agendaFilters.length; i++) {
 
 deleteFilters.addEventListener('click', function() {
     var agendaItems = document.querySelectorAll('.agenda-list__item');
-    for (var i = 0; i < agendaFilters.length; i++) {
+    for (var i = 0; i < agendaItems.length; i++) {
         agendaItems[i].style.display = 'block';
     }
     deleteFilters.style.display = 'none';
