@@ -86,7 +86,7 @@
 
     @media screen and (min-width: 980px) {
         order:initial;
-        max-width: 20em;
+        max-width: 22em;
     }
 
     a {
@@ -96,6 +96,11 @@
     p {
         @include fs-s; 
     }
+}
+
+.site-footer__green-badge {
+    width:180px;
+    filter:sepia(100%) grayscale(40%);
 }
 
 .site-footer__nav {
