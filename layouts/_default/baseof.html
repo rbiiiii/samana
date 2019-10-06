@@ -9,7 +9,8 @@
     <meta name="viewport" content="width=device-width,minimum-scale=1">
     <title>{{ block "title" . }}{{ .Site.Title }}{{ with .Params.Title }} | {{ . }}{{ end }}{{ end }}</title>
     <meta name="author" content='{{ .Site.Params.Author }}' />
-    <meta name="description" content='{{ .Site.Params.Description }}' />
+    <meta name="description" content='{{ if .Params.intro_text }}{{ $text := index .Params.intro_text 0 }}
+  {{ $text.text }}{{ else }}{{ $.Site.Params.Description }}{{ end }}' />
     <meta property="og:type" content="website" />
   	<meta property="og:url" content="{{ .Permalink }}" />
     <meta property="og:title" content="{{ .Site.Title }} {{ with .Params.Title }} | {{ . }}{{ end }}" />
