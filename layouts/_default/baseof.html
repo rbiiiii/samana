@@ -15,7 +15,7 @@
   	<meta property="og:url" content="{{ .Permalink }}" />
     <meta property="og:title" content="{{ .Site.Title }} {{ with .Params.Title }} | {{ . }}{{ end }}" />
     <meta property="og:description" content='{{ .Site.Params.Description }}' />
-    <meta property="og:image" content="{{ .Site.BaseURL }}assets/img/expo-darwin-l-original-social.jpg" />
+    <meta property="og:image" content="{{ .Site.BaseURL }}assets/img/home-intro.jpg" />
     <meta property="og:site_name" content="{{ .Site.Title }}" />
     {{ $style := resources.Get "sass/main.scss" | resources.ToCSS | resources.PostCSS | resources.Minify | resources.Fingerprint }}
     <link rel="stylesheet" type="text/css" href="{{ $style.Permalink | relURL }}">
