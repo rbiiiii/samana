@@ -12,10 +12,10 @@ intro_text:
     et ralentir.
 vision_title: Ma vision <span class="ff-i">du yoga</span>
 vision_text:
-- text: 'J’enseigne le yoga selon la tradition issue de  l’enseignement de Krishnamacharya et
-    de TKV Desikachar. Je propose une pratique du yoga qui s’adapte aux besoins et
-    aux capacités de l’élève, en fonction de l’âge, de la période de l’année, le moment
-    de la journée, et de la condition physique et psychique. '
+- text: 'Mes cours de yoga collectifs à Liège se déroulent selon la tradition de l’enseignement
+    de Krishnamacharya et de TKV Desikachar. Je propose une pratique du yoga qui s’adapte
+    aux besoins et aux capacités de l’élève, en fonction de l’âge, de la période de
+    l’année, le moment de la journée, et de la condition physique et psychique. '
 - text: Mon objectif avec mes cours de yoga (postures, chant védique et méditation)
     est de vous initier à cette magnifique tradition, à la profondeur de son apport
     et à la légèreté qu’elle peut apporter dans votre quotidien.
