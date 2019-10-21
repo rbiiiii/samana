@@ -23,8 +23,8 @@ vision_text:
     enfuies, d’autres encore se sentiront reposés ou remplis d’énergie… Pratiquer
     le yoga revient à se remettre en contact chaque semaine avec une partie de soi
     qui n’a pas souvent le temps d’exister librement. '
-- text: 'Le yoga pour trouver son chemin où que l’on soit dans la vie et à n’importe
-    quel âge.   '
+- text: 'Un cours de yoga à Liège pour trouver son chemin où que l’on soit dans la
+    vie et à n’importe quel âge.   '
 offre_blocks:
 - block:
     title: Cours adultes débutants & intermédiaires
