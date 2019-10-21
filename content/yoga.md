@@ -4,9 +4,9 @@ type: yoga
 title: Yoga
 intro_text:
 - text: 'Cours de yoga à Liège, dans la tradition du Viniyoga de TKV Desikachar. Je
-    propose une pratique authentique du yoga sur les hauteurs de Liège. Un cours de
-    yoga où l’essentiel est basé sur le  souffle, une respiration qui lie le corps
-    et l’esprit. '
+    propose une pratique authentique du yoga sur les hauteurs de Liège (Cointe et
+    laveu). Un cours de yoga où l’essentiel est basé sur le  souffle, une respiration
+    qui lie le corps et l’esprit. '
 - text: <span class="ff-i">Le yoga pour moi</span>, c’est partager mon regard sur
     la vie au quotidien sans prétention, s’offrir un certain recul, un peu de hauteur
     et ralentir.
