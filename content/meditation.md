@@ -3,11 +3,12 @@ slug: meditation
 type: meditation
 title: Méditation
 intro_text:
-- text: La méditation de pleine conscience est la qualité de conscience qui émerge
-    lorsqu’on tourne intentionnellement son esprit vers le moment présent. C’est l’attention
-    portée à l’expérience vécue et éprouvée, sans filtre (on accepte ce qui vient),
-    sans jugement (on ne décide pas si c’est bien ou mal, désirable ou non), sans
-    attente (on ne cherche pas quelque chose de précis). Christophe André
+- text: "Méditation à Liège. \nLa méditation de pleine conscience est la qualité de
+    conscience qui émerge lorsqu’on tourne intentionnellement son esprit vers le moment
+    présent. C’est l’attention portée à l’expérience vécue et éprouvée, sans filtre
+    (on accepte ce qui vient), sans jugement (on ne décide pas si c’est bien ou mal,
+    désirable ou non), sans attente (on ne cherche pas quelque chose de précis). Christophe
+    André"
 - text: <span class="ff-i">La méditation pour moi</span> est une manière d’être, c’est
     observer mon esprit tel qu’il est en profondeur, en toute clarté et bienveillance.
 content_blocks:
