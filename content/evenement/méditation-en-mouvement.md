@@ -9,6 +9,4 @@ schedule_out = "20:30"
 title = "Méditation en Mouvement"
 
 +++
-Pratique méditative d’1h30 avec méditation, yoga, lectures et visualisations. 04/10, 25/10, 08/11, 06/12
-
-Tickets en ligne: [https://www.eventbrite.com/e/meditation-en-mouvement-tickets-77979196877](https://www.eventbrite.com/e/meditation-en-mouvement-tickets-77979196877 "https://www.eventbrite.com/e/meditation-en-mouvement-tickets-77979196877")
+Pratique d’1h30 avec méditation, yoga, lectures et visualisations: 25/10, 08/11, 06/12. Tickets: [https://www.eventbrite.com/e/meditation-en-mouvement-tickets-77979196877](https://www.eventbrite.com/e/meditation-en-mouvement-tickets-77979196877 "https://www.eventbrite.com/e/meditation-en-mouvement-tickets-77979196877")
