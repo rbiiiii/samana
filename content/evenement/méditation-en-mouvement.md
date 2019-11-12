@@ -1,8 +1,8 @@
 +++
 address = "Bvd Kleyer 107, 4000 Liège (Espace Corps et Conscience)"
-category = "cours"
-date = "2019-10-04"
-enddate = "2019-12-06"
+category = "ateliers"
+date = 2019-10-04T00:00:00Z
+enddate = 2019-12-06T00:00:00Z
 img = "/assets/uploadsOut/Meditation enmvt.jpeg"
 schedule_in = "19:00"
 schedule_out = "20:30"

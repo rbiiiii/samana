@@ -61,8 +61,8 @@ fields:
     maxSize: 250
   label: Image
 pages:
-- content/evenement/atelier-yoga-et-philosophie.md
 - content/evenement/méditation-en-mouvement.md
+- content/evenement/atelier-yoga-et-philosophie.md
 - content/evenement/atelier-yoga-à-l-école.md
 - content/evenement/atelier-yoga-à-l-école-1.md
 - content/evenement/atelier-yoga-avec-bal-spécial.md
