@@ -1,0 +1,14 @@
++++
+address = "Rue de la Justice 20, 4420 Saint-Nicolas (Tout Coquelicot)"
+category = "ateliers"
+date = 2019-11-17T00:00:00Z
+draft = true
+enddate = 2019-11-17T00:00:00Z
+img = "/assets/uploadsOut/Ajouter un sous-titre (1).png"
+schedule_in = "09:30"
+schedule_out = "11:30"
+title = "Atelier Yoga et philosophie"
+
++++
+Une pratique du yoga en lien avec une partie des écrits fondateurs du yoga de Patanjali écrits il y a plus de 1500 ans.  
+Dimanches 17/11 et 15/12 de 9h30 à 11h30. (20€ ou 30€ pour les deux)
