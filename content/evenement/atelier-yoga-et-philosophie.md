@@ -9,3 +9,5 @@ schedule_out = "11:30"
 title = "Atelier Yoga et philosophie"
 
 +++
+Une pratique du yoga en lien avec une partie des écrits fondateurs du yoga de Pantajali écrits il y a plus de 1500 ans.  
+Dimanches 17/11 et 15/12 de 9h30 à 11h30. (20€ ou 30€ pour les deux)
