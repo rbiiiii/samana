@@ -57,7 +57,7 @@ offre_blocks:
 text_under_price: |-
   **Cours de yoga à Liège, année scolaire 2019-2020 :**
 
-  * 1er trimestre (16 septembre au 21 décembre 2019 inclus): 13 séances soit 170 €/120 prix réduit.
+  * 1er (16 sept. au 21 déc. 2019 inclus): 13 séances soit 170 €/120€ prix réduit.
   * 2ème ( 06 janvier au 3 avril 2020 inclus): 12 séances soit 155 €/110€ prix réduit.
   * 3ème (15 avril au 20 juin 2020 inclus): 8 séances soit 105 €/75€ prix réduit.
 
