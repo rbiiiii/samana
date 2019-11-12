@@ -9,4 +9,4 @@ category: stages
 enddate: 2019-12-31
 
 ---
-Stage pour enfants dès 8 ans : yoga, méditation, philosophie et rires garantis :-)! 75€ (4 jours) ou 25€/ jour. Lundi 23/12+Mardi 24/12 & Lundi 30/12+Mardi 31/12.
+Stage pour enfants dès 8 ans : yoga, méditation, philo et rires garantis :-)! 75€ (4 jours) ou 25€/ jour. Lundi 23/12+Mardi 24/12 & Lundi 30/12+Mardi 31/12.
