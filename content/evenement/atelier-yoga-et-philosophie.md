@@ -9,4 +9,4 @@ schedule_out = "11:30"
 title = "Atelier Yoga et philosophie I"
 
 +++
-Une pratique du yoga & les écrits fondateurs du yoga de Patanjali. 2 Dimanches 17/11 et 15/12 de 9h30 à 11h30. (20€ ou 30€ pour les 2)
+Une pratique du yoga & les écrits fondateurs du yoga de Patanjali. Dimanche 17/11, 9h30 à 11h30. (20€)
