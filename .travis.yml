@@ -9,7 +9,9 @@ install:
 before_script:
   - npm install -g gulp-cli
   - npm install
+  - npm upgrade
 script:
+- gulp images
 - hugo version
 - hugo -F
 - gulp minify
