@@ -1,10 +1,6 @@
 ---
 - title: Lundi
   blocks:
-  - start: 9h
-    end: 10h
-    duration: 4
-    category: adultes
   - start: 16h
     end: 17h
     duration: 4
@@ -12,13 +8,13 @@
     subtext: "(Ecole Saint-Maur)"
 - title: Mardi
   blocks:
-  - start: "16h"
-    end: "17h"
+  - start: 16h
+    end: 17h
     duration: 4
     category: enfants
     subtext: "(Don Bosco primaire)"
-  - start: '18h'
-    end: '19h'
+  - start: 18h
+    end: 19h
     duration: 4
     category: adultes
   - start: 19h15
