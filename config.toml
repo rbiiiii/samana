@@ -1,6 +1,6 @@
 baseURL = "https://www.yogasamana.be/"
 disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
 languageCode = "fr-be"
-title = "Yoga Samana | Yoga et meditation à Liège"
+title = "Yoga Samana | Yoga et méditation à Liège"
 [params]
 description = "Chloé Dujardin donne des cours de yoga et de méditation pleine conscience à Liège. Pratique authentique basée sur le souffle qui lie le corps et l’esprit."
