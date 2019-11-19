@@ -1,4 +1,16 @@
 ---
 label: Blog
 hide_body: false
-fields: []
+fields:
+- name: titre
+  type: text
+  config:
+    required: false
+  label: Titre
+  description: Titre de l'article
+- name: photo
+  type: file
+  config:
+    maxSize: 250
+  label: Photo
+  description: Photo de l'article
