@@ -23,6 +23,11 @@ sections:
   label: Evenement
   create: all
   match: "**/*"
+- type: directory
+  path: content/blog
+  label: Blog
+  create: all
+  match: "**/*"
 upload_dir: static/assets/uploads
 public_path: "/assets/uploadsOut"
 front_matter_path: ''
