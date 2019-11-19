@@ -15,4 +15,5 @@ fields:
   label: Photo
   description: Photo de l'article
 pages:
+- content/blog/file.md
 - content/blog/article.md
