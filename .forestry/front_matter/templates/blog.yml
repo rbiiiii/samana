@@ -14,3 +14,5 @@ fields:
     maxSize: 250
   label: Photo
   description: Photo de l'article
+pages:
+- content/blog/article.md
