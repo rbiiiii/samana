@@ -1,5 +1,4 @@
 +++
-draft = true
 photo = "/assets/uploadsOut/AdobeStock_101450117-1.jpeg"
 title = ""
 titre = "Titre de l'article"
