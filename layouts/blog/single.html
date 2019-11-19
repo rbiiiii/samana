@@ -1,0 +1,13 @@
+{{ define "main" }}
+		<main class="site-main main-single">
+				<section class="single-section single-section--price cw">
+						<img style="width:100%" class="agenda-list__img" src="{{.Params.photo}}" alt="Illustration de l'événement {{ .Params.titre }}">
+						<h1>{{ .Params.titre }}</h1>
+						<p class="agenda-list__date "><img class="agenda__icons" src="/assets/img/agenda-when.svg" width="15" height="15"
+								alt="Quand"> 21/12/2020</p>
+						<div class="agenda-list__content" id="blog">
+							{{ .Content }}
+						</div>
+					</section>
+		</main>
+{{ end }}
