@@ -19,7 +19,3 @@ fields:
   config:
     required: false
   label: Description Courte
-pages:
-- content/blog/article3.md
-- content/blog/article2.md
-- content/blog/article.md
