@@ -54,20 +54,19 @@ offre_blocks:
       prendre de meilleures décisions… Cela peut s’inscrire dans une politique de
       gestion des ressources humaines ouverte à des expériences différentes et constructive
       pour le bien-être du personnel.
-text_under_price: "**Cours de yoga à Liège, année scolaire 2019-2020 :**\n\n* 1er
-  (16 sept. au 21 déc. 2019 inclus): 13 séances soit 170 €/120€ prix réduit.\n* 2ème
-  ( 06 janvier au 3 avril 2020 inclus): 12 séances soit 155 €/110€ prix réduit.\n*
-  3ème (15 avril au 20 juin 2020 inclus): 8 séances soit 105 €/75€ prix réduit.\n\nLes
-  prix réduits concernent les personnes étudiantes, au chômage, en situation de maladie
-  ou invalidité et les familles mono-parentales.\n\nLes cours de yoga peuvent être
-  réglés en espèces ou par virement sur le compte IBAN suivant: BE09 0636 6795 3957
-  de Chloé Dujardin. Certaines mutuelles interviennent dans le prix de l’abonnement
-  jusqu'à 40€ par an, renseignez-vous.\n\nConcernant les abonnements aux cours de
-  yoga : si vous êtes absent, la séance peut-être récupérée à un autre horaire pendant
-  le même trimestre. Si vous vous inscrivez en cours de trimestre, vous payerez uniquement
-  les leçons à venir. Il n'y a pas de remboursement d'abonnement en cours de trimestre
-  sauf en cas de raison médicale et sur présentation d'un certificat. \n\nIl est tout
-  à fait possible d'étaler le paiement d'un abonnement, nous pouvons en parler en
-  toute discrétion."
+text_under_price: |-
+  **Cours de yoga à Liège, année scolaire 2019-2020 :**
+
+  * 1er (16 sept. au 21 déc. 2019 inclus): 13 séances soit 170 €/120€ prix réduit.
+  * 2ème ( 06 janvier au 3 avril 2020 inclus): 12 séances soit 155 €/110€ prix réduit.
+  * 3ème (15 avril au 20 juin 2020 inclus): 8 séances soit 105 €/75€ prix réduit.
+
+  Les prix réduits concernent les personnes étudiantes, au chômage, en situation de maladie ou invalidité et les familles mono-parentales.
+
+  Les cours de yoga peuvent être réglés en espèces ou par virement sur le compte IBAN suivant: BE09 0636 6795 3957 de Chloé Dujardin. Certaines mutuelles interviennent dans le prix de l’abonnement jusqu'à 40€ par an, renseignez-vous.
+
+  Concernant les abonnements aux cours de yoga : si vous êtes absent, la séance peut-être récupérée à un autre horaire pendant le même trimestre. Si vous vous inscrivez en cours de trimestre, vous payerez uniquement les leçons à venir. Il n'y a pas de remboursement d'abonnement en cours de trimestre sauf en cas de raison médicale et sur présentation d'un certificat. 15€ sont demandés une fois par an pour l'assurance.
+
+  Il est tout à fait possible d'étaler le paiement d'un abonnement, nous pouvons en parler en toute discrétion.
 
 ---
