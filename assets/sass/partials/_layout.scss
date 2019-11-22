@@ -147,4 +147,36 @@ body * {
   width: 100%;
   margin: 2em auto;  
 }
-  
+div.sticky{
+        // position: -webkit-sticky;
+        position: sticky;
+        top: 0px;
+        width: 20%;
+        height:50%;
+        padding: 0px 50px;
+}
+.block-3-cols{
+    display: flex;
+    flex-direction: row;
+}
+.sticky li{
+    font-size: 1rem;
+
+}
+.nobull{
+    list-style-type: none;
+}
+.sticky ul li:before{
+    line-height: 1em;
+    content: none;
+
+}
+.nobull.button{
+    text-transform: uppercase;
+    letter-spacing: .1em;
+    padding:0px;
+    margin:0px;
+}
+  .strong{
+      font-weight: 900;
+  }

@@ -1,6 +1,7 @@
 +++
 photo = "/assets/uploadsOut/AdobeStock_101450117-1.jpeg"
-titre = "Titre de l'article"
+titre = "Titre de l'article sur la santé"
+cat="Santé"
 
 +++
 

@@ -1,26 +1,77 @@
 {{ define "main" }}
 
-	<section class="single-section" id="agenda-header">
-	</section>
+	
+<section class="single-section" id="agenda-header" style="margin: 120px 40px 0px;text-align: center;">
+		<h2 id="agenda-content">Les actualités<span class="ff-i"> à&nbsp;venir</span></h2>
+</section>
 
-    <section class="single-section cw" id="agenda-content">
-		<h2>Les actualités<span class="ff-i"> à&nbsp;venir</span></h2>
-		<p id="agenda__filter-wrapper" style="display:none;">Filtre : <span id="agenda__filter-text"></span></p>
-		<button id="delete-filters" style="display:none;">Supprimer le filtre</button>
-        <div class="flex-3-cols agenda-list">
+
+<section class="single-section" id="chloe-content" style="margin: 0px auto 40px;">
+	<div class="block-3-cols">	
+		<div class="flex-2-cols" id="blog-content" style="flex-wrap: wrap;margin-left: auto; margin-right: 0px; width: 65%; ">
 			{{ $blog_articles := where $.Site.RegularPages "Section" "blog" }}
-				{{ range $blog_articles.ByDate }}
-						<article class="flex-3-cols__col agenda-list__item">
-						<a href="{{.Permalink}}">
-							<img class="agenda-list__img" src="{{.Params.photo}}" alt="Illustration de l'événement {{ .Params.titre }}">
-							<h3>{{ .Params.titre }}</h3>
-							<p class="agenda-list__date"><img class="agenda__icons" src="/assets/img/agenda-when.svg" width="15" height="15" alt="Quand"> 21/12/2020</p>
-							<div class="agenda-list__content">
-								{{ .Content | truncate 200 }}
-							</div>
-						</article> 
-					</a>
-				{{ end }}	
-        </div>
-    </section>
+			{{ range $blog_articles.ByDate }}
+			<article class="flex-2-cols__col blog-item {{ .Params.cat }}" style="width: calc(50%- #{$su*2}); margin-bottom: 40px;">
+			<a href="{{.Permalink}}">
+				<img class="agenda-list__img" src="{{.Params.photo}} " alt="Illustration de l'événement {{ .Params.titre }}">
+				<h3>{{ .Params.titre }}</h3>
+				<p class="agenda-list__date"><img class="agenda__icons" src="/assets/img/agenda-when.svg" width="15"
+					height="15" alt="Quand"> 21/12/2020</p>
+			<div class="agenda-list__content">
+				{{ .Content | truncate 200 }}
+			</div>
+		</a>
+			</article>
+			{{ end }}
+		</div >
+		<div class="sticky" style="padding: 0px 100px 0px 50px;">
+				<ul class="nobull button">
+						<li data-filter="all" class="blog-filter">ALL CATEGORIES</li>
+					{{ $blog_articles := where $.Site.RegularPages "Section" "blog" }}
+					{{ range $blog_articles.ByDate }}
+						<li data-filter="{{ .Params.cat }}" class="blog-filter">{{ .Params.cat }}</li>
+						{{ end }}
+					  </ul>
+		</div>
+</div>	
+</section>
+<script>
+// 	var blogContent = document.getElementById('blog-content'),
+// 	blogFilters = document.getElementsByClassName('blog-filter'),
+// 	blogItems = document.getElementsByClassName('blog-item');
+	
+// 	for (var i = 0; i < blogFilters.length; i++) {
+//     blogFilters[i].addEventListener('click', function() {
+// 		var filter=this.dataset.filter,
+// 		filterElems= document.getElementsByClassName(filter);
+		
+// 		/*clear bold filters*/
+// 		for(var i=0; i<blogFilters.length;i++){
+// 				blogFilters[i].classList.remove("strong");
+
+// 			}
+// 		this.classList.add("strong");
+
+// 		if(filter!=="all"){
+// 			for(var i=0; i<blogItems.length;i++){
+// 				blogItems[i].style.display="none";
+
+// 			}
+// 			for(var i=0; i<filterElems.length;i++){
+// 				filterElems[i].style.display="block";
+				
+// 			}
+
+// 		}
+// 		else{
+// 			for(var i=0; i<blogItems.length;i++){
+// 				blogItems[i].style.display="block";
+
+// 			}
+// 		}
+//     });
+// }
+
+</script>
+
 {{ end }}

@@ -1,7 +1,8 @@
 +++
 photo = "/assets/uploadsOut/AdobeStock_101450117-1.jpeg"
 title = ""
-titre = "Titre de l'article"
+titre = "Titre de l'article sur l'éducation"
+cat="Éducation"
 
 +++
 
