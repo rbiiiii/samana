@@ -1,77 +1,41 @@
 {{ define "main" }}
 
-	
-<section class="single-section" id="agenda-header" style="margin: 120px 40px 0px;text-align: center;">
-		<h2 id="agenda-content">Les actualités<span class="ff-i"> à&nbsp;venir</span></h2>
-</section>
+	<section class="single-section" id="blog-header">
+		<h2 id="blog-content">Blog</h2>
+	</section>
 
-
-<section class="single-section" id="chloe-content" style="margin: 0px auto 40px;">
-	<div class="block-3-cols">	
-		<div class="flex-2-cols" id="blog-content" style="flex-wrap: wrap;margin-left: auto; margin-right: 0px; width: 65%; ">
-			{{ $blog_articles := where $.Site.RegularPages "Section" "blog" }}
-			{{ range $blog_articles.ByDate }}
-			<article class="flex-2-cols__col blog-item {{ .Params.cat }}" style="width: calc(50%- #{$su*2}); margin-bottom: 40px;">
-			<a href="{{.Permalink}}">
-				<img class="agenda-list__img" src="{{.Params.photo}} " alt="Illustration de l'événement {{ .Params.titre }}">
-				<h3>{{ .Params.titre }}</h3>
-				<p class="agenda-list__date"><img class="agenda__icons" src="/assets/img/agenda-when.svg" width="15"
-					height="15" alt="Quand"> 21/12/2020</p>
-			<div class="agenda-list__content">
-				{{ .Content | truncate 200 }}
-			</div>
-		</a>
-			</article>
+	<section class="single-section flex-2-cols" id="blog-content">
+		<div class="blog-content__list flex-2-cols__col flex-2-cols">
+			{{ range (.Paginate ( first 10 .Pages.ByDate.Reverse )).Pages }}
+				{{ partial "blog-article.html" . }}
 			{{ end }}
-		</div >
-		<div class="sticky" style="padding: 0px 100px 0px 50px;">
-				<ul class="nobull button">
-						<li data-filter="all" class="blog-filter">ALL CATEGORIES</li>
-					{{ $blog_articles := where $.Site.RegularPages "Section" "blog" }}
-					{{ range $blog_articles.ByDate }}
-						<li data-filter="{{ .Params.cat }}" class="blog-filter">{{ .Params.cat }}</li>
-						{{ end }}
-					  </ul>
 		</div>
-</div>	
-</section>
-<script>
-// 	var blogContent = document.getElementById('blog-content'),
-// 	blogFilters = document.getElementsByClassName('blog-filter'),
-// 	blogItems = document.getElementsByClassName('blog-item');
-	
-// 	for (var i = 0; i < blogFilters.length; i++) {
-//     blogFilters[i].addEventListener('click', function() {
-// 		var filter=this.dataset.filter,
-// 		filterElems= document.getElementsByClassName(filter);
-		
-// 		/*clear bold filters*/
-// 		for(var i=0; i<blogFilters.length;i++){
-// 				blogFilters[i].classList.remove("strong");
+		<aside class="blog-sticky flex-2-cols__col">
+			<h3>Catégories</h3>
+			<ul class="blog-categories">
+				{{ range $key, $value := .Site.Taxonomies.categories }}
+					<li class="blog-categories__item">
+						<a href="/categories/{{ $key | urlize  }}">{{ $key | humanize }}</a> <span class="blog-categories__item__len">({{ len $value }})</span>
+					</li>
+				{{ end }}
+			</ul>
+		</aside>	
+	</section>
 
-// 			}
-// 		this.classList.add("strong");
-
-// 		if(filter!=="all"){
-// 			for(var i=0; i<blogItems.length;i++){
-// 				blogItems[i].style.display="none";
-
-// 			}
-// 			for(var i=0; i<filterElems.length;i++){
-// 				filterElems[i].style.display="block";
-				
-// 			}
-
-// 		}
-// 		else{
-// 			for(var i=0; i<blogItems.length;i++){
-// 				blogItems[i].style.display="block";
-
-// 			}
-// 		}
-//     });
-// }
-
-</script>
+	{{ $paginator := .Paginator }}
+	{{ if gt $paginator.TotalPages 1 }}
+		<nav class="single-section" id="blog-pagination">
+			{{ if $paginator.HasPrev }}
+				<a class="button blog-pagination__item blog-pagination__item--prev" href="{{ $paginator.Prev.URL }}">
+					Page précédente
+				</a>
+			{{ end }}
+			{{ if $paginator.HasNext }}
+				<a class="button blog-pagination__item blog-pagination__item--next" href="{{ $paginator.Next.URL }}">
+					Page suivante
+				</a>
+			{{ end }}
+		</nav>
+	{{ end }}
 
 {{ end }}

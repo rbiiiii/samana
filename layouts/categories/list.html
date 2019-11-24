@@ -1,0 +1,15 @@
+{{ define "main" }}
+
+<section class="single-section" id="blog-header">
+	<h1 id="blog-content"><a href="/blog">Blog</a> > {{ .Title }}</h1>
+</section>
+
+<section class="single-section" id="blog-content">
+	<div class="flex-2-cols blog-content__list">
+        {{ range .Pages }}
+            {{ partial "blog-article.html" . }}
+        {{ end }}
+	</div>	
+</section>
+
+{{ end }}

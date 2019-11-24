@@ -1,13 +1,35 @@
 {{ define "main" }}
-		<main class="site-main main-single">
-				<section class="single-section single-section--price cw">
-						<img style="width:100%" class="agenda-list__img" src="{{.Params.photo}}" alt="Illustration de l'événement {{ .Params.titre }}">
-						<h1>{{ .Params.titre }}</h1>
-						<p class="agenda-list__date "><img class="agenda__icons" src="/assets/img/agenda-when.svg" width="15" height="15"
-								alt="Quand"> 21/12/2020</p>
-						<div class="agenda-list__content" id="blog">
-							{{ .Content }}
-						</div>
-					</section>
-		</main>
+	<article class="blog-article">
+		<header class="blog-article__header">
+			<img style="width:100%" class="blog-article__img" src="{{.Params.photo}}"
+				alt="Illustration de l'article {{ .Title }}">
+			<div class="blog-article__header__txt">
+				{{ $catLen := len .Params.categories }}
+				<ul class="blog-article__categories">Catégorie{{ if gt $catLen 1 }}s{{ end }} :
+					{{ range .Params.categories }}
+						<li>
+							<a class="button" href="/categories/{{ . | urlize }}">{{ . | humanize }}</a>
+						</li>
+					{{ end }}
+				</ul>
+				<h1 class="blog-article__title">{{ .Title }}</h1>
+				<time class="blog-article__date">
+					<img class="agenda__icons" src="/assets/img/agenda-when.svg" width="15"
+						height="15" alt="Quand"> {{ .Date.Format "02/01/2006" }}
+				</time>
+			</div>
+		</header>
+		<div class="blog-article__content">
+			{{ .Content }}
+		</div>
+	</article>
+
+	<nav class="blog-article__nav">
+		{{ with .PrevInSection }}
+			<a class="button" href="{{ .Permalink }}">{{ .Title }}</a>
+		{{ end }}
+		{{ with .NextInSection }}
+			<a class="button" href="{{ .Permalink }}">{{ .Title }}</a>
+		{{ end }}
+	</nav>
 {{ end }}
