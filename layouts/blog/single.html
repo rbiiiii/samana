@@ -1,8 +1,15 @@
 {{ define "main" }}
 	<article class="blog-article">
 		<header class="blog-article__header">
-			<img style="width:100%" class="blog-article__img" src="{{.Params.photo}}"
-				alt="Illustration de l'article {{ .Title }}">
+			{{ $img_type_arr := split .Params.photo "." }}
+			{{ $img_name := index $img_type_arr 0 }}
+			{{ $img_ext := index $img_type_arr 1 }}
+			<picture>
+				<source srcset="{{$img_name}}.{{$img_ext}}" media="(max-width: 400px)">
+				<source srcset="{{$img_name}}-medium.{{$img_ext}}" media="(max-width: 980px)">
+				<img style="width:100%" class="blog-article__img" src="{{$img_name}}-big.{{$img_ext}}" alt="Illustration de l'article {{ .Title }}">
+			</picture>
+				
 			<div class="blog-article__header__txt">
 				{{ $catLen := len .Params.categories }}
 				<ul class="blog-article__categories">Catégorie{{ if gt $catLen 1 }}s{{ end }} :

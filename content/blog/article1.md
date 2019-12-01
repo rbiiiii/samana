@@ -1,7 +1,7 @@
 +++
 title = "Titre de l'article sur la santé"
 photo = "/assets/uploadsOut/AdobeStock_101450117-1.jpeg"
-categories = ["Santé"]
+categories = ["Santé", "Éducation"]
 publishdate = 2019-11-23
 +++
 

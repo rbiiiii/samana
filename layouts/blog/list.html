@@ -1,12 +1,13 @@
 {{ define "main" }}
 
 	<section class="single-section" id="blog-header">
-		<h2 id="blog-content">Blog</h2>
+		{{ $paginator := .Paginator }}
+		<h1 id="blog-title"><a href="/blog">Blog</a>{{ if gt $paginator.TotalPages 1 }}<br><small>(Page {{$paginator.PageNumber}}){{ end }}</small></h1>
 	</section>
 
 	<section class="single-section flex-2-cols" id="blog-content">
 		<div class="blog-content__list flex-2-cols__col flex-2-cols">
-			{{ range (.Paginate ( first 10 .Pages.ByDate.Reverse )).Pages }}
+			{{ range (.Paginate ( .Pages.ByDate.Reverse )).Pages }}
 				{{ partial "blog-article.html" . }}
 			{{ end }}
 		</div>
@@ -22,7 +23,6 @@
 		</aside>	
 	</section>
 
-	{{ $paginator := .Paginator }}
 	{{ if gt $paginator.TotalPages 1 }}
 		<nav class="single-section" id="blog-pagination">
 			{{ if $paginator.HasPrev }}

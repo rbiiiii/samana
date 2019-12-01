@@ -35,6 +35,7 @@
         font-weight: normal;
         letter-spacing:2px;
         font-size:1.375rem;
+        @include ff-r;
     }
 
     a, input[type="submit"] {
