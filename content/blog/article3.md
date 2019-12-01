@@ -1,6 +1,6 @@
 +++
 categories = ["Éducation"]
-photo = "/Out/woman-591576_1920-medium.jpg"
+photo = "/test-image-lourde.jpeg"
 publishdate = 2019-11-14T00:00:00Z
 title = "Titre de l'article sur l'éducation"
 
