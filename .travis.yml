@@ -11,7 +11,7 @@ before_script:
   - npm install
   - npm upgrade
 script:
-- gulp images
+- gulp imagesSmall
 - gulp imagesMedium
 - gulp imagesBig
 - hugo version
