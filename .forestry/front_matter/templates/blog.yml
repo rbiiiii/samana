@@ -14,8 +14,21 @@ fields:
     maxSize: 250
   label: Photo
   description: Photo de l'article
+<<<<<<< HEAD
 - name: short_desc
   type: text
   config:
     required: false
   label: Description Courte
+=======
+  - name: cat
+  type: text
+  config:
+    maxSize: 30
+  label: Catégorie
+  description: Catégorie de l'article
+pages:
+- content/blog/article3.md
+- content/blog/article2.md
+- content/blog/article.md
+>>>>>>> samadaDev1
