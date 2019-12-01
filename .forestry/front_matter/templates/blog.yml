@@ -4,13 +4,20 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Titre de l'article
 - type: file
   name: photo
-  label: photo
+  label: Illustration de l'article
+  description: Attention à ne pas ajouter d'image contenant un point "." dans le nom
+    du fichier
 - type: list
   name: categories
-  label: categories
+  label: Catégorie(s)
+  config:
+    use_select: false
 - type: datetime
   name: publishdate
-  label: publishdate
+  label: Date de publication
+  config:
+    export_format: YYYY-MM-DD
+    date_format: DD/MM/YYYY
