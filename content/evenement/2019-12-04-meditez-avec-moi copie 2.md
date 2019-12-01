@@ -4,7 +4,7 @@ date: 2020-04-06
 schedule_in: '9:00'
 schedule_out: '18:00'
 address: à déterminer
-img: "/assets/uploadsOut/AdobeStock_95162238-min.jpeg"
+img: "/AdobeStock_95162238-min.jpeg"
 enddate: 2020-04-09
 category: retraites
 

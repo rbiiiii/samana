@@ -1,12 +1,9 @@
 <article class="flex-2-cols__col blog-item">
     <header>
         <a href="{{.Permalink}}">
-            {{ $img_type_arr := split .Params.photo "." }}
-			{{ $img_name := index $img_type_arr 0 }}
-			{{ $img_ext := index $img_type_arr 1 }}
 			<picture>
-				<source srcset="{{$img_name}}.{{$img_ext}}" media="(max-width: 400px)">
-				<img style="width:100%" class="blog-item__img" src="{{$img_name}}-medium.{{$img_ext}}" alt="Illustration de l'article {{ .Title }}">
+				<source srcset="/assets/uploadsOutSmall{{.Params.photo}}" media="(max-width: 400px)">
+				<img style="width:100%" class="blog-item__img" src="/assets/uploadsOut{{.Params.photo}}" alt="Illustration de l'article {{ .Title }}">
 			</picture>
             <h2 class="blog-item__title">{{ .Title }}</h3>
         </a>

@@ -4,7 +4,6 @@ const imagemin = require('gulp-imagemin');
 const imageminMozjpeg = require('imagemin-mozjpeg');
 const gulpImageresize = require("gulp-image-resize");
 const gulpNewer = require("gulp-newer");
-const rename = require("gulp-rename");
 
 function minify() {
   return src('public/**/*.html')
@@ -13,9 +12,11 @@ function minify() {
 }
 
 const imgSrc = "static/assets/uploads/**";
+const imgSmallDest = "static/assets/uploadsOutSmall";
 const imgDest = "static/assets/uploadsOut";
+const imgBigDest = "static/assets/uploadsOutBig";
 
-function images() {
+function imagesSmall() {
     return src(imgSrc)
         .pipe(gulpNewer(imgDest))
         .pipe(imagemin([    
@@ -38,7 +39,7 @@ function images() {
             crop : true,
             upscale : false
           }))
-        .pipe(dest(imgDest))
+        .pipe(dest(imgSmallDest))
 }
 
 function imagesMedium() {
@@ -59,12 +60,11 @@ function imagesMedium() {
             })
         ]))
         .pipe(gulpImageresize({
-            width : 768,
-            height: 421,
+            width : 680,
+            height: 373,
             crop : true,
             upscale : false
         }))
-        .pipe(rename(function (path) { path.basename += "-medium"; }))
         .pipe(dest(imgDest))
 }
 
@@ -91,12 +91,11 @@ function imagesBig() {
             crop : true,
             upscale : false
         }))
-        .pipe(rename(function (path) { path.basename += "-big"; }))
-        .pipe(dest(imgDest))
+        .pipe(dest(imgBigDest))
 }
 
-exports.default = series(minify, images, imagesMedium, imagesBig);
-exports.images = images;
+exports.default = series(minify, imagesSmall, imagesMedium, imagesBig);
+exports.imagesSmall = imagesSmall;
 exports.imagesMedium = imagesMedium;
 exports.imagesBig = imagesBig;
 exports.minify = minify;

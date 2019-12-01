@@ -4,7 +4,7 @@ date: 2019-12-23
 schedule_in: '09:00'
 schedule_out: '16:00'
 address: Prana Clinic, 11 bvd Kleyer, 4000 Liège
-img: "/assets/uploadsOut/AdobeStock_134920437.jpeg"
+img: "/AdobeStock_134920437.jpeg"
 category: stages
 enddate: 2019-12-24
 

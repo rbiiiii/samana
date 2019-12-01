@@ -1,6 +1,6 @@
 +++
 categories = ["Bien-être", "Santé"]
-photo = "/assets/uploadsOut/AdobeStock_101450117-1.jpeg"
+photo = "/AdobeStock_101450117-1.jpeg"
 publishdate = 2019-11-22T00:00:00Z
 title = "Titre de l'article sur le bien-être et sur la santé"
 
