@@ -2,7 +2,7 @@
 categories = ["Yoga Au Travail"]
 photo = "/AdobeStock_99167308-min.jpeg"
 publishdate = 2019-11-14T00:00:00Z
-title = "Le yoga au travail"
+title = "Yoga au travail? Ou comment élargir son horizon et son management!"
 
 +++
 # Le yoga au travail? Une bonne idée!
@@ -15,7 +15,9 @@ D'une part il y a l'enjeux de garder son équipe et ses collègues motivés, heu
 
 D'autre part, des situations de stress et d'épuisement, de manque de sens au quotidien et malheureusement parfois d'harcèlement et de burn out.
 
-1. ![](/assets/uploadsOut/AdobeStock_99167308-min-1.jpeg)
+Pourquoi ne pas 
+
+1. ![](/assets/uploadsOut/AdobeStock_99167308-min-1.jpeg "Travailler autrement")
 
 ![](/assets/uploadsOut/test-image-lourde.jpeg)
 
