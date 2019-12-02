@@ -15,6 +15,8 @@ D'une part il y a l'enjeux de garder son équipe et ses collègues motivés, heu
 
 D'autre part, des situations de stress et d'épuisement, de manque de sens au quotidien et malheureusement parfois d'harcèlement et de burn out.
 
+1. ![](/assets/uploadsOut/AdobeStock_99167308-min-1.jpeg)
+
 ![](/assets/uploadsOut/test-image-lourde.jpeg)
 
 La vrai question est de savoir ce que vous voulez vivre dans le cadre de votre projet professionnel. 
@@ -25,8 +27,6 @@ Vous êtes directeur, collaborateur d'un service de ressources humaines,   vous 
 
 ### Comment le yoga peut vous soutenir dans la votre politique de bien-être et de prévention? 
 
-Le yoga c'est quoi?
-
-Le yoga en entreprise pourquoi?
-
-Le yoga en entreprise comment?
+1. Le yoga c'est quoi?
+2. Le yoga en entreprise pourquoi? Bénéfices pour vos collaborateurs. Bénéfices pour l'entreprise.
+3. Le yoga en entreprise comment?
