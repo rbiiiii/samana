@@ -1,6 +1,6 @@
 +++
 categories = ["Yoga Au Travail"]
-photo = "/AdobeStock_99167308-min.jpeg"
+photo = "/OutSmall/beach-1209995_1920.jpg"
 publishdate = 2019-11-14T00:00:00Z
 title = "Yoga au travail? Ou comment élargir son horizon et son management!"
 
@@ -15,7 +15,7 @@ D'une part il y a l'enjeux de garder son équipe et ses collègues motivés, heu
 
 D'autre part, des situations de stress et d'épuisement, de manque de sens au quotidien et malheureusement parfois d'harcèlement et de burn out.
 
-Pourquoi ne pas 
+Vous envisagez de proposer à vos employés d'autres manières d'aborder le bien-être dans leur boulot?
 
 1. ![](/assets/uploadsOut/AdobeStock_99167308-min-1.jpeg "Travailler autrement")
 
