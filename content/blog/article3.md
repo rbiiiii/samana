@@ -17,10 +17,16 @@ D'autre part, des situations de stress et d'épuisement, de manque de sens au qu
 
 ![](/assets/uploadsOut/test-image-lourde.jpeg)
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+La vrai question est de savoir ce que vous voulez vivre dans le cadre de votre projet professionnel. 
 
-### Section 1.10.32 du "De Finibus Bonorum et Malorum" de Ciceron (45 av. J.-C.)
+Vous êtes chef d'entreprise, manager, directeur, chef de service, coordinateur de projet, ... Que voulez-vous pour le quotidien de vos équipes, collaborateurs, collègues et partenaires? Quelle est l'ambiance qui sera propice à un travail efficace, parfois collectif mais surtout qui rendra votre entreprise saine et attirante?
 
-"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+Vous êtes directeur, collaborateur d'un service de ressources humaines,   vous vous occupez des formations, de faire grandir et de garder motiver vos collègues. Comment voyez-vous les équipes et les managers être motivés et atteindre les résultats tout en maintenant un niveau de bien-être reconnu et apprécié au quotidien?
 
-Section 1.10.32 du "De Finibus Bonorum et Malorum" de Ciceron (45 av. J.-C.)
+### Comment le yoga peut vous soutenir dans la votre politique de bien-être et de prévention? 
+
+Le yoga c'est quoi?
+
+Le yoga en entreprise pourquoi?
+
+Le yoga en entreprise comment?
