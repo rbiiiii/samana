@@ -1,8 +1,8 @@
 +++
-address = "Rue du laveu 30, 4000 Liège (Bonjour)"
+address = "Prana Clinic, 11 bvd Kleyer, 4000 Liège"
 category = "cours"
-date = "2019-09-25"
-enddate = "2019-12-18"
+date = 2019-09-25T00:00:00Z
+enddate = 2019-12-18T00:00:00Z
 img = "/AdobeStock_214582274.jpeg"
 schedule_in = "15:00"
 schedule_out = "16:00"
