@@ -61,10 +61,10 @@ fields:
     maxSize: 250
   label: Image
 pages:
+- content/evenement/cours-de-yoga-enfants-dès-8-ans.md
 - content/evenement/cours-de-yoga-ados-12-18-ans.md
 - content/evenement/cours-de-yoga-adultes-mercredi-matin-i.md
 - content/evenement/atelier-yoga-avec-bal-spécial.md
-- content/evenement/cours-de-yoga-enfants-dès-8-ans.md
 - content/evenement/atelier-yoga-et-philosophie-1.md
 - content/evenement/méditation-en-mouvement.md
 - content/evenement/cours-de-yoga-adultes-mercredi-matin-ii.md
