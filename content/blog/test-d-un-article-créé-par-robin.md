@@ -1,6 +1,6 @@
 +++
 categories = ["Yoga au travail"]
-photo = "/yoga-4595166_1920.jpg"
+photo = "https://res.cloudinary.com/dqu7lbbhg/image/upload/v1575800406/yoga-4595166_1920_sbfhqc.jpg"
 publishdate = 2019-12-08T00:00:00Z
 title = "test d'un article créé par robin"
 
