@@ -1,6 +1,6 @@
 +++
 categories = ["Yoga Au Travail"]
-photo = "/OutSmall/beach-1209995_1920.jpg"
+photo = "/beach-1209995_1920.jpg"
 publishdate = 2019-11-14T00:00:00Z
 title = "Yoga au travail? Ou comment élargir son horizon et son management!"
 
