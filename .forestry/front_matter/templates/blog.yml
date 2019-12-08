@@ -20,7 +20,6 @@ fields:
     export_format: YYYY-MM-DD
     date_format: DD/MM/YYYY
 pages:
-- content/blog/article3.md
 - content/blog/article1.md
 - content/blog/article4.md
 - content/blog/article2.md
