@@ -20,5 +20,4 @@ fields:
     export_format: YYYY-MM-DD
     date_format: DD/MM/YYYY
 pages:
-- content/blog/test-d-un-article-créé-par-robin.md
 - content/blog/yoga-au-travail.md
