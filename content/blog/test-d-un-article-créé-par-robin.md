@@ -5,10 +5,4 @@ publishdate = 2019-12-08T00:00:00Z
 title = "test d'un article créé par robin"
 
 +++
-lorem ipsum
-
-![](/assets/uploadsOut/OutSmall/sunset-RÜŞTÜ BOZKUŞ.jpg)
-
-dolor sit amet
-
-![](/assets/uploadsOut/Out/test-image-lourde.jpeg)
+![](https://res.cloudinary.com/dqu7lbbhg/image/upload/c_scale,w_auto:100,dpr_auto/v1575800580/coast-1834827_1920_p0vkma.jpg)
