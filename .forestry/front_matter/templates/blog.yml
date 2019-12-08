@@ -21,6 +21,4 @@ fields:
     date_format: DD/MM/YYYY
 pages:
 - content/blog/test-d-un-article-créé-par-robin.md
-- content/blog/article2.md
 - content/blog/yoga-au-travail.md
-- content/blog/article4.md
