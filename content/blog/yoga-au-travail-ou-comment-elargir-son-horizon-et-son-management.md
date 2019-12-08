@@ -17,9 +17,7 @@ D'autre part, des situations de stress et d'épuisement, de manque de sens au qu
 
 Vous envisagez de proposer à vos employés d'autres manières d'aborder le bien-être dans leur boulot?
 
-![](/assets/uploadsOut/yoga-4595166_1920.jpg)
-
-![](/assets/uploadsOut/test-image-lourde.jpeg)
+![](https://res.cloudinary.com/dqu7lbbhg/image/upload/c_scale,dpr_auto,q_70,w_680/v1575800405/AdobeStock_95162238-min_gzlcjr.jpg)
 
 La vrai question est de savoir ce que vous voulez vivre dans le cadre de votre projet professionnel.
 
