@@ -8,3 +8,7 @@ title = "test d'un article créé par robin"
 lorem ipsum
 
 ![](/assets/uploadsOut/OutSmall/sunset-RÜŞTÜ BOZKUŞ.jpg)
+
+dolor sit amet
+
+![](/assets/uploadsOut/Out/test-image-lourde.jpeg)
