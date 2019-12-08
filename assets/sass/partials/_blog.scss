@@ -116,6 +116,11 @@
     }
 }
 
+.blog-item__content {
+    font-size:1rem;
+    margin-top:0.5em;
+}
+
 .blog-categories__item__len{
     margin-left:0.25em;
 }
@@ -171,6 +176,17 @@
 
 
 .categories {
+
+    #blog-title {
+
+        a {
+            text-decoration: underline;
+
+            &:hover, &:focus {
+                text-decoration: none;
+            }
+        }
+    }
 
     #blog-content {
 

@@ -1,10 +1,9 @@
 +++
 address = "Rue des Hirondelles, 73 à 4000 Liège"
 category = "ateliers"
-content = "Test de la description blabla"
 date = "2019-09-16"
 enddate = "2020-05-25"
-img = "/AdobeStock_101450117-1.jpeg"
+img = "/AdobeStock_101450117-1_gfprs7.jpg"
 schedule_in = "16:00"
 schedule_out = "17:00"
 title = "Cours de yoga enfants à l'école - Saint-Maur"

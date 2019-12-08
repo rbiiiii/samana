@@ -36,8 +36,7 @@ function imagesSmall() {
         .pipe(gulpImageresize({
             width : 326,
             height : 179,
-            crop : true,
-            upscale : false
+            crop : true
           }))
         .pipe(dest(imgSmallDest))
 }
@@ -62,8 +61,7 @@ function imagesMedium() {
         .pipe(gulpImageresize({
             width : 680,
             height: 373,
-            crop : true,
-            upscale : false
+            crop : true
         }))
         .pipe(dest(imgDest))
 }
@@ -88,8 +86,7 @@ function imagesBig() {
         .pipe(gulpImageresize({
             width : 1440,
             height: 790,
-            crop : true,
-            upscale : false
+            crop : true
         }))
         .pipe(dest(imgBigDest))
 }
