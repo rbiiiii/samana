@@ -17,7 +17,7 @@ D'autre part, des situations de stress et d'épuisement, de manque de sens au qu
 
 Vous envisagez de proposer à vos employés d'autres manières d'aborder le bien-être dans leur boulot?
 
-![](/assets/uploadsOut/OutSmall/beach-1209995_1920.jpg)
+![](/assets/uploadsOut/OutSmall/woman-591576_1920.jpg)
 
 ![](/assets/uploadsOut/test-image-lourde.jpeg)
 
