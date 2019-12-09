@@ -7,13 +7,13 @@ title = "Yoga au travail? Ou comment élargir son horizon et son management!"
 +++
 # Le yoga au travail? Une bonne idée!
 
-### Avec Yoga&Meditation@work, Yoga Samana développe un nouvelle branche de ces activités.
+### Avec Yoga&Meditation@work, Yoga Samana développe un nouvelle branche de ses activités.
 
 Le monde du travail est vaste, différent d'un poste à l'autre d'une activité à l'autre. De mon expérience professionnelle, je retire deux défis clairement présents dans les secteurs public, privé et associatif.
 
-D'une part il y a l'enjeux de garder son équipe et ses collègues motivés, heureux de venir travailler et porteur de leur objectifs. L'innovation et la créativité sont alors essentiels pour rester dans une dynamique positive, pour avancer.
+D'une part il y a l'enjeux de garder son équipe et ses collègues motivés, heureux de venir travailler et porteur de leur objectifs. L'innovation et la créativité sont alors essentiels pour rester dans une dynamique positive et avancer.
 
-D'autre part, des situations de stress et d'épuisement, de manque de sens au quotidien et malheureusement parfois d'harcèlement et de burn out.
+D'autre part, des situations de stress et d'épuisement, de manque de sens au quotidien et malheureusement parfois d'harcèlement et de burn out. La prise de recul, le retour d'une communication saine, la gestion du stress et des émotions sont alors primordiaux pour un retour au calme et à la sérénité de tous.  
 
 Vous envisagez de proposer à vos employés d'autres manières d'aborder le bien-être dans leur boulot?
 
