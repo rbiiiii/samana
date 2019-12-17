@@ -11,10 +11,9 @@ before_script:
   - npm install
   - npm upgrade
 script:
-- gulp images
 - hugo version
 - hugo -F
-- gulp minify
+- gulp
 env:
   global:
   - PRODUCTION=true

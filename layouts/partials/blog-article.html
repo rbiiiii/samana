@@ -1,0 +1,27 @@
+<article class="flex-2-cols__col blog-item">
+    <header>
+        <a href="{{.Permalink}}">
+			<picture>
+				<source srcset="{{ $.Site.Params.cloudinary_base_url }}/q_80,w_400,h_245,c_fill{{.Params.photo}}" media="(max-width: 400px)">
+				<img style="width:100%" class="blog-item__img" src="{{ $.Site.Params.cloudinary_base_url }}/q_80,w_590,h_362,c_fill{{.Params.photo}}" alt="Illustration de l'article {{ .Title }}">
+            </picture>
+            <h2 class="blog-item__title">{{ .Title }}</h3>
+        </a>
+        <time class="blog-item__date">
+            <img class="agenda__icons" src="/assets/img/agenda-when.svg" width="15"
+                height="15" alt="Quand"> {{ .Date.Format "02/01/2006" }}
+        </time>
+    </header>
+    <div class="blog-item__content">
+        {{ .Content | safeHTML | plainify | truncate 200 }}
+    </div>
+    <footer>
+        <ul class="blog-item__categories">
+            {{ range .Params.categories }}
+                <li>
+                    <a class="button" href="/categories/{{ . | urlize }}">{{ . | humanize }}</a>
+                </li>
+            {{ end }}
+        </ul>
+    </footer>
+</article>

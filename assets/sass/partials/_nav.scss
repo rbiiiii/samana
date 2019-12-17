@@ -84,11 +84,24 @@
         background-color:$white;
     }
 
-    $pages: chloe-dujardin yoga meditation agenda contact;
+    $pages: chloe-dujardin yoga meditation agenda contact blog;
 
     @each $page in $pages {
-        body.#{$page} &[href="/#{$page}"] {
+        body.#{$page} &[href^="/#{$page}"] {
             font-weight: bold;
         }
     }
+
+    body.categories &[href^="/blog"] {
+        font-weight: bold;
+    }
+
+    @media screen and (min-width:980px) and (max-width:1160px) {
+        
+        &[href^="/chloe-dujardin"] {
+            max-width: 8em;
+            text-align: center;
+        }
+    }
+
 }

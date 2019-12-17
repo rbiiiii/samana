@@ -26,11 +26,11 @@
     <meta property="og:description" content='{{ .Site.Params.Description }}' />
     <meta property="og:image" content="{{ .Site.BaseURL }}assets/img/home-intro.jpg" />
     <meta property="og:site_name" content="{{ .Site.Title }}" />
-    {{ $style := resources.Get "sass/main.scss" | resources.ToCSS | resources.PostCSS | resources.Minify | resources.Fingerprint }}
+    {{ $style := resources.Get "sass/main.scss" | resources.ToCSS | resources.PostCSS (dict "config" "postcss.config.js") | resources.Minify | resources.Fingerprint }}
     <link rel="stylesheet" type="text/css" href="{{ $style.Permalink | relURL }}">
     {{ partial "site-favicon.html" . }}
   </head>
-	<body id="root" class="{{ with .IsHome }}home{{ else }}single{{ end }} {{ .Params.slug }}">
+	<body id="root" class="{{ with .IsHome }}home{{ else }}single{{ end }} {{ .Params.slug }}{{ .Page.Section }}">
     <div class="site-wrapper">
       {{ partial "site-header.html" .}}
       <main class="site-main {{ if ne .IsHome true }}main-single{{ else }}main-home{{ end }}" id="site-main">{{ block "main" . }}{{ end }}</main>

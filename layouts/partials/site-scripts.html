@@ -1,7 +1,7 @@
 {{ $nav := resources.Get "js/nav.js" }}
 {{ $agenda := resources.Get "js/agenda.js" }}
 {{ $navPublic := $nav | resources.Minify | resources.Fingerprint }}
-{{ $agendaPublic := $agenda | resources.Fingerprint }}
+{{ $agendaPublic := $agenda | resources.Minify | resources.Fingerprint }}
 <script src="{{ $navPublic.Permalink }}"></script>
 {{ if eq .Params.slug "agenda" }}
 <script src="{{ $agendaPublic.Permalink }}"></script>

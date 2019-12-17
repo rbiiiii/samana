@@ -2,24 +2,22 @@
 label: Blog
 hide_body: false
 fields:
-- name: titre
-  type: text
+- type: text
+  name: title
+  label: Titre de l'article
+- type: file
+  name: photo
+  label: Illustration de l'article
+- type: list
+  name: categories
+  label: Catégorie(s)
   config:
-    required: false
-  label: Titre
-  description: Titre de l'article
-- name: photo
-  type: file
+    use_select: false
+- type: datetime
+  name: publishdate
+  label: Date de publication
   config:
-    maxSize: 250
-  label: Photo
-  description: Photo de l'article
-- name: short_desc
-  type: text
-  config:
-    required: false
-  label: Description Courte
+    export_format: YYYY-MM-DD
+    date_format: DD/MM/YYYY
 pages:
-- content/blog/article3.md
-- content/blog/article2.md
-- content/blog/article.md
+- content/blog/yoga-au-travail-ou-comment-elargir-son-horizon-et-son-management.md
