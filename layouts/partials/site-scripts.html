@@ -6,3 +6,24 @@
 {{ if eq .Params.slug "agenda" }}
 <script src="{{ $agendaPublic.Permalink }}"></script>
 {{ end }}
+<script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
+<script>
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#326d6c",
+      "text": "#f7f5f5"
+    },
+    "button": {
+      "background": "#f4e9e6",
+      "text": "#1e605f"
+    }
+  },
+  "content": {
+    "message": "Nous utilisons des cookies pour vous garantir la meilleure expérience sur notre site. Si vous continuez à utiliser ce dernier, nous considérerons que vous acceptez l'utilisation des cookies.",
+    "dismiss": "Ok",
+    "link": "En savoir plus",
+    "href": "yogasamana.be/mentions-legales"
+  }
+});
+</script>

@@ -442,3 +442,24 @@ img.agenda__icons {
 	margin:0;
 	font-size: 1.4rem;
 }
+
+.mentions-legales {
+
+	h3 {
+		font-size:1.2rem;
+	}
+
+	ul {
+		padding-left: 1em;
+		list-style-type:disc;
+		display:block;
+		
+		li {
+			display: list-item;
+
+			&:before {
+				display: none;
+			}
+		}
+	}
+}

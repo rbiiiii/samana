@@ -28,6 +28,7 @@
     <meta property="og:site_name" content="{{ .Site.Title }}" />
     {{ $style := resources.Get "sass/main.scss" | resources.ToCSS | resources.PostCSS (dict "config" "postcss.config.js") | resources.Minify | resources.Fingerprint }}
     <link rel="stylesheet" type="text/css" href="{{ $style.Permalink | relURL }}">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
     {{ partial "site-favicon.html" . }}
   </head>
 	<body id="root" class="{{ with .IsHome }}home{{ else }}single{{ end }} {{ .Params.slug }}{{ .Page.Section }}">
