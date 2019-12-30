@@ -1,8 +1,8 @@
 +++
 address = "Rue de la Justice 20, 4420 Saint-Nicolas (Tout Coquelicot)"
 category = "cours"
-date = "2019-09-28"
-enddate = "2019-12-20"
+date = 2020-01-10T00:00:00Z
+enddate = 2020-04-04T00:00:00Z
 img = "/sunset-RÜŞTÜ_BOZKUŞ_hjdvjk.jpg"
 schedule_in = "09:30"
 schedule_out = "10:30"
