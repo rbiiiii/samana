@@ -9,11 +9,11 @@ title = "Elargir l'horizon, le yoga et travail."
 
 ## Yoga&Meditation@work
 
-Le "monde du travail" est vaste, le monde tout court encore plus... 
+Le "monde du travail" est vaste, le monde tout court encore plus...
 
-Le yoga par définition, signifie faire le lien, réunir le corps et l'esprit. 
+Le yoga par définition, signifie faire le lien, réunir le corps et l'esprit.
 
-Le travail? Une partie de notre existence qui nous occupe au quotidien et nous permet notamment d'assurer nos besoins de base. 
+Le travail? Une partie de notre existence qui nous occupe au quotidien et nous permet notamment d'assurer nos besoins de base.
 
 ### Pourquoi réunir les deux? Je vous partage mon avis.
 
@@ -21,13 +21,13 @@ Au début au travail, on veut faire de son mieux, c'est normal et légitime. On 
 
 ![](https://res.cloudinary.com/dqu7lbbhg/image/upload/c_scale,dpr_auto,q_70,w_680/v1575800433/mountain-top-983890_1920_da2eoa.jpg)
 
-Et là c'est de l'humain, c'est directement nous relier à nos émotions & celle des autres, nos ressentis, nos attentes, ... Et celles des autres. Le travail peut être tellement léger et épanouissant, créatif... et/ou stressant, vidant et désagréable. 
+Et là c'est de l'humain, c'est directement nous relier à nos émotions & celle des autres, nos ressentis, nos attentes, ... Et celles des autres. Le travail peut être tellement léger et épanouissant, créatif... et/ou stressant, vidant et désagréable.
 
 Comment garder une équipe et des collègues motivés, heureux de venir travailler et porteur de leur objectifs? Permettre l'innovation, la créativité ou encore la gestion de nouveaux défis sont certainement essentiels pour rester dans une dynamique positive.
 
 Comment gérer les situations de stress et d'épuisement, de manque de sens au quotidien et malheureusement parfois d'harcèlement et de burn out? La prise de recul, le retour d'une communication saine, la gestion du stress et des émotions sont alors primordiaux pour un retour au calme et à la sérénité de tous.
 
-Il y a les "team-building" ou le principe est de sortir du quotidien et de proposer des formations pour l'esprit de groupe et du divertissement. Il a les formations des équipes et des managers. 
+Il y a les "team-building" ou le principe est de sortir du quotidien et de proposer des formations pour l'esprit de groupe et du divertissement. Il a les formations des équipes et des managers.
 
 Pour moi, c'est surtout un enjeu commun à toute une entreprise, à toutes les parties prenantes: manager, DRH, employés, directions, service de prévention,... Chacun à sa manière doit pouvoir gérer sa place et sa carrière avec des outils lui permettant de profiter des moments positifs et de faire face aux moments critiques.
 
@@ -49,15 +49,15 @@ C'est en premier lieu une discipline ancestrale venue d'Inde qui a pour objet d'
 
 Le yoga comprend la pratique de postures (sur tapis ou chaise) mais également la méditation, la lecture de texte philosophique, le chant védique, la science de la respiration et la médecine ayurvédique.
 
-#### Le yoga en entreprise pourquoi? 
+#### Le yoga en entreprise pourquoi?
 
 ##### Bénéfices pour les collaborateurs
 
-Avec un mental apaisé, on ne fait plus de supposition sur les intentions des autres, on regarde les faits et on perd moins de temps à les résoudre et avancer. 
+Avec un mental apaisé, on ne fait plus de supposition sur les intentions des autres, on regarde les faits et on perd moins de temps à les résoudre et avancer.
 
-Un esprit serein permet d'y voir plus clair sur ses propres besoins, arriver à poser ses limites et ne pas s'épuiser au travail. On peut arriver à mieux garder son calme et pouvoir exprimer ses émotions avec plus de sérénité. 
+Un esprit serein permet d'y voir plus clair sur ses propres besoins, arriver à poser ses limites et ne pas s'épuiser au travail. On peut arriver à mieux garder son calme et pouvoir exprimer ses émotions avec plus de sérénité.
 
-La prise de recul permet en outre de retrouver sa créativité et une certainement forme de liberté dans sa fonction. 
+La prise de recul permet en outre de retrouver sa créativité et une certainement forme de liberté dans sa fonction.
 
 Les mouvements et les postures font sortir de la posture assise devant un ordinateur pour bouger son corps et le laisser respirer.
 
@@ -75,6 +75,22 @@ Organiser un moment de calme dans le cadre de son entreprise c'est offrir à ses
 
 Proposer un rendez-vous régulier, c'est favoriser l'autonomie de chacun-e dans la maîtrise d'outils de gestion du stress et des émotions.
 
-inviter le yoga dans l'environnement de travail c'est aussi porter une attention au bien-être physique en renforçant la posture générale du corps et en prévenant les maux de dos si fréquents en entreprise. 
+inviter le yoga dans l'environnement de travail c'est aussi porter une attention au bien-être physique en renforçant la posture générale du corps et en prévenant les maux de dos si fréquents en entreprise.
 
-#### ![](https://res.cloudinary.com/dqu7lbbhg/image/upload/c_scale,dpr_auto,q_70,w_680/v1578667790/AdobeStock_294922695-min_zoafvu.jpg)Le yoga en entreprise comment?
+### Le yoga en entreprise comment?
+
+Samana yoga vous propose des cycles de différentes durées permettant d'envisager les cas de figures différents:
+
+1. Une initiation en 4 semaines
+2. Un ancrage dans l'équipe en 6 semaines
+3. Un cycle de transformation avec des cours de yoga à moyen terme.
+
+La meilleur manière de comprendre ce qui peut fonctionner pour votre entreprise est de se rencontrer. 
+
+Alors n'hésitez pas à me contacter et nous fixerons un rendez-vous rapidement.
+
+à bientôt!
+
+Chloé
+
+***
