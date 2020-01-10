@@ -1,5 +1,6 @@
 +++
 categories = ["Yoga Au Travail"]
+draft = true
 photo = "https://res.cloudinary.com/dqu7lbbhg/image/upload/v1578686606/horizonyoga_work_vtidnt.jpg"
 publishdate = 2020-01-14T00:00:00Z
 title = "Elargir l'horizon, le yoga et travail."
