@@ -75,9 +75,11 @@ Proposer un rendez-vous régulier, c'est favoriser l'autonomie de chacun-e dans 
 
 inviter le yoga dans l'environnement de travail c'est aussi porter une attention au bien-être physique en renforçant la posture générale du corps et en prévenant les maux de dos si fréquents en entreprise.
 
+En conclusion, le yoga et la méditation peuvent être réellement complémentaires aux actions de l'entreprise pour créer un lieu de travail harmonieux. S'ils soulagent le stress et prévient les tensions, ils ne résoudront pas tous les problèmes. Le yoga ne pourra se substituer à un management responsable et juste, tout comme il ne pourra résoudre les soucis de surcharge de travail, de relations interpersonnelles ou encore assurer totalement un équilibre vie privée/professionnelle...
+
 ### Le yoga en entreprise comment?
 
-Samana yoga vous propose des cycles de différentes durées permettant d'envisager les cas de figures différents:
+Samana yoga vous propose des cycles de différentes durées permettant d'envisager des engagements différents:
 
 \- Le cycle initiation de 4 semaines
 
@@ -85,7 +87,7 @@ Samana yoga vous propose des cycles de différentes durées permettant d'envisag
 
 \- Le cycle transformation avec des cours de yoga à moyen terme
 
-La meilleur manière de comprendre ce qui peut fonctionner pour votre entreprise est de se rencontrer. Alors n'hésitez pas à me contacter et nous fixerons un rendez-vous rapidement.
+La meilleur manière de comprendre ce qui fonctionnera pour votre entreprise est de se rencontrer. Alors n'hésitez pas à me contacter et nous fixerons un rendez-vous rapidement.
 
 A bientôt!
 
