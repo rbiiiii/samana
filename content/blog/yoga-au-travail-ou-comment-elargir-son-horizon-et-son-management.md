@@ -89,8 +89,6 @@ Samana yoga vous propose des cycles de différentes durées permettant d'envisag
 
 La meilleur manière de comprendre ce qui fonctionnera pour votre entreprise est de se rencontrer. Alors n'hésitez pas à me contacter et nous fixerons un rendez-vous rapidement.
 
-A bientôt!
-
-Chloé
+Chloé Dujardin
 
 ***
