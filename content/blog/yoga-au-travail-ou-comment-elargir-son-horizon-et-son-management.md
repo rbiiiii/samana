@@ -21,13 +21,11 @@ Au début au travail, on veut faire de son mieux, c'est normal et légitime. On 
 
 ![](https://res.cloudinary.com/dqu7lbbhg/image/upload/c_scale,dpr_auto,q_70,w_680/v1575800433/mountain-top-983890_1920_da2eoa.jpg)
 
-Et là c'est de l'humain, c'est directement nous relier à nos émotions & celle des autres, nos ressentis, nos attentes, ... Et celles des autres. Le travail peut être tellement léger et épanouissant, créatif... et/ou stressant, vidant et désagréable.
+Et là c'est de l'humain, c'est directement nous relier à nos émotions & celle des autres, nos ressentis, nos attentes, ... Et celles des autres. On peut parfois être très dépourvus. Le travail peut être tellement léger et épanouissant, créatif... et/ou stressant, vidant et désagréable.
 
 Comment garder une équipe et des collègues motivés, heureux de venir travailler et porteur de leur objectifs? Permettre l'innovation, la créativité ou encore la gestion de nouveaux défis sont certainement essentiels pour rester dans une dynamique positive.
 
 Comment gérer les situations de stress et d'épuisement, de manque de sens au quotidien et malheureusement parfois d'harcèlement et de burn out? La prise de recul, le retour d'une communication saine, la gestion du stress et des émotions sont alors primordiaux pour un retour au calme et à la sérénité de tous.
-
-Il y a les "team-building" ou le principe est de sortir du quotidien et de proposer des formations pour l'esprit de groupe et du divertissement. Il a les formations des équipes et des managers.
 
 Pour moi, c'est surtout un enjeu commun à toute une entreprise, à toutes les parties prenantes: manager, DRH, employés, directions, service de prévention,... Chacun à sa manière doit pouvoir gérer sa place et sa carrière avec des outils lui permettant de profiter des moments positifs et de faire face aux moments critiques.
 
@@ -45,7 +43,7 @@ Vous êtes directeur, collaborateur d'un service de ressources humaines, vous vo
 
 #### Le yoga c'est quoi?
 
-C'est en premier lieu une discipline ancestrale venue d'Inde qui a pour objet d'apaiser le mental en de reliant le corps et l'esprit. Le mental est ce flux de pensées agréables ou désagréables qui colore sans arrêt la compréhension du monde. Apaiser le mental, c'est avant tout se donner la possibilité de voir la réalité telle qu'elle est sans projection/transformation/interprétation.
+C'est en premier lieu une discipline ancestrale venue d'Inde qui a pour objet d'apaiser le mental en reliant le corps et l'esprit. Apaiser le mental, c'est avant tout se donner la possibilité de voir la réalité telle qu'elle est sans projection/ transformation/ interprétation.
 
 Le yoga comprend la pratique de postures (sur tapis ou chaise) mais également la méditation, la lecture de texte philosophique, le chant védique, la science de la respiration et la médecine ayurvédique.
 
@@ -53,13 +51,13 @@ Le yoga comprend la pratique de postures (sur tapis ou chaise) mais également l
 
 ##### Bénéfices pour les collaborateurs
 
-Avec un mental apaisé, on ne fait plus de supposition sur les intentions des autres, on regarde les faits et on perd moins de temps à les résoudre et avancer.
-
 Un esprit serein permet d'y voir plus clair sur ses propres besoins, arriver à poser ses limites et ne pas s'épuiser au travail. On peut arriver à mieux garder son calme et pouvoir exprimer ses émotions avec plus de sérénité.
 
 La prise de recul permet en outre de retrouver sa créativité et une certainement forme de liberté dans sa fonction.
 
-Les mouvements et les postures font sortir de la posture assise devant un ordinateur pour bouger son corps et le laisser respirer.
+Avec un mental apaisé, on ne fait plus de supposition sur les intentions des autres, on regarde les faits et on perd moins de temps à les résoudre et avancer.
+
+Les mouvements et les postures font sortir de la posture assise devant un ordinateur pour bouger le corps et le laisser respirer.
 
 Quelques bénéfices reconnus:
 
