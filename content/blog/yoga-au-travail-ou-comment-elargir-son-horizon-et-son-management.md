@@ -79,9 +79,11 @@ inviter le yoga dans l'environnement de travail c'est aussi porter une attention
 
 Samana yoga vous propose des cycles de différentes durées permettant d'envisager les cas de figures différents:
 
-1. Une initiation en 4 semaines
-2. Un ancrage dans l'équipe en 6 semaines
-3. Un cycle de transformation avec des cours de yoga à moyen terme.
+\- Une initiation en 4 semaines
+
+\- Un ancrage dans l'équipe en 6 semaines
+
+\- Un cycle de transformation avec des cours de yoga à moyen terme.
 
 La meilleur manière de comprendre ce qui peut fonctionner pour votre entreprise est de se rencontrer. Alors n'hésitez pas à me contacter et nous fixerons un rendez-vous rapidement.
 
