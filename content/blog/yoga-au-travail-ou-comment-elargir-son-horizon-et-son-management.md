@@ -49,7 +49,7 @@ Le yoga comprend la pratique de postures (sur tapis ou chaise) mais également l
 
 #### Le yoga en entreprise pourquoi?
 
-##### Bénéfices pour les collaborateurs
+Bénéfices pour les collaborateurs
 
 Un esprit serein permet d'y voir plus clair sur ses propres besoins, arriver à poser ses limites et ne pas s'épuiser au travail. On peut arriver à mieux garder son calme et pouvoir exprimer ses émotions avec plus de sérénité.
 
