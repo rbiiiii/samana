@@ -83,11 +83,9 @@ Samana yoga vous propose des cycles de différentes durées permettant d'envisag
 2. Un ancrage dans l'équipe en 6 semaines
 3. Un cycle de transformation avec des cours de yoga à moyen terme.
 
-La meilleur manière de comprendre ce qui peut fonctionner pour votre entreprise est de se rencontrer. 
+La meilleur manière de comprendre ce qui peut fonctionner pour votre entreprise est de se rencontrer. Alors n'hésitez pas à me contacter et nous fixerons un rendez-vous rapidement.
 
-Alors n'hésitez pas à me contacter et nous fixerons un rendez-vous rapidement.
-
-à bientôt!
+A bientôt!
 
 Chloé
 
