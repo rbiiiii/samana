@@ -2,8 +2,8 @@
     <header>
         <a href="{{.Permalink}}">
 			<picture>
-				<source srcset="{{.Params.photo}}/q_80,w_400,h_245,c_fill" media="(max-width: 400px)">
-				<img style="width:100%" class="blog-item__img" src="{{.Params.photo}}/q_80,w_590,h_362,c_fill" alt="Illustration de l'article {{ .Title }}">
+				<source srcset="{{.Params.photo}}" media="(max-width: 400px)">
+				<img style="width:100%" class="blog-item__img" src="{{.Params.photo}}" alt="Illustration de l'article {{ .Title }}">
             </picture>
             <h2 class="blog-item__title">{{ .Title }}</h3>
         </a>
