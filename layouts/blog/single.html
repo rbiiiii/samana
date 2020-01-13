@@ -1,11 +1,7 @@
 {{ define "main" }}
 	<article class="blog-article">
 		<header class="blog-article__header">
-			<picture>
-				<source srcset="{{ $.Site.Params.cloudinary_base_url }}/q_80,w_400{{.Params.photo}}" media="(max-width: 400px)">
-				<source srcset="{{ $.Site.Params.cloudinary_base_url }}/q_80,w_980{{.Params.photo}}" media="(max-width: 980px)">
-				<img style="width:100%" class="blog-article__img" src="{{ $.Site.Params.cloudinary_base_url }}/q_80,w_1440{{.Params.photo}}" alt="Illustration de l'article {{ .Title }}">
-			</picture>
+			<img style="width:100%" class="blog-article__img" src="{{.Params.photo}}" alt="Illustration de l'article {{ .Title }}">
 			<div class="blog-article__header__txt">
 				{{ $catLen := len .Params.categories }}
 				<ul class="blog-article__categories">Catégorie{{ if gt $catLen 1 }}s{{ end }} :
