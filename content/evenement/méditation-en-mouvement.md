@@ -9,4 +9,4 @@ schedule_out = "20:30"
 title = "Méditation en Mouvement"
 
 +++
-Pratique d’1h30: 31/1, 14/2, 13/03. (Prix conscient)
+Pratique d’1h30: 31/1, 14/2, 13/03. (inscription obligatoire via email/Prix conscient)
