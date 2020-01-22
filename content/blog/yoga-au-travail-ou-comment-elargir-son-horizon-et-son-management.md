@@ -55,6 +55,10 @@ Avec un mental apaisé, on ne fait plus de supposition sur les intentions des au
 
 Les mouvements et les postures font par ailleurs sortir de la posture assise fixe devant un ordinateur pour bouger le corps et le laisser respirer.
 
+La méditation
+
+Pratique du mental qui consiste à entrainer son attention sur un objet particulier afin d'apaiser le mental. La médiation peut amener un grande clarté d'esprit mais également la paix intérieure. Pratiquante de la méditation de pleine conscience, J'apporterai dans les pratiques les outils de gestion du stress et 
+
 En conclusion 
 
 1. Diminuer le stress
