@@ -53,9 +53,9 @@ La prise de recul permet en outre de retrouver sa créativité et une certaineme
 
 Avec un mental apaisé, on ne fait plus de supposition sur les intentions des autres, on regarde les faits et on perd moins de temps à les résoudre et avancer.
 
-Les mouvements et les postures font sortir de la posture assise devant un ordinateur pour bouger le corps et le laisser respirer.
+Les mouvements et les postures font par ailleurs sortir de la posture assise fixe devant un ordinateur pour bouger le corps et le laisser respirer.
 
-**Quelques bénéfices reconnus**
+En conclusion 
 
 1. Diminuer le stress
 2. Favoriser la concentration, et développer une attention calme
@@ -65,11 +65,11 @@ Les mouvements et les postures font sortir de la posture assise devant un ordina
 
 ##### Bénéfices pour l'entreprise
 
-Organiser un moment de calme dans le cadre de son entreprise c'est offrir à ses employé-es la possibilité de partager un moment serein et positif ensemble.
+Organiser un moment de respiration dans le cadre de son entreprise c'est offrir à ses employé-es la possibilité de partager un moment serein et positif ensemble.
 
-Proposer un rendez-vous régulier, c'est favoriser l'autonomie de chacun-e dans la maîtrise d'outils de gestion du stress et des émotions.
+Proposer un rendez-vous régulier, revient à favoriser l'autonomie de chacun-e dans la maîtrise d'outils de gestion du stress et des émotions.
 
-inviter le yoga dans l'environnement de travail c'est aussi porter une attention au bien-être physique en renforçant la posture générale du corps et en prévenant les maux de dos si fréquents en entreprise.
+Inviter le yoga dans l'environnement de travail c'est aussi porter une attention au bien-être physique en renforçant la posture générale du corps et en prévenant les maux de dos si fréquents en entreprise.
 
 En conclusion, le yoga et la méditation peuvent être réellement complémentaires aux actions de l'entreprise pour créer un lieu de travail harmonieux. S'ils soulagent le stress et prévient les tensions, ils ne résoudront pas tous les problèmes. Le yoga ne pourra se substituer à un management responsable et juste, tout comme il ne pourra résoudre les soucis de surcharge de travail, de relations interpersonnelles ou encore assurer totalement un équilibre vie privée/professionnelle...
 
