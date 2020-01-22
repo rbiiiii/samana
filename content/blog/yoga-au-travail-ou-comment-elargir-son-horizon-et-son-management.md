@@ -33,17 +33,19 @@ Vous êtes directeur, collaborateur d'un service de ressources humaines, vous vo
 
 ### ![respirer au travail](https://res.cloudinary.com/dqu7lbbhg/image/upload/c_scale,dpr_auto,q_70,w_680/v1578682257/IMG_4221_lz52ry.jpg "yoga au travail")
 
-### Comment le yoga peut vous soutenir dans la votre politique de bien-être et de prévention?
+### Comment le yoga et la méditation peuvent soutenir le développement harmonieux d'une entreprise? 
 
-#### Le yoga c'est quoi?
+### Le yoga
 
-C'est en premier lieu une discipline ancestrale venue d'Inde qui a pour objet d'apaiser le mental en reliant le corps et l'esprit. Apaiser le mental, c'est avant tout se donner la possibilité de voir la réalité telle qu'elle est sans projection/ transformation/ interprétation.
+C'est en premier lieu une discipline ancestrale venue d'Inde qui a pour objet d'apaiser le mental en reliant le corps et l'esprit.
+
+Apaiser le mental, c'est avant tout se donner la possibilité de voir la réalité telle qu'elle est sans projection/ transformation/ interprétation.
 
 Le yoga comprend la pratique de postures (sur tapis ou chaise) mais également la méditation, la lecture de texte philosophique, le chant védique, la science de la respiration et la médecine ayurvédique.
 
 #### Le yoga en entreprise pourquoi?
 
-Bénéfices pour les collaborateurs
+##### Bénéfices pour les collaborateurs
 
 Un esprit serein permet d'y voir plus clair sur ses propres besoins, arriver à poser ses limites et ne pas s'épuiser au travail. On peut arriver à mieux garder son calme et pouvoir exprimer ses émotions avec plus de sérénité.
 
@@ -53,15 +55,15 @@ Avec un mental apaisé, on ne fait plus de supposition sur les intentions des au
 
 Les mouvements et les postures font sortir de la posture assise devant un ordinateur pour bouger le corps et le laisser respirer.
 
-Quelques bénéfices reconnus:
+**Quelques bénéfices reconnus**
 
-* Diminuer le stress
-* Favoriser la concentration, et développer une attention calme
-* Détendre le corps et l’esprit par la relaxation
-* Développer une posture du corps harmonieuse en renforçant les muscles et la colonne vertébrale
-* Connaitre et gérer sa respiration
+1. Diminuer le stress
+2. Favoriser la concentration, et développer une attention calme
+3. Détendre le corps et l’esprit par la relaxation
+4. Développer une posture du corps harmonieuse en renforçant les muscles et la colonne vertébrale
+5. Connaitre et gérer sa respiration
 
-  ##### Bénéfices pour l'entreprise
+##### Bénéfices pour l'entreprise
 
 Organiser un moment de calme dans le cadre de son entreprise c'est offrir à ses employé-es la possibilité de partager un moment serein et positif ensemble.
 
