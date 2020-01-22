@@ -7,17 +7,11 @@ title = "Elargir l'horizon, yoga & méditation."
 +++
 # Travailler & respirer avec le Yoga et la méditation.
 
-## Yoga&Meditation@work
+## Yoga&Meditation@work.
 
-Le "monde du travail" est vaste, le monde tout court encore plus...
+### Pourquoi du yoga et la méditation peuvent être bénéfique pendant les heures de travail? Je vous partage mon avis.
 
-Le yoga par définition, signifie faire le lien, réunir le corps et l'esprit.
-
-Le travail? Une partie de notre existence qui nous occupe au quotidien et nous permet notamment d'assurer nos besoins de base.
-
-### Pourquoi réunir les deux? Je vous partage mon avis.
-
-Au début au travail, on veut faire de son mieux, c'est normal et légitime. On a encore la tête remplie de nos études, les règles, les principes, le mental. Et puis on doit directement travailler (le plus souvent) en équipe, dans un service ou encore en relation avec d'autres collègues sur un même projet.
+Au début au travail, on veut faire de son mieux, c'est normal et légitime. On a encore la tête remplie de nos études, les règles, les principes, le mental ou encore un nouveau défis professionnels, des nouveaux objectifs... Et puis on doit directement travailler (le plus souvent) en équipe, dans un service ou encore en relation avec d'autres collègues sur un même projet.
 
 ![](https://res.cloudinary.com/dqu7lbbhg/image/upload/c_scale,dpr_auto,q_70,w_680/v1575800433/mountain-top-983890_1920_da2eoa.jpg)
 
