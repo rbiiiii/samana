@@ -13,10 +13,6 @@
     duration: 4
     category: enfants
     subtext: "(Don Bosco primaire)"
-  - start: 18h
-    end: 19h
-    duration: 4
-    category: adultes
   - start: 19h15
     end: 20h15
     duration: 4
