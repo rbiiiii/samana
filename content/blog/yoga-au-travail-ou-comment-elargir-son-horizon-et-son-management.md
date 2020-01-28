@@ -5,23 +5,21 @@ publishdate = 2020-01-14T00:00:00Z
 title = "Elargir l'horizon, yoga & méditation."
 
 +++
-# Travailler & respirer avec le Yoga et la méditation.
+# Yoga et méditation au bureau?
 
 ## Yoga&Meditation@work.
 
-### Pourquoi du yoga et la méditation peuvent être bénéfique pendant les heures de travail? Je vous partage mon avis.
+### Pourquoi du yoga et la méditation peuvent être bénéfique pendant les heures de travail? 
 
 Au début au travail, on veut faire de son mieux, c'est normal et légitime. On a encore la tête remplie de nos études, les règles, les principes, le mental ou encore un nouveau défis professionnels, des nouveaux objectifs... Et puis on doit directement travailler (le plus souvent) en équipe, dans un service ou encore en relation avec d'autres collègues sur un même projet.
 
-![](https://res.cloudinary.com/dqu7lbbhg/image/upload/c_scale,dpr_auto,q_70,w_680/v1575800433/mountain-top-983890_1920_da2eoa.jpg)
+Et là c'est de l'humain, c'est directement nous relier à nos émotions & celle des autres, nos ressentis, nos attentes, ... Et celles des autres. On peut parfois être dépourvus. Le travail peut être tellement léger et épanouissant, créatif... et/ou stressant, vidant et désagréable.
 
-Et là c'est de l'humain, c'est directement nous relier à nos émotions & celle des autres, nos ressentis, nos attentes, ... Et celles des autres. On peut parfois être très dépourvus. Le travail peut être tellement léger et épanouissant, créatif... et/ou stressant, vidant et désagréable.
+![](https://res.cloudinary.com/dqu7lbbhg/image/upload/c_scale,dpr_auto,q_70,w_680/v1575800433/mountain-top-983890_1920_da2eoa.jpg)
 
 Comment garder une équipe et des collègues motivés, heureux de venir travailler et porteur de leur objectifs? Permettre l'innovation, la créativité ou encore la gestion de nouveaux défis sont certainement essentiels pour rester dans une dynamique positive.
 
 Comment gérer les situations de stress et d'épuisement, de manque de sens au quotidien et malheureusement parfois d'harcèlement et de burn out? La prise de recul, le retour d'une communication saine, la gestion du stress et des émotions sont alors primordiaux pour un retour au calme et à la sérénité de tous.
-
-Pour moi, c'est surtout un enjeu commun à toute une entreprise, à toutes les parties prenantes: manager, DRH, employés, directions, service de prévention,... Chacun à sa manière doit pouvoir gérer sa place et sa carrière avec des outils lui permettant de profiter des moments positifs et de faire face aux moments critiques.
 
 ![chemin dans la forêt](https://res.cloudinary.com/dqu7lbbhg/image/upload/c_scale,dpr_auto,q_70,w_680/v1578667790/AdobeStock_294922695-min_zoafvu.jpg "yoga au travail")
 
@@ -29,57 +27,47 @@ La vraie question est de savoir comment vous désirez vivre votre temps au trava
 
 Vous êtes chef d'entreprise, manager, directeur, chef de service, coordinateur de projet, employés ... Que voulez-vous pour le quotidien de vos équipes, collaborateurs, collègues et partenaires? Quelle est l'ambiance qui sera propice à un travail efficace, collectif mais surtout qui rendra votre entreprise saine et attirante?
 
-Vous êtes directeur, collaborateur d'un service de ressources humaines, vous vous occupez des formations, de faire grandir et de garder motivé-es vos collègues? Comment voyez-vous les équipes et les managers être inspiré-es et atteindre les résultats tout travaillant dans une ambiance positive au quotidien?
-
 ### ![respirer au travail](https://res.cloudinary.com/dqu7lbbhg/image/upload/c_scale,dpr_auto,q_70,w_680/v1578682257/IMG_4221_lz52ry.jpg "yoga au travail")
 
-### Comment le yoga et la méditation peuvent soutenir le développement harmonieux d'une entreprise? 
+###### Comment le yoga et la méditation peuvent soutenir le développement harmonieux de votre entreprise?****
 
-### Le yoga
+###### Plusieurs bienfaits pour les collaborateurs :
 
-C'est en premier lieu une discipline ancestrale venue d'Inde qui a pour objet d'apaiser le mental en reliant le corps et l'esprit.
+\- Apaiser son mental pour une plus grande créativité, concentration, et confiance
 
-Apaiser le mental, c'est avant tout se donner la possibilité de voir la réalité telle qu'elle est sans projection/ transformation/ interprétation.
+\- Mieux appréhender ses émotions en se reconnectant à sa respiration et à son corps
 
-Le yoga comprend la pratique de postures (sur tapis ou chaise) mais également la méditation, la lecture de texte philosophique, le chant védique, la science de la respiration et la médecine ayurvédique.
+\- S’accorder un temps pour soi
 
-#### Le yoga en entreprise pourquoi?
+\- Partager des moments entre collègues en dehors de la performance et du jugement
 
-##### Bénéfices pour les collaborateurs
+\- Diminuer les risques de blessures et tensions liées au travail 
 
-Un esprit serein permet d'y voir plus clair sur ses propres besoins, arriver à poser ses limites et ne pas s'épuiser au travail. On peut arriver à mieux garder son calme et pouvoir exprimer ses émotions avec plus de sérénité.
+  
+Et l’entreprise :  
+\- Mettre la culture du “prendre soin de soi” au coeur de ses valeurs
 
-La prise de recul permet en outre de retrouver sa créativité et une certainement forme de liberté dans sa fonction.
+\- Créer une atmosphère de calme et de bienveillance entre collaborateurs
 
-Avec un mental apaisé, on ne fait plus de supposition sur les intentions des autres, on regarde les faits et on perd moins de temps à les résoudre et avancer.
+\- Fidéliser les collaborateurs et réduire les coûts liés au turnover
 
-Les mouvements et les postures font par ailleurs sortir de la posture assise fixe devant un ordinateur pour bouger le corps et le laisser respirer.
+\- Prévenir les troubles physiques liés aux postures assises
 
-La méditation
+\- Sensibiliser sur la question de la sédentarité  
+  
+**Comment se passe la mise en place d’un cours de yoga au bureau?  
+**  
+Lorsque je donne des cours de yoga au bureau, je veille à ce que chaque collaborateur, grand débutant ou confirmé, s’y sente bien. 
 
-Pratique du mental qui consiste à entrainer son attention sur un objet particulier afin d'apaiser le mental. La médiation peut amener un grande clarté d'esprit mais également la paix intérieure. Pratiquante de la méditation de pleine conscience, J'apporterai dans les pratiques les outils de gestion du stress et 
+Chaque séance de débute et se termine toujours par une phase de relaxation et méditation, centrée sur la respiration. La pratique de méditation et/ou un enchaînement de postures est guidées, expliquée et adaptée aux personnes présentes. Je veille à ce que toutes les postures soient correctement effectuées pour que les collaborateurs-rices adoptent de bonnes habitudes et ressentent au mieux les bienfaits de leur pratique. 
 
-En conclusion 
-
-1. Diminuer le stress
-2. Favoriser la concentration, et développer une attention calme
-3. Détendre le corps et l’esprit par la relaxation
-4. Développer une posture du corps harmonieuse en renforçant les muscles et la colonne vertébrale
-5. Connaitre et gérer sa respiration
-
-##### Bénéfices pour l'entreprise
-
-Organiser un moment de respiration dans le cadre de son entreprise c'est offrir à ses employé-es la possibilité de partager un moment serein et positif ensemble.
-
-Proposer un rendez-vous régulier, revient à favoriser l'autonomie de chacun-e dans la maîtrise d'outils de gestion du stress et des émotions.
-
-Inviter le yoga dans l'environnement de travail c'est aussi porter une attention au bien-être physique en renforçant la posture générale du corps et en prévenant les maux de dos si fréquents en entreprise.
-
-En conclusion, le yoga et la méditation peuvent être réellement complémentaires aux actions de l'entreprise pour créer un lieu de travail harmonieux. S'ils soulagent le stress et prévient les tensions, ils ne résoudront pas tous les problèmes. Le yoga ne pourra se substituer à un management responsable et juste, tout comme il ne pourra résoudre les soucis de surcharge de travail, de relations interpersonnelles ou encore assurer totalement un équilibre vie privée/professionnelle...
+Je suis un professeur de yoga engagées dans une certification professionnelle de 500h reconnue par l'Etat. J'apporte également une approche adaptée au contexte professionnel – laïque, et sans dimensions spirituelles pour que tout les employé-es soient à l'aise dans leur séance de yoga/méditation .  
+  
+En conclusion, le yoga et la méditation peuvent être réellement complémentaires aux actions de l'entreprise pour créer un lieu de travail harmonieux. S'ils soulagent le stress et préviennent les tensions, ils ne résoudront pas tous les problèmes. Le yoga ne pourra se substituer à un management responsable et juste, tout comme il ne pourra résoudre les soucis de surcharge de travail, de relations interpersonnelles ou encore assurer totalement un équilibre vie privée/professionnelle...
 
 ### Le yoga en entreprise comment?
 
-Samana yoga vous propose des cycles de différentes durées permettant d'envisager des engagements différents:
+Samana yoga vous propose des cycles de différentes durées permettant d'envisager des expériences différentes:
 
 \- Le cycle initiation de 4 semaines
 
