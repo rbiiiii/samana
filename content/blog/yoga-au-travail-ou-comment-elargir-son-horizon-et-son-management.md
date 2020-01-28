@@ -66,7 +66,7 @@ Chaque séance de débute et se termine toujours par une phase de relaxation et 
 
 Je suis un professeur de yoga engagée dans une certification professionnelle de 500h reconnue par l'Etat. J'apporte également une approche adaptée au contexte professionnel – laïque, et sans dimensions spirituelles pour que tout les employé-es soient à l'aise dans leur séance de yoga/méditation .  
   
-Le yoga et la méditation peuvent être réellement complémentaires aux actions de l'entreprise pour créer un lieu de travail harmonieux. S'ils soulagent le stress et préviennent les tensions, ils ne résoudront pas tous les problèmes. Le yoga ne pourra se substituer à un management responsable et juste, tout comme il ne pourra résoudre les soucis de surcharge de travail, de relations interpersonnelles ou encore assurer totalement un équilibre vie privée/professionnelle...
+Le yoga et la méditation sont réellement complémentaires aux actions de l'entreprise pour créer un lieu de travail harmonieux. S'ils soulagent le stress et préviennent les tensions, ils ne résoudront pas tous les problèmes. Le yoga ne pourra se substituer à un management responsable et juste, tout comme il ne pourra résoudre les soucis de surcharge de travail, de relations interpersonnelles ou encore assurer totalement un équilibre vie privée/professionnelle...
 
 ### Le yoga en entreprise comment?
 
