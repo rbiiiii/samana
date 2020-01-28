@@ -11,9 +11,9 @@ title = "Elargir l'horizon - yoga & méditation."
 
 ### Pourquoi du yoga et la méditation sont bénéfique pendant les heures de travail. 
 
-Au début d'une collaboration professionnelle, on veut toujours faire de son mieux, c'est normal et légitime. On a encore la tête remplie de nos études, nos principes, le mental ou plus tard dans notre carrière, nous sommes face à nouveau de nouveaux défis professionnels, des nouveaux objectifs... Et puis on doit directement travailler (le plus souvent) en équipe, dans un service ou encore en relation avec d'autres collègues sur un même projet.
+Au début d'une collaboration professionnelle, on veut toujours faire de son mieux, c'est normal et légitime. A la sortie des études, on a encore la tête remplie de nos savoirs, nos principes ou plus tard dans notre carrière, nous sommes face à de nouveaux défis professionnels, des nouveaux objectifs que l'on veut relever... Et puis on doit directement travailler (le plus souvent) en équipe, en lien avec des clients, ou encore en relation avec d'autres collègues sur un même projet.
 
-Et là, dans toutes ces collaborations, nous nous retrouvons face à l'humain dans toute sa splendeur. Nos propres émotions et attentes et celles des autres... Nos propres faiblesses et celles des autres... Comment alors se maintenir ou maintenir les autres motivé-es et épanoui-es?
+Et là, dans toutes ces collaborations, nous nous retrouvons face à l'humain dans toute sa splendeur. Nos propres émotions et attentes et celles des autres... Nos propres faiblesses et celles des autres... Comment alors, une fois les premiers mois, années se maintenir ou maintenir les autres motivé-es et épanoui-es?
 
 ![](https://res.cloudinary.com/dqu7lbbhg/image/upload/c_scale,dpr_auto,q_70,w_680/v1575800433/mountain-top-983890_1920_da2eoa.jpg)
 
@@ -37,18 +37,18 @@ Quelle est l'ambiance qui sera propice à un travail efficace & collectif mais s
 
 ###### Plusieurs bienfaits du yoga pour les collaborateurs 
 
+\- Partager des moments entre collègues en dehors de la performance et du jugement
+
 \- Apaiser son mental pour une plus grande créativité, concentration, et confiance
 
 \- Mieux appréhender ses émotions en se reconnectant à sa respiration et à son corps
 
 \- S’accorder un temps pour soi
 
-\- Partager des moments entre collègues en dehors de la performance et du jugement
-
 \- Diminuer les risques de blessures et tensions liées au travail 
 
 ######   
-Plusieurs opportunités et avantages pour l’entreprise : 
+Plusieurs opportunités et avantages pour l’entreprise
 
 \- Mettre la culture du “prendre soin de soi” au coeur de ses valeurs
 
