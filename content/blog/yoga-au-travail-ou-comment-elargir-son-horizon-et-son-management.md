@@ -37,32 +37,24 @@ Quelle est l'ambiance qui sera propice à un travail efficace & collectif mais s
 
 ###### Plusieurs bienfaits du yoga pour les collaborateurs 
 
-\- Partager des moments entre collègues en dehors de la performance et du jugement
-
-\- Apaiser son mental pour une plus grande créativité, concentration, et confiance
-
-\- Mieux appréhender ses émotions en se reconnectant à sa respiration et à son corps
-
-\- S’accorder un temps pour soi
-
-\- Diminuer les risques de blessures et tensions liées au travail 
+1. Partager des moments entre collègues en dehors de la performance et du jugement
+2. Apaiser son mental pour une plus grande créativité, concentration, et confiance
+3. Mieux appréhender ses émotions en se reconnectant à sa respiration et à son corps
+4. S’accorder un temps pour soi
+5. Diminuer les risques de blessures et tensions liées au travail 
 
 ######   
 Plusieurs opportunités et avantages pour l’entreprise
 
-\- Mettre la culture du “prendre soin de soi” au coeur de ses valeurs
+1. Mettre la culture du “prendre soin de soi” au coeur de ses valeurs
+2. Créer une atmosphère de calme et de bienveillance entre collaborateurs
+3. Fidéliser les collaborateurs et réduire les coûts liés au turnover
+4. Prévenir les troubles physiques liés aux postures assises
+5. Sensibiliser sur la question de la sédentarité
 
-\- Créer une atmosphère de calme et de bienveillance entre collaborateurs
+###### Comment se passe la mise en place d'un cours de yoga au bureau?
 
-\- Fidéliser les collaborateurs et réduire les coûts liés au turnover
-
-\- Prévenir les troubles physiques liés aux postures assises
-
-\- Sensibiliser sur la question de la sédentarité  
-  
-**Comment se passe la mise en place d’un cours de yoga au bureau?  
-**  
-Lorsque je donne des cours de yoga au bureau, je veille à ce que chaque collaborateur, grand débutant ou confirmé, s’y sente bien. 
+Lorsque je donne des cours de yoga au bureau, je veille à ce que chaque collaborateur, grand débutant ou confirmé, s'y sente bien.
 
 Chaque séance de débute et se termine toujours par une phase de relaxation et méditation, centrée sur la respiration. La pratique de méditation et/ou un enchaînement de postures est guidée, expliquée et adaptée aux personnes présentes. Je veille à ce que toutes les postures soient correctement effectuées pour que les collaborateurs-rices adoptent de bonnes habitudes et ressentent au mieux les bienfaits de leur pratique. 
 
