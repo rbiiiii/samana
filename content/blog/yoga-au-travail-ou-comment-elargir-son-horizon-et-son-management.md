@@ -33,7 +33,7 @@ Quelle est l'ambiance qui sera propice à un travail efficace & collectif mais s
 
 ### ![respirer au travail](https://res.cloudinary.com/dqu7lbbhg/image/upload/c_scale,dpr_auto,q_70,w_680/v1578682257/IMG_4221_lz52ry.jpg "yoga au travail")
 
-###### Comment le yoga et la méditation peuvent soutenir le développement harmonieux de votre entreprise?****
+###### Comment le yoga et la méditation peuvent soutenir le développement harmonieux de votre entreprise****
 
 ###### Plusieurs bienfaits du yoga pour les collaborateurs 
 
