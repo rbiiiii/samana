@@ -13,9 +13,11 @@ title = "Elargir l'horizon - yoga & méditation."
 
 Au début d'une collaboration professionnelle, on veut toujours faire de son mieux, c'est normal et légitime. On a encore la tête remplie de nos études, nos principes, le mental ou plus tard dans notre carrière, nous sommes face à nouveau de nouveaux défis professionnels, des nouveaux objectifs... Et puis on doit directement travailler (le plus souvent) en équipe, dans un service ou encore en relation avec d'autres collègues sur un même projet.
 
+Et là, dans toutes ces collaborations, nous nous retrouvons face à l'humain dans toute sa splendeur. Nos propres émotions et attentes et celles des autres... Nos propres faiblesses et celles des autres... Comment alors se maintenir ou maintenir les autres motivé-es et épanoui-es?
+
 ![](https://res.cloudinary.com/dqu7lbbhg/image/upload/c_scale,dpr_auto,q_70,w_680/v1575800433/mountain-top-983890_1920_da2eoa.jpg)
 
-Comment garder une équipe et des collègues motivés, heureux de venir travailler et porteur de leur objectifs? Permettre l'innovation, la créativité ou encore la gestion de nouveaux défis sont certainement essentiels pour rester dans une dynamique positive.
+Comment garder une équipe et des collègues heureux de venir travailler et porteur de leur objectifs? Permettre l'innovation, la créativité ou encore la gestion de nouveaux défis sont certainement essentiels pour rester dans une dynamique positive.
 
 Comment gérer les situations de stress et d’épuisement, de manque de sens au quotidien et malheureusement parfois d’harcèlement et de burn out? La prise de recul, le retour d’une communication saine, la gestion du stress et des émotions sont alors primordiaux pour un retour au calme et à la sérénité de tous.
 
@@ -33,7 +35,7 @@ Quelle est l'ambiance qui sera propice à un travail efficace & collectif mais s
 
 ###### Comment le yoga et la méditation peuvent soutenir le développement harmonieux de votre entreprise?****
 
-###### Plusieurs bienfaits pour les collaborateurs 
+###### Plusieurs bienfaits du yoga pour les collaborateurs 
 
 \- Apaiser son mental pour une plus grande créativité, concentration, et confiance
 
@@ -66,7 +68,7 @@ Chaque séance de débute et se termine toujours par une phase de relaxation et 
 
 Je suis un professeur de yoga engagée dans une certification professionnelle de 500h reconnue par l'Etat. J'apporte également une approche adaptée au contexte professionnel – laïque, et sans dimensions spirituelles pour que tout les employé-es soient à l'aise dans leur séance de yoga/méditation .  
   
-Le yoga et la méditation sont réellement complémentaires aux actions de l'entreprise pour créer un lieu de travail harmonieux. S'ils soulagent le stress et préviennent les tensions, ils ne résoudront pas tous les problèmes. Le yoga ne pourra se substituer à un management responsable et juste, tout comme il ne pourra résoudre les soucis de surcharge de travail, de relations interpersonnelles ou encore assurer totalement un équilibre vie privée/professionnelle...
+Je conclurai en soulignant que le yoga et la méditation peuvent être réellement complémentaires aux actions de l'entreprise pour créer un lieu de travail harmonieux. Et en même temps, je trouve important de rappeler que s'ils soulagent le stress et préviennent les tensions, ils ne résoudront pas tous les problèmes. Le yoga ne pourra se substituer à un management responsable et juste, tout comme il ne pourra résoudre les soucis de surcharge de travail, de relations interpersonnelles ou encore assurer totalement un équilibre vie privée/professionnelle...
 
 ### Le yoga en entreprise comment?
 
