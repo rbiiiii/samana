@@ -5,13 +5,13 @@ publishdate = 2020-01-14T00:00:00Z
 title = "Elargir l'horizon - yoga & méditation au travail"
 
 +++
-Comment désirez vous vivre votre temps au travail et comment vous voyez celui de vos collègues?
-
-Vous êtes chef-fe d'entreprise, manager, directeur-trice RH, chef de service, coordinateur-trice d'association ou de projet ou encoreemployé-es?
-
-Que voulez-vous pour le quotidien de vos équipes, collaborateur-trices, collègues et partenaires?
-
-Quelle est l'ambiance qui sera propice à un travail efficace & collectif mais surtout qui rendra votre entreprise saine et attirante?
+> _Comment désirez vous vivre votre temps au travail et comment vous voyez celui de vos collègues?_
+>
+> _Vous êtes chef-fe d'entreprise, manager, directeur-trice RH, chef de service, coordinateur-trice d'association ou de projet ou encoreemployé-es?_
+>
+> _Que voulez-vous pour le quotidien de vos équipes, collaborateur-trices, collègues et partenaires?_
+>
+> _Quelle est l'ambiance qui sera propice à un travail efficace & collectif mais surtout qui rendra votre entreprise saine et attirante?_
 
 #### Pourquoi du yoga et la méditation sont bénéfiques dans le cadre professionnel?
 
