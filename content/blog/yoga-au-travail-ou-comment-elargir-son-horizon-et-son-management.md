@@ -9,7 +9,15 @@ title = "Elargir l'horizon - yoga & méditation."
 
 ## Yoga&Meditation@work.
 
-#### Pourquoi du yoga et la méditation sont bénéfiques pendant les heures de travail.
+Comment désirez vous vivre votre temps au travail et comment vous voyez celui de vos collègues?
+
+Vous êtes chef-fe d'entreprise, manager, directeur-trice RH, chef de service, coordinateur-trice de projet, employé-es ...
+
+Que voulez-vous pour le quotidien de vos équipes, collaborateur-trices, collègues et partenaires?
+
+Quelle est l'ambiance qui sera propice à un travail efficace & collectif mais surtout qui rendra votre entreprise saine et attirante?
+
+#### Pourquoi du yoga et la méditation sont bénéfiques dans le cadre professionnel?
 
 Au début d'une collaboration professionnelle, on veut toujours faire de son mieux, c'est normal et légitime. A la sortie des études, on a encore la tête remplie de nos savoirs, nos principes ou plus tard dans notre carrière, nous sommes face à de nouveaux défis professionnels, des nouveaux objectifs que l'on veut relever... Et puis on doit travailler (le plus souvent) en équipe, en lien avec des clients, ou encore en relation avec d'autres collègues sur un même projet.
 
@@ -23,29 +31,27 @@ Comment gérer les situations de stress et d’épuisement, de manque de sens au
 
 ![chemin dans la forêt](https://res.cloudinary.com/dqu7lbbhg/image/upload/c_scale,dpr_auto,q_70,w_680/v1578667790/AdobeStock_294922695-min_zoafvu.jpg "yoga au travail")
 
-La vraie question est de savoir comment vous désirez vivre votre temps au travail et comment vous voyez celui de vos collègues.
+##### Qui suis-je? Ma motivation.
 
-Vous êtes chef-fe d'entreprise, manager, directeur-trice RH, chef de service, coordinateur-trice de projet, employé-es ...
+Je suis professeure de yoga engagée dans une certification professionnelle de 500h sur 4 années. J'ai moi-même travaillé en entreprises publiques et privées durant 20 ans dont 5 années dans des postes de management. J'apporte **une approche adaptée au contexte professionnel** – laïque, et sans dimensions spirituelles pour que tout-es les employé-es soient à l'aise dans leur séance de yoga/méditation. 
 
-Que voulez-vous pour le quotidien de vos équipes, collaborateur-trices, collègues et partenaires?
+Le yoga et la méditation sont réellement complémentaires aux actions de l'entreprise pour créer un lieu de travail harmonieux. Il est toutefois important de rappeler que s'ils soulagent le stress et préviennent les tensions, ils ne résoudront pas tous les problèmes. 
 
-Quelle est l'ambiance qui sera propice à un travail efficace & collectif mais surtout qui rendra votre entreprise saine et attirante?
+Le yoga ne pourra se substituer à un management responsable et juste, tout comme il ne pourra résoudre les soucis de surcharge de travail, de relations interpersonnelles ou encore assurer totalement un équilibre vie privée/professionnelle...
 
 ### ![respirer au travail](https://res.cloudinary.com/dqu7lbbhg/image/upload/c_scale,dpr_auto,q_70,w_680/v1578682257/IMG_4221_lz52ry.jpg "yoga au travail")
 
-#### Comment le yoga et la méditation peuvent soutenir le développement harmonieux de votre entreprise
+#### Comment le yoga et la méditation soutiennent le un cadre de travail collaboratif et serein, innovant et créatif?  
 
 ###### Plusieurs bienfaits du yoga pour les collaborateurs
 
 1. Partager des moments entre collègues en dehors de la performance et du jugement
-2. Apaiser son mental pour une plus grande créativité, concentration, et confiance
-3. Mieux appréhender ses émotions en se re-connectant à sa respiration et à son corps
-4. S’accorder un temps pour soi
-5. Diminuer les risques de blessures et tensions liées au travail
+2. Apaiser son mental pour une plus grande créativité, concentration
+3. Stimuler la confiance en soi et en l'autre
+4. Reconnaître ses émotions 
+5. Diminuer les risques de blessures et les tensions liées au travail
 
-###### 
-
-Plusieurs opportunités et avantages pour l’entreprise
+###### Plusieurs opportunités et avantages pour l’entreprise
 
 1. Mettre la culture du “prendre soin de soi” au coeur de ses valeurs
 2. Créer une atmosphère de calme et de bienveillance entre collaborateurs
@@ -53,15 +59,11 @@ Plusieurs opportunités et avantages pour l’entreprise
 4. Prévenir les troubles physiques liés aux postures assises
 5. Sensibiliser sur la question de la sédentarité
 
-###### Comment se passe la mise en place d'un cours de yoga au bureau?
+#### Comment se passe la mise en place d'un cours de yoga au bureau?
 
 Lorsque je donne des cours de yoga au bureau, je veille à ce que chaque collaborateur, grand débutant ou confirmé, s'y sente bien.
 
-Chaque séance de débute et se termine toujours par une phase de relaxation et méditation, centrée sur la respiration. La pratique de méditation et/ou un enchaînement de postures est guidée, expliquée et adaptée aux personnes présentes. Je veille à ce que toutes les postures soient correctement effectuées pour que les collaborateurs-rices adoptent de bonnes habitudes et ressentent au mieux les bienfaits de leur pratique.
-
-Je suis un professeur de yoga engagée dans une certification professionnelle de 500h sur 4 années. J'apporte également une approche adaptée au contexte professionnel – laïque, et sans dimensions spirituelles pour que tout-es les employé-es soient à l'aise dans leur séance de yoga/méditation .
-
-Je conclurai en soulignant que le yoga et la méditation peuvent être réellement complémentaires aux actions de l'entreprise pour créer un lieu de travail harmonieux. Il est toutefois important de rappeler que s'ils soulagent le stress et préviennent les tensions, ils ne résoudront pas tous les problèmes. Le yoga ne pourra se substituer à un management responsable et juste, tout comme il ne pourra résoudre les soucis de surcharge de travail, de relations interpersonnelles ou encore assurer totalement un équilibre vie privée/professionnelle...
+Chaque séance de débute et se termine toujours par une phase de relaxation et méditation, **centrée sur la respiration et la re-connexion à son corps**. La pratique de méditation et/ou un enchaînement de postures est guidée, expliquée et adaptée aux personnes présentes. Je veille à ce que toutes les postures soient correctement effectuées pour que les collaborateurs-rices adoptent de bonnes habitudes et ressentent au mieux les bienfaits de leur pratique.
 
 #### Le yoga en entreprise comment?
 
