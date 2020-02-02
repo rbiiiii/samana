@@ -9,7 +9,7 @@ title = "Elargir l'horizon - yoga & méditation."
 
 ## Yoga&Meditation@work.
 
-#### Pourquoi du yoga et la méditation sont bénéfique pendant les heures de travail.
+#### Pourquoi du yoga et la méditation sont bénéfiques pendant les heures de travail.
 
 Au début d'une collaboration professionnelle, on veut toujours faire de son mieux, c'est normal et légitime. A la sortie des études, on a encore la tête remplie de nos savoirs, nos principes ou plus tard dans notre carrière, nous sommes face à de nouveaux défis professionnels, des nouveaux objectifs que l'on veut relever... Et puis on doit travailler (le plus souvent) en équipe, en lien avec des clients, ou encore en relation avec d'autres collègues sur un même projet.
 
