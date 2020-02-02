@@ -2,16 +2,12 @@
 categories = ["Yoga Au Travail"]
 photo = "https://res.cloudinary.com/dqu7lbbhg/image/upload/v1575800434/panoramic-3227796_1920_dxkg6w.jpg"
 publishdate = 2020-01-14T00:00:00Z
-title = "Elargir l'horizon - yoga & méditation."
+title = "Elargir l'horizon - yoga & méditation au travail"
 
 +++
-# Yoga et méditation au bureau?
-
-## Yoga&Meditation@work.
-
 Comment désirez vous vivre votre temps au travail et comment vous voyez celui de vos collègues?
 
-Vous êtes chef-fe d'entreprise, manager, directeur-trice RH, chef de service, coordinateur-trice de projet, employé-es ...
+Vous êtes chef-fe d'entreprise, manager, directeur-trice RH, chef de service, coordinateur-trice d'association ou de projet ou encoreemployé-es?
 
 Que voulez-vous pour le quotidien de vos équipes, collaborateur-trices, collègues et partenaires?
 
@@ -78,5 +74,7 @@ Samana yoga vous propose des cycles de différentes durées permettant d'envisag
 La meilleur manière de comprendre ce qui fonctionnera pour votre entreprise est de se rencontrer. Alors n'hésitez pas à me contacter et nous fixerons un rendez-vous rapidement.
 
 Chloé Dujardin
+
+## Yoga&Meditation@work
 
 ***
