@@ -30,7 +30,7 @@ Tout Coquelicot, 20 rue de la Justice 4420 Saint-Nicolas
 Pranaclinic, 11 bvd Kleyer 4000 Liège  
 **2 cours/ Mercredi après-midi yoga enfants et ados**
 
-## ![](https://res.cloudinary.com/dqu7lbbhg/image/upload/c_scale,dpr_auto,q_70,w_680/v1580720940/IMG_2560_cmbln7.jpg)Mes petits bonheur :-) hors des studios
+## ![](https://res.cloudinary.com/dqu7lbbhg/image/upload/c_scale,dpr_auto,q_70,w_680/v1580720940/IMG_2560_cmbln7.jpg)Mes petits bonheur :-) 
 
 Le yoga avec les enfants est une véritable découverte. A chaque cours je reviens pleine de lumière ;-).
 
@@ -44,10 +44,12 @@ La méditation fait partie intégrante du yoga depuis toujours. J'approfondi cet
 
 ## ![](https://res.cloudinary.com/dqu7lbbhg/image/upload/c_scale,dpr_auto,q_70,w_680/v1580721206/Capture_d_e%CC%81cran_2019-12-10_a%CC%80_15.34.16_zrqtvc.png)
 
-Quelle est notre tradition de yoga? Le viniyoga
+## Quelle est notre tradition de yoga? Le viniyoga.
 
-Le viniyoga est une transmission des enseignements du yoga qui se veut complète et authentique. (Les postures - āsana mais également les exercices de respiration - prāṇāyāma, la médiation, le chant, le rituel personnel et l'étude de textes). C’est une manière de partager les enseignements du yoga qui se veut authentique et en phase avec les personnes à qui la pratique est destinée.
+Le viniyoga est une transmission des enseignements du yoga qui se veut complète et authentique. (Les postures - āsana mais également les exercices de respiration - prāṇāyāma, la médiation, le chant védique, le rituel personnel et l'étude de textes). C’est une manière de partager les enseignements du yoga qui se veut authentique et en phase avec les personnes à qui la pratique est destinée.
 
-Concrètement avec le Viniyoga, vous apprenez à bouger au rythme de votre respiration. Pendant les postures ou les āsana, vous connectez chaque exercice physique avec votre attention et votre respiration. Le chant védique y amène une dimension vibratoire supplémentaire à chacun-e et un partage de groupe assez puissant.
+Concrètement avec le Viniyoga, vous apprenez à bouger au rythme de votre respiration. Pendant les postures ou les āsana, vous connectez chaque exercice physique avec votre attention et votre respiration. Le chant védique y amène une dimension vibratoire supplémentaire à chacun-e et partage une énergie lumineuse et puissante.
 
 Cette tradition est issue de Shri T. Krishnamacharya un des pères de l'émancipation du yoga vers l'occident et de son fils T.K.V Desikachar.
+
+Plus d'informations? Venez donc essayer un cours de yoga ou une séance de méditation en mouvement.
