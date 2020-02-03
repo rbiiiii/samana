@@ -1,34 +1,35 @@
 {{ define "main" }}
-	<article class="blog-article">
-		<header class="blog-article__header">
-			<img style="width:100%" class="blog-article__img" src="{{.Params.photo}}" alt="Illustration de l'article {{ .Title }}">
-			<div class="blog-article__header__txt">
-				{{ $catLen := len .Params.categories }}
-				<ul class="blog-article__categories">Catégorie{{ if gt $catLen 1 }}s{{ end }} :
-					{{ range .Params.categories }}
-						<li>
-							<a class="button" href="/categories/{{ . | urlize }}">{{ . | humanize }}</a>
-						</li>
-					{{ end }}
-				</ul>
-				<h1 class="blog-article__title">{{ .Title }}</h1>
-				<time class="blog-article__date">
+<article class="blog-article">
+    <header class="blog-article__header">
+        <picture>
+            <source srcset="{{ $.Site.Params.cloudinary_base_url }}/q_80,w_400/{{.Params.photo}}" media="(max-width: 400px)">
+            <source srcset="{{ $.Site.Params.cloudinary_base_url }}/q_80,w_768/{{.Params.photo}}" media="(max-width: 768px)">
+            <source srcset="{{ $.Site.Params.cloudinary_base_url }}/q_80,w_1366/{{.Params.photo}}" media="(max-width: 1366px)">
+            <img style="width:100%" class="blog-article__img" src="{{ $.Site.Params.cloudinary_base_url }}/q_80,w_1920/{{.Params.photo}}" alt="Illustration de l'article {{ .Title }}">
+        </picture>
+        <div class="blog-article__header__txt">
+            {{ $catLen := len .Params.categories }}
+            <ul class="blog-article__categories">Catégorie{{ if gt $catLen 1 }}s{{ end }} : {{ range .Params.categories }}
+                <li>
+                    <a class="button" href="/categories/{{ . | urlize }}">{{ . | humanize }}</a>
+                </li>
+                {{ end }}
+            </ul>
+            <h1 class="blog-article__title">{{ .Title }}</h1>
+            <time class="blog-article__date">
 					<img class="agenda__icons" src="/assets/img/agenda-when.svg" width="15"
 						height="15" alt="Quand"> {{ .Date.Format "02/01/2006" }}
 				</time>
-			</div>
-		</header>
-		<div class="blog-article__content">
-			{{ .Content }}
-		</div>
-	</article>
+        </div>
+    </header>
+    <div class="blog-article__content">
+        {{ .Content }}
+    </div>
+</article>
 
-	<nav class="blog-article__nav">
-		{{ with .PrevInSection }}
-			<a class="button" href="{{ .Permalink }}">{{ .Title }}</a>
-		{{ end }}
-		{{ with .NextInSection }}
-			<a class="button" href="{{ .Permalink }}">{{ .Title }}</a>
-		{{ end }}
-	</nav>
+<nav class="blog-article__nav">
+    {{ with .PrevInSection }}
+    <a class="button" href="{{ .Permalink }}">{{ .Title }}</a> {{ end }} {{ with .NextInSection }}
+    <a class="button" href="{{ .Permalink }}">{{ .Title }}</a> {{ end }}
+</nav>
 {{ end }}

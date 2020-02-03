@@ -1,6 +1,6 @@
 +++
 categories = ["A propos de Samana yoga"]
-photo = "https://res.cloudinary.com/dqu7lbbhg/image/upload/v1576530341/chloe-0086-min_rvjkme.jpg"
+photo = "chloe-0086-min_rvjkme.jpg"
 publishdate = 2020-02-03T00:00:00Z
 title = "Samana yoga, l'aventure"
 
