@@ -46,7 +46,7 @@ La méditation fait partie intégrante du yoga depuis toujours. J'approfondi cet
 
 ## Quelle est notre tradition de yoga? Le viniyoga.
 
-Le viniyoga est une transmission des enseignements du yoga qui se veut complète et authentique. (Les postures - āsana mais également les exercices de respiration - prāṇāyāma, la médiation, le chant védique, le rituel personnel et l'étude de textes). C’est une manière de partager les enseignements du yoga qui se veut authentique et en phase avec les personnes à qui la pratique est destinée.
+Le viniyoga est une transmission des enseignements du yoga complète et authentique. (Les postures - āsana mais également les exercices de respiration - prāṇāyāma, la médiation, le chant védique, le rituel personnel et l'étude de textes). C’est une manière de partager les enseignements du yoga qui se veut authentique et en phase avec les personnes à qui la pratique est destinée.
 
 Concrètement avec le Viniyoga, vous apprenez à bouger au rythme de votre respiration. Pendant les postures ou les āsana, vous connectez chaque exercice physique avec votre attention et votre respiration. Le chant védique y amène une dimension vibratoire supplémentaire à chacun-e et partage une énergie lumineuse et puissante.
 
