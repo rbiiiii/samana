@@ -34,7 +34,7 @@ Pranaclinic, 11 bvd Kleyer 4000 Liège
 
 Le yoga avec les enfants est une véritable découverte. A chaque cours, je ressors pleine de lumière ;-).
 
-Nous partageons ensemble nos pensées sur la vie, les émotions, les états de notre esprit ...et le yoga prend tout son sens![](https://res.cloudinary.com/dqu7lbbhg/image/upload/c_scale,dpr_auto,q_70,w_680/v1580721021/IMG_2585_x4kvnj.jpg "Yoga enfants")
+Nous partageons ensemble nos pensées sur la vie, les émotions, les états de notre esprit ...et le yoga prend tout son sens.
 
 ![](https://res.cloudinary.com/dqu7lbbhg/image/upload/c_scale,dpr_auto,q_70,w_680/v1580721045/IMG_3480_etioha.jpg "yoga enfant")Du yoga et de la méditation
 
