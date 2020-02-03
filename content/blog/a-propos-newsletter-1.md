@@ -52,4 +52,6 @@ Concrètement avec le Viniyoga, vous apprenez à bouger au rythme de votre respi
 
 Cette tradition est issue de Shri T. Krishnamacharya un des pères de l'émancipation du yoga vers l'occident et de son fils T.K.V Desikachar.
 
-###### _Plus d'informations? Venez donc essayer un cours de yoga ou une séance de méditation en mouvement._
+###### _Plus d'informations? Le mieux est d'essayer les cours._
+
+###### _Venez donc essayer un cours de yoga ou une séance de méditation en mouvement._
