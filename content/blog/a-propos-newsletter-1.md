@@ -36,7 +36,7 @@ Le yoga avec les enfants est une véritable découverte. A chaque cours, je ress
 
 Nous partageons ensemble nos pensées sur la vie, les émotions, les états de notre esprit ...et le yoga prend tout son sens.
 
-![](https://res.cloudinary.com/dqu7lbbhg/image/upload/c_scale,dpr_auto,q_70,w_680/v1580721045/IMG_3480_etioha.jpg "yoga enfant")Du yoga et de la méditation
+## ![](https://res.cloudinary.com/dqu7lbbhg/image/upload/c_scale,dpr_auto,q_70,w_680/v1580721045/IMG_3480_etioha.jpg "yoga enfant")Du yoga et de la méditation
 
 Pour moi il n'y a que un yoga et ... Plusieurs traditions qui ont développé leur manière de le lire, le comprendre et le transmettre. Le plus important pour moi est de ne pas délimiter le yoga autour de la seule pratique des postures (asanas).
 
