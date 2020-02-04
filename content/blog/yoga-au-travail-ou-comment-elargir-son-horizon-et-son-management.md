@@ -17,13 +17,13 @@ Au début d'une collaboration professionnelle, on veut toujours faire de son mie
 
 Et là, dans toutes ces collaborations, nous nous retrouvons face à l'humain dans toute sa splendeur. Nos propres émotions et attentes et celles des autres... Nos propres faiblesses et celles des autres... Comment alors, une fois les premiers mois, les premières années se maintenir ou maintenir les autres motivé-es et épanoui-es?
 
-![](https://res.cloudinary.com/dqu7lbbhg/image/upload/c_scale,dpr_auto,q_70,w_680/v1575800433/mountain-top-983890_1920_da2eoa.jpg)
+![](https://res.cloudinary.com/dqu7lbbhg/image/upload/c_scale,dpr_auto,q_70,w_680,f_auto/v1575800433/mountain-top-983890_1920_da2eoa.jpg)
 
 Comment garder une équipe et des collègues heureux de venir travailler et porteur de leur objectifs? Permettre l'innovation, la créativité ou encore la gestion de nouveaux défis sont certainement essentiels pour rester dans une dynamique positive.
 
 Comment gérer les situations de stress et d’épuisement, de manque de sens au quotidien et malheureusement parfois d’harcèlement et de burn out? La prise de recul, le retour d’une communication saine, la gestion du stress et des émotions sont alors primordiaux pour un retour au calme et à la sérénité de tous.
 
-![chemin dans la forêt](https://res.cloudinary.com/dqu7lbbhg/image/upload/c_scale,dpr_auto,q_70,w_680/v1578667790/AdobeStock_294922695-min_zoafvu.jpg "yoga au travail")
+![chemin dans la forêt](https://res.cloudinary.com/dqu7lbbhg/image/upload/c_scale,dpr_auto,q_70,w_680,f_auto/v1578667790/AdobeStock_294922695-min_zoafvu.jpg "yoga au travail")
 
 ##### Qui suis-je? Ma motivation.
 
@@ -33,7 +33,7 @@ Le yoga et la méditation sont réellement complémentaires aux actions de l'ent
 
 Le yoga ne pourra se substituer à un management responsable et juste, tout comme il ne pourra résoudre les soucis de surcharge de travail, de relations interpersonnelles ou encore assurer totalement un équilibre vie privée/professionnelle...
 
-### ![respirer au travail](https://res.cloudinary.com/dqu7lbbhg/image/upload/c_scale,dpr_auto,q_70,w_680/v1578682257/IMG_4221_lz52ry.jpg "yoga au travail")
+### ![respirer au travail](https://res.cloudinary.com/dqu7lbbhg/image/upload/c_scale,dpr_auto,q_70,w_680,f_auto/v1578682257/IMG_4221_lz52ry.jpg "yoga au travail")
 
 #### Comment le yoga et la méditation soutiennent le un cadre de travail collaboratif et serein, innovant et créatif?
 

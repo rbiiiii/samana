@@ -2,10 +2,10 @@
 <article class="blog-article">
     <header class="blog-article__header">
         <picture>
-            <source srcset="{{ $.Site.Params.cloudinary_base_url }}/q_80,w_400/{{.Params.photo}}" media="(max-width: 400px)">
-            <source srcset="{{ $.Site.Params.cloudinary_base_url }}/q_80,w_768/{{.Params.photo}}" media="(max-width: 768px)">
-            <source srcset="{{ $.Site.Params.cloudinary_base_url }}/q_80,w_1366/{{.Params.photo}}" media="(max-width: 1366px)">
-            <img style="width:100%" class="blog-article__img" src="{{ $.Site.Params.cloudinary_base_url }}/q_80,w_1920/{{.Params.photo}}" alt="Illustration de l'article {{ .Title }}">
+            <source srcset="{{ $.Site.Params.cloudinary_base_url }}/f_auto,q_80,w_400/{{.Params.photo}}" media="(max-width: 400px)">
+            <source srcset="{{ $.Site.Params.cloudinary_base_url }}/f_auto,q_80,w_768/{{.Params.photo}}" media="(max-width: 768px)">
+            <source srcset="{{ $.Site.Params.cloudinary_base_url }}/f_auto,q_80,w_1366/{{.Params.photo}}" media="(max-width: 1366px)">
+            <img style="width:100%" class="blog-article__img" src="{{ $.Site.Params.cloudinary_base_url }}/f_auto,q_80,w_1920/{{.Params.photo}}" alt="Illustration de l'article {{ .Title }}">
         </picture>
         <div class="blog-article__header__txt">
             {{ $catLen := len .Params.categories }}
