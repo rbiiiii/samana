@@ -7,6 +7,7 @@ address: Rue de la Justice 20, 4420 Saint-Nicolas (Tout Coquelicot)
 img: "/AdobeStock_216060429_yjx8hp.jpg"
 category: cours
 enddate: 2020-03-31
+draft: true
 
 ---
 Cours collectifs d'1h pour adultes, niveau débutant et intermédiaire. Possibilité de débuter toute l'année.
