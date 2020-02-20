@@ -2,7 +2,7 @@
 address = "Prana Clinic, 11 bvd Kleyer, 4000 Liège"
 category = "cours"
 date = 2020-01-08T00:00:00Z
-enddate = 2020-04-01T00:00:00Z
+enddate = 2020-06-17T00:00:00Z
 img = "/yogaenfant-merc14h_bgcnno.jpg"
 schedule_in = "14:00"
 schedule_out = "15:00"
