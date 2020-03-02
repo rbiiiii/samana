@@ -5,6 +5,18 @@
         left:50%;
         transform: translateX(-50%);
         width:100%;
+        position: absolute;
+    }
+}
+
+#home-intro {
+
+    picture {
+        max-height: 75vh;
+
+        @media screen and (min-width:1654px) {
+            transform: translateY(-30%);
+        }
     }
 }
 

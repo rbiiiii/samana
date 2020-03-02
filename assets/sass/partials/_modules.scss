@@ -59,19 +59,23 @@ figure {
 .fullw-img {
     width:100%;
     max-width: 100%;
-    height:auto;
+    height:100%;
     display:block;
     object-fit: cover;
-    max-height: 500px;
+
+    @media screen and (min-width:768px) {
+        height:auto;
+    }
 }
 
 .fullw-img-wrapper {
     display:flex;
     align-items:center;
     justify-content: center;
+    overflow:hidden;
+    position: relative;
     
     figcaption {
-        position:absolute;
         left:0;
         @supports (display:grid) {
             left:auto;
@@ -112,6 +116,8 @@ figure {
 
 .fullw-img-wrapper--long-text {
     align-items:flex-start;
+    overflow:hidden;
+    position: relative;
     
     figcaption {
         max-width: 28em;
@@ -120,6 +126,7 @@ figure {
         text-align: left;
         @include fs-xs;
         margin:$su/2 0;
+        position: relative;
 
         > * {
             font-size: 0.85rem;
@@ -172,6 +179,10 @@ figure {
                 font-size:1.7rem;
             }
         }
+    }
+
+    picture {
+        position: absolute;
     }
 }
 
