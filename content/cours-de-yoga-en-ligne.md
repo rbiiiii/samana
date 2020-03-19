@@ -1,6 +1,5 @@
 +++
 categories = ["A propos de samana yoga"]
-draft = true
 photo = "/v1584627110/AdobeStock_251503715-min_rvmb3x.jpg"
 publishdate = 2020-03-19T00:00:00Z
 title = "Cours de yoga en ligne "
