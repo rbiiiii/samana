@@ -15,7 +15,7 @@ Professeur de yoga et méditation, j'ai pensé tout de suite à continuer mes co
 
 En effet, je prépare mes cours de yoga soigneusement selon le groupe concerné, la saison, le niveau des personnes inscrites, ... Et je peux en séance adapter le rythme, le souffle, les postures, le chant selon l'énergie qui circule dans le groupe et la mienne. Donner un cours de yoga est vraiment vivant et en présence.
 
-J'ai tout de même décidé de tenter l'expérience. 
+J'ai tout de même décidé de tenter l'expérience.
 
 Parce que je pense que cette période de temps prolongé à la maison accompagné d'informations assez anxiogènes c'est le moins que l'ont puisse dire... Mérite d'être accompagné de respirations. :-)
 
@@ -74,7 +74,7 @@ Ces cours sont totalement gratuit pour toutes les personnes qui sont inscrites a
 
 Les cours sont aussi gratuits pour tous les étudiants (faites passer le mot!)
 
-Ce qu'ils en disent?
+## Ce qu'ils en disent?
 
 "Génial, merci de la proposition cela m'a fait beaucoup de bien"
 
