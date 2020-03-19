@@ -12,15 +12,17 @@ title = "Cours de yoga en ligne "
 
 J’espère que vous allez bien et que cette période inédite et de changement soit avant tout une possibilité d'expérimenter la vie autrement.
 
-Professeur de yoga et méditation, j'ai pensé tout de suite à continuer mes cours mais comment? Un cours en ligne ce n'est vraiment pas une chose si anodine pour le yoga. 
+Professeur de yoga et méditation, j'ai pensé tout de suite à continuer mes cours mais comment? Un cours en ligne ce n'est vraiment pas une chose si anodine pour le yoga.
 
-En effet, Je prépare mes cours de yoga soigneusement selon le groupe concerné, la saison, le niveau des personnes inscrites, ... Et je peux en séance adapter le rythme, le souffle, les postures, le chant selon l'énergie qui circule dans le groupe et la mienne. Donner un cours de yoga est vraiment vivant et en présence.
+En effet, je prépare mes cours de yoga soigneusement selon le groupe concerné, la saison, le niveau des personnes inscrites, ... Et je peux en séance adapter le rythme, le souffle, les postures, le chant selon l'énergie qui circule dans le groupe et la mienne. Donner un cours de yoga est vraiment vivant et en présence.
 
-J'ai tout de même décider de tenter l'expérience. Je pense que cette période de temps prolongé à la maison accompagné d'informations assez anxiogènes mérite d'être accompagné de respirations. :-)
+J'ai tout de même décidé de tenter l'expérience. Par ce que je pense que cette période de temps prolongé à la maison accompagné d'informations assez anxiogènes mérite d'être accompagné de respirations. :-)
 
 Je vous propose donc une séance d'une heure assez simple adaptée à tous niveaux. Une séance qui restera identique pour les 3 prochaines semaines pour que vous puissiez petit à petit l'intégrer et approfondir votre respiration au mieux.
 
-## Cours de yoga en ligne chaque semaine 
+## Cours de yoga en ligne chaque semaine
+
+Voici le liens qui vous permettent de vous inscrire aux cours de yoga en ligne très facilement. Le système de Zoom est une video conférence, pas besoin donc d'un compte, etc... (voir modus operandi plus bas)
 
 ### 5 cours de yoga en ligne/adultes
 
@@ -46,7 +48,7 @@ Cours du mercredi 14h: [https://zoom.us/meeting/register/uJYpdOmurDIpihz-3EPWX1c
 
 ### Matériel:
 
-Vous avez besoin d'un ordinateur ou d'uns smartphone/tablette. Il est plus agréable de pratiquer dans une pièce calme et porte fermée. 
+Vous avez besoin d'un ordinateur ou d'uns smartphone/tablette. Il est plus agréable de pratiquer dans une pièce calme et porte fermée.
 
 Vous pouvez prévoir un tapis de yoga (ou une grande serviette de bain), un coussin et une couverture.
 
@@ -54,7 +56,7 @@ Si vous avez un baffle connectable à votre smartphone ou ordinateur, cela peur 
 
 ### Inscription:
 
-1. Cliquer sur le ou les  liens avec l'horaire qui vous convient. 
+1. Cliquer sur le ou les  liens avec l'horaire qui vous convient.
 2. Inscrivez-vous en donnant nom, prénom et email.
 3. Vous recevez alors un email de confirmation avec un lien pour participer à la réunion.
 4. Le jour du cours aller sur votre email, cliquer sur le lien pour vous connecter au cours de yoga minimum 15 minutes avant le début.
