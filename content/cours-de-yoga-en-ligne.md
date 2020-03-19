@@ -88,4 +88,6 @@ Chaleureusement,
 
 Chloé :-)
 
-Retrouvez moi sur facebook [https://www.facebook.com/YogaSamanaliege/](https://www.facebook.com/YogaSamanaliege/ "Facebook de yoga Samana")
+[https://www.facebook.com/YogaSamanaliege/](https://www.facebook.com/YogaSamanaliege/ "https://www.facebook.com/YogaSamanaliege/")
+
+Retrouvez moi sur facebook 
