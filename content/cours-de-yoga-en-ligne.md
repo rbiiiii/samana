@@ -46,7 +46,7 @@ Cours du mercredi 14h: [https://zoom.us/meeting/register/uJYpdOmurDIpihz-3EPWX1c
 
 ## Logistique et paiement
 
-### Matériel:
+### Matériel
 
 Vous avez besoin d'un ordinateur ou d'uns smartphone/tablette. Il est plus agréable de pratiquer dans une pièce calme et porte fermée.
 
@@ -54,7 +54,7 @@ Vous pouvez prévoir un tapis de yoga (ou une grande serviette de bain), un cous
 
 Si vous avez un baffle connectable à votre smartphone ou ordinateur, cela peur apporter un confort sonore.
 
-### Inscription:
+### Inscription
 
 1. Cliquer sur le ou les  liens avec l'horaire qui vous convient.
 2. Inscrivez-vous en donnant nom, prénom et email.
@@ -63,7 +63,7 @@ Si vous avez un baffle connectable à votre smartphone ou ordinateur, cela peur 
 5. Vérifier de bien entendre ma voix et voir l'image.
 6. C'est parti!
 
-### Paiement:
+### Paiement
 
 Concernant le paiement, Vous pouvez me verser une somme « prix conscient », c’est à dire ce qui est possible pour vous et qui participe aussi à me rétribuer dans cette période "particulière".
 
@@ -73,8 +73,10 @@ Ces cours sont totalement gratuit pour toutes les personnes qui sont inscrites a
 
 Les cours sont aussi gratuits pour tous les étudiants (faites passer le mot!)
 
-Merci (**N’hésitez pas à partager à vos ami-es, familles etc**)
+Merci _(**N’hésitez pas à partager à vos ami-es, familles etc**_)
 
 Chaleureusement,
 
 Chloé :-)
+
+Retrouvez moi sur facebook [https://www.facebook.com/YogaSamanaliege/](https://www.facebook.com/YogaSamanaliege/ "Facebook de yoga Samana")
