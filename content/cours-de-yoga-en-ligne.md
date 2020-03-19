@@ -16,7 +16,9 @@ Professeur de yoga et méditation, j'ai pensé tout de suite à continuer mes co
 
 En effet, je prépare mes cours de yoga soigneusement selon le groupe concerné, la saison, le niveau des personnes inscrites, ... Et je peux en séance adapter le rythme, le souffle, les postures, le chant selon l'énergie qui circule dans le groupe et la mienne. Donner un cours de yoga est vraiment vivant et en présence.
 
-J'ai tout de même décidé de tenter l'expérience. Par ce que je pense que cette période de temps prolongé à la maison accompagné d'informations assez anxiogènes mérite d'être accompagné de respirations. :-)
+J'ai tout de même décidé de tenter l'expérience. 
+
+Parce que je pense que cette période de temps prolongé à la maison accompagné d'informations assez anxiogènes c'est le moins que l'ont puisse dire... Mérite d'être accompagné de respirations. :-)
 
 Je vous propose donc une séance d'une heure assez simple adaptée à tous niveaux. Une séance qui restera identique pour les 3 prochaines semaines pour que vous puissiez petit à petit l'intégrer et approfondir votre respiration au mieux.
 
@@ -72,6 +74,14 @@ Je donne comme indication 10€/cours, mais je suis vraiment d'accord avec tout 
 Ces cours sont totalement gratuit pour toutes les personnes qui sont inscrites au cours ou qui ont un enfant/ado inscrits au cours de yoga.
 
 Les cours sont aussi gratuits pour tous les étudiants (faites passer le mot!)
+
+Ce qu'ils en disent?
+
+"Génial, merci de la proposition cela m'a fait beaucoup de bien"
+
+"C'est une belle expérience d'entendre ton chant jusque chez moi ;-)!"
+
+"Je me suis sentie mieux après la séance, comme quoi même à distance on en profite, on en profite, ..."
 
 Merci _(**N’hésitez pas à partager à vos ami-es, familles etc**_)
 
