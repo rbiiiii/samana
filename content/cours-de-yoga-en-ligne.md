@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["A propos de samana yoga"]
 draft = true
 photo = "/v1584620655/AdobeStock_101499133-min_yztowo.jpg"
 publishdate = 2020-03-19T00:00:00Z
