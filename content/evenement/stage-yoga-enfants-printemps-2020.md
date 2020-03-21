@@ -9,4 +9,4 @@ schedule_out = "16:00"
 title = "STAGE YOGA ENFANTS - Printemps 2020"
 
 +++
-Stage de yoga pour enfants de 8 à 12 ans. 90€/Places limitées. Réservation dès le lundi 2 mars par mail uniquement!
+Stage de yoga pour enfants de 8 à 12 ans. 90€/Places limitées. Les dates seront confirmées selon l'actualité :-).
