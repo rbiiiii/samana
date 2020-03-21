@@ -37,11 +37,11 @@ Cours du vendredi 9h15: [https://zoom.us/meeting/register/upwlfuqgqD4izyigY5Pq6Z
 
 Cours du samedi 9h30: [https://zoom.us/meeting/register/vpwqd-murDkqIz-KschBPpBpZ1agME5l2g](https://zoom.us/meeting/register/vpwqd-murDkqIz-KschBPpBpZ1agME5l2g "https://zoom.us/meeting/register/vpwqd-murDkqIz-KschBPpBpZ1agME5l2g")
 
-### 1 cours de yoga en ligne / adolescents:
+### 1 cours de yoga en ligne / adolescents
 
 Cours du samedi 11h00: [https://zoom.us/meeting/register/upckc-qqpzkqsSQPDaRITFSThnO_9z98QQ](https://zoom.us/meeting/register/upckc-qqpzkqsSQPDaRITFSThnO_9z98QQ "https://zoom.us/meeting/register/upckc-qqpzkqsSQPDaRITFSThnO_9z98QQ")
 
-### 1 cours de yoga en ligne /parents & enfants:
+### 1 cours de yoga en ligne /parents & enfants
 
 Cours du mercredi 14h: [https://zoom.us/meeting/register/uJYpdOmurDIpihz-3EPWX1cNUMb_QEsJuQ](https://zoom.us/meeting/register/uJYpdOmurDIpihz-3EPWX1cNUMb_QEsJuQ "https://zoom.us/meeting/register/uJYpdOmurDIpihz-3EPWX1cNUMb_QEsJuQ")
 
