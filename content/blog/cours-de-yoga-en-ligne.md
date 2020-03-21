@@ -7,7 +7,7 @@ title = "Cours de yoga en ligne "
 +++
 # Cours de yoga en ligne
 
-![](https://res.cloudinary.com/dqu7lbbhg/image/upload/c_scale,dpr_auto,q_70,w_680,f_auto/v1584625378/Capture_d_e%CC%81cran_2020-03-19_a%CC%80_14.42.19_alpdkg.png)
+![yoga live en ligne](https://res.cloudinary.com/dqu7lbbhg/image/upload/c_scale,dpr_auto,q_70,w_680,f_auto/v1584826755/chloe-0049-min_ztxykd.jpg "cours de yoga en ligne")
 
 J’espère que vous allez bien et que cette période inédite et de changement soit avant tout une possibilité d'expérimenter la vie autrement.
 
@@ -43,9 +43,9 @@ Cours du samedi 11h00: [https://zoom.us/meeting/register/upckc-qqpzkqsSQPDaRITFS
 
 ### 1 cours de yoga en ligne /parents & enfants:
 
-![](https://res.cloudinary.com/dqu7lbbhg/image/upload/c_scale,dpr_auto,q_70,w_680,f_auto/v1584792942/IMG_4536_i4cq1o.jpg)
-
 Cours du mercredi 14h: [https://zoom.us/meeting/register/uJYpdOmurDIpihz-3EPWX1cNUMb_QEsJuQ](https://zoom.us/meeting/register/uJYpdOmurDIpihz-3EPWX1cNUMb_QEsJuQ "https://zoom.us/meeting/register/uJYpdOmurDIpihz-3EPWX1cNUMb_QEsJuQ")
+
+![enfants et yoga](https://res.cloudinary.com/dqu7lbbhg/image/upload/c_scale,dpr_auto,q_70,w_680,f_auto/v1584792942/IMG_4536_i4cq1o.jpg "yoga enfants")
 
 ## Logistique et paiement
 
