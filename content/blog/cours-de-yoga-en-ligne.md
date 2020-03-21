@@ -23,7 +23,7 @@ Je vous propose donc une séance d'une heure assez simple adaptée à tous nivea
 
 ## Cours de yoga en ligne chaque semaine
 
-Voici le liens qui vous permettent de vous inscrire aux cours de yoga en ligne très facilement. Le système de Zoom est une video conférence, pas besoin donc d'un compte, etc... (voir modus operandi plus bas)
+Voici les liens qui vous permettent de vous inscrire aux cours de yoga en ligne très facilement. Le système de Zoom est une video conférence, pas besoin donc d'un compte, etc... (voir modus operandi plus bas)
 
 ### 5 cours de yoga en ligne/adultes
 
@@ -42,6 +42,8 @@ Cours du samedi 9h30: [https://zoom.us/meeting/register/vpwqd-murDkqIz-KschBPpBp
 Cours du samedi 11h00: [https://zoom.us/meeting/register/upckc-qqpzkqsSQPDaRITFSThnO_9z98QQ](https://zoom.us/meeting/register/upckc-qqpzkqsSQPDaRITFSThnO_9z98QQ "https://zoom.us/meeting/register/upckc-qqpzkqsSQPDaRITFSThnO_9z98QQ")
 
 ### 1 cours de yoga en ligne /parents & enfants:
+
+![](https://res.cloudinary.com/dqu7lbbhg/image/upload/c_scale,dpr_auto,q_70,w_680,f_auto/v1584792942/IMG_4536_i4cq1o.jpg)
 
 Cours du mercredi 14h: [https://zoom.us/meeting/register/uJYpdOmurDIpihz-3EPWX1cNUMb_QEsJuQ](https://zoom.us/meeting/register/uJYpdOmurDIpihz-3EPWX1cNUMb_QEsJuQ "https://zoom.us/meeting/register/uJYpdOmurDIpihz-3EPWX1cNUMb_QEsJuQ")
 
@@ -90,4 +92,4 @@ Chloé :-)
 
 [https://www.facebook.com/YogaSamanaliege/](https://www.facebook.com/YogaSamanaliege/ "https://www.facebook.com/YogaSamanaliege/")
 
-Retrouvez moi sur facebook 
+Retrouvez moi sur facebook
