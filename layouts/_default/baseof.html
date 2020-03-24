@@ -16,7 +16,7 @@
     <meta charset="utf-8">
     <meta name="language" content="{{ .Site.LanguageCode }}" />
     <meta name="viewport" content="width=device-width,minimum-scale=1">
-    <title>{{ with .Params.Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
+    <title>{{ with .Params.Title }}{{ . }} | {{ end }}{{ .Site.Title }}</title>
     <meta name="author" content='{{ .Site.Params.Author }}' />
     <meta name="description" content='{{ if .Params.intro_text }}{{ $text := index .Params.intro_text 0 }}
   {{ $text.text }}{{ else }}{{ $.Site.Params.Description }}{{ end }}' />
