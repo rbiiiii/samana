@@ -23,7 +23,9 @@ Je vous propose donc une séance d'une heure assez simple adaptée à tous nivea
 
 ### Clause non-responsabilité:
 
-Ne convient pas aux débutant complets, à ceux qui souffrent de blessures ou à des conditions médicales sous-jacentes, sauf si vous avez étudié avec moi auparavant. Ne convient pas aux femmes enceintes.
+Ne convient pas aux débutant complets, à ceux qui souffrent de blessures ou à des conditions médicales sous-jacentes, sauf si vous avez étudié avec moi auparavant. 
+
+Ne convient pas aux femmes enceintes.
 
 ## Cours de yoga en ligne chaque semaine
 
