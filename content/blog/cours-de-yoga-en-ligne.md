@@ -68,8 +68,8 @@ Si vous avez un baffle connectable à votre smartphone ou ordinateur, cela peur 
 1. Cliquer sur le ou les  liens avec l'horaire qui vous convient.
 2. Inscrivez-vous en donnant nom, prénom et email.
 3. Vous recevez alors un email de confirmation avec un lien pour participer à la réunion.
-4. Le jour du cours aller sur votre email, cliquer sur le lien pour vous connecter au cours de yoga minimum 15 minutes avant le début.
-5. Vérifier de bien entendre ma voix et voir l'image.
+4. Le jour du cours aller sur votre email, cliquer sur le lien pour vous connecter au cours de yoga maximum 5 minutes avant le début.
+5. Vérifier de bien entendre ma voix et de voir l'image.
 6. C'est parti!
 
 ### Paiement
