@@ -21,6 +21,10 @@ Parce que je pense que cette période de temps prolongé à la maison accompagn�
 
 Je vous propose donc une séance d'une heure assez simple adaptée à tous niveaux. Une séance qui restera identique pour les 3 prochaines semaines pour que vous puissiez petit à petit l'intégrer et approfondir votre respiration au mieux.
 
+### Clause non-responsabilité:
+
+Ne convient pas aux débutant complets, à ceux qui souffrent de blessures ou à des conditions médicales sous-jacentes, sauf si vous avez étudié avec moi auparavant. Ne convient pas aux femmes enceintes.
+
 ## Cours de yoga en ligne chaque semaine
 
 Voici les liens qui vous permettent de vous inscrire aux cours de yoga en ligne très facilement. Le système de Zoom est une video conférence, pas besoin donc d'un compte, etc... (voir modus operandi plus bas)
@@ -93,3 +97,5 @@ Chloé :-)
 [https://www.facebook.com/YogaSamanaliege/](https://www.facebook.com/YogaSamanaliege/ "https://www.facebook.com/YogaSamanaliege/")
 
 Retrouvez moi sur facebook
+
+[pdf]()
