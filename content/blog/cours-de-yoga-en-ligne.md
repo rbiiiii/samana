@@ -23,7 +23,7 @@ Je vous propose donc une séance d'une heure assez simple adaptée à tous nivea
 
 ### Clause non-responsabilité:
 
-Ne convient pas aux débutant complets, à ceux qui souffrent de blessures ou à des conditions médicales sous-jacentes, sauf si vous avez étudié avec moi auparavant. 
+Ne convient pas aux débutant complets, à ceux qui souffrent de blessures ou à des conditions médicales sous-jacentes, sauf si vous avez étudié avec moi auparavant.
 
 Ne convient pas aux femmes enceintes.
 
@@ -43,7 +43,7 @@ Cours du vendredi 9h15: [https://zoom.us/meeting/register/upwlfuqgqD4izyigY5Pq6Z
 
 Cours du samedi 9h30: [https://zoom.us/meeting/register/vpwqd-murDkqIz-KschBPpBpZ1agME5l2g](https://zoom.us/meeting/register/vpwqd-murDkqIz-KschBPpBpZ1agME5l2g "https://zoom.us/meeting/register/vpwqd-murDkqIz-KschBPpBpZ1agME5l2g")
 
-### 1 cours de yoga en ligne / adolescents
+### 1 cours de yoga en ligne / adolescent-es et étudiant-es (gratuit!)
 
 Cours du samedi 11h00: [https://zoom.us/meeting/register/upckc-qqpzkqsSQPDaRITFSThnO_9z98QQ](https://zoom.us/meeting/register/upckc-qqpzkqsSQPDaRITFSThnO_9z98QQ "https://zoom.us/meeting/register/upckc-qqpzkqsSQPDaRITFSThnO_9z98QQ")
 
