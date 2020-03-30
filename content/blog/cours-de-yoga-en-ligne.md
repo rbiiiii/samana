@@ -96,8 +96,4 @@ Chaleureusement,
 
 Chloé :-)
 
-[https://www.facebook.com/YogaSamanaliege/](https://www.facebook.com/YogaSamanaliege/ "https://www.facebook.com/YogaSamanaliege/")
-
-Retrouvez moi sur facebook
-
-[pdf]()
+Retrouvez moi sur facebook: [https://www.facebook.com/YogaSamanaliege/](https://www.facebook.com/YogaSamanaliege/ "https://www.facebook.com/YogaSamanaliege/")
