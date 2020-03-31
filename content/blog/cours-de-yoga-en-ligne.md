@@ -57,7 +57,7 @@ Cours du mercredi 14h: [https://zoom.us/meeting/register/uJYpdOmurDIpihz-3EPWX1c
 
 ### Matériel
 
-Vous avez besoin d'un ordinateur ou d'uns smartphone/tablette. Il est plus agréable de pratiquer dans une pièce calme et porte fermée.
+Vous avez besoin d'un ordinateur ou d'un smartphone/tablette. Il est plus agréable de pratiquer dans une pièce calme et porte fermée.
 
 Vous pouvez prévoir un tapis de yoga (ou une grande serviette de bain), un coussin et une couverture.
 
@@ -76,11 +76,9 @@ Si vous avez un baffle connectable à votre smartphone ou ordinateur, cela peur 
 
 Concernant le paiement, Vous pouvez me verser une somme « prix conscient », c’est à dire ce qui est possible pour vous et qui participe aussi à me rétribuer dans cette période "particulière".
 
-Je donne comme indication 10€/cours, mais je suis vraiment d'accord avec tout ce que vous pouvez vous permettre de payer avec votre situation financière actuelle ... Je détesterais penser que vous ne pouvez pas profiter des bienfaits du yoga parce que vous ne pouvez pas vous le permettre. (sur le compte : BE09 0636 6795 3957 / Communication: cour yoga en ligne mars 2020 - Nom prénom)
+Vous pouvez versez votre participation sur le compte : BE09 0636 6795 3957 / Communication: yoga online - Nom prénom)
 
-Ces cours sont totalement gratuit pour toutes les personnes qui sont inscrites au cours ou qui ont un enfant/ado inscrits au cours de yoga.
-
-Les cours sont aussi gratuits pour tous les étudiants (faites passer le mot!)
+Les cours sont  gratuits pour tous les adolescents et étudiants (faites passer le mot!)
 
 ## Ce qu'ils en disent?
 
