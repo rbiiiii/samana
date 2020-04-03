@@ -19,7 +19,7 @@ J'ai tout de même décidé de tenter l'expérience.
 
 Parce que je pense que cette période de temps prolongé à la maison accompagné d'informations assez anxiogènes c'est le moins que l'ont puisse dire... Mérite d'être accompagné de respirations. :-)
 
-Je vous propose donc une séance d'une heure assez simple adaptée à tous niveaux. Une séance qui restera identique pour les 3 prochaines semaines pour que vous puissiez petit à petit l'intégrer et approfondir votre respiration au mieux.
+Je vous propose donc une séance d'une heure assez simple adaptée à tous niveaux. Une séance qui restera identique pour 3 prochaines semaines pour que vous puissiez petit à petit l'intégrer et approfondir votre respiration au mieux.
 
 ### Clause non-responsabilité:
 
@@ -31,17 +31,23 @@ Ne convient pas aux femmes enceintes.
 
 Voici les liens qui vous permettent de vous inscrire aux cours de yoga en ligne très facilement. Le système de Zoom est une video conférence, pas besoin donc d'un compte, etc... (voir modus operandi plus bas)
 
-### 5 cours de yoga en ligne/adultes
+### 5 cours de yoga en ligne/adultes (trimestre 2)
 
-Cours du mardi 19h15: [https://zoom.us/meeting/register/v5Etdu6gpj0iIr-ymn1ahjY5F5LxYmALpQ](https://zoom.us/meeting/register/v5Etdu6gpj0iIr-ymn1ahjY5F5LxYmALpQ "https://zoom.us/meeting/register/v5Etdu6gpj0iIr-ymn1ahjY5F5LxYmALpQ")
+Lundi 20h30: [https://zoom.us/meeting/register/uJQlduGsrjIjMPVxLro8W90f-IeV7KEOGQ](https://zoom.us/meeting/register/uJQlduGsrjIjMPVxLro8W90f-IeV7KEOGQ "https://zoom.us/meeting/register/uJQlduGsrjIjMPVxLro8W90f-IeV7KEOGQ")
 
-Cours du mercredi 9h15: [https://zoom.us/meeting/register/u5Itd-6rqT0q79jC3LAUFxWC-ESBwBu0Cw](https://zoom.us/meeting/register/u5Itd-6rqT0q79jC3LAUFxWC-ESBwBu0Cw "https://zoom.us/meeting/register/u5Itd-6rqT0q79jC3LAUFxWC-ESBwBu0Cw")
+Mardi 19h15: [https://zoom.us/meeting/register/v5Etdu6gpj0iIr-ymn1ahjY5F5LxYmALpQ](https://zoom.us/meeting/register/v5Etdu6gpj0iIr-ymn1ahjY5F5LxYmALpQ "https://zoom.us/meeting/register/v5Etdu6gpj0iIr-ymn1ahjY5F5LxYmALpQ")
 
-Cours du mercredi 10h45: [https://zoom.us/meeting/register/upIqfu6urjgt8QGVUo01h5rQogqpAoWw6w](https://zoom.us/meeting/register/upIqfu6urjgt8QGVUo01h5rQogqpAoWw6w "https://zoom.us/meeting/register/upIqfu6urjgt8QGVUo01h5rQogqpAoWw6w")
+Mercredi 09h15: [https://zoom.us/meeting/register/u5Itd-6rqT0q79jC3LAUFxWC-ESBwBu0Cw](https://zoom.us/meeting/register/u5Itd-6rqT0q79jC3LAUFxWC-ESBwBu0Cw "https://zoom.us/meeting/register/u5Itd-6rqT0q79jC3LAUFxWC-ESBwBu0Cw")
 
-Cours du vendredi 9h15: [https://zoom.us/meeting/register/upwlfuqgqD4izyigY5Pq6ZGCGXu8IExEmA](https://zoom.us/meeting/register/upwlfuqgqD4izyigY5Pq6ZGCGXu8IExEmA "https://zoom.us/meeting/register/upwlfuqgqD4izyigY5Pq6ZGCGXu8IExEmA")
+Mercredi 10h45: [https://zoom.us/meeting/register/upIqfu6urjgt8QGVUo01h5rQogqpAoWw6w](https://zoom.us/meeting/register/upIqfu6urjgt8QGVUo01h5rQogqpAoWw6w "https://zoom.us/meeting/register/upIqfu6urjgt8QGVUo01h5rQogqpAoWw6w")
 
-Cours du samedi 9h30: [https://zoom.us/meeting/register/vpwqd-murDkqIz-KschBPpBpZ1agME5l2g](https://zoom.us/meeting/register/vpwqd-murDkqIz-KschBPpBpZ1agME5l2g "https://zoom.us/meeting/register/vpwqd-murDkqIz-KschBPpBpZ1agME5l2g")
+Jeudi 07h00: [https://zoom.us/meeting/register/tJMuf-mvqTIq6PA9lU2cYMisFJCjyk47og](https://zoom.us/meeting/register/tJMuf-mvqTIq6PA9lU2cYMisFJCjyk47og "https://zoom.us/meeting/register/tJMuf-mvqTIq6PA9lU2cYMisFJCjyk47og")
+
+Vendredi 09h15: [https://zoom.us/meeting/register/tZwrcO-gqD0i-2P7W8yl644xrcnoVMwebA](https://zoom.us/meeting/register/tZwrcO-gqD0i-2P7W8yl644xrcnoVMwebA "vend 9h15")
+
+Samedi 09h30: [https://zoom.us/meeting/register/vpwqd-murDkqIz-KschBPpBpZ1agME5l2g](https://zoom.us/meeting/register/vpwqd-murDkqIz-KschBPpBpZ1agME5l2g "https://zoom.us/meeting/register/vpwqd-murDkqIz-KschBPpBpZ1agME5l2g")
+
+Samedi 09h30 - Trimestre 2: [https://zoom.us/meeting/register/vpYlduCorz4oqt0Ez9MVRQR9bzGot715kg](https://zoom.us/meeting/register/vpYlduCorz4oqt0Ez9MVRQR9bzGot715kg "https://zoom.us/meeting/register/vpYlduCorz4oqt0Ez9MVRQR9bzGot715kg")
 
 ### 1 cours de yoga en ligne / adolescent-es et étudiant-es (gratuit!)
 
