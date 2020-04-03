@@ -31,7 +31,7 @@ Ne convient pas aux femmes enceintes.
 
 Voici les liens qui vous permettent de vous inscrire aux cours de yoga en ligne très facilement. Le système de Zoom est une video conférence, pas besoin donc d'un compte, etc... (voir modus operandi plus bas)
 
-### 5 cours de yoga en ligne/adultes (trimestre 2)
+### 7 cours de yoga en ligne pour adultes (trimestre 2)
 
 Lundi 20h30: [https://zoom.us/meeting/register/uJQlduGsrjIjMPVxLro8W90f-IeV7KEOGQ](https://zoom.us/meeting/register/uJQlduGsrjIjMPVxLro8W90f-IeV7KEOGQ "https://zoom.us/meeting/register/uJQlduGsrjIjMPVxLro8W90f-IeV7KEOGQ")
 
@@ -49,11 +49,11 @@ Samedi 09h30: [https://zoom.us/meeting/register/vpwqd-murDkqIz-KschBPpBpZ1agME5l
 
 Samedi 09h30 - Trimestre 2: [https://zoom.us/meeting/register/vpYlduCorz4oqt0Ez9MVRQR9bzGot715kg](https://zoom.us/meeting/register/vpYlduCorz4oqt0Ez9MVRQR9bzGot715kg "https://zoom.us/meeting/register/vpYlduCorz4oqt0Ez9MVRQR9bzGot715kg")
 
-### 1 cours de yoga en ligne / adolescent-es et étudiant-es (gratuit!)
+### Cours de yoga en ligne / adolescent-es et étudiant-es (gratuit!)
 
 Cours du samedi 11h00: [https://zoom.us/meeting/register/upckc-qqpzkqsSQPDaRITFSThnO_9z98QQ](https://zoom.us/meeting/register/upckc-qqpzkqsSQPDaRITFSThnO_9z98QQ "https://zoom.us/meeting/register/upckc-qqpzkqsSQPDaRITFSThnO_9z98QQ")
 
-### 1 cours de yoga en ligne /parents & enfants
+### Cours de yoga en ligne /parents-enfants
 
 Cours du mercredi 14h: [https://zoom.us/meeting/register/uJYpdOmurDIpihz-3EPWX1cNUMb_QEsJuQ](https://zoom.us/meeting/register/uJYpdOmurDIpihz-3EPWX1cNUMb_QEsJuQ "https://zoom.us/meeting/register/uJYpdOmurDIpihz-3EPWX1cNUMb_QEsJuQ")
 
