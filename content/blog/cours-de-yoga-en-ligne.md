@@ -2,7 +2,7 @@
 categories = ["Yoga en ligne"]
 photo = "/v1584627110/AdobeStock_251503715-min_rvmb3x.jpg"
 publishdate = 2020-03-18T00:00:00Z
-title = "Cours de yoga en ligne "
+title = "Cours de yoga en ligne - informations"
 
 +++
 # Cours de yoga en ligne
@@ -31,11 +31,15 @@ Ne convient pas aux femmes enceintes.
 
 Voici les liens qui vous permettent de vous inscrire aux cours de yoga en ligne très facilement. Le système de Zoom est une video conférence, pas besoin donc d'un compte, etc... (voir modus operandi plus bas)
 
-### 7 cours de yoga en ligne pour adultes (trimestre 2)
+### 7 cours de yoga en ligne pour adultes 
+
+**2 Cours du soir pour se détendre, s'apaiser...**
 
 Lundi 20h30: [https://zoom.us/meeting/register/uJQlduGsrjIjMPVxLro8W90f-IeV7KEOGQ](https://zoom.us/meeting/register/uJQlduGsrjIjMPVxLro8W90f-IeV7KEOGQ "https://zoom.us/meeting/register/uJQlduGsrjIjMPVxLro8W90f-IeV7KEOGQ")
 
 Mardi 19h15: [https://zoom.us/meeting/register/v5Etdu6gpj0iIr-ymn1ahjY5F5LxYmALpQ](https://zoom.us/meeting/register/v5Etdu6gpj0iIr-ymn1ahjY5F5LxYmALpQ "https://zoom.us/meeting/register/v5Etdu6gpj0iIr-ymn1ahjY5F5LxYmALpQ")
+
+**5 Cours du matin pour s'énergiser, respirer, être en mouvement**
 
 Mercredi 09h15: [https://zoom.us/meeting/register/u5Itd-6rqT0q79jC3LAUFxWC-ESBwBu0Cw](https://zoom.us/meeting/register/u5Itd-6rqT0q79jC3LAUFxWC-ESBwBu0Cw "https://zoom.us/meeting/register/u5Itd-6rqT0q79jC3LAUFxWC-ESBwBu0Cw")
 
@@ -43,15 +47,13 @@ Mercredi 10h45: [https://zoom.us/meeting/register/upIqfu6urjgt8QGVUo01h5rQogqpAo
 
 Jeudi 07h00: [https://zoom.us/meeting/register/tJMuf-mvqTIq6PA9lU2cYMisFJCjyk47og](https://zoom.us/meeting/register/tJMuf-mvqTIq6PA9lU2cYMisFJCjyk47og "https://zoom.us/meeting/register/tJMuf-mvqTIq6PA9lU2cYMisFJCjyk47og")
 
-Vendredi 09h15: [https://zoom.us/meeting/register/tZwrcO-gqD0i-2P7W8yl644xrcnoVMwebA](https://zoom.us/meeting/register/tZwrcO-gqD0i-2P7W8yl644xrcnoVMwebA "vend 9h15")
+Vendredi 09h30: [https://zoom.us/meeting/register/tZwrcO-gqD0i-2P7W8yl644xrcnoVMwebA](https://zoom.us/meeting/register/tZwrcO-gqD0i-2P7W8yl644xrcnoVMwebA "vend 9h15")
 
-Samedi 09h30: [https://zoom.us/meeting/register/vpwqd-murDkqIz-KschBPpBpZ1agME5l2g](https://zoom.us/meeting/register/vpwqd-murDkqIz-KschBPpBpZ1agME5l2g "https://zoom.us/meeting/register/vpwqd-murDkqIz-KschBPpBpZ1agME5l2g")
-
-Samedi 09h30 - Trimestre 2: [https://zoom.us/meeting/register/vpYlduCorz4oqt0Ez9MVRQR9bzGot715kg](https://zoom.us/meeting/register/vpYlduCorz4oqt0Ez9MVRQR9bzGot715kg "https://zoom.us/meeting/register/vpYlduCorz4oqt0Ez9MVRQR9bzGot715kg")
+Samedi 09h30: [https://zoom.us/meeting/register/vpYlduCorz4oqt0Ez9MVRQR9bzGot715kg](https://zoom.us/meeting/register/vpYlduCorz4oqt0Ez9MVRQR9bzGot715kg "https://zoom.us/meeting/register/vpYlduCorz4oqt0Ez9MVRQR9bzGot715kg")
 
 ### Cours de yoga en ligne / adolescent-es et étudiant-es (gratuit!)
 
-Cours du samedi 11h00: [https://zoom.us/meeting/register/upckc-qqpzkqsSQPDaRITFSThnO_9z98QQ](https://zoom.us/meeting/register/upckc-qqpzkqsSQPDaRITFSThnO_9z98QQ "https://zoom.us/meeting/register/upckc-qqpzkqsSQPDaRITFSThnO_9z98QQ")
+Cours du vendredi samedi 11h00: [https://zoom.us/meeting/register/upckc-qqpzkqsSQPDaRITFSThnO_9z98QQ](https://zoom.us/meeting/register/upckc-qqpzkqsSQPDaRITFSThnO_9z98QQ "https://zoom.us/meeting/register/upckc-qqpzkqsSQPDaRITFSThnO_9z98QQ")
 
 ### Cours de yoga en ligne /parents-enfants
 
