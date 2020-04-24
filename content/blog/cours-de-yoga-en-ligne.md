@@ -31,7 +31,7 @@ Ne convient pas aux femmes enceintes.
 
 Voici les liens qui vous permettent de vous inscrire aux cours de yoga en ligne très facilement. Le système de Zoom est une video conférence, pas besoin donc d'un compte, etc... (voir modus operandi plus bas)
 
-### 7 cours de yoga en ligne pour adultes 
+### 7 cours de yoga en ligne pour adultes
 
 **2 Cours du soir pour se détendre, s'apaiser...**
 
@@ -53,7 +53,7 @@ Samedi 09h30: [https://zoom.us/meeting/register/vpYlduCorz4oqt0Ez9MVRQR9bzGot715
 
 ### Cours de yoga en ligne / adolescent-es et étudiant-es (gratuit!)
 
-Cours du vendredi samedi 11h00: [https://zoom.us/meeting/register/upckc-qqpzkqsSQPDaRITFSThnO_9z98QQ](https://zoom.us/meeting/register/upckc-qqpzkqsSQPDaRITFSThnO_9z98QQ "https://zoom.us/meeting/register/upckc-qqpzkqsSQPDaRITFSThnO_9z98QQ")
+Cours du vendredi 11h00: [https://zoom.us/meeting/register/upckc-qqpzkqsSQPDaRITFSThnO_9z98QQ](https://zoom.us/meeting/register/upckc-qqpzkqsSQPDaRITFSThnO_9z98QQ "https://zoom.us/meeting/register/upckc-qqpzkqsSQPDaRITFSThnO_9z98QQ")
 
 ### Cours de yoga en ligne /parents-enfants
 
