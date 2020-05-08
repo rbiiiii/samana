@@ -45,7 +45,7 @@ Mercredi 09h15: [https://zoom.us/meeting/register/u5Itd-6rqT0q79jC3LAUFxWC-ESBwB
 
 Mercredi 10h45: [https://zoom.us/meeting/register/upIqfu6urjgt8QGVUo01h5rQogqpAoWw6w](https://zoom.us/meeting/register/upIqfu6urjgt8QGVUo01h5rQogqpAoWw6w "https://zoom.us/meeting/register/upIqfu6urjgt8QGVUo01h5rQogqpAoWw6w")
 
-Jeudi 07h00: [https://zoom.us/meeting/register/tJMuf-mvqTIq6PA9lU2cYMisFJCjyk47og](https://zoom.us/meeting/register/tJMuf-mvqTIq6PA9lU2cYMisFJCjyk47og "https://zoom.us/meeting/register/tJMuf-mvqTIq6PA9lU2cYMisFJCjyk47og")
+Jeudi 07h00: [https://us02web.zoom.us/j/85051857332](https://us02web.zoom.us/j/85051857332 "https://us02web.zoom.us/j/85051857332")
 
 Vendredi 09h30: [https://zoom.us/meeting/register/tZwrcO-gqD0i-2P7W8yl644xrcnoVMwebA](https://zoom.us/meeting/register/tZwrcO-gqD0i-2P7W8yl644xrcnoVMwebA "vend 9h15")
 
