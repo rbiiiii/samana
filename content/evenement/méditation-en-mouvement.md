@@ -2,6 +2,7 @@
 address = "Bvd Kleyer 107, 4000 Liège (Espace Corps et Conscience)"
 category = "ateliers"
 date = 2020-01-31T00:00:00Z
+draft = true
 enddate = 2020-04-03T00:00:00Z
 img = "/Meditation_enmvt_jokqg4.jpg"
 schedule_in = "19:00"
