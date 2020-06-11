@@ -1,8 +1,8 @@
 +++
-address = "Prana Clinic, 11 bvd Kleyer, 4000 Liège"
+address = ""
 category = "cours"
-date = 2020-01-08T00:00:00Z
-enddate = 2020-04-01T00:00:00Z
+date = 2020-09-16T00:00:00Z
+enddate = 2021-01-27T00:00:00Z
 img = "/AdobeStock_214582274_v71mc5.jpg"
 schedule_in = "15:00"
 schedule_out = "16:00"
