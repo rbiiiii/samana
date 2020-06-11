@@ -3,7 +3,6 @@ address = "Rue Vivegnis, à 4000 Liège"
 category = "ateliers"
 content = ""
 date = 2020-01-10T00:00:00Z
-draft = true
 enddate = 2020-06-20T00:00:00Z
 img = "/AdobeStock_163679318_eg8gbp.jpg"
 schedule_in = "11:00"
