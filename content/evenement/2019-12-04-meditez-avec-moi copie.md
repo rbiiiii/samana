@@ -1,12 +1,12 @@
 ---
 title: Cours de yoga adultes /Mardi soir I
-date: 2020-01-07
-schedule_in: '18:00'
-schedule_out: '19:00'
+date: 2020-09-14
+schedule_in: '19:00'
+schedule_out: '20:00'
 address: Rue de la Justice 20, 4420 Saint-Nicolas (Tout Coquelicot)
 img: "/AdobeStock_216060429_yjx8hp.jpg"
 category: cours
-enddate: 2020-03-31
+enddate: 2021-01-26
 draft: true
 
 ---
