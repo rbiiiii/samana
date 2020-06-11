@@ -1,8 +1,8 @@
 +++
 address = "Rue des Hirondelles, 73 à 4000 Liège"
 category = "ateliers"
-date = "2019-09-16"
-enddate = "2020-05-25"
+date = 2020-09-21T00:00:00Z
+enddate = 2021-05-24T00:00:00Z
 img = "/AdobeStock_101450117-1_gfprs7.jpg"
 schedule_in = "16:00"
 schedule_out = "17:00"
