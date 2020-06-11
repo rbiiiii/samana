@@ -9,4 +9,4 @@ enddate: 2020-04-09
 category: retraites
 
 ---
-Se retirer quelques jours et respirer. Prendre le temps de se recentrer et pratiquer le yoga et la méditation. 
+Se retirer quelques jours et respirer. Prendre le temps de se recentrer et pratiquer le yoga et la méditation.
