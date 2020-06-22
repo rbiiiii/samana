@@ -4,7 +4,7 @@ date: 2020-08-20
 schedule_in: '9:00'
 schedule_out: '17:00'
 address: Tout Coquelicot, 20 rue de la justice à 4420 Saint-Nicolas
-img: "/v1584620655/AdobeStock_101499133-min_yztowo.jpg"
+img: "/v1592861549/Retraite_yoga_lzitsn.png"
 enddate: 2020-08-22
 category: retraites
 
