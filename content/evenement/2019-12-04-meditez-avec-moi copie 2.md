@@ -9,4 +9,4 @@ enddate: 2020-08-22
 category: retraites
 
 ---
-Se retirer quelques jours et respirer tout en restant chez soi le soir. Avec une introduction à la gestion du stress par la pleine conscience, et aux écrits fondateurs du yoga et des séances de yoga.
+Retraite de yoga et de méditation non résidentielle de 3 jours à Liège. Prix : 120€/3 jours ou 50€/jour. 
