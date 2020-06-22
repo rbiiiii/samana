@@ -1,12 +1,12 @@
 ---
 title: Retraite Yoga et méditation
-date: 2020-04-06
+date: 2020-08-20
 schedule_in: '9:00'
-schedule_out: '18:00'
-address: à déterminer
-img: "/AdobeStock_95162238-min_gzlcjr.jpg"
-enddate: 2020-04-09
+schedule_out: '17:00'
+address: Tout Coquelicot, 20 rue de la justice à 4420 Saint-Nicolas
+img: "/v1584620655/AdobeStock_101499133-min_yztowo.jpg"
+enddate: 2020-08-22
 category: retraites
 
 ---
-Se retirer quelques jours et respirer. Prendre le temps de se recentrer et pratiquer le yoga et la méditation.
+Se retirer quelques jours et respirer tout en restant chez soi le soir. Avec une introduction à la gestion du stress par la pleine conscience, et aux écrits fondateurs du yoga et des séances de yoga.
