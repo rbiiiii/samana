@@ -8,7 +8,7 @@
   prices:
   - price: 150€, 100€ pour 2<sup>e</sup> enfant
   - price: 112€, 75€ pour 2<sup>e</sup> enfant*
-  unit: "10"
+  unit: 10€
 - title: Cours de yoga enfants
   prices:
   - price: 110€, 90€ pour 2<sup>e</sup> enfant
