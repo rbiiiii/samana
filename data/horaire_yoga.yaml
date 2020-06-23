@@ -39,19 +39,9 @@
     category: adultes
 - title: Samedi
   blocks:
-  - start: 9h30
-    end: 10h30
+  - start: 10h00
+    end: 11h00
     duration: 4
     category: adultes
-  - start: 11h
-    end: 12h
-    duration: 4
-    category: ados
-    subtext: "(bal spécial)"
-  - start: 12h
-    end: 13h
-    duration: 4
-    category: ados
-    subtext: "(bal spécial)"
 - title: Dimanche
   blocks: []
