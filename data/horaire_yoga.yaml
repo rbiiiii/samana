@@ -5,6 +5,12 @@
     end: 10h15
     duration: 4
     category: adultes
+- title: Mardi
+  blocks:
+  - start: 20h00
+    end: '21:15'
+    duration: 5
+    category: adultes
 - title: Mercredi
   blocks:
   - start: 9h15
