@@ -6,8 +6,8 @@
   unit: 15€
 - title: Cours de yoga ados
   prices:
-  - price: 150€, 110€ pour 2<sup>e</sup> enfant
-  - price: 75€, 50€ pour 2<sup>e</sup> enfant*
+  - price: 150€, 100€ pour 2<sup>e</sup> enfant
+  - price: 112€, 75€ pour 2<sup>e</sup> enfant*
   unit: "10"
 - title: Cours de yoga enfants
   prices:
