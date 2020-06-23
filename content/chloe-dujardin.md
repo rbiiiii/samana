@@ -52,9 +52,9 @@ content_blocks:
         plus intenses.
 formations:
 - text: Instructrice de pleine conscience MBSR (encours) - Institut de pleine conscience
-- text: Certification comme professeur de yoga  de 500h sur 4 années en cours de finalisation  (2020)
-    auprès de Philip Rigo à Liège. (Certification reconnue par l’ADEPS et la Fédération
-    belge d'Hébertisme et de Yoga).
+- text: Certification comme professeur de yoga  de 500h sur 4 années auprès de Philip
+    Rigo à Liège. (Certification reconnue par l’ADEPS et la Fédération belge d'Hébertisme
+    et de Yoga).
 - text: Membre de la Fédération belge d'Hébertisme et de yoga.
 - text: Certification en yoga pour enfants et adolescents auprès de Philip Rigo. (en&nbsp;cours)
 
