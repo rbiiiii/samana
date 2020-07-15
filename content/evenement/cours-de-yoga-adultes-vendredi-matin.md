@@ -1,9 +1,9 @@
 +++
 address = "Bvd Kleyer 107, 4000 Liège (Espace Corps et Conscience)"
 category = "cours"
-date = 2020-09-11T00:00:00Z
+date = 2020-09-25T00:00:00Z
 enddate = 2021-01-29T00:00:00Z
-img = "/mountain-top-983890_1920_da2eoa.jpg"
+img = "/v1594800019/Ven_9h15_aumdln.png"
 schedule_in = "09:15"
 schedule_out = "10:15"
 title = "Cours de yoga adultes /Vendredi matin"
