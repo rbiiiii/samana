@@ -1,9 +1,9 @@
 ---
 - title: Cours de yoga adultes
   prices:
-  - price: 210€
+  - price: 208€ pour 16 séances
   - price: 160€<sup>*</sup>
-  unit: 15€
+  unit: 15€ et 12€* prix réduit
 - title: Cours de yoga ados
   prices:
   - price: 150€, 100€ pour 2<sup>e</sup> enfant
