@@ -1,9 +1,9 @@
 ---
 - title: lundi
   blocks:
-  - start: '09h15'
-    end: 10h15
-    duration: 4
+  - start: ''
+    end: ''
+    duration: 
     category: adultes
 - title: Mardi
   blocks:
@@ -43,5 +43,3 @@
     end: 11h00
     duration: 4
     category: adultes
-- title: Dimanche
-  blocks: []
