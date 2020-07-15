@@ -1,7 +1,7 @@
 +++
 address = "Bvd Kleyer 107, 4000 Liège (Espace Corps et Conscience)"
 category = "cours"
-date = 2020-09-12T00:00:00Z
+date = 2020-09-26T00:00:00Z
 enddate = 2021-01-30T00:00:00Z
 img = "/sunset-RÜŞTÜ_BOZKUŞ_hjdvjk.jpg"
 schedule_in = "09:30"
