@@ -68,25 +68,25 @@ text_under_price: "## Informations utiles - Cours de yoga\n\n### 1 - Modalités 
   tout à fait possible d'étaler le paiement d'un abonnement en deux fois (1ier versement
   en septembre et deuxième en novembre) comme de trouver des solutions innovantes
   an cas de difficultés.\n\nCertaines mutuelles interviennent dans le prix de l’abonnement
-  jusqu'à 40€ par an, renseignez-vous.\n\n### 2 - Cours d'essais\n\n* Une semaine
-  avant l'ouverture des cours, des séances découvertes seront proposées au prix de
-  10 euros la séance pour que vous puissiez venir essayer et voir si vous souhaitez
-  prendre un abonnement pour l'ouverture.\n\n  **attention :** une séance d'essai
-  réservée est due, pas d'annulation possible lors d'essais.\n* Le nombre de cours
-  reste ouvert pour maximum de 10 personnes afin de garantir le bien-être de chacun.\n\n###
-  3 - En cas d'absence?\n\n* Pour les cours à la séance, un cours réservé ne sera
-  remboursé que si je suis prévenue au maximum 24h à l'avance.\n* **Pour les abonnements,
-  un cours où l'on ne vient pas est perdu** puisqu'il s'agit d'un abonnement.\n\n
-  \ Toutefois, je peux vous proposer de le rattraper à condition qu'il y ait un désistement
-  dans un cours identique et au maximum 2 fois sur la même période.\n\n  **Pour obtenir
-  cette possibilité unique de rattraper une séance sur un autre cours, veuillez me
-  prévenir de votre absence au moins 24 heures à l'avance par sms**. Si je ne suis
-  pas prévenue de votre absence, le cours ne pourra pas être rattrapé et sera perdu.\n\n###
-  **4 - En cas D'abandon ?**\n\n* Si vous souhaitez abandonner et que vous avez souscrit
-  un abonnement sachez que **tout quadrimestre entamé est à payer dans son intégralité.**\n*
+  jusqu'à 40€ par an, renseignez-vous.\n\n### 2 - Cours d'essais\n\nUne semaine avant
+  l'ouverture des cours, des séances découvertes seront proposées au prix de 10 euros
+  la séance pour que vous puissiez venir essayer et voir si vous souhaitez prendre
+  un abonnement pour l'ouverture.\n\n* **attention :** une séance d'essai réservée
+  est due, pas d'annulation possible lors d'essais.\n* Le nombre de cours reste ouvert
+  pour maximum de 10 personnes afin de garantir le bien-être de chacun.\n\n### 3 -
+  En cas d'absence?\n\n* Pour les cours à la séance, un cours réservé ne sera remboursé
+  que si je suis prévenue au maximum 24h à l'avance.\n* **Pour les abonnements, un
+  cours où l'on ne vient pas est perdu** puisqu'il s'agit d'un abonnement.\n\n  Toutefois,
+  je peux vous proposer de le rattraper à condition qu'il y ait un désistement dans
+  un cours identique et au maximum 2 fois sur la même période.\n\n  **Pour obtenir
+  cette possibilité de rattraper une séance sur un autre cours, veuillez me prévenir
+  de votre absence au moins 24 heures à l'avance par sms**. Si je ne suis pas prévenue
+  de votre absence, le cours ne pourra pas être rattrapé et sera perdu.\n\n### **4
+  - En cas D'abandon ?**\n\n* Si vous souhaitez abandonner et que vous avez souscrit
+  un abonnement, sachez que **tout quadrimestre entamé est à payer dans son intégralité.**\n*
   Un abonnement annuel pourra être partiellement remboursé mais le décompte se fera
   alors sur le prix trimestriel.\n* Les cartes de 10 séances ne peuvent pas être remboursées.\n*
-  **Je reste évidemment à votre écoute**; toute demande de remboursement doit se faire
+  **Je reste évidemment à votre écoute. T**oute demande de remboursement doit se faire
   par mail et il est impératif de me prévenir de votre absence par sms le plus tôt
   possible.\n\n### 5 - En cas de maladie?\n\nEn cas de maladie, vous serez remboursé
   **sur présentation d'un certificat médical d'au moins 4 semaines.**\n\nMerci de
