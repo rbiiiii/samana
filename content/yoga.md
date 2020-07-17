@@ -28,12 +28,12 @@ vision_text:
 offre_blocks:
 - block:
     title: Cours adultes débutants & intermédiaires
-    text: Les cours pour adultes durent une heure ou une heure trente et peuvent être
-      suivis par toutes et tous. La pratique des postures, méditer et le chant védique
-      permettent petit à petit un contact différent avec votre corps, votre esprit
-      et votre respiration. Chaque cours a un objectif particulier, il débute avec
-      une préparation et termine par un retour au calme à la fin de la séance. Chaque
-      posture peut être adaptée si nécessaire pour une pratique bénéfique et respectueuse.
+    text: Les cours pour adultes durent une heure et peuvent être suivis par toutes
+      et tous. La pratique des postures, méditer et le chant védique permettent petit
+      à petit un contact différent avec votre corps, votre esprit et votre respiration.
+      Chaque cours a un objectif particulier, il débute avec une préparation et termine
+      par un retour au calme à la fin de la séance. Chaque posture peut être adaptée
+      si nécessaire pour une pratique bénéfique et respectueuse.
 - block:
     title: Cours enfants, adolescents & interventions scolaires
     text: La pratique du yoga permet de favoriser chez les enfants et adolescents
