@@ -1,9 +1,9 @@
 ---
 - title: lundi
   blocks:
-  - start: ''
-    end: ''
-    duration: 
+  - start: 9h15
+    end: 10h15
+    duration: 4
     category: adultes
 - title: Mardi
   blocks:
