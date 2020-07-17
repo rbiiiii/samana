@@ -54,70 +54,48 @@ offre_blocks:
       prendre de meilleures décisions… Cela peut s’inscrire dans une politique de
       gestion des ressources humaines ouverte à des expériences différentes et constructive
       pour le bien-être du personnel.
-text_under_price: |-
-  ## Informations utiles - Cours de yoga
-
-  ### 1 - Modalités de paiement
-
-  ### Types d'abonnements :
-
-  #### _Abonnement annuel_
-
-  * 32 séances entre le 20 septembre 2020 et le 20 juin 2021.
-  * 352€ (11€ /séance)**_._**
-
-  #### _Abonnement quadrimestre_
-
-  * Période 1 ( 23 septembre 2020 au 30 janvier 2021 inclus) - sauf congés scolaires : 16 séances soit 208€ (13€ /séance) - 160€* prix réduit (10€ /séance).
-  * Période 2 ( 01 février 2021 au 20 juin 2021 inclus) - sauf congés scolaires :              16 séances soit 208€ (13€ /séance) - 160€* prix réduit (10€ /séance).
-
-  #### _Cours à la séance_
-
-  * Sous réserve de places disponibles et inscription minimum 24h à l'avance.
-  * 15€ à la séance.
-
-  ### Comment payer?
-
-  Les cours de yoga peuvent être réglés en espèces ou par virement avant le début des cours sur le compte IBAN suivant: BE09 0636 6795 3957 de Chloé Dujardin.
-
-  Il est tout à fait possible d'étaler le paiement d'un abonnement en deux fois (1ier versement en septembre et deuxième en novembre) comme de trouver des solutions innovantes an cas de difficultés.
-
-  Certaines mutuelles interviennent dans le prix de l’abonnement jusqu'à 40€ par an, renseignez-vous.
-
-  ### 2 - Cours d'essais
-
-  Une semaine avant l'ouverture des cours, des séances découvertes seront proposées au prix de 10 euros la séance pour que vous puissiez venir essayer et voir si vous souhaitez prendre un abonnement pour l'ouverture.
-
-  * **attention :** une séance d'essai réservée est due, pas d'annulation possible lors d'essais.
-  * Le nombre de cours reste ouvert pour maximum de 10 personnes afin de garantir le bien-être de chacun.
-
-  ### 3 - En cas d'absence?
-
-  * Pour les cours à la séance, un cours réservé ne sera remboursé que si je suis prévenue au maximum 24h à l'avance.
-  * **Pour les abonnements, un cours où l'on ne vient pas est perdu** puisqu'il s'agit d'un abonnement.
-
-    Toutefois, je peux vous proposer de le rattraper à condition qu'il y ait un désistement dans un cours identique et au maximum 2 fois sur la même période.
-
-    **Pour obtenir cette possibilité de rattraper une séance sur un autre cours, veuillez me prévenir de votre absence au moins 24 heures à l'avance par sms**. Si je ne suis pas prévenue de votre absence, le cours ne pourra pas être rattrapé et sera perdu.
-
-  ### **4 - En cas D'abandon ?**
-
-  * Si vous souhaitez abandonner et que vous avez souscrit un abonnement, sachez que **tout quadrimestre entamé est à payer dans son intégralité.**
-  * Un abonnement annuel pourra être partiellement remboursé mais le décompte se fera alors sur le prix trimestriel.
-  * Les cartes de 10 séances ne peuvent pas être remboursées.
-  * Je reste évidemment à votre écoute. Toute demande de remboursement doit se faire par mail et il est impératif de me prévenir de votre absence par sms le plus tôt possible.
-
-  ### 5 - En cas de maladie?
-
-  En cas de maladie, vous serez remboursé **sur présentation d'un certificat médical d'au moins 4 semaines.**
-
-  Merci de me transmettre par mail votre certificat, vos coordonnées, en précisant le cours auquel vous êtes inscrit afin que je puisse examiner votre demande de remboursement et vous tenir informé de ma décision.
-
-  ### 6 - En cas d'annulation de ma part ?
-
-  Si je me retrouve dans l'incapacité de donner le cours collectif prévu pour cause de maladie, accident ou formation, ... Deux options:
-
-  * Le cours a lieu et je suis remplacée par une personne en qui j'accorde toute ma confiance et vous en serez prévenu
-  * Le cours est reporté à une date ultérieure afin de pourvoir l'assurer moi-même.
+text_under_price: "## Informations utiles - Cours de yoga\n\n### 1 - Modalités de
+  paiement\n\n### Types d'abonnements :\n\n#### _Abonnement annuel_\n\n* 32 séances
+  entre le 20 septembre 2020 et le 20 juin 2021.\n* 352€ (11€ /séance)**_._**\n\n####
+  _Abonnement quadrimestre_\n\n* Période 1 ( 23 septembre 2020 au 30 janvier 2021
+  inclus) - sauf congés scolaires : 16 séances soit 208€ (13€ /séance) - 160€* prix
+  réduit (10€ /séance).\n* Période 2 ( 01 février 2021 au 20 juin 2021 inclus) - sauf
+  congés scolaires :              16 séances soit 208€ (13€ /séance) - 160€* prix
+  réduit (10€ /séance).\n\n#### _Cours à la séance_\n\n* Sous réserve de places disponibles
+  et inscription minimum 24h à l'avance.\n* 15€ à la séance.\n\n### Comment payer?\n\nLes
+  cours de yoga peuvent être réglés en espèces ou par virement avant le début des
+  cours sur le compte IBAN suivant: BE09 0636 6795 3957 de Chloé Dujardin.\n\nIl est
+  tout à fait possible d'étaler le paiement d'un abonnement en deux fois (1ier versement
+  en septembre et deuxième en novembre) comme de trouver des solutions innovantes
+  an cas de difficultés.\n\nCertaines mutuelles interviennent dans le prix de l’abonnement
+  jusqu'à 40€ par an, renseignez-vous.\n\n### 2 - Cours d'essais\n\nUne semaine avant
+  l'ouverture des cours, des séances découvertes seront proposées au prix de 10 euros
+  la séance pour que vous puissiez venir essayer et voir si vous souhaitez prendre
+  un abonnement pour l'ouverture.\n\n* **attention :**  une séance d'essai réservée
+  est due, pas d'annulation possible lors d'essais.\n* Le nombre de cours reste ouvert
+  pour maximum de 10 personnes afin de garantir le bien-être de chacun.\n\n### 3 -
+  En cas d'absence?\n\n* Pour les cours à la séance, un cours réservé ne sera remboursé
+  que si je suis prévenue au maximum 24h à l'avance.\n* **Pour les abonnements, un
+  cours où l'on ne vient pas est perdu** puisqu'il s'agit d'un abonnement.\n\n  Toutefois,
+  je peux vous proposer de le rattraper à condition qu'il y ait un désistement dans
+  un cours identique et au maximum 2 fois sur la même période.\n\n  **Pour obtenir
+  cette possibilité de rattraper une séance sur un autre cours, veuillez me prévenir
+  de votre absence au moins 24 heures à l'avance par sms**. Si je ne suis pas prévenue
+  de votre absence, le cours ne pourra pas être rattrapé et sera perdu.\n\n### **4
+  - En cas D'abandon ?**\n\n* Si vous souhaitez abandonner et vous avez souscrits
+  un abonnement, sachez que tout quadrimestre entamé est à régler dans son intégralité.
+  \n* Un abonnement annuel pourra être partiellement remboursé mais le décompte se
+  fera alors sur le prix trimestriel.\n* Je reste évidemment à votre écoute. Toute
+  demande de remboursement doit se faire par mail et il est impératif de me prévenir
+  de votre absence par sms le plus tôt possible.\n\n### 5 - En cas de maladie?\n\nEn
+  cas de maladie, vous serez remboursé **sur présentation d'un certificat médical
+  d'au moins 4 semaines.**\n\nMerci de me transmettre par mail votre certificat, vos
+  coordonnées, en précisant le cours auquel vous êtes inscrit afin que je puisse examiner
+  votre demande de remboursement et vous tenir informé de ma décision.\n\n### 6 -
+  En cas d'annulation de ma part ?\n\nSi je me retrouve dans l'incapacité de donner
+  le cours collectif prévu pour cause de maladie, accident ou formation, ... Deux
+  options:\n\n* Le cours a lieu et je suis remplacée par une personne en qui j'accorde
+  toute ma confiance et vous en serez prévenu\n* Le cours est reporté à une date ultérieure
+  afin de pourvoir l'assurer moi-même."
 
 ---
