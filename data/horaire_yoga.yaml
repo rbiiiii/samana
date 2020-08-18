@@ -35,6 +35,10 @@
     end: ''
     duration: 
     category: adultes
+  - start: 11h
+    end: 12h
+    duration: 4
+    category: ados
   - start: 9h
     end: 10h
     duration: 4
