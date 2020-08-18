@@ -31,9 +31,13 @@
     category: adultes
 - title: Samedi
   blocks:
-  - start: 10h
-    end: 11h
-    duration: 4
+  - start: ''
+    end: ''
+    duration: 
     category: adultes
+  - start: 9h
+    end: 10h
+    duration: 4
+    category: enfants
 - title: Dimanche
   blocks: []
