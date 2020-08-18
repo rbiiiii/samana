@@ -21,14 +21,6 @@
     end: 11h45
     duration: 4
     category: adultes
-  - start: 14h
-    end: 15h
-    duration: 4
-    category: enfants
-  - start: 15h
-    end: 16h
-    duration: 4
-    category: ados
 - title: Jeudi
   blocks: []
 - title: Vendredi
