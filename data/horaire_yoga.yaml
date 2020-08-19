@@ -31,9 +31,9 @@
     category: adultes
 - title: Samedi
   blocks:
-  - start: ''
-    end: ''
-    duration: 
+  - start: 10h
+    end: 11H
+    duration: 4
     category: adultes
   - start: 11h
     end: 12h
