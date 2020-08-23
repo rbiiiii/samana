@@ -58,8 +58,8 @@ text_under_price: "## Informations utiles - Cours de yoga\n\n### 1 - Modalités 
   paiement\n\n### Types d'abonnements :\n\n#### _Abonnement annuel_\n\n* 32 séances
   entre le 20 septembre 2020 et le 20 juin 2021.\n* 352€ (11€ /séance)**_._**\n\n####
   _Abonnement quadrimestre_\n\n* Période 1 ( 23 septembre 2020 au 30 janvier 2021
-  inclus) - sauf congés scolaires : 16 séances soit 208€ (13€ /séance) - 160€* prix
-  réduit (10€ /séance).\n\n  13 séances soit 170€ (13€/séance) - 130€* prix réduit
+  inclus) - sauf congés scolaires : \n\n  16 séances soit 208€ (13€ /séance) - 160€*
+  prix réduit (10€ /séance).\n\n  13 séances soit 170€ (13€/séance) - 130€* prix réduit
   (10€/séance) - Pour les samedis. (pas de cours les 10/10, 31/10 et 27/11)\n* Période
   2 ( 01 février 2021 au 20 juin 2021 inclus) - sauf congés scolaires :              16
   séances soit 208€ (13€ /séance) - 160€* prix réduit (10€ /séance).\n\n#### _Cours
@@ -81,8 +81,8 @@ text_under_price: "## Informations utiles - Cours de yoga\n\n### 1 - Modalités 
   d'un abonnement.\n\n  Toutefois, je peux vous proposer de le rattraper à condition
   qu'il y ait un désistement dans un cours identique et au maximum 2 fois sur la même
   période.\n\n  **Pour obtenir cette possibilité de rattraper une séance sur un autre
-  cours, veuillez me prévenir de votre absence au moins 24 heures à l'avance par sms**.
-  \n\n  Si je ne suis pas prévenue de votre absence, le cours ne pourra pas être rattrapé
+  cours, veuillez me prévenir de votre absence au moins 24 heures à l'avance par sms**.\n\n
+  \ Si je ne suis pas prévenue de votre absence, le cours ne pourra pas être rattrapé
   et sera perdu.\n\n### **4 - En cas D'abandon ?**\n\n* Si vous souhaitez abandonner
   et vous avez souscrits un abonnement, sachez que tout quadrimestre entamé est à
   régler dans son intégralité.\n* Un abonnement annuel pourra être partiellement remboursé
