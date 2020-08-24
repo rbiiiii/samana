@@ -1,11 +1,12 @@
-$heightUnit :15px;
-$widthUnit: 120px;
+$heightUnit: 12px; //multiplicator
+$widthUnit: 140px;
+$nbrOfLines: 52;
 
 .schedule {
 	display:none;
 	position:relative;
-	width:7.753846 * $widthUnit;
-	height:$heightUnit*52;
+	width: ((6*$widthUnit) + (0.5*$widthUnit)) + 5px;
+	height:$heightUnit*56;
 	margin:0 auto;
 	@include ff-l;
 	border:1px solid $green;
@@ -16,10 +17,10 @@ $widthUnit: 120px;
 }
 
 .lines {
-	width:7.04615384*$widthUnit;
+	width:(6*$widthUnit) + 4px;
 	position: absolute;
 	top:4*$heightUnit;
-	left:0.692307*$widthUnit;
+	left:0.5*$widthUnit;
 	padding:0;
 	overflow:hidden;
 
@@ -36,8 +37,8 @@ $widthUnit: 120px;
 .days {
 	display:flex;
 	position: relative;
-	left:0.692307*$widthUnit;
-	width:7.05*$widthUnit;
+	left:(0.5*$widthUnit) - 2px;
+	width:6*$widthUnit + 5px;
 }
 
 .day {
@@ -60,7 +61,7 @@ $widthUnit: 120px;
 .day__schedule, .day__schedule tbody {
 	margin:0;
 	width:$widthUnit;
-	height:$heightUnit*47.933333;
+	height:($heightUnit*$nbrOfLines) - 1px;
 	position:relative;
 }
 
@@ -71,7 +72,7 @@ $widthUnit: 120px;
 	right:0;
 	bottom:0;
 	left:0;
-	width:7.746153 * $widthUnit;
+	width:(6*$widthUnit) + (0.5*$widthUnit) + 4px;
 
 	.hour {
 		display:flex;
@@ -84,7 +85,7 @@ $widthUnit: 120px;
 			position:absolute;
 			left:0;
 			border:none;
-			width:0.6923*$widthUnit;
+			width:0.5*$widthUnit;
 		}
 	}
 }

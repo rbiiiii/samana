@@ -48,6 +48,10 @@
 		<tr><td></td></tr>
 		<tr><td></td></tr>
 		<tr><td></td></tr>
+		<tr><td></td></tr>
+		<tr><td></td></tr>
+		<tr><td></td></tr>
+		<tr><td></td></tr>
 	</table>
 	<table class="day__hours">
 		<tr class="hour hour-9h">
@@ -86,14 +90,17 @@
 		<tr class="hour hour-20h">
 			<td class="hour__text">20h</td>
 		</tr>
+		<tr class="hour hour-21h">
+			<td class="hour__text">21h</td>
+		</tr>
 	</table>
 	<div class="days">
 		{{ range .Site.Data.horaire_yoga }}
 		<div class="day">
 			<h4 class="day__title">{{ .title }}</h4>
 			<table class="day__schedule">
-				{{ $hours := slice "9h" "9h15" "9h30" "9h45" "10h" "10h15" "10h30" "10h45" "11h" "11h15" "11h30" "11h45" "12h" "12h15" "12h30" "12h45" "13h" "13h15" "13h30" "13h45" "14h" "14h15" "14h30" "14h45" "15h" "15h15" "15h30" "15h45" "16h" "16h15" "16h30" "16h45" "17h" "17h15" "17h30" "17h45" "18h" "18h15" "18h30" "18h45" "19h" "19h15" "19h30" "19h45" "20h" }}
-				{{ $multiplicator := 15 }}
+				{{ $hours := slice "9h" "9h15" "9h30" "9h45" "10h" "10h15" "10h30" "10h45" "11h" "11h15" "11h30" "11h45" "12h" "12h15" "12h30" "12h45" "13h" "13h15" "13h30" "13h45" "14h" "14h15" "14h30" "14h45" "15h" "15h15" "15h30" "15h45" "16h" "16h15" "16h30" "16h45" "17h" "17h15" "17h30" "17h45" "18h" "18h15" "18h30" "18h45" "19h" "19h15" "19h30" "19h45" "20h" "20h15" "20h30" "20h45" }}
+				{{ $multiplicator := 12 }}
 				{{ range .blocks }}
 					{{ $start := .start }}
 					{{ $end := .end }}
@@ -102,9 +109,8 @@
 					{{ $subtext := .subtext }}
 					{{ range $index, $value := $hours }}
 						{{ if eq $start $value }}
-							<tr class="day__block hour-{{ $start }} {{ $category }}" style="top:{{ mul $index $multiplicator }}px">
+							<tr class="day__block hour-{{ $start }} {{ $category }}" style="top:{{ add (mul $index $multiplicator) 1 }}px">
 								{{ $tdHeight := mul $duration $multiplicator }}
-								{{ $tdHeight := add $tdHeight 1 }}
 								<td style="height:{{ $tdHeight }}px">
 									<span class="day__block__title">{{ $category }}</span>
 									{{ if ne $subtext "" }}<small class="day__block__subtext">{{ $subtext }}</small>{{ end }}
