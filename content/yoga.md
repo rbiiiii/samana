@@ -83,7 +83,7 @@ text_under_price: "## Informations utiles - Cours de yoga\n\n### 1 - Modalités 
   période.\n\n  **Pour obtenir cette possibilité de rattraper une séance sur un autre
   cours, veuillez me prévenir de votre absence au moins 24 heures à l'avance par sms**.\n\n
   \ Si je ne suis pas prévenue de votre absence, le cours ne pourra pas être rattrapé
-  et sera perdu.\n\n### **4 - En cas D'abandon ?**\n\n* Si vous souhaitez abandonner
+  et sera perdu.\n\n### 4 - En cas d'abandon ?\n\n* Si vous souhaitez abandonner
   et vous avez souscrits un abonnement, sachez que tout quadrimestre entamé est à
   régler dans son intégralité.\n* Un abonnement annuel pourra être partiellement remboursé
   mais le décompte se fera alors sur le prix trimestriel.\n* Je reste évidemment à
