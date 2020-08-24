@@ -2,8 +2,8 @@
     <header>
         <a href="{{.Permalink}}">
             <picture>
-                <source srcset="{{ $.Site.Params.cloudinary_base_url }}/f_auto,q_80,w_400/{{.Params.photo}}" media="(max-width: 400px)">
-                <img style="width:100%" class="blog-item__img" src="{{ $.Site.Params.cloudinary_base_url }}/f_auto,q_80,w_590/{{.Params.photo}}" alt="Illustration de l'article {{ .Title }}">
+                <source srcset="{{ $.Site.Params.cloudinary_base_url }}/f_auto,q_80,w_400,c_fill,ar_1.16/{{.Params.photo}}" media="(max-width: 400px)">
+                <img style="width:100%" class="blog-item__img" src="{{ $.Site.Params.cloudinary_base_url }}/f_auto,q_80,w_590,c_fill,ar_1.16/{{.Params.photo}}" alt="Illustration de l'article {{ .Title }}">
             </picture>
             <h2 class="blog-item__title">{{ .Title }}</h3>
         </a>
