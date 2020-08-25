@@ -11,6 +11,10 @@
     category: enfants
 - title: Mardi
   blocks:
+  - start: 16h15
+    end: 17h15
+    duration: 4
+    category: enfants
   - start: 20h15
     end: 21h15
     duration: 4
