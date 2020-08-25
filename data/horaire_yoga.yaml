@@ -1,10 +1,14 @@
 ---
 - title: lundi
   blocks:
-  - start: 9h15
-    end: 10h15
-    duration: 4
+  - start: ''
+    end: ''
+    duration: 
     category: adultes
+  - start: 16h00
+    end: 17h00
+    duration: 4
+    category: enfants
 - title: Mardi
   blocks:
   - start: 20h15
