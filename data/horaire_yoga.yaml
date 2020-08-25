@@ -30,7 +30,11 @@
     duration: 4
     category: adultes
 - title: Jeudi
-  blocks: []
+  blocks:
+  - start: 14h
+    end: 15h15
+    duration: 5
+    category: adultes
 - title: Vendredi
   blocks:
   - start: 9h15
