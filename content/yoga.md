@@ -70,10 +70,8 @@ text_under_price: |-
 
   * Période 1 ( 23 septembre 2020 au 30 janvier 2021 inclus) - sauf congés scolaires :
 
-    16 séances soit 208€ (13€ /séance) - 160€* prix réduit (10€ /séance).
-
-    13 séances soit 170€ (13€/séance) - 130€* prix réduit (10€/séance) - Pour les samedis. (pas de cours les 10/10, 31/10 et 27/11)
-  * Période 2 ( 01 février 2021 au 20 juin 2021 inclus) - sauf congés scolaires :              16 séances soit 208€ (13€ /séance) - 160€* prix réduit (10€ /séance).
+    14 séances soit 185€ (13€ /séance) - 150€* prix réduit.
+  * Période 2 ( 01 février 2021 au 20 juin 2021 inclus) - sauf congés scolaires :              16 séances soit 208€ (13€ /séance) - 160€* prix réduit.
 
   #### _Cours à la séance_
 
