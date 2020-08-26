@@ -6,8 +6,8 @@
     duration: 4
     category: adultes
     subtext: Corps et Conscience
-  - start: 16h00
-    end: 17h00
+  - start: 16h
+    end: 17h
     duration: 4
     category: enfants
     subtext: Ecole Saint-Maur
