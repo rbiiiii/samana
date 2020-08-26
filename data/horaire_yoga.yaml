@@ -1,16 +1,16 @@
 ---
 - title: Lundi
   blocks:
-  - start: 16h00
-    end: 17h00
-    subtext: Ecole saint-Maur
+  - start: 16h
+    end: 17h
+    subtext: "Ecole saint-Maur"
     duration: 4
     category: enfants
 - title: Mardi
   blocks:
-  - start: 16h00
-    end: 17h00
-    subtext:  Don Bosco
+  - start: 16h
+    end: 17h
+    subtext: "Don Bosco"
     duration: 4
     category: enfants
   - start: 20h15

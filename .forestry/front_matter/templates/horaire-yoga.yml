@@ -16,11 +16,11 @@ fields:
     - type: text
       name: start
       label: Heure de début
-      description: 'Ex: 11h ou 11h15 (par tranche de 15 min)'
+      description: 'Ex: 11h ou 11h15 (par tranche de 15 min) - jamais 11h00, si tu mets les "00", ça ne fonctionne pas ;)'
     - type: text
       name: end
       label: Heure de fin
-      description: 'Ex: 12h ou 12h45 (par tranche de 15 min)'
+      description: 'Ex: 12h ou 12h45 (par tranche de 15 min) - jamais 12h00, si tu mets les "00", ça ne fonctionne pas ;)'
     - name: duration
       type: number
       label: Durée en nombre de quarts d'heures
