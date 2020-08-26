@@ -34,14 +34,14 @@
     end: 11h45
     duration: 4
     category: adultes
-    subtext: ''
+    subtext: Corps et Conscience
 - title: Jeudi
   blocks:
   - start: 14h
     end: 15h15
     duration: 5
     category: adultes
-    subtext: ''
+    subtext: Centre Chanterelles
 - title: Vendredi
   blocks:
   - start: 9h15
