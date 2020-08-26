@@ -1,16 +1,18 @@
 ---
-- title: Lundi
+- title: lundi
   blocks:
-  - start: 16h
-    end: 17h
-    subtext: "Ecole saint-Maur"
+  - start: 9h15
+    end: 10h15
+    duration: 4
+    category: adultes
+  - start: 16h00
+    end: 17h00
     duration: 4
     category: enfants
 - title: Mardi
   blocks:
-  - start: 16h
-    end: 17h
-    subtext: "Don Bosco"
+  - start: 16h15
+    end: 17h15
     duration: 4
     category: enfants
   - start: 20h15
@@ -32,13 +34,7 @@
   - start: 14h
     end: 15h15
     duration: 5
-    subtext: Centre Chanterelles
     category: adultes
-  - start: 18h
-    end: 20h
-    subtext: Bal Spécial
-    category: cours de danse
-    duration: 8
 - title: Vendredi
   blocks:
   - start: 9h15
