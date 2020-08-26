@@ -10,7 +10,7 @@
     end: 17h00
     duration: 4
     category: enfants
-    subtext: ''
+    subtext: Ecole Saint-Maur
 - title: Mardi
   blocks:
   - start: 16h15
