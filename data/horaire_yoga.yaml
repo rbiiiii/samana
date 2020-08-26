@@ -37,11 +37,16 @@
     subtext: Corps et Conscience
 - title: Jeudi
   blocks:
-  - start: 14h
-    end: 15h15
-    duration: 5
+  - start: ''
+    end: ''
+    duration: 
     category: adultes
-    subtext: Centre Chanterelles
+    subtext: ''
+  - start: 18h
+    end: 20h
+    duration: 4
+    category: cours de danse
+    subtext: Bal Special Asbl
 - title: Vendredi
   blocks:
   - start: 9h15
