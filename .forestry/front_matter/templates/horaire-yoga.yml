@@ -46,6 +46,12 @@ fields:
           file: 
           path: 
       label: Catégorie
+    - name: subtext
+      type: text
+      config:
+        required: false
+      label: Complément
+      description: 'Petite texte en dessous de la catégorie, ex: Don Bosco'
     config:
       labelField: category
 pages:
