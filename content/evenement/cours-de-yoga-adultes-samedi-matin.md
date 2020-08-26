@@ -9,4 +9,4 @@ schedule_out = "11:00"
 title = "Cours de yoga adultes /Samedi matin"
 
 +++
-Cours collectifs d'1h pour adultes, niveau débutant et intermédiaire. Cours d'essai gratuit en septembre.
+Cours collectifs d'1h pour adultes, niveau débutant et intermédiaire. 
