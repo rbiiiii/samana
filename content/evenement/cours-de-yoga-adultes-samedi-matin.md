@@ -4,8 +4,8 @@ category = "cours"
 date = 2020-09-19T00:00:00Z
 enddate = 2021-01-30T00:00:00Z
 img = "/v1594799917/Sam_10h_ordcwe.png"
-schedule_in = "09:30"
-schedule_out = "10:30"
+schedule_in = "10:00"
+schedule_out = "11:00"
 title = "Cours de yoga adultes /Samedi matin"
 
 +++
