@@ -68,11 +68,9 @@ text_under_price: |-
 
   #### _Abonnement quadrimestre_
 
-  * Période 1 ( 23 septembre 2020 au 30 janvier 2021 inclus) - sauf congés scolaires :
+  * Période 1 ( 23 septembre 2020 au 30 janvier 2021 inclus) - sauf congés scolaires : 14 séances soit 185€ (13€ /séance) - 150€* prix réduit.
 
-    14 séances soit 185€ (13€ /séance) - 150€* prix réduit.
-    
-  * Période 2 ( 01 février 2021 au 20 juin 2021 inclus) - sauf congés scolaires :              16 séances soit 208€ (13€ /séance) - 160€* prix réduit.
+  * Période 2 ( 01 février 2021 au 20 juin 2021 inclus) - sauf congés scolaires : 16 séances soit 208€ (13€ /séance) - 160€* prix réduit.
 
   #### _Cours à la séance_
 
