@@ -40,6 +40,7 @@ fields:
         - adultes
         - enfants
         - ados
+        - cours de danse
         source:
           type: simple
           section: 

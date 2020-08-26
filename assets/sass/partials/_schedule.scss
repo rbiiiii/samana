@@ -1,4 +1,4 @@
-$heightUnit: 12px; //multiplicator
+$heightUnit: 15px; //multiplicator
 $widthUnit: 140px;
 $nbrOfLines: 52;
 
@@ -17,7 +17,7 @@ $nbrOfLines: 52;
 }
 
 .lines {
-	width:(6*$widthUnit) + 4px;
+	width:(6*$widthUnit) + 3px;
 	position: absolute;
 	top:4*$heightUnit;
 	left:0.5*$widthUnit;
@@ -117,6 +117,10 @@ $nbrOfLines: 52;
 		background:#EFD58A;
 	}
 
+	&.cours-de-danse td {
+		background:#ff9a64;
+	}
+
 	td {
 		display: flex;
 		flex-direction: column;
@@ -190,6 +194,10 @@ $nbrOfLines: 52;
 
 	&.ados {
 		background:#EFD58A;
+	}
+
+	&.cours-de-danse {
+		background:#ff9a64;
 	}
 
 	p {
