@@ -9,4 +9,4 @@ schedule_out = "16:00"
 title = "STAGE YOGA ENFANTS - Eté 2020"
 
 +++
-Stage de yoga pour enfants de 6 à 12 ans. 90€/Places limitées. 
+Stage de yoga pour enfants de 6 à 12 ans. 90€/Places limitées.
