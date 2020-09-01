@@ -2,6 +2,7 @@
 address = "Rue des wallons 63, 4000 Liège"
 category = "stages"
 date = 2020-07-27T00:00:00Z
+draft = true
 enddate = 2020-07-31T00:00:00Z
 img = "/v1582188783/AdobeStock_218109710_rnla4x.jpg"
 schedule_in = "09:00"
