@@ -61,21 +61,30 @@ text_under_price: |-
 
   ### Types d'abonnements :
 
-  #### _Abonnement annuel_
+  #### _Abonnement annuel adultes_
 
-  * 32 séances entre le 20 septembre 2020 et le 20 juin 2021.
-  * 352€ (11€ /séance)**_._**
+  * 29 séances entre le 19 septembre 2020 et le 20 juin 2021.
+  * 335€ (11,5€ /séance)**_._**
 
-  #### _Abonnement quadrimestre_
+  #### _Abonnement quadrimestre adultes_
 
   * Période 1 ( 23 septembre 2020 au 30 janvier 2021 inclus) - sauf congés scolaires : 14 séances soit 185€ (13€ /séance) - 150€* prix réduit.
-
   * Période 2 ( 01 février 2021 au 20 juin 2021 inclus) - sauf congés scolaires : 16 séances soit 208€ (13€ /séance) - 160€* prix réduit.
 
-  #### _Cours à la séance_
+  #### _Cours à la séance adultes_
 
   * Sous réserve de places disponibles et inscription minimum 24h à l'avance.
-  * 15€ à la séance.
+  * 15€ à la séance payable d'avance
+
+  #### _Abonnement annuel enfants et ados_
+
+  * 29 séances entre le 19 septembre 2020 et le 20 juin 2021.
+  * 250€ (8,5€ /séance)**_._**
+
+  #### _Abonnement quadrimestre enfants et ados_
+
+  * Période 1 ( 19 septembre 2020 au 30 janvier 2021 inclus) - sauf congés scolaires : 13 séances soit 130€ (10€ /séance) - 117€* prix réduit.
+  * Période 2 ( 01 février 2021 au 20 juin 2021 inclus) - sauf congés scolaires : 16 séances soit 130€ (10€ /séance) - 117€* prix réduit.
 
   ### Comment payer?
 
