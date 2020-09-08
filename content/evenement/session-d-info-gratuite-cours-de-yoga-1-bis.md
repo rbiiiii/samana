@@ -9,4 +9,4 @@ schedule_out = "12:00"
 title = "Session d'info gratuite - Cours de yoga 1-BIS"
 
 +++
-Sur inscription! contact@yogasamana.be, :-)
+COMPLET /Sur inscription! contact@yogasamana.be, :-)
