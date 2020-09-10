@@ -5,9 +5,9 @@
   unit: ''
 - title: Cours de yoga adultes
   prices:
-  - price: '185€ (13€ la séance) '
+  - price: '185€ (14€ la séance) '
   - price: '150€<sup>*</sup> '
-  unit: 15€
+  unit: 16€
 - title: Cours de yoga ados
   prices:
   - price: 130€
