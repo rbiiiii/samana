@@ -68,8 +68,8 @@ text_under_price: |-
 
   #### _Abonnement quadrimestre adultes_
 
-  * Période 1 ( 23 septembre 2020 au 30 janvier 2021 inclus) - sauf congés scolaires : 14 séances soit 185€ (13€ /séance) - 150€* prix réduit.
-  * Période 2 ( 01 février 2021 au 20 juin 2021 inclus) - sauf congés scolaires : 16 séances soit 208€ (13€ /séance) - 160€* prix réduit.
+  * Période 1 ( 23 septembre 2020 au 30 janvier 2021 inclus) - sauf congés scolaires : 13 séances soit 185€ (14€ /séance) - 150€* prix réduit.
+  * Période 2 ( 01 février 2021 au 20 juin 2021 inclus) - sauf congés scolaires : 16 séances soit 225€ (14€ /séance) - 185€* prix réduit.
 
   #### _Cours à la séance adultes_
 
@@ -90,7 +90,7 @@ text_under_price: |-
 
   Les cours de yoga peuvent être réglés en espèces ou par virement avant le début des cours sur le compte IBAN suivant: BE09 0636 6795 3957 de Chloé Dujardin.
 
-  Il est possible, après accord, d'étaler le paiement d'un abonnement en deux fois (1ier versement en septembre et deuxième avant le 15 novembre) comme de trouver des solutions innovantes an cas de difficultés.
+  Il est possible, après accord, d'étaler le paiement d'un abonnement en deux fois (1ier versement en septembre et deuxième avant le 15 octobre) comme de trouver des solutions innovantes an cas de difficultés.
 
   Certaines mutuelles interviennent dans le prix de l’abonnement jusqu'à 40€ par an, renseignez-vous.
 
