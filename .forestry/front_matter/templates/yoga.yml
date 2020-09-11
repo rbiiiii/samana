@@ -21,6 +21,10 @@ fields:
   - type: textarea
     name: text
     label: Paragraphe
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
 - type: text
   name: vision_title
   label: Titre "ma vision"
@@ -31,6 +35,10 @@ fields:
   - type: textarea
     name: text
     label: Paragraphe
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
 - type: field_group_list
   name: offre_blocks
   label: Offres
@@ -45,6 +53,10 @@ fields:
     - type: textarea
       name: text
       label: Paragraphe
+      config:
+        wysiwyg: true
+        schema:
+          format: markdown
 - name: text_under_price
   type: textarea
   default: ''
