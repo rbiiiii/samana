@@ -24,7 +24,8 @@
     }
 
     @media screen and (min-width: 980px) {
-        display:flex;
+        flex-wrap: wrap;
+        margin: 0 $su*2;
         transform:none;
         width:auto;
         box-shadow: none;
@@ -63,6 +64,7 @@
     text-transform: uppercase;
     @include fs-xs;
     letter-spacing:2px;
+    text-align: center;
     transition: opacity 200ms ease-out;
 
     @media screen and (min-width:980px) {
@@ -84,7 +86,7 @@
         background-color:$white;
     }
 
-    $pages: chloe-dujardin yoga meditation agenda contact blog;
+    $pages: chloe-dujardin yoga meditation coaching-yoga agenda contact blog;
 
     @each $page in $pages {
         body.#{$page} &[href^="/#{$page}"] {
@@ -94,14 +96,6 @@
 
     body.categories &[href^="/blog"] {
         font-weight: bold;
-    }
-
-    @media screen and (min-width:980px) and (max-width:1160px) {
-        
-        &[href^="/chloe-dujardin"] {
-            max-width: 8em;
-            text-align: center;
-        }
     }
 
 }
