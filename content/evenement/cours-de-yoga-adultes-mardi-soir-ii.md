@@ -9,4 +9,4 @@ schedule_out = "21:00"
 title = "Cours de yoga adultes /Mardi soir"
 
 +++
-Cours collectifs débutant à 20h15, d'1h pour adultes, niveau débutant et intermédiaire. Cours d'essai gratuit en septembre.
+COMPLET - Cours collectifs débutant à 20h15, d'1h pour adultes, niveau débutant et intermédiaire. 
