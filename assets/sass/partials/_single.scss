@@ -151,6 +151,10 @@
 	max-width: 800px;
 	margin:$su auto 0 auto;
 	font-size:1rem;
+
+	h2, h3 {
+		@include ff-i;
+	}
 }
 
 #yoga-horaire {

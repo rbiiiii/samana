@@ -89,13 +89,10 @@
     $pages: chloe-dujardin yoga meditation coaching-yoga agenda contact blog;
 
     @each $page in $pages {
-        body.#{$page} &[href^="/#{$page}"] {
+        body.#{$page} &[href^="/#{$page}"],
+        body.categories &[href^="/blog"] {
             font-weight: bold;
+            font-size: 0.85rem;
         }
     }
-
-    body.categories &[href^="/blog"] {
-        font-weight: bold;
-    }
-
 }
