@@ -1,7 +1,7 @@
 ---
-slug: yoga
-type: yoga
-title: Yoga
+slug: yoga-cours-collectifs
+type: yoga-cours-collectifs
+title: Cours de yoga collectifs
 intro_text:
 - text: 'Cours de yoga à Liège, dans la tradition du Viniyoga de TKV Desikachar. Je
     propose une pratique authentique du yoga sur les hauteurs de Liège (Cointe et
@@ -44,16 +44,6 @@ offre_blocks:
       deux écoles primaires. J’accompagne également des instituteurs pour une sensibilisation
       dans les classes et je donne des cours à des adolescents dans une école de danse
       contemporaine à Liège. (Bal Special)
-- block:
-    title: Offre spéciale pour les entreprises
-    text: Pourquoi proposer à ses employés une initiation au yoga ? En quelques mots,
-      la pratique du yoga consiste à enchainer des postures avec une concentration
-      particulière sur la respiration. Cette pratique millénaire a prouvé son efficacité
-      dans le retour à un bien-être physique et mental. Bien respirer, aider à gérer
-      le stress, l’anxiété, à améliorer sa concentration, à prendre du recul pour
-      prendre de meilleures décisions… Cela peut s’inscrire dans une politique de
-      gestion des ressources humaines ouverte à des expériences différentes et constructive
-      pour le bien-être du personnel.
 text_under_price: |-
   ## Informations utiles - Cours de yoga
 

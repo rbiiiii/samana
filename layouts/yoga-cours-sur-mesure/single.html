@@ -1,0 +1,45 @@
+{{ define "main" }}
+
+    <section class="single-section" id="surmesure-intro">
+        <figure class="fullw-img-wrapper fullw-img-wrapper--long-text">
+            <picture class="fullw-img">
+                <source type="image/webp" media="(max-width: 767px)" srcset="{{.Site.BaseURL}}assets/img/cours-sur-mesure-full-small.webp">
+                <source type="image/jpeg" media="(max-width: 767px)" srcset="{{.Site.BaseURL}}assets/img/cours-sur-mesure-full-small.jpg">
+                <source type="image/webp" media="(max-width: 979px)" srcset="{{.Site.BaseURL}}assets/img/cours-sur-mesure-full-medium.webp">
+                <source type="image/jpeg" media="(max-width: 979px)" srcset="{{.Site.BaseURL}}assets/img/cours-sur-mesure-full-medium.jpg">
+                <source type="image/webp" media="(min-width: 980px)" srcset="{{.Site.BaseURL}}assets/img/cours-sur-mesure-full.webp">
+                <source type="image/jpeg" media="(min-width: 980px)" srcset="{{.Site.BaseURL}}assets/img/cours-sur-mesure-full.jpg">
+                <img class="fullw-img" src="{{.Site.BaseURL}}assets/img/cours-sur-mesure-full.jpg" alt=""  width="1640" height="900">
+            </picture>
+            {{ with .Params.intro_text }}
+            <figcaption>
+                {{ range . }}<p>{{ .text | safeHTML}}</p>{{ end }}
+            </figcaption>
+            {{ end }}
+        </figure>
+    </section>
+
+    <section class="single-section" id="chloe-content">
+        <div class="flex-2-cols">
+          <div class="flex-2-cols__col chloe-content__img">
+            <img src="{{.Site.BaseURL}}assets/img/cours-sur-mesure-content.jpg" alt="Photographie de Chloé Dujardin">
+          </div>
+          <div class="flex-2-cols__col chloe-content__txt">
+            {{ with .Params.content_blocks }}
+              {{ range . }}
+                <h2>{{ .block.title | safeHTML }} {{ with .block.title_italic | safeHTML }}<span class="ff-i">{{ . }}</span>{{ end }}</h2>
+                {{ range .block.texts }}
+                  <p>{{ .text | safeHTML }}</p>
+                {{ end }}
+              {{ end }}
+            {{ end }}
+          </div>
+        </div>
+    </section>
+
+    <section class="single-section single-section--price cw" id="surmesure-prix">
+        <h2 class="ff-i">Tarif</h2>
+        {{ partial "price.html" (dict "context" . "type" "surmesure" "data" $.Site.Data.tarif_surmesure) }}
+    </section>
+
+{{ end }}

@@ -5,12 +5,21 @@
         </a>
         <button id="site-nav-btn" name="menu" aria-expanded="false"><span id="site-nav-btn__icon">☰</span> Menu</button>
         <nav class="site-nav" id="site-nav">
-            <a class="site-nav__link" href="/chloe-dujardin">Chloé Dujardin</a>
-            <a class="site-nav__link" href="/yoga">Yoga</a>
-            <a class="site-nav__link" href="/meditation">Méditation</a>
-            <a class="site-nav__link" href="/agenda">Agenda</a>
-            <a class="site-nav__link" href="/blog">Blog</a>
-            <a class="site-nav__link" href="/contact">Contact</a>
+            <ul>
+                <li><a class="site-nav__link" href="/chloe-dujardin">Chloé Dujardin</a></li>
+                <li><a class="site-nav__link" href="/yoga-cours-collectifs">Yoga</a></li>
+                <!--<li class="site-nav__has-submenu">
+                    <a class="site-nav__link site-nav__toplink" href="#" aria-haspopup="true" aria-expanded="false" tabindex="0">Yoga</a>
+                    <ul>
+                        <li><a class="site-nav__link site-nav__sublink" href="/yoga-cours-collectifs">Cours collectifs</a></li>
+                        <li><a class="site-nav__link site-nav__sublink" href="/yoga-cours-sur-mesure">Cours sur mesure</a></li>
+                    </ul>
+                </li>-->
+                <li><a class="site-nav__link" href="/meditation">Méditation</a></li>
+                <li><a class="site-nav__link" href="/agenda">Agenda</a></li>
+                <li><a class="site-nav__link" href="/blog">Blog</a></li>
+                <li><a class="site-nav__link" href="/contact">Contact</a></li>
+            </ul>
         </nav>
         <a class="stay-connected" href="#site-footer">
             <img src="{{.Site.BaseURL}}assets/img/stay-connected_icon.svg" alt="" width="29" height="28">

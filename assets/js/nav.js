@@ -34,6 +34,34 @@ function toggleTabIndex(array, width) {
    }
 }
 
+var menuItems = document.querySelectorAll('.site-nav__has-submenu');
+Array.prototype.forEach.call(menuItems, function(el, i){
+	el.addEventListener("mouseover", function(event){
+		this.className = "site-nav__has-submenu open";
+		clearTimeout(timer);
+	});
+	el.addEventListener("mouseout", function(event){
+		timer = setTimeout(function(event){
+			document.querySelector(".site-nav__has-submenu.open").className = "site-nav__has-submenu";
+		}, 1000);
+	});
+});
+Array.prototype.forEach.call(menuItems, function(el, i){
+	el.querySelector('a').addEventListener("click",  function(event){
+		if (this.parentNode.className == "site-nav__has-submenu") {
+			this.parentNode.className = "site-nav__has-submenu open";
+			this.setAttribute('aria-expanded', "true");
+			this.setAttribute('tab-index', 0);
+		} else {
+			this.parentNode.className = "site-nav__has-submenu";
+			this.setAttribute('aria-expanded', "false");
+			this.setAttribute('tab-index', 1);
+		}
+		event.preventDefault();
+		return false;
+	});
+});
+
 window.addEventListener("resize", function(){
 	clearTimeout(resizeTimer);
 	resizeTimer = setTimeout(function() {

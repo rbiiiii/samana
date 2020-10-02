@@ -1,37 +1,3 @@
-.site-nav {
-    order:2;
-    width:0;
-    display:flex;
-    flex-direction:row;
-    align-items:center;
-    justify-content: center;
-    overflow: hidden;
-    transform:translateY(-512px);
-
-    body.open & {
-        display:flex;
-        flex-direction:column;
-        position: absolute;
-        left: 0;
-        top:80px;
-        width:100%;
-        background: $light;
-        width: 100%;
-        box-shadow: 0 2px 10px $light;
-        transform:translateY(0px);
-        z-index:-1;
-        transition: transform 300ms ease-in-out;
-    }
-
-    @media screen and (min-width: 980px) {
-        flex-wrap: wrap;
-        margin: 0 $su*2;
-        transform:none;
-        width:auto;
-        box-shadow: none;
-    }
-}
-
 #site-nav-btn {
     order:3;
     height: 2em;
@@ -58,7 +24,61 @@
     }
 }
 
+.site-nav {
+    
+    > ul {
+        order:2;
+        width:0;
+        display:flex;
+        flex-direction:row;
+        align-items:center;
+        justify-content: center;
+        margin:0;
+        padding:0;
+        overflow: hidden;
+        transform:translateY(-512px);
+    
+        body.open & {
+            display:flex;
+            flex-direction:column;
+            position: absolute;
+            left: 0;
+            top:80px;
+            width:100%;
+            background: $light;
+            width: 100%;
+            box-shadow: 0 2px 10px $light;
+            transform:translateY(0px);
+            z-index:-1;
+            transition: transform 300ms ease-in-out;
+        }
+    
+        @media screen and (min-width: 980px) {
+            flex-wrap: wrap;
+            margin: 0 $su*2;
+            transform:none;
+            width:auto;
+            overflow: visible;
+            box-shadow: none;
+        }
+    }
+
+    li {
+        display: block;
+        width:100%;
+        margin:0;
+        text-align: center;
+        list-style: none;
+
+        @media screen and (min-width: 980px) {
+            width:auto;
+        }
+    }
+}
+
 .site-nav__link {
+    display:block;
+    width:100%;
     margin:0;
     padding:0.6em 1em;
     text-transform: uppercase;
@@ -86,13 +106,85 @@
         background-color:$white;
     }
 
-    $pages: chloe-dujardin yoga meditation coaching-yoga agenda contact blog;
+    $pages: chloe-dujardin yoga-cours-collectifs yoga-cours-sur-mesure meditation coaching-yoga agenda contact blog;
 
     @each $page in $pages {
         body.#{$page} &[href^="/#{$page}"],
         body.categories &[href^="/blog"] {
             font-weight: bold;
             font-size: 0.85rem;
+        }
+    }
+}
+
+.site-nav__has-submenu {
+    position:relative;
+
+    &:hover ul,
+    &.open ul,
+    .site-nav__toplink:hover ~ ul {
+        display:block;
+
+        @media screen and (min-width:980px) {
+            width:13em;
+        }
+    }
+    
+    .site-nav__toplink {
+        position:relative;
+
+        @media screen and (min-width:980px) {
+            padding-right:1.5em;
+        }
+
+        &:after {
+            content:"";
+            position:absolute;
+            top: 1.9em;
+            margin-left: 0.3em;
+            width: 0; 
+            height: 0; 
+            border-top: 0.5em solid $green;
+            border-right: 0.5em solid transparent;
+            border-left: 0.5em solid transparent;
+
+            @media screen and (min-width:980px) {
+                top:1.5em;
+                margin-left:0.1em;
+            }
+        }
+    }
+
+    ul {
+        position: relative;
+        margin:0;
+        padding:0;
+
+        @media screen and (min-width:980px) {
+            display:none;
+            position:absolute;
+            top: 2em;
+            left: 50%;
+            padding-top: 0.6em;
+            transform: translateX(-50%);
+            z-index: 2;
+        }
+    }
+}
+
+.site-nav__sublink {
+    background-color: $white;
+    padding-top:0.4em;
+    padding-bottom:0.4em;
+    
+    @media screen and (min-width:980px) {
+        background-color: $light;
+        padding-top:1em;
+        padding-bottom:1em;
+
+        &:hover, &:focus {
+            background-color:$white;
+            opacity:1;
         }
     }
 }
