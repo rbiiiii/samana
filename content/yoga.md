@@ -74,7 +74,7 @@ text_under_price: |-
   #### _Cours à la séance adultes_
 
   * Sous réserve de places disponibles et inscription minimum 24h à l'avance.
-  * 15€ à la séance payable d'avance
+  * 16€ à la séance payable d'avance
 
   #### _Abonnement annuel enfants et ados_
 
