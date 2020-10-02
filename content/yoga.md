@@ -108,6 +108,8 @@ text_under_price: |-
 
   Toute les personnes qui sont abonnées en présentiel auront l'occasion de participer au cours en ligne sans majoration de leur abonnement.
 
+  Lien avec toutes les dates : [https://www.facebook.com/events/2829777023975052/](https://www.facebook.com/events/2829777023975052/ "https://www.facebook.com/events/2829777023975052/")
+
   ![](https://res.cloudinary.com/dqu7lbbhg/image/upload/c_scale,dpr_auto,q_70,w_680,f_auto/v1584627110/AdobeStock_251503715-min_rvmb3x.jpg)
 
   ### 4 - En cas d'absence?
