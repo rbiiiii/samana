@@ -5,8 +5,11 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
+  path: data/tarif_surmesure.yaml
+  label: Tarif yoga sur mesure
+- type: document
   path: data/tarif_yoga.yaml
-  label: Tarif yoga
+  label: Tarif yoga collectifs
 - type: document
   path: data/tarif_meditation.yaml
   label: Tarif méditation

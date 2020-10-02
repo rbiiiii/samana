@@ -32,6 +32,7 @@ content_blocks:
     title: Méditez
     title_italic: avec&nbsp;moi &nbsp;!
     texts:
+    - text: ''
     - text: La méditation en mouvement consiste en une pratique d’une heure et demie
         comprenant des moments de méditation pure axée sur l’instant présent, des
         mouvements de yoga, des partages de lectures et des visualisations. Il ne
