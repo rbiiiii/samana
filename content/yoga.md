@@ -150,7 +150,7 @@ text_under_price: |-
 
   Merci de prendre votre propre tapis propre et votre couverture si vous en avez besoin.
 
-  Des coussins de méditations sont disponible sur place.
+  Des coussins de méditations sont disponibles sur place.
 
   A l’entrée, désinfection des mains avec gel hydro-alcoolique obligatoire et port du masque obligatoire dans l’espace d’entrée et de vestiaire jusqu’au tapis de yoga que vous disposerez dans la salle.
 
