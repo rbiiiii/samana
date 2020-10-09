@@ -7,8 +7,9 @@ intro_text:
     ne pas vous offrir une nouvelle expérience adaptée à votre vie et votre quotidien.
     \nDes cours de yoga et de méditation sur mesure: selon vos besoins et vos disponibilités
     et avec une professeur certifiée."
-- text: <span class="ff-i">La méditation pour moi</span> est une manière d’être, c’est
-    observer mon esprit tel qu’il est en profondeur, en toute clarté et bienveillance.
+- text: '<span class="ff-i">Yoga et méditation sur mesure</span>, des sessions personnalisées
+    pour profiter des bienfaits du yoga et de la méditation: apaiser le mental, soulager
+    le stress, l’anxiété et stimuler la confiance en soi. '
 content_blocks:
 - block:
     title: Ma vision
