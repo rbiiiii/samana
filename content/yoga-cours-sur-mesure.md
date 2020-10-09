@@ -5,10 +5,8 @@ title: Cours de yoga sur mesure
 intro_text:
 - text: " Vous travaillez beaucoup et vous n'avez pas le temps de vous arrêter? Pourquoi
     ne pas vous offrir une nouvelle expérience adaptée à votre vie et votre quotidien.
-    \nDes cours de yoga et de méditation sur mesure: selon vos besoins et vos disponibilités.
-    Des sessions personnalisées pour profiter des bienfaits du yoga et de la méditation:
-    apaiser le mental, soulager le stress, l’anxiété et de stimuler la confiance en
-    soi. "
+    \nDes cours de yoga et de méditation sur mesure: selon vos besoins et vos disponibilités
+    et avec une professeur certifiée."
 - text: <span class="ff-i">La méditation pour moi</span> est une manière d’être, c’est
     observer mon esprit tel qu’il est en profondeur, en toute clarté et bienveillance.
 content_blocks:
