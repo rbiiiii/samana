@@ -15,12 +15,13 @@ content_blocks:
     title: Ma vision
     title_italic: de la&nbsp;méditation
     texts:
-    - text: J’ai débuté ma pratique de la méditation avec un cycle de pleine conscience
-        de 8 semaines. Ce cycle constitue une réelle étape de vie. En plein chamboulement,
-        j’ai réussi à retrouver mon calme, à rencontrer mon esprit et son mode de
-        fonctionnement. J’ai repris confiance et j’ai débuté une évolution de vie,
-        une autre manière d’être, de me mettre en mouvement et de rester connectée
-        à qui je suis.
+    - text: "Selon le bureau fédéral du plan, Le Covid-19 détériorera plus le bien-être
+        des Belges que la crise de 2008. Les statistiques démontrent par ailleurs
+        qu’un travailleur sur six est sujet au burnout en Belgique. Comme le dit Chloé
+        Dujardin : « Que ce soient les managers et CEO ou leurs collaborateurs, tout
+        le monde a vu sa vie et son travail bousculé, suspendu, remis en question…
+        ». \nLes entreprises, leur collaborateurs et leurs dirigeants sont bien sous
+        pression. "
     - text: Le yoga est bien plus large que la pratique de postures en respirant,
         il comprend également un axe de méditation. Certaines personnes vont méditer
         pendant leur cours de yoga et d’autre vont bouger pendant leur méditation…
