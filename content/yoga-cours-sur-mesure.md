@@ -22,9 +22,11 @@ content_blocks:
         le monde a vu sa vie et son travail bousculé, suspendu, remis en question…
         ». \nLes entreprises, leur collaborateurs et leurs dirigeants sont bien sous
         pression. "
-    - text: Le yoga est bien plus large que la pratique de postures en respirant,
-        il comprend également un axe de méditation. Certaines personnes vont méditer
-        pendant leur cours de yoga et d’autre vont bouger pendant leur méditation…
+    - text: "Pour contrer cette situation et prendre les devants sur la période de
+        transition complexe qui arrive, Chloé propose dans un premier temps, des séances
+        personnalisées de yoga et méditation aux managers et membres de comités de
+        direction. Une belle manière de prendre soin de soi, de ses équipes et collaborateurs
+        en ces temps mouvementés. \n"
     - text: Mon objectif est de vous offrir à côté des cours de yoga des moments plus
         axés sur la méditation dans la prolongation des cycles de pleine conscience
         ou simplement dans l’envie d’essayer la méditation.
