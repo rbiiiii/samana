@@ -3,12 +3,12 @@ slug: yoga-cours-sur-mesure
 type: yoga-cours-sur-mesure
 title: Cours de yoga sur mesure
 intro_text:
-- text: "Méditation à Liège. \nLa méditation de pleine conscience est la qualité de
-    conscience qui émerge lorsqu’on tourne intentionnellement son esprit vers le moment
-    présent. C’est l’attention portée à l’expérience vécue et éprouvée, sans filtre
-    (on accepte ce qui vient), sans jugement (on ne décide pas si c’est bien ou mal,
-    désirable ou non), sans attente (on ne cherche pas quelque chose de précis). Christophe
-    André"
+- text: " Vous travaillez beaucoup et vous n'avez pas le temps de vous arrêter? Pourquoi
+    ne pas vous offrir une nouvelle expérience adaptée à votre vie et votre quotidien.
+    \nDes cours de yoga et de méditation sur mesure: selon vos besoins et vos disponibilités.
+    Des sessions personnalisées pour profiter des bienfaits du yoga et de la méditation:
+    apaiser le mental, soulager le stress, l’anxiété et de stimuler la confiance en
+    soi. "
 - text: <span class="ff-i">La méditation pour moi</span> est une manière d’être, c’est
     observer mon esprit tel qu’il est en profondeur, en toute clarté et bienveillance.
 content_blocks:
