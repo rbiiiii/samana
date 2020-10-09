@@ -35,12 +35,12 @@ content_blocks:
         créant une atmosphère de bienveillance entre employés, en fidélisant ces derniers
         et réduisant ainsi les coûts liés au turn over. '
 - block:
-    title: Méditez
+    title: Méditez et bougez
     title_italic: avec&nbsp;moi &nbsp;!
     texts:
-    - text: La méditation en mouvement consiste en une pratique d’une heure et demie
-        comprenant des moments de méditation pure axée sur l’instant présent, des
-        mouvements de yoga, des partages de lectures et des visualisations. Il ne
-        faut pas avoir de prérequis spécifiques pour y participer.
+    - text: Le yoga et la méditation consiste en une pratique d’une heure comprenant
+        des mouvements de yoga et des moments de méditation pure axée sur l’instant
+        présent, . Il ne faut pas avoir de prérequis spécifiques pour y participer.
+        ( contactez-moi pour tout devis personnalisé)
 
 ---
