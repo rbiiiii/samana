@@ -27,9 +27,13 @@ content_blocks:
         personnalisées de yoga et méditation aux managers et membres de comités de
         direction. Une belle manière de prendre soin de soi, de ses équipes et collaborateurs
         en ces temps mouvementés. \n"
-    - text: Mon objectif est de vous offrir à côté des cours de yoga des moments plus
-        axés sur la méditation dans la prolongation des cycles de pleine conscience
-        ou simplement dans l’envie d’essayer la méditation.
+    - text: 'Mon souhait est in fine (lorsque la situation sanitaire le permettra),
+        de proposer aux entreprises de pouvoir offrir à leurs collaborateurs une première
+        initiation au yoga et à la méditation. Une manière de proposer dans l''environnement
+        de travail une activité bénéfique pour tout le monde. L’entreprise en bénéficie
+        en mettant la culture du “prendre soin de soi” au cœur de ses valeurs, en
+        créant une atmosphère de bienveillance entre employés, en fidélisant ces derniers
+        et réduisant ainsi les coûts liés au turn over. '
 - block:
     title: Méditez
     title_italic: avec&nbsp;moi &nbsp;!
