@@ -1,6 +1,7 @@
 ---
-- title: ''
-  prices: ''
+- title: Cours sur mesure en Entreprise
+  prices:
+  - price: Sur devis
   unit: ''
 - title: Cours de yoga sur mesure individuel
   prices:
