@@ -1,8 +1,8 @@
 ---
 - title: Cours de yoga en ligne
   prices:
-  - price: 120€
-  unit: ''
+  - price: 100€
+  unit: Pour 10 cours
 - title: Cours de yoga adultes
   prices:
   - price: '185€ (14€ la séance) '
