@@ -21,15 +21,13 @@ content_blocks:
         les managers et CEO ou leurs collaborateurs, tout le monde a vu sa vie et
         son travail bousculé, suspendu, remis en question… ». \nLes entreprises, leur
         collaborateurs et leurs dirigeants sont bien sous pression. "
-    - text: 'Pour contrer cette situation et prendre les devants sur la période de
+    - text: "Pour contrer cette situation et prendre les devants sur la période de
         transition complexe qui arrive, je propose dans un premier temps, des séances
         personnalisées de yoga et méditation aux managers et membres de comités de
-        direction. Une belle manière de prendre soin de soi, et indirectement de ses
-        équipes et collaborateurs en ces temps mouvementés. Et pourquoi pas par la
-        suite lorsque la situation sanitaire le permet, reproposer des initations
-        en entreprises.
-
-'
+        direction. \nUne belle manière de prendre soin de soi, et indirectement de
+        ses équipes et collaborateurs en ces temps mouvementés. Et pourquoi pas, par
+        la suite, lorsque la situation sanitaire le permet, reproposer des initations
+        en entreprises.\n"
     - text: 'Mon souhait est in fine (lorsque la situation sanitaire le permettra),
         de proposer aux entreprises de pouvoir offrir à leurs collaborateurs une première
         initiation au yoga et à la méditation. Une manière de proposer dans l''environnement
