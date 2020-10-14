@@ -1,9 +1,13 @@
 ---
-- title: Cours sur mesure en Entreprise
+- title: Cours de yoga en milieu scolaire
   prices:
-  - price: Sur devis
+  - price: sur devis
   unit: ''
 - title: Cours de yoga sur mesure individuel
   prices:
   - price: ''
   unit: 50€/pers. ou 85€/2 pers.
+- title: Cours sur mesure en Entreprise
+  prices:
+  - price: Sur devis
+  unit: ''
