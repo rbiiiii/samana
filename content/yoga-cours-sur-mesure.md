@@ -29,8 +29,11 @@ content_blocks:
     title: Yoga et méditation à l'école
     title_italic: avec&nbsp;moi &nbsp;!
     texts:
-    - text: |-
-        Les enfants et les ados vivent aussi des moments intenses, avec les émotions, les changements, la vie de famille, l'ambiance de classe...
-        Vous avez un projet lié aux émotions, au bien-être dans votre classe, comment se connaître soi et comment être simplement bien avec les autres. Apprendre des outils pour mieux se concentrer, respirer, se détendre, reconnaître et exprimer ses sentiments,... N'hésitez pas à me contacter pour tout devis personnalisé.
+    - text: "Les enfants et les ados vivent aussi des moments intenses, avec les émotions,
+        les changements, la vie de famille, l'ambiance de classe...\n\nVous avez un
+        projet lié aux émotions, au bien-être dans votre classe? Comment se connaître
+        soi et être simplement bien avec les autres. Apprendre des outils pour mieux
+        se concentrer, respirer, se détendre, reconnaître et exprimer ses sentiments,...
+        \nN'hésitez pas à me contacter pour tout devis personnalisé."
 
 ---
