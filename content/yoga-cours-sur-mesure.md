@@ -24,13 +24,12 @@ content_blocks:
         Une belle manière de prendre soin de soi, et indirectement de ses équipes et collaborateurs en ces temps mouvementés. Et pourquoi pas, par la suite, lorsque la situation sanitaire le permet, reproposer des initiations à vos équipes.
     - text: "Pourquoi le yoga en entreprise? C'est avant tout pour moi, une manière
         de proposer dans l'environnement de travail une activité bénéfique pour tout
-        le monde. \nDes collaborateurs, qui peuvent expérimenter les bienfaits du
-        yoga et de la méditation. Des outils concrets pour s'apaiser et gérer le stress,
-        atténuer les maux de dos et soutenir une prise de recul sur les objets de
-        tensions en étant plus à l’écoute de ses besoins.\nL’entreprise en bénéficie
-        en mettant la culture du “prendre soin de soi” au cœur de ses valeurs, en
-        créant une atmosphère de bienveillance entre employés, en fidélisant ces derniers
-        et réduisant ainsi les coûts liés au turn over. "
+        le monde. \nPour les collaborateurs, une expérience et des outils concrets
+        pour s'apaiser et gérer le stress. Et aussi prendre soin de son corps et soutenir
+        une prise de recul sur les objets de tensions en étant plus à l’écoute de
+        ses besoins.\nL’entreprise en bénéficie en mettant la culture du “prendre
+        soin de soi” au cœur de ses valeurs, en créant une atmosphère de bienveillance
+        entre employés."
 - block:
     title: Méditez et bougez
     title_italic: avec&nbsp;moi &nbsp;!
