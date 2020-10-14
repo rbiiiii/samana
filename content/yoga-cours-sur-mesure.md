@@ -27,12 +27,11 @@ content_blocks:
         Pourquoi en entreprise? Pour les collaborateurs, une expérience et des outils concrets pour s'apaiser et gérer le stress. Et aussi prendre soin de son corps et soutenir une prise de recul sur les objets de tensions en étant plus à l’écoute de ses besoins.
         L’entreprise, elle, en bénéficie en mettant la culture du “prendre soin de soi” au cœur de ses valeurs et en créant une atmosphère de bienveillance entre employés.
 - block:
-    title: Méditez et bougez
+    title: Yoga et méditation à l'école
     title_italic: avec&nbsp;moi &nbsp;!
     texts:
-    - text: Le yoga et la méditation consiste en une pratique d’une heure comprenant
-        des mouvements de yoga et des moments de méditation pure axée sur l’instant
-        présent, . Il ne faut pas avoir de prérequis spécifiques pour y participer.
-        ( contactez-moi pour tout devis personnalisé)
+    - text: |-
+        Les enfants et les ados vivent aussi des moments intenses, avec les émotions, les changements, la vie de famille, l'ambiance de classe...
+        Vous avez un projet lié aux émotions, au bien-être dans votre classe, comment se connaître soi et comment être simplement bien avec les autres. Apprendre des outils pour mieux se concentrer, respirer, se détendre, reconnaître et exprimer ses sentiments,... N'hésitez pas à me contacter pour tout devis personnalisé.
 
 ---
