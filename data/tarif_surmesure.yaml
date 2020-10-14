@@ -1,5 +1,8 @@
 ---
-- title: Cours de yoga sur mesure
+- title: ''
+  prices: ''
+  unit: ''
+- title: Cours de yoga sur mesure individuel
   prices:
-  - price: "/"
-  unit: 15€
+  - price: ''
+  unit: 50€/pers. ou 85€/2 pers.
