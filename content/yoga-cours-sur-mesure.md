@@ -23,8 +23,8 @@ content_blocks:
         Je propose dans un premier temps, des séances personnalisées de yoga et méditation aux managers et membres de comités de direction. ( à domicile ou au bureau)
         Une belle manière de prendre soin de soi, et indirectement de ses équipes et collaborateurs en ces temps mouvementés. Et pourquoi pas, par la suite, lorsque la situation sanitaire le permet, proposer des initiations à vos équipes...
     - text: "Pourquoi le yoga en entreprise? C'est avant tout pour moi, une manière
-        de proposer dans l'environnement de travail une activité bénéfique pour tout
-        le monde. \nPour les collaborateurs, une expérience et des outils concrets
+        de proposer une activité bénéfique pour tout le monde dans l'environnement
+        du travail . \nPour les collaborateurs, une expérience et des outils concrets
         pour s'apaiser et gérer le stress. Et aussi prendre soin de son corps et soutenir
         une prise de recul sur les objets de tensions en étant plus à l’écoute de
         ses besoins.\nL’entreprise en bénéficie en mettant la culture du “prendre
