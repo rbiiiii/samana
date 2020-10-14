@@ -13,7 +13,7 @@ intro_text:
     le stress, l’anxiété et stimuler la confiance en soi. '
 content_blocks:
 - block:
-    title: 'Du sur mesure, '
+    title: 'Du sur mesure au travail, '
     title_italic: 'Pour&nbsp;quoi ? '
     texts:
     - text: 'Selon le bureau fédéral du plan, Le Covid-19 détériorera plus le bien-être
