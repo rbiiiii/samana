@@ -8,9 +8,8 @@ intro_text:
     adaptée à votre vie et votre quotidien. \nDes cours de yoga et de méditation sur
     mesure: selon vos besoins et vos disponibilités et avec une professeur certifiée.
     Seul-e ou en couple."
-- text: '<span class="ff-i">Yoga et méditation sur mesure</span>, des sessions personnalisées
-    pour profiter des bienfaits du yoga et de la méditation: apaiser le mental, soulager
-    le stress, l’anxiété et stimuler la confiance en soi. '
+- text: <span class="ff-i">Yoga et méditation sur mesure</span>, des sessions personnalisées
+    pour profiter des bienfaits du yoga et de la méditation.
 content_blocks:
 - block:
     title: 'Du sur mesure au travail, '
