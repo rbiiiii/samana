@@ -27,7 +27,7 @@ content_blocks:
         du travail . \nPour les collaborateurs, une expérience et des outils concrets
         pour s'apaiser et gérer le stress. Et aussi prendre soin de son corps et soutenir
         une prise de recul sur les objets de tensions en étant plus à l’écoute de
-        ses besoins.\nL’entreprise en bénéficie en mettant la culture du “prendre
+        ses besoins.\nL’entreprise, elle, en bénéficie en mettant la culture du “prendre
         soin de soi” au cœur de ses valeurs et en créant une atmosphère de bienveillance
         entre employés."
 - block:
