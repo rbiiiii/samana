@@ -27,14 +27,13 @@ content_blocks:
         Pourquoi en entreprise? Pour les collaborateurs, une initiation c'est avant tout une expérience nouvelle et des outils concrets pour s'apaiser et gérer le stress. Cela peut aussi donner des clés pour prendre soin de son corps et soutenir une prise de recul sur les objets de tensions en étant plus à l’écoute de ses besoins.
         L’entreprise, elle, en bénéficie en mettant la culture du “prendre soin de soi” au cœur de ses valeurs et en créant une atmosphère de bienveillance entre employés.
 - block:
-    title: Yoga et méditation à l'école
+    title: Une expérience nouvelle
     title_italic: avec&nbsp;moi &nbsp;!
     texts:
-    - text: "Les enfants et les ados vivent aussi des moments intenses, avec les émotions,
-        les changements, la vie de famille, l'ambiance de classe...\n\nVous avez un
-        projet lié aux émotions, au bien-être dans votre classe? Comment se connaître
-        soi et être simplement bien avec les autres. Apprendre des outils pour mieux
-        se concentrer, respirer, se détendre, reconnaître et exprimer ses sentiments,...
-        \nN'hésitez pas à me contacter pour tout devis personnalisé."
+    - text: |-
+        Les bénéfices? Apaiser le mental, gagner en concentration et en créativité, soulager le stress, l’anxiété et de stimuler la confiance en soi.
+
+        Pour les collaborateurs, une initiation c'est avant tout une expérience nouvelle et des outils concrets pour s'apaiser et gérer le stress. Cela peut aussi donner des clés pour prendre soin de son corps et soutenir une prise de recul sur les objets de tensions en étant plus à l’écoute de ses besoins.
+        L’entreprise, elle, en bénéficie en mettant la culture du “prendre soin de soi” au cœur de ses valeurs et en créant une atmosphère de bienveillance entre employés.
 
 ---
