@@ -1,7 +1,7 @@
 ---
-slug: yoga-cours-collectifs
-type: yoga-cours-collectifs
-title: Cours de yoga collectifs
+slug: yoga
+type: yoga
+title: Cours de yoga
 intro_text:
 - text: 'Cours de yoga à Liège, dans la tradition du Viniyoga de TKV Desikachar. Je
     propose une pratique authentique du yoga sur les hauteurs de Liège (Cointe et

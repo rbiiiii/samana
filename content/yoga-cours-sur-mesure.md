@@ -1,7 +1,7 @@
 ---
-slug: yoga-cours-sur-mesure
-type: yoga-cours-sur-mesure
-title: Cours de yoga sur mesure
+slug: yoga-at-work
+type: yoga-at-work
+title: Cours de yoga at work
 intro_text:
 - text: "Yoga at Work : Le yoga en entreprise à Liège. Vous travaillez beaucoup et
     vous n'avez pas le temps de vous arrêter? \nVenez découvrir une nouvelle expérience
