@@ -27,10 +27,13 @@ content_blocks:
     title: Une expérience nouvelle
     title_italic: avec&nbsp;moi &nbsp;!
     texts:
-    - text: |-
-        Les bénéfices? Apaiser le mental, gagner en concentration et en créativité, soulager le stress, l’anxiété et de stimuler la confiance en soi.
-
-        Pour les collaborateurs, une initiation c'est avant tout une expérience nouvelle et des outils concrets pour s'apaiser et gérer le stress. Cela peut aussi donner des clés pour prendre soin de son corps et soutenir une prise de recul sur les objets de tensions en étant plus à l’écoute de ses besoins.
+    - text: Les bénéfices? Apaiser le mental, gagner en concentration et en créativité,
+        soulager le stress, l’anxiété et de stimuler la confiance en soi.
+    - text: Pour les collaborateurs, une initiation c'est avant tout une expérience
+        nouvelle et des outils concrets pour s'apaiser et gérer le stress. Cela peut
+        aussi donner des clés pour prendre soin de son corps et soutenir une prise
+        de recul sur les objets de tensions en étant plus à l’écoute de ses besoins.
+    - text: |2-
 
         L’entreprise, elle, en bénéficie en mettant la culture du “prendre soin de soi” au cœur de ses valeurs et en créant une atmosphère de bienveillance entre employés.
 
