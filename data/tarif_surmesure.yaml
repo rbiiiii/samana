@@ -2,12 +2,8 @@
 - title: Cours sur mesure privé
   prices:
   - price: ''
-  unit: 50€/pers. ou 85€/2 pers.
+  unit: 85€/1 à 2 pers.
 - title: Cours sur mesure en Entreprise
   prices:
   - price: Sur devis
   unit: Sur devis
-- title: Cours sur mesure en milieu scolaire
-  prices:
-  - price: sur devis
-  unit: sur devis
