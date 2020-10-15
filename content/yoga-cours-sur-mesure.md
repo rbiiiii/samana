@@ -3,10 +3,10 @@ slug: yoga-cours-sur-mesure
 type: yoga-cours-sur-mesure
 title: Cours de yoga sur mesure
 intro_text:
-- text: "Le yoga en entreprise à Liège. Vous travaillez beaucoup et vous n'avez pas
-    le temps de vous arrêter? Pourquoi ne pas vous offrir une nouvelle expérience
-    adaptée à votre vie et votre quotidien. \nDes cours de yoga et de méditation sur
-    mesure: selon vos besoins et vos disponibilités et avec une professeur certifiée.
+- text: "Yoga at Work: Le yoga en entreprise à Liège. Vous travaillez beaucoup et
+    vous n'avez pas le temps de vous arrêter? Pourquoi ne pas vous offrir une nouvelle
+    expérience adaptée à votre vie et votre quotidien. \nDes cours de yoga et de méditation
+    sur mesure: selon vos besoins et vos disponibilités et avec une professeur certifiée.
     Seul-e ou en couple."
 - text: <span class="ff-i">Yoga et méditation sur mesure</span>, des sessions personnalisées
     pour profiter des bienfaits du yoga et de la méditation.
