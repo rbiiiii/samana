@@ -25,7 +25,12 @@
 }
 
 .site-nav {
-    
+    width:0px;
+
+    @media screen and (min-width: 980px) {
+        width:auto;
+    }
+
     > ul {
         order:2;
         width:0;
