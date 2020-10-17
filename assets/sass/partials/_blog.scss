@@ -277,6 +277,8 @@
         margin: 0 0 0 5%;
         text-align: right;
         padding: 0.5em 1.5em 0.5em 0.5em;
+        word-break: break-word;
+        
         &:after {
             display: block;
             content: ">";
