@@ -66,5 +66,3 @@ fields:
     schema:
       format: markdown
   label: Text en dessous du tarif
-pages:
-- content/yoga-cours-collectifs.md
