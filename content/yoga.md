@@ -28,22 +28,22 @@ vision_text:
 offre_blocks:
 - block:
     title: Cours adultes débutants & intermédiaires
-    text: Les cours pour adultes durent une heure et peuvent être suivis par toutes
+    text: "Les cours pour adultes durent une heure et peuvent être suivis par toutes
       et tous. La pratique des postures, méditer et le chant védique permettent petit
       à petit un contact différent avec votre corps, votre esprit et votre respiration.
-      Chaque cours a un objectif particulier, il débute avec une préparation et termine
-      par un retour au calme à la fin de la séance. Chaque posture peut être adaptée
-      si nécessaire pour une pratique bénéfique et respectueuse.
+      \n\nChaque cours a un objectif particulier, il débute avec une préparation et
+      termine par un retour au calme à la fin de la séance. Chaque posture peut être
+      adaptée si nécessaire pour une pratique bénéfique et respectueuse."
 - block:
     title: Cours enfants, adolescents & interventions scolaires
-    text: La pratique du yoga permet de favoriser chez les enfants et adolescents
+    text: "La pratique du yoga permet de favoriser chez les enfants et adolescents
       leur équilibre émotionnel (concentration-attention, apprivoiser ses émotions,
       augmenter la confiance en soi) et un bien-être physique (conscience de son corps,
-      importance de la respiration, améliorer sa souplesse). Concrètement, j’organise
+      importance de la respiration, améliorer sa souplesse). \n\nConcrètement, j’organise
       des cours de yoga collectifs pour enfants et en activité extra-scolaire dans
       deux écoles primaires. J’accompagne également des instituteurs pour une sensibilisation
       dans les classes et je donne des cours à des adolescents dans une école de danse
-      contemporaine à Liège. (Bal Special)
+      contemporaine à Liège. (Bal Special)"
 text_under_price: |-
   ## Informations utiles - Cours de yoga
 
