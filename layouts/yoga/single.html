@@ -36,7 +36,7 @@
                 {{ range . }}
                     <div class="flex-2-cols__col">
                         <h2 class="ff-i">{{ .block.title }}</h2>
-                        <p>{{ .block.text }}</p>
+                        {{ .block.text | markdownify }}
                     </div>
                 {{ end }}
             {{ end }}
