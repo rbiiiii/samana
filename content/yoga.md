@@ -56,6 +56,11 @@ text_under_price: |-
   * 29 séances entre le 19 septembre 2020 et le 20 juin 2021.
   * 335€ (11,5€ /séance)**_._**
 
+  #### _Abonnement yoga en ligne adultes_
+
+  * Près de 25 cours donnés à 10€ la séance entre le 12 novembre 2020 et fin février 2021. (Lundis soirs et jeudis matin)
+  * Inscription via la carte de 10 cours disponible ici: [https://www.eventbrite.com/e/cours-de-yoga-en-ligne-tickets-126975640559](https://www.eventbrite.com/e/cours-de-yoga-en-ligne-tickets-126975640559 "https://www.eventbrite.com/e/cours-de-yoga-en-ligne-tickets-126975640559")
+
   #### _Abonnement quadrimestre adultes_
 
   * Période 1 ( 23 septembre 2020 au 30 janvier 2021 inclus) - sauf congés scolaires : 13 séances soit 185€ (14€ /séance) - 150€* prix réduit.
