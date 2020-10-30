@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["Yoga en ligne"]
 photo = "/v1604058443/love_and_breathing_ttvxwq.png"
 publishdate = 2020-10-31T00:00:00Z
 title = "Cours en ligne Automne 2020"
