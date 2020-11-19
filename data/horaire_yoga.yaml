@@ -31,15 +31,10 @@
 - title: Mercredi
   blocks:
   - start: 9h15
-    end: 10h30
-    duration: 5
-    category: adultes
-    subtext: Corps et Conscience
-  - start: 10h45
-    end: 11h45
+    end: 10h15
     duration: 4
     category: adultes
-    subtext: Corps et Conscience
+    subtext: Corps et Conscience (En ligne pour abonnés studio)
 - title: Jeudi
   blocks:
   - start: ''
