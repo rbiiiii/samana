@@ -37,11 +37,11 @@
     subtext: Corps et Conscience (En ligne pour abonnés studio)
 - title: Jeudi
   blocks:
-  - start: ''
-    end: ''
-    duration: 
+  - start: 9h15
+    end: 10h15
+    duration: 4
     category: adultes
-    subtext: ''
+    subtext: EN LIGNE/carte de 10 cours
   - start: 18h
     end: 20h
     duration: 8
