@@ -11,6 +11,11 @@
     duration: 4
     category: enfants
     subtext: Ecole Saint-Maur
+  - start: 20h
+    end: 21h
+    duration: 4
+    category: adultes
+    subtext: EN LIGNE/carte 10 cours
 - title: Mardi
   blocks:
   - start: 16h15
