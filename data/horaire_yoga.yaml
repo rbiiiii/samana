@@ -18,7 +18,7 @@
     subtext: EN LIGNE/carte 10 cours
 - title: Mardi
   blocks:
-  - start: 16h15
+  - start: 15h45
     end: 17h15
     duration: 4
     category: enfants
