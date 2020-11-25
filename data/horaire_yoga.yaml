@@ -20,7 +20,7 @@
   blocks:
   - start: 15h45
     end: 17h15
-    duration: 4
+    duration: 6
     category: enfants
     subtext: Ecole Don Bosco
   - start: 20h15
