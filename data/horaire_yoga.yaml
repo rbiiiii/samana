@@ -15,7 +15,7 @@
     end: 21h
     duration: 4
     category: adultes
-    subtext: EN LIGNE/carte 10 cours
+    subtext: En ligne
 - title: Mardi
   blocks:
   - start: 15h45
@@ -27,21 +27,21 @@
     end: 21h15
     duration: 4
     category: adultes
-    subtext: Tout Coquelicot (En ligne pour abonnés studio)
+    subtext: Tout Coquelicot (En ligne)
 - title: Mercredi
   blocks:
   - start: 9h15
     end: 10h15
     duration: 4
     category: adultes
-    subtext: Corps et Conscience (En ligne pour abonnés studio)
+    subtext: Corps et Conscience (En ligne)
 - title: Jeudi
   blocks:
   - start: 9h15
     end: 10h15
     duration: 4
     category: adultes
-    subtext: EN LIGNE/carte de 10 cours
+    subtext: En Ligne
   - start: 18h
     end: 20h
     duration: 8
