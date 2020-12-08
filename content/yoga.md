@@ -99,9 +99,9 @@ text_under_price: |-
 
   ### 3 - Cours en ligne
 
-  J'organise un nouvel abonnement uniquement en ligne avec un cours le matin et un cours en soirée.
+  Nouvel abonnement uniquement en ligne avec un cours ou deux par jour.
 
-  Toute les personnes qui sont abonnées en présentiel auront l'occasion de participer au cours en ligne sans majoration de leur abonnement.
+  Toute les personnes qui sont abonnées en présentiel auront l'occasion de participer au cours en ligne sans majoration de leur abonnement jusque fin janvier 2021.
 
   Lien avec toutes les dates : [https://www.facebook.com/events/2829777023975052/](https://www.facebook.com/events/2829777023975052/ "https://www.facebook.com/events/2829777023975052/")
 
