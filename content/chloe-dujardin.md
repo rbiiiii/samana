@@ -51,7 +51,9 @@ content_blocks:
         quotidiennement et complète sa pratique de yoga par des moments méditatifs
         plus intenses.
 formations:
-- text: Instructrice de pleine conscience MBSR (encours) - Institut de pleine conscience
+- text: "Fondamentaux en MBSR à l’Institut de Pleine Conscience \n(cursus conçu par
+    le CFM-UMass) », premier programme du trajet de formation de l’instructeur MBSR.
+    \n"
 - text: Certification comme professeur de yoga  de 500h sur 4 années auprès de Philip
     Rigo à Liège. (Certification reconnue par l’ADEPS et la Fédération belge d'Hébertisme
     et de Yoga).
