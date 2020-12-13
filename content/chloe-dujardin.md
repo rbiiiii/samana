@@ -43,13 +43,14 @@ content_blocks:
     title_italic: la&nbsp;méditation
     texts:
     - text: La méditation de pleine conscience est arrivée dans sa vie après le yoga.
-        Chloé a suivi un cycle de plein conscience (MBSR de Jon Kabat Zinn) de 8 semaines
-        qui l’a véritablement transformée. Une expérience magnifique de transmission
-        d’outils ancestraux permettant à son mental de retrouver un calme certain.
-        Le cycle a aussi été l’opportunité d’apprendre les chemins pour retourner
-        dans un mental apaisé autant de fois qu’il est nécessaire. Depuis Chloé médite
-        quotidiennement et complète sa pratique de yoga par des moments méditatifs
-        plus intenses.
+        Chloé a suivi un cycle de pleine conscience de 8 semaines qui l’a véritablement
+        transformée. Une expérience magnifique de transmission d’outils ancestraux
+        permettant à son mental de retrouver un calme certain. Le cycle a aussi été
+        l’opportunité d’apprendre les chemins pour retourner dans un mental apaisé
+        autant de fois qu’il est nécessaire. Depuis Chloé médite quotidiennement et
+        complète sa pratique de yoga par des moments méditatifs plus intenses. Elle
+        s'est également engagée dans une formation afin de pouvoir donner à terme
+        des cycles de pleine conscience.
 formations:
 - text: "Fondamentaux en MBSR à l’Institut de Pleine Conscience \n(cursus conçu par
     le CFM-UMass) », premier programme du trajet de formation de l’instructeur MBSR.
