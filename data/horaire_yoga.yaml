@@ -35,18 +35,6 @@
     duration: 4
     category: adultes
     subtext: Corps et Conscience (En ligne)
-- title: Jeudi
-  blocks:
-  - start: 9h15
-    end: 10h15
-    duration: 4
-    category: adultes
-    subtext: En Ligne
-  - start: 18h
-    end: 20h
-    duration: 8
-    category: cours de danse
-    subtext: Bal Special Asbl
 - title: Vendredi
   blocks:
   - start: 9h15
