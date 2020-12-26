@@ -14,9 +14,9 @@
   unit: 15€
 - title: Cours de yoga ados
   prices:
-  - price: 150€
-  - price: 125€<sup>*</sup>
-  unit: 10€
+  - price: 120€ (10€ la séance)
+  - price: 105€<sup>*</sup>
+  unit: 12€
 - title: Cours de yoga enfants
   prices:
   - price: 150€
