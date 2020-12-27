@@ -44,39 +44,42 @@ offre_blocks:
       écoles primaires. J’accompagne également des instituteurs pour une sensibilisation\ndans
       les classes et je donne des cours à des adolescents dans une école de danse\ncontemporaine
       à Liège. (Bal Special)\""
-text_under_price: "## Informations utiles - Cours de yoga\n\n### 1 - Modalités de
-  paiement\n\n#### Abonnement Studio\n\nVous êtes régulière-ers à un horaire fixe
-  en ligne et vous souhaitez continuer en ligne un cours par semaine en réservant
-  votre place en studio dès que cela sera possible? Une fois le retour en studio,
-  vous ne voudrez pas suivre de cours en ligne en plus.\n\n**Pour vous ce sera l'abonnement
-  studio/ conditions**\n\n* 1 cours en ligne par semaine ou 1 cours en studio/semaine
-  dès que possible jusqu’au 20/06/2021\n* Prix 190€ (12€/cours)\n\n#### Abonnement
-  Studio + en ligne illimité\n\nVous êtes régulière-ers à un plusieurs horaires en
-  ligne et vous souhaitez continuer en ligne avec plusieurs cours par semaine en réservant
-  en plus votre place en studio dès que cela sera possible?\n\n**Pour vous ce sera
-  l'abonnement studio+ illimité en ligne/conditions**\n\n* Cours en ligne illimités
-  par semaine (accès à près de 80 sessions de yoga)\n* 1 cours /semaine en studio
-  dès que possible et jusqu'au 20/06/2021\n* Prix 250€\n\n#### Abonnement en ligne\n\nVous
-  n'êtes pas encore inscrit.es à mes cours de yoga et vous recherchez une activité
-  physique/spirituelle à pratiquer de chez vous? Vous avez déjà acheté une carte de
-  10 cours mais vous voudriez prolonger?  \nVous travaillez à la maison, en télétravail
-  à cause du covid, ...  \nVous avez déjà fait du yoga ou vous êtes totalement débutant?\n\n**Une
-  carte de 20 cours activée et valable jusque fin juin 2021/ Conditions**\n\n* Carte
-  de 20 cours à prendre à n'importe quel horaire de la semaine et ce jusqu'au 20/06/2021.\n*
-  Possibilité de prendre plusieurs sessions sur la même semaine\n* Accès à 6 horaires
-  différents par semaine.\n* Système via une application bookyway qui vous permet
-  de suivre le décompte des sessions déjà prises et l'ensemble des dates disponibles.\n\n**Prix**
-  180€ pour 20 cours ( 9€/cours)\n\n#### Abonnement enfants et ados\n\n![](https://res.cloudinary.com/dqu7lbbhg/image/upload/c_scale,dpr_auto,q_70,w_680,f_auto/v1582188783/AdobeStock_218109710_rnla4x.jpg)\n\n####
-  Comment payer?\n\nLes cours de yoga peuvent être réglés en espèces ou par virement
-  avant le début des cours sur le compte IBAN suivant: NEW COMPTE SOON :-) de Chloé
-  Dujardin.\n\nCertaines mutuelles interviennent dans le prix de l’abonnement jusqu'à
-  40€ par an, renseignez-vous.\n\n### 2 - Cours d'essais\n\nUne semaine avant l'ouverture
-  des cours, des séances découvertes gratuites sont proposées pour que vous puissiez
-  venir essayer et voir si vous souhaitez prendre un abonnement pour l'ouverture.\n\n*
-  Le nombre participants par cours est de maximum  7 à 10 personnes (selon la salle)
-  afin de garantir le bien-être de chacun et le respect des mesures sanitaires.\n*
-  En période de confinement du au covid, j'organiserai 2 sessions d'information en
-  ligne les samedis 9 et 16 janvier après-midi.\n\n![](https://res.cloudinary.com/dqu7lbbhg/image/upload/c_scale,dpr_auto,q_70,w_680,f_auto/v1584627110/AdobeStock_251503715-min_rvmb3x.jpg)\n\n###
+text_under_price: "## Informations utiles - Cours de yoga\n\n### 1 - Tarifs et Modalités
+  de paiement\n\n#### Comment payer?\n\nLes cours de yoga peuvent être réglés en espèces
+  ou par virement avant le début des cours sur le compte IBAN suivant: NEW COMPTE
+  SOON :-) de Chloé Dujardin. \n\nUne assurance de 10€ est demandée une fois par an.\n\nCertaines
+  mutuelles interviennent dans le prix de l’abonnement jusqu'à 40€ par an, renseignez-vous.\n\n####
+  Abonnement Studio\n\nVous êtes régulière-ers à un horaire fixe en ligne et vous
+  souhaitez continuer en ligne un cours par semaine en réservant votre place en studio
+  dès que cela sera possible? Une fois le retour en studio, vous ne voudrez pas suivre
+  de cours en ligne en plus.\n\n**Pour vous ce sera l'abonnement studio/ conditions**\n\n*
+  1 cours en ligne par semaine ou 1 cours en studio/semaine dès que possible jusqu’au
+  20/06/2021\n* Prix 190€ (12€/cours)\n\n#### Abonnement Studio + en ligne illimité\n\nVous
+  êtes régulière-ers à un plusieurs horaires en ligne et vous souhaitez continuer
+  en ligne avec plusieurs cours par semaine en réservant en plus votre place en studio
+  dès que cela sera possible?\n\n**Pour vous ce sera l'abonnement studio+ illimité
+  en ligne/conditions**\n\n* Cours en ligne illimités par semaine (accès à près de
+  80 sessions de yoga)\n* 1 cours /semaine en studio dès que possible et jusqu'au
+  20/06/2021\n* Prix 250€\n\n#### Abonnement en ligne\n\nVous n'êtes pas encore inscrit.es
+  à mes cours de yoga et vous recherchez une activité physique/spirituelle à pratiquer
+  de chez vous? Vous avez déjà acheté une carte de 10 cours mais vous voudriez prolonger?
+  \ \nVous travaillez à la maison, en télétravail à cause du covid, ...  \nVous avez
+  déjà fait du yoga ou vous êtes totalement débutant?\n\n**Une carte de 20 cours activée
+  et valable jusque fin juin 2021/ Conditions**\n\n* Carte de 20 cours à prendre à
+  n'importe quel horaire de la semaine et ce jusqu'au 20/06/2021.\n* Possibilité de
+  prendre plusieurs sessions sur la même semaine\n* Accès à 6 horaires différents
+  par semaine.\n* Système via une application bookyway qui vous permet de suivre le
+  décompte des sessions déjà prises et l'ensemble des dates disponibles.\n\n**Prix**
+  180€ pour 20 cours ( 9€/cours)\n\n#### Abonnement enfants et ados\n\n* Abonnement
+  pour la période du 01 février 2021 au 20 juin 2021. \n* Séance de yoga en studio
+  pour les enfants de moins de 12 ans autorisée.\n* Lieu: Corps et Conscience, 107
+  bvd Kleyer à 4000 Liège.\n\nPrix 120€ pour 12 cours ( 10€ la séance)\n\n![](https://res.cloudinary.com/dqu7lbbhg/image/upload/c_scale,dpr_auto,q_70,w_680,f_auto/v1582188783/AdobeStock_218109710_rnla4x.jpg)\n\n###
+  2 - Cours d'essais\n\nUne semaine avant l'ouverture des cours, des séances découvertes
+  gratuites sont proposées pour que vous puissiez venir essayer et voir si vous souhaitez
+  prendre un abonnement pour l'ouverture.\n\n* Le nombre participants par cours est
+  de maximum  7 à 10 personnes (selon la salle) afin de garantir le bien-être de chacun
+  et le respect des mesures sanitaires.\n* En période de confinement du au covid,
+  j'organiserai 2 sessions d'information en ligne les samedis 9 et 16 janvier après-midi.\n\n![](https://res.cloudinary.com/dqu7lbbhg/image/upload/c_scale,dpr_auto,q_70,w_680,f_auto/v1584627110/AdobeStock_251503715-min_rvmb3x.jpg)\n\n###
   3 - En cas d'absence?\n\n* Pour les cours à la séance, un cours réservé ne sera
   remboursé que si je suis prévenue au maximum 48h à l'avance.\n* **Pour les abonnements,
   un cours où l'on ne vient pas est perdu** puisqu'il s'agit d'un abonnement.\n\n
