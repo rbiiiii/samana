@@ -66,7 +66,9 @@ text_under_price: "## Informations utiles - Cours de yoga\n\n### 1 - Tarifs et M
   Possibilité de prendre plusieurs sessions sur la même semaine\n* Accès à 6 horaires
   différents par semaine.\n* Système via une application bookyway qui vous permet
   de suivre le décompte des sessions déjà prises et l'ensemble des dates disponibles.\n\n**Prix**
-  180€ pour 20 cours ( 9€/cours)\n\n#### Abonnement enfants et ados\n\n![](https://res.cloudinary.com/dqu7lbbhg/image/upload/c_scale,dpr_auto,q_70,w_680,f_auto/v1582188783/AdobeStock_218109710_rnla4x.jpg)\n\n####
+  180€ pour 20 cours ( 9€/cours)\n\n#### Abonnement enfants et ados\n\nAbonnement
+  pour la période du 01 février 2021 au 20 juin 2021.\n\nPrix 120€ pour 12 cours (
+  \ \n\n![](https://res.cloudinary.com/dqu7lbbhg/image/upload/c_scale,dpr_auto,q_70,w_680,f_auto/v1582188783/AdobeStock_218109710_rnla4x.jpg)\n\n####
   Comment payer?\n\nLes cours de yoga peuvent être réglés en espèces ou par virement
   avant le début des cours sur le compte IBAN suivant: NEW COMPTE SOON :-) de Chloé
   Dujardin.\n\nCertaines mutuelles interviennent dans le prix de l’abonnement jusqu'à
