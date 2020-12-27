@@ -44,8 +44,8 @@ offre_blocks:
       écoles primaires. J’accompagne également des instituteurs pour une sensibilisation\ndans
       les classes et je donne des cours à des adolescents dans une école de danse\ncontemporaine
       à Liège. (Bal Special)\""
-text_under_price: "## Informations utiles - Cours de yoga\n\n### 1 - Modalités de
-  paiement\n\n#### Abonnement Studio\n\nVous êtes régulière-ers à un horaire fixe
+text_under_price: "## Informations utiles - Cours de yoga\n\n### 1 - Tarifs et Modalités
+  de paiement\n\n#### Abonnement Studio\n\nVous êtes régulière-ers à un horaire fixe
   en ligne et vous souhaitez continuer en ligne un cours par semaine en réservant
   votre place en studio dès que cela sera possible? Une fois le retour en studio,
   vous ne voudrez pas suivre de cours en ligne en plus.\n\n**Pour vous ce sera l'abonnement
