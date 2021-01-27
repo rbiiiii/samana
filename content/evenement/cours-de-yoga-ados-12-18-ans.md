@@ -2,6 +2,7 @@
 address = "Corps et Conscience, 107 Bvd Kleyer à 4000 Liège"
 category = "cours"
 date = 2020-09-19T00:00:00Z
+draft = true
 enddate = 2021-01-30T00:00:00Z
 img = "/AdobeStock_214582274_v71mc5.jpg"
 schedule_in = "11:00"
