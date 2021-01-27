@@ -11,11 +11,6 @@
     duration: 4
     category: enfants
     subtext: Ecole Saint-Maur
-  - start: 20h
-    end: 21h
-    duration: 4
-    category: adultes
-    subtext: En ligne
 - title: Mardi
   blocks:
   - start: 20h15
@@ -31,6 +26,7 @@
     category: adultes
     subtext: Corps et Conscience (En ligne)
 - title: Jeudi
+  blocks: []
 - title: Vendredi
   blocks:
   - start: 9h15
@@ -40,8 +36,8 @@
     subtext: Corps et Conscience (En ligne)
 - title: Samedi
   blocks:
-  - start: 9h
-    end: 10h
+  - start: 11h30
+    end: 12h30
     duration: 4
     category: enfants
     subtext: Corps et Conscience
@@ -49,9 +45,4 @@
     end: 11h15
     duration: 4
     category: adultes
-    subtext: Corps et Conscience (En ligne)
-  - start: 11h30
-    end: 12h30
-    duration: 4
-    category: ados
     subtext: Corps et Conscience (En ligne)
