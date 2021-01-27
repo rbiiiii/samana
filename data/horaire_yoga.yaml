@@ -36,13 +36,13 @@
     subtext: Corps et Conscience (En ligne)
 - title: Samedi
   blocks:
-  - start: 11h30
-    end: 12h30
-    duration: 4
-    category: enfants
-    subtext: Corps et Conscience
   - start: 10h15
     end: 11h15
     duration: 4
     category: adultes
     subtext: Corps et Conscience (En ligne)
+  - start: 11h30
+    end: 12h30
+    duration: 4
+    category: enfants
+    subtext: Corps et Conscience
