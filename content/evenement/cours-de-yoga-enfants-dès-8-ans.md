@@ -1,8 +1,8 @@
 +++
 address = "Corps et Conscience, 107 Bvd Kleyer à 4000 Liège"
 category = "cours"
-date = 2020-09-19T00:00:00Z
-enddate = 2021-01-30T00:00:00Z
+date = 2021-01-09T00:00:00Z
+enddate = 2021-06-19T00:00:00Z
 img = "/yogaenfant-merc14h_bgcnno.jpg"
 schedule_in = "11:30"
 schedule_out = "12:30"
