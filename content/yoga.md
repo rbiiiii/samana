@@ -65,13 +65,14 @@ text_under_price: "## Informations utiles - Cours de yoga\n\n### 1 - Tarifs et M
   cours de yoga et vous recherchez une activité physique/spirituelle à pratiquer de
   chez vous? Vous avez déjà acheté une carte de 10 cours mais vous voudriez prolonger?
   \ \nVous travaillez à la maison, en télétravail à cause du covid, ...  \nVous avez
-  déjà fait du yoga ou vous êtes totalement débutant?\n\n**Une carte de 20 cours activée
-  et valable jusque fin juin 2021/ Conditions**\n\n* Carte de 20 cours à prendre à
-  n'importe quel horaire de la semaine et ce jusqu'au 20/06/2021.\n* Possibilité de
-  prendre plusieurs sessions sur la même semaine.\n* Accès à 6 horaires différents
+  déjà fait du yoga ou vous êtes totalement débutant?\n\n**Une carte de 20 ou 10 cours
+  activée et valable jusque fin juin 2021/ Conditions**\n\n* Carte de 20/10 cours
+  à prendre à n'importe quel horaire de la semaine et ce jusqu'au 20/06/2021.\n* Possibilité
+  de prendre plusieurs sessions sur la même semaine.\n* Accès à 6 horaires différents
   par semaine.\n* Système via une application bookyway qui vous permet de suivre le
   décompte des sessions déjà prises et l'ensemble des dates disponibles.\n\n**Prix**
-  180€ pour 20 cours ( 9€/cours).\n\n#### Abonnement enfants et ados\n\n* Abonnement
+  180€ pour 20 cours ( 9€/cours) et 125€ pour 10 cours (12,5€/cours) avec de sprix
+  réduits pour chacune des cartes.\n\n#### Abonnement enfants et ados\n\n* Abonnement
   pour la période du 01 février 2021 au 20 juin 2021.\n* Séance de yoga en studio
   pour les enfants de moins de 12 ans autorisée.\n* Lieu: Corps et Conscience, 107
   bvd Kleyer à 4000 Liège.\n\nPrix 120€ pour 12 cours ( 10€ la séance)\n\n![](https://res.cloudinary.com/dqu7lbbhg/image/upload/c_scale,dpr_auto,q_70,w_680,f_auto/v1582188783/AdobeStock_218109710_rnla4x.jpg)\n\n###
@@ -80,7 +81,7 @@ text_under_price: "## Informations utiles - Cours de yoga\n\n### 1 - Tarifs et M
   prendre un abonnement pour l'ouverture.\n\n* Le nombre participants par cours est
   de maximum  7 à 10 personnes (selon la salle) afin de garantir le bien-être de chacun
   et le respect des mesures sanitaires.\n* En période de confinement du au covid,
-  j'organiserai 2 sessions d'information en ligne les samedis 9 et 16 janvier après-midi.\n\n![](https://res.cloudinary.com/dqu7lbbhg/image/upload/c_scale,dpr_auto,q_70,w_680,f_auto/v1584627110/AdobeStock_251503715-min_rvmb3x.jpg)\n\n###
+  vous pouvez essayé un cours en ligne avant de vous engager.\n\n![](https://res.cloudinary.com/dqu7lbbhg/image/upload/c_scale,dpr_auto,q_70,w_680,f_auto/v1584627110/AdobeStock_251503715-min_rvmb3x.jpg)\n\n###
   3 - En cas d'absence?\n\n* Pour les cours à la séance, un cours réservé ne sera
   remboursé que si je suis prévenue au maximum 48h à l'avance.\n* **Pour les abonnements,
   un cours où l'on ne vient pas est perdu** puisqu'il s'agit d'un abonnement.\n\n
