@@ -52,13 +52,14 @@ content_blocks:
         s'est également engagée dans une formation afin de pouvoir donner à terme
         des cycles de pleine conscience.
 formations:
-- text: "Fondamentaux en MBSR à l’Institut de Pleine Conscience \n(cursus conçu par
-    le CFM-UMass) », premier programme du trajet de formation de l’instructeur MBSR.
-    \n"
-- text: Certification comme professeur de yoga  de 500h sur 4 années auprès de Philip
-    Rigo à Liège. (Certification reconnue par l’ADEPS et la Fédération belge d'Hébertisme
+- text: Professeur de yoga certifiée. Formation de 500h sur 4 années auprès de Philip
+    Rigo. (Certification reconnue par l’ADEPS et la Fédération belge d'Hébertisme
     et de Yoga).
+- text: |
+    Instructrice MBSR qualifiée à L'institut de Pleine Conscience.
+    (Réduction du Stress Basée sur la Pleine Conscience)
+- text: Professeur de yoga certifiée pour enfants et adolescents auprès de Philip
+    Rigo.
 - text: Membre de la Fédération belge d'Hébertisme et de yoga.
-- text: Certification en yoga pour enfants et adolescents auprès de Philip Rigo. (en&nbsp;cours)
 
 ---
