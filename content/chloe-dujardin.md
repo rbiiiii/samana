@@ -42,15 +42,15 @@ content_blocks:
     title: Influencée&nbsp;par
     title_italic: la&nbsp;méditation
     texts:
-    - text: La méditation de pleine conscience est arrivée dans sa vie après le yoga.
+    - text: 'La méditation de pleine conscience est arrivée dans sa vie après le yoga.
         Chloé a suivi un cycle de pleine conscience de 8 semaines qui l’a véritablement
         transformée. Une expérience magnifique de transmission d’outils ancestraux
         permettant à son mental de retrouver un calme certain. Le cycle a aussi été
         l’opportunité d’apprendre les chemins pour retourner dans un mental apaisé
         autant de fois qu’il est nécessaire. Depuis Chloé médite quotidiennement et
         complète sa pratique de yoga par des moments méditatifs plus intenses. Elle
-        s'est également engagée dans une formation afin de pouvoir donner à terme
-        des cycles de pleine conscience.
+        s''est également désormais instructrice qualifié MBSR et organisera des cycles
+        de pleine conscience MBSR dès l''automne 2021. '
 formations:
 - text: Professeur de yoga certifiée. Formation de 500h sur 4 années auprès de Philip
     Rigo. (Certification reconnue par l’ADEPS et la Fédération belge d'Hébertisme
