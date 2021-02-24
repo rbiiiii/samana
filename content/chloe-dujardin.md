@@ -49,7 +49,7 @@ content_blocks:
         l’opportunité d’apprendre les chemins pour retourner dans un mental apaisé
         autant de fois qu’il est nécessaire. Depuis Chloé médite quotidiennement et
         complète sa pratique de yoga par des moments méditatifs plus intenses. Elle
-        s''est également désormais instructrice qualifié MBSR et organisera des cycles
+        est également désormais instructrice qualifié MBSR et organisera des cycles
         de pleine conscience MBSR dès l''automne 2021. '
 formations:
 - text: Professeur de yoga certifiée. Formation de 500h sur 4 années auprès de Philip
