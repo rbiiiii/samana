@@ -1,4 +1,8 @@
 ---
+- title: Cours de yoga en ligne découverte
+  prices:
+  - price: 15€
+  unit: ''
 - title: Cours de yoga en ligne/ Carte de 20
   prices:
   - price: 180€ (9€ la séance)
