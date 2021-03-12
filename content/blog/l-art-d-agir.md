@@ -8,7 +8,7 @@ title = "L'art d'agir"
 +++
 Comment agir lorsque nous sommes plongés dans le chao?
 
-C'est tout le récit qui constitue la abse de la l'épopée ancestrale vedique de labhavaghita...
+C'est tout le récit qui constitue la base de la l'épopée ancestrale vedique de labhavaghita...
 
 L'histoire? Mille fois racontées, traduite car comme tout les contes elle traverse l'humanité dans son essence. Cette hhsitoire est à la abse de l'hindousime et contitue un texte tres imortant dans le chemin d'un yogi.
 
