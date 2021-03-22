@@ -25,7 +25,7 @@ Le Chaos se caractérise dès lors par deux éléments principaux :
 
 Et si nous regardons notre humanité comme simplement une expérience du vivant sur notre planète. Mon humanité a priori organisée, se révèle ouverte, blessée, lumineuse, changeante, stable et instable, surprenante, parfois sidérée.
 
-**J'ai peur.** Et je ressens beaucoup de peurs autour. 
+**J'ai peur.** Et je ressens tellement de peurs autour. 
 
 J'ai tendance à me refermer, à investiguer mon monde intérieur. D'autres sortent, parlent, changent, hurlent parfois. 
 
