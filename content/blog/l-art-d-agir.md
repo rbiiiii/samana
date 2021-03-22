@@ -27,7 +27,7 @@ Et si nous regardons notre humanité comme simplement une expérience du vivant 
 
 **J'ai peur.** Et je ressens tellement de peurs autour. 
 
-J'ai tendance à me refermer, à investiguer mon monde intérieur. D'autres sortent, parlent, changent, hurlent parfois. 
+J'ai tendance dernièrement à investiguer mon monde intérieur. D'autres sortent, parlent, changent, hurlent parfois. 
 
 **Le chaos et notre place**, "trouver notre place" comme s'il y en avait une qui ne bougerait plus...
 
