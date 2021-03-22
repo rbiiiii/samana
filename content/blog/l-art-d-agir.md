@@ -21,9 +21,15 @@ Le Chaos se caractérise dès lors par deux éléments principaux :
 * le gouffre sans fond où l'on fait une chute sans fin : la Terre apparaît ensuite, offrant une assise stable, qui s'oppose radicalement au Chaos ;
 * **le milieu sans orientation possible où l'on chute dans tous les sens**.
 
-Notre humanité comme expérience du vivant sur notre planète. Mon humanité qui serait a priori organisée, qui se révèle ouverte, blessée, lumineuse, changeante, stable et instable, surprenante, parfois sidérée.
+Notre humanité comme expérience du vivant sur notre planète. 
 
-**J'ai peur.** Et je ressens beaucoup de peurs autour. J'ai tendance à me refermer, à investiguer mon monde intérieur. D'autres sortent, parlent, changent, hurlent parfois. **Le chaos et notre place**, trouver notre place comme s'il y en avait une qui ne bougerait plus.
+Mon humanité a priori organisée se révèle ouverte, blessée, lumineuse, changeante, stable et instable, surprenante, parfois sidérée.
+
+**J'ai peur.** Et je ressens beaucoup de peurs autour. 
+
+J'ai tendance à me refermer, à investiguer mon monde intérieur. D'autres sortent, parlent, changent, hurlent parfois. 
+
+**Le chaos et notre place**, trouver notre place comme s'il y en avait une qui ne bougerait plus.
 
 Constater le mouvement incessant. Sortir de la sidération, trouver une place, un mouvement à l'intérieur et au dehors.
 
