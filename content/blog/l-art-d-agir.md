@@ -88,7 +88,7 @@ Consacrer du temps et garder les yeux ouverts sur nos combats intérieurs, les a
 
 # Regarder nos peurs et s'apercevoir qu'elles sont réelles mais ne sont pas la vérité.
 
-La sagesse de l'art d'agir, du geste juste dans le chaos.
+La sagesse de l'art d'agir, du geste juste, dans le chaos.
 
 La conscience de nos réactions, nos conditionnements, nos habitudes, nos pilotages automatiques, nos jugements sur nous-même et sur les autres.
 
