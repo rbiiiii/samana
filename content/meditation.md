@@ -37,5 +37,9 @@ content_blocks:
         comprenant des moments de méditation pure axée sur l’instant présent, des
         mouvements de yoga, des partages de lectures et des visualisations. Il ne
         faut pas avoir de prérequis spécifiques pour y participer.
-
+rate:
+  - title: Méditation en mouvement
+    prices:
+    - price: "/"
+    unit: 15€
 ---

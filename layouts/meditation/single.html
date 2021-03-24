@@ -37,7 +37,7 @@
 
     <section class="single-section single-section--price cw" id="meditation-prix">
         <h2 class="ff-i">Tarif</h2>
-        {{ partial "price.html" (dict "context" . "type" "meditation" "data" $.Site.Data.tarif_meditation) }}
+        {{ partial "price.html" (dict "context" . "type" "meditation" "data" .Params.rate) }}
     </section>
 
     <div class="single-section cw">

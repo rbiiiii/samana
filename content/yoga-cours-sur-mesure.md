@@ -36,5 +36,14 @@ content_blocks:
     - text: |2-
 
         L’entreprise, elle, en bénéficie en mettant la culture du “prendre soin de soi” au cœur de ses valeurs et en créant une atmosphère de bienveillance entre employés.
+rate:
+  - title: Cours sur mesure privé
+    prices:
+    - price: ''
+    unit: 85€/1 à 2 pers.
+  - title: Cours sur mesure en Entreprise
+    prices:
+    - price: Sur devis
+    unit: Sur devis
 
 ---
