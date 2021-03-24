@@ -4,17 +4,13 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: document
-  path: data/tarif_surmesure.yaml
-  label: Tarif yoga sur mesure
-- type: document
-  path: data/tarif_meditation.yaml
-  label: Tarif méditation
 - type: directory
   path: content
   label: Pages
   create: all
   match: "*"
+  templates:
+  - page-simple
 - type: directory
   path: content/blog
   label: Blog
