@@ -19,5 +19,3 @@ fields:
   - type: text
     name: unit
     label: Unité
-pages:
-- data/tarif_meditation.yaml
