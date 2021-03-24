@@ -19,7 +19,7 @@
     </div>
     <button class="snipcart-add-item tarifs-abonnements__btn"
         data-item-id="{{ .ctx.snip_id }}"
-        data-item-url="https://new.yogasamana.be/horaires-et-tarifs/" 
+        data-item-url="https://new.yogasamana.be/horaires-tarifs/" 
         data-item-price="{{ .ctx.snip_price }}"
         data-item-description="{{ with .ctx.type }}{{ . }}. {{ end }}{{ with .ctx.period }}{{ . }}{{ end }}"
         data-item-image="{{ .cloudinary }}/q_70,w_550,h_302,c_fill,f_auto{{ .ctx.img }}"
