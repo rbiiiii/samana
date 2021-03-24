@@ -1,0 +1,160 @@
+---
+label: Horaires et tarifs
+hide_body: true
+fields:
+- type: text
+  name: slug
+  label: slug
+  hidden: true
+- type: text
+  name: type
+  label: type
+  hidden: true
+- type: text
+  name: title
+  label: Titre de la page
+- type: field_group_list
+  name: schedule
+  label: Horaire
+  fields:
+  - type: text
+    name: title
+    label: Jour
+    config:
+      required: true
+  - type: field_group_list
+    name: blocks
+    fields:
+    - type: text
+      name: start
+      label: Heure de début
+      description: 'Ex: 11h ou 11h15 '
+      config:
+        required: true
+    - type: text
+      name: end
+      label: Heure de fin
+      description: 'Ex: 11h ou 11h15'
+    - name: category
+      type: select
+      default: []
+      config:
+        required: true
+        options:
+        - adultes
+        - enfants
+        - ados
+        - cours de danse
+        source:
+          type: simple
+          section: 
+          file: 
+          path: 
+      label: Catégorie
+    - type: text
+      name: subtext
+      label: Complément
+      description: 'Petite texte en dessous de la catégorie, ex: Don Bosco'
+    label: Cours
+- type: field_group_list
+  name: rate
+  label: Tarifs
+  fields:
+  - type: text
+    name: title
+    label: Titre
+    config:
+      required: true
+  - type: list
+    name: type
+    label: Durée du cours
+  - type: text
+    name: period
+    label: Période
+    description: 'Ex: du 19 avril au 20 juin 2021'
+  - type: file
+    name: img
+    label: Image d'illustration
+  - type: textarea
+    name: text
+    label: Texte
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
+      required: true
+    description: Description du cours ou abonnement
+  - type: text
+    name: price
+    label: Prix affiché sur le site
+    description: 'Ex: 130€ ou 100€* (prix réduit)'
+    config:
+      required: true
+  - type: number
+    name: snip_price
+    label: Prix pour snipcart
+    description: 'Ex: 15 ou 180 (juste le montant en chiffre)'
+    config:
+      required: true
+  - type: text
+    name: snip_id
+    label: Identifiant snipcart
+    description: 'Ex: abonnement-studio (cet élément est indispensable pour que snipcart
+      identifie le produit acheté, il doit être obligatoirement unique, et il ne doit
+      pas comporter d''espace, accent ou caractère spécial)'
+    config:
+      required: true
+  - type: boolean
+    name: snip_sale
+    label: Prix réduit ?
+  - name: snip_sale_price
+    type: number
+    label: Montant de la réduction
+    description: 'Ex: 27 (montant de la réduction appliqué sur le prix plein) donc
+      si tu as un prix de "130€ ou 100€* (tarif réduit)", tu écris 30 car 130 - 30
+      = 100.'
+    default: 0
+    required: true
+    config:
+      min: 
+      max: 
+      step: 
+    showOnly:
+      field: snip_sale
+      value: true
+- type: field_group_list
+  name: retreat
+  label: Stages et retraites
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: list
+    name: type
+    label: type
+  - type: text
+    name: price
+    label: price
+  - type: text
+    name: period
+    label: period
+  - type: file
+    name: img
+    label: img
+  - type: textarea
+    name: text
+    label: text
+  - type: text
+    name: snip_id
+    label: snip_id
+  - type: number
+    name: snip_price
+    label: snip_price
+  - type: boolean
+    name: snip_sale
+    label: snip_sale
+  - type: text
+    name: snip_sale_price
+    label: snip_sale_price
+pages:
+- content/horaires-et-tarifs.md
