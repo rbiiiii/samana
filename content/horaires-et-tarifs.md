@@ -53,9 +53,7 @@ rate:
   img: "/AdobeStock_134920437_sumw7s.jpg"
   text: 'Vous n’êtes pas encore inscrit.es à mes cours de yoga et vous recherchez
     une activité physique/spirituelle à pratiquer de chez vous? Comencez par la carte
-    découverte à 15€.
-
-'
+    découverte à 15€.'
   snip_id: carte-decouverte
   snip_price: 15
   snip_sale: false
@@ -70,9 +68,7 @@ rate:
   text: 'Vous êtes régulière-ers à un horaire fixe en ligne et vous souhaitez continuer
     en ligne un cours par semaine en réservant votre place en studio dès que cela
     sera possible? Une fois le retour en studio, vous ne voudrez pas suivre de cours
-    en ligne en plus.
-
-'
+    en ligne en plus.'
   snip_id: abonnement-studio
   snip_price: 108
   snip_sale: true
@@ -86,9 +82,7 @@ rate:
   img: "/AdobeStock_134920437_sumw7s.jpg"
   text: 'Vous êtes régulière-ers à un plusieurs horaires en ligne et vous souhaitez
     continuer en ligne avec plusieurs cours par semaine en réservant en plus votre
-    place en studio dès que cela sera possible ?
-
-'
+    place en studio dès que cela sera possible ?'
   snip_id: abonnement-studio-en-ligne
   snip_price: 130
   snip_sale: true
@@ -101,9 +95,7 @@ rate:
   img: "/AdobeStock_134920437_sumw7s.jpg"
   text: 'Vous recherchez une activité physique/spirituelle à pratiquer de chez vous?
     Vous travaillez à la maison, en télétravail à cause du covid, ... Vous avez déjà
-    fait du yoga ou vous êtes totalement débutant ?
-
-'
+    fait du yoga ou vous êtes totalement débutant ?'
   snip_id: abonnement-en-ligne-20
   snip_price: 180
   snip_sale: true
@@ -116,9 +108,7 @@ rate:
   img: "/AdobeStock_134920437_sumw7s.jpg"
   text: 'Vous recherchez une activité physique/spirituelle à pratiquer de chez vous?
     Vous travaillez à la maison, en télétravail à cause du covid, ... Vous avez déjà
-    fait du yoga ou vous êtes totalement débutant ?
-
-'
+    fait du yoga ou vous êtes totalement débutant ?'
   snip_id: abonnement-en-ligne-10
   snip_price: 125
   snip_sale: true
@@ -130,49 +120,12 @@ rate:
   text: 'Vous recherchez une activité pour votre enfant ou votre ados un peu différente
     ? Besoin de soutien dans la gestion du stress, des émotions ... J’organise des
     cours adapté de yoga pour enfant de 7 à 12 ans (jusque fin primaire) et pour ados
-    de 12 à 18 ans.
-
-'
+    de 12 à 18 ans.'
   snip_id: abonnement-enfants
   snip_price: 70
   type: []
   snip_sale: false
   snip_sale_price: 
-retreat:
-- title: Stage exemple
-  type:
-  - 1 semaine
-  price: 150€
-  period: du 19 avril au 20 juin 2021
-  img: "/AdobeStock_134920437_sumw7s.jpg"
-  text: 'Aute proident non minim aliqua cillum cupidatat deserunt excepteur. Irure
-    aliquip nisi aute tempor enim non ipsum minim amet mollit labore Lorem fugiat.
-    Veniam non dolore nisi incididunt laborum fugiat mollit occaecat anim incididunt
-    sunt id duis deserunt. Duis est elit elit laboris elit ullamco deserunt adipisicing
-    veniam tempor elit culpa. Adipisicing deserunt ipsum officia anim.
-
-'
-  snip_id: stage-01
-  snip_price: 150
-  snip_sale: false
-  snip_sale_price: ''
-- title: Abonnement Studio
-  type:
-  - 1 cours en ligne par semaine ou 1 cours en studio/semaine dès que possible jusqu’au
-    20/06/2021.
-  price: 150€
-  period: du 19 avril au 20 juin 2021
-  img: "/AdobeStock_134920437_sumw7s.jpg"
-  text: 'Aute proident non minim aliqua cillum cupidatat deserunt excepteur. Irure
-    aliquip nisi aute tempor enim non ipsum minim amet mollit labore Lorem fugiat.
-    Veniam non dolore nisi incididunt laborum fugiat mollit occaecat anim incididunt
-    sunt id duis deserunt. Duis est elit elit laboris elit ullamco deserunt adipisicing
-    veniam tempor elit culpa. Adipisicing deserunt ipsum officia anim.
-
-'
-  snip_id: retraite-01
-  snip_price: 150
-  snip_sale: false
-  snip_sale_price: ''
+retreat: []
 
 ---
