@@ -55,8 +55,12 @@
 <section class="single-section cw tarifs-abonnements" id="stages-retraites">
     <h2 class="single-section__title">Stages et retraites</h2>
     <div class="flex-2-cols">
-        {{ range .Params.retreat }}
-            {{ partial "product.html" (dict "ctx" . "cloudinary" $.Site.Params.cloudinary_base_url "permalink" $.Permalink) }}
+        {{ if gt (len .Params.retreat) 0 }}
+            {{ range .Params.retreat }}
+                {{ partial "product.html" (dict "ctx" . "cloudinary" $.Site.Params.cloudinary_base_url "permalink" $.Permalink) }}
+            {{ end }}
+        {{ else }}
+            <p>Il n'y a pas de retraite ou stage prévu pour l'instant.</p>
         {{ end }}
     </div>
 </section>
