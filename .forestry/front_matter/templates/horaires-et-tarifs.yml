@@ -156,3 +156,5 @@ fields:
   - type: text
     name: snip_sale_price
     label: snip_sale_price
+pages:
+- content/horaires-et-tarifs.md
