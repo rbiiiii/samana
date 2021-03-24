@@ -25,20 +25,20 @@ fields:
   name: content_blocks
   label: Blocs de contenu
   fields:
-    - type: text
-      name: title
-      label: Titre
-    - type: text
-      name: title_italic
-      label: Titre en italique
-    - type: field_group_list
-      name: texts
-      fields:
-      - type: textarea
-        name: text
-        label: Paragraphe
-      label: Textes
-- type : field_group_list
+  - type: text
+    name: title
+    label: Titre
+  - type: text
+    name: title_italic
+    label: Titre en italique
+  - type: field_group_list
+    name: texts
+    fields:
+    - type: textarea
+      name: text
+      label: Paragraphe
+    label: Textes
+- type: field_group_list
   name: rate
   label: Tarif
   fields:
@@ -55,7 +55,6 @@ fields:
   - type: text
     name: unit
     label: Unité
-
 pages:
 - content/meditation.md
 - content/yoga-cours-sur-mesure.md

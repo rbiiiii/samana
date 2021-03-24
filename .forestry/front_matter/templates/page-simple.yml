@@ -1,0 +1,13 @@
+---
+label: Page simple
+hide_body: false
+fields:
+- type: text
+  name: slug
+  label: slug
+  hidden: true
+- type: text
+  name: title
+  label: Titre de la page
+pages:
+- content/mentions-legales.md
