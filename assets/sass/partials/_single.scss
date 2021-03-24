@@ -6,6 +6,10 @@
 
 	a {
 		word-break: break-all;
+
+		> * {
+			word-break: normal;
+		}
 	}
 
 	& + .single-section {
