@@ -43,19 +43,9 @@
         </div>
     </section>
 
-    <section class="single-section single-section--price cw" id="yoga-prix">
-        <h2 class="ff-i">Tarifs</h2>
-        {{ partial "price.html" (dict "type" "yoga" "data" $.Site.Data.tarif_yoga) }}
-        {{ with .Params.text_under_price }}
-            <div class="yoga-prix__text-under">{{ . | markdownify }}</div>
-        {{ end }}
-    </section>
-
-    <section class="single-section cw" id="yoga-horaire">
-        <h2 class="ff-i">Horaires</h2>
-        {{ partial "horaire-yoga.html" . }}
-        <p class="yoga-horaire__plus">Voir notre <a href="/agenda">agenda complet</a> pour plus d'infos.</p>
-    </section>
+    <div class="single-section cw">
+        <p class="text-center"><a class="button" href="/horaires-tarifs">Horaires et tarifs</a></p>
+    </div>
 
     <figure class="fullw-img-wrapper">
         <picture class="fullw-img">

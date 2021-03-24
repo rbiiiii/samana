@@ -1,6 +1,5 @@
 ---
 slug: mentions-legales
-type: mentions-legales
 title: Mentions légales
 
 ---

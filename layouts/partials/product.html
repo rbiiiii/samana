@@ -1,0 +1,35 @@
+<article class="flex-2-cols__col tarifs-abonnements__item">
+    <img class="tarifs-abonnements__img" src="{{ .cloudinary }}/q_70,w_550,h_302,c_fill,f_auto{{ .ctx.img }}" role="presentation">
+    <h3>{{ .ctx.title }}</h3>
+    <ul class="tarifs-abonnements__list">
+        {{ with .ctx.type }}
+            {{ range . }}
+                <li class="type">{{ . }}</li>
+            {{ end }}
+        {{ end }}
+        {{ with .ctx.price }}
+            <li class="price">Tarif : {{ . }}</li>
+        {{ end }}
+        {{ with .ctx.period }}
+            <li class="period">Période : {{ . }}</li>
+        {{ end }}
+    </ul>
+    <div class="tarifs-abonnements__text">
+        {{ .ctx.text | markdownify }}
+    </div>
+    <button class="snipcart-add-item tarifs-abonnements__btn"
+        data-item-id="{{ .ctx.snip_id }}"
+        data-item-url="{{ .permalink }}" 
+        data-item-price="{{ .ctx.snip_price }}"
+        data-item-description="{{ with .ctx.type }}{{ . }}. {{ end }}{{ with .ctx.period }}{{ . }}{{ end }}"
+        data-item-image="{{ .cloudinary }}/q_70,w_550,h_302,c_fill,f_auto{{ .ctx.img }}"
+        data-item-name="{{ .ctx.title }}"
+        {{ if .ctx.snip_sale }}
+        data-item-custom1-name="Réduction"
+        data-item-custom1-options="Prix plein|Prix réduit (au chômage, personnes handicapées, art. 27)[-{{ .ctx.snip_sale_price}}.00]"
+        {{ end }}
+        data-item-shippable="false"
+        data-item-has-taxes-included="true">
+        Ajouter au panier
+    </button>
+</article>

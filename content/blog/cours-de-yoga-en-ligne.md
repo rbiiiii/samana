@@ -5,7 +5,6 @@ publishdate = 2020-03-18T00:00:00Z
 title = "Cours de yoga en ligne - Printemps 2020"
 
 +++
-# Cours de yoga en ligne
 
 ![yoga live en ligne](https://res.cloudinary.com/dqu7lbbhg/image/upload/c_scale,dpr_auto,q_70,w_680,f_auto/v1584826755/chloe-0049-min_ztxykd.jpg "cours de yoga en ligne")
 

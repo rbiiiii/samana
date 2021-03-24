@@ -1,0 +1,64 @@
+{{ define "main" }}
+
+<section class="single-section block__list block__list--3-cols horaires-tarifs__header">
+        <a class="block__item" href="#horaires">
+            <figure>
+                <img class="block__img" src="{{.Site.BaseURL}}assets/img/agenda-filter-cours.jpg" alt="" width="520" height="356">
+                <figcaption>Horaires</figcaption>
+            </figure>
+        </a>
+        <a class="block__item" href="#tarifs-abonnements">
+            <figure>
+                <img class="block__img" src="{{.Site.BaseURL}}assets/img/agenda-filter-ateliers.jpg" alt="" width="520" height="356">
+                <figcaption>Tarifs et abonnements</figcaption>
+            </figure>
+        </a>
+        <a class="block__item" href="#stages-retraites">
+            <figure>
+                <img class="block__img" src="{{.Site.BaseURL}}assets/img/agenda-filter-stages.jpg" alt="" width="520" height="356">
+                <figcaption>Stages et retraites</figcaption>
+            </figure>
+        </a>
+</section>
+
+<section class="single-section" id="horaires">
+    <h2 class="single-section__title">Horaires</h2>
+    <div class="schedule">
+        {{ range .Params.schedule }}
+            {{ if gt (len .blocks) 0 }}
+                <div class="schedule__item">
+                    <h3 class="schedule__title">{{ .title }}</h3>
+                    {{ range .blocks }}
+                        <div class="schedule__block {{ replace .category " " "-" }}">
+                            <p class="schedule__block__title ff-i">{{ .category }}</p>
+                            {{ with .subtext }}<small class="schedule__block__subtext ff-i">{{ . }}</small>{{ end }}
+                            <p class="schedule__block__schedule ff-i">{{ .start }} - {{ .end }}</p>
+                        </div>	
+                    {{ end }}
+                </div>
+            {{ end }}
+        {{ end }}
+    </div>
+</section>
+
+{{ .Scratch.Set "cloudinary" $.Site.Params.cloudinary_base_url }}
+
+<section class="single-section cw tarifs-abonnements" id="tarifs-abonnements">
+    <h2 class="single-section__title">Tarifs et abonnements</h2>
+    <div class="flex-2-cols">
+        {{ range .Params.rate }}
+            {{ partial "product.html" (dict "ctx" . "cloudinary" $.Site.Params.cloudinary_base_url "permalink" $.Permalink) }}
+        {{ end }}
+    </div>
+</section>
+
+<section class="single-section cw tarifs-abonnements" id="stages-retraites">
+    <h2 class="single-section__title">Stages et retraites</h2>
+    <div class="flex-2-cols">
+        {{ range .Params.retreat }}
+            {{ partial "product.html" (dict "ctx" . "cloudinary" $.Site.Params.cloudinary_base_url "permalink" $.Permalink) }}
+        {{ end }}
+    </div>
+</section>
+
+{{ end }}

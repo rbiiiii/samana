@@ -82,7 +82,7 @@ body * {
     margin-right:auto;
     margin-left:auto;
 
-    @media screen and (min-width:980px) {
+    @media screen and (min-width:768px) {
         flex-direction:row;
         padding:0 $su*2;
     }
@@ -91,7 +91,7 @@ body * {
 .flex-2-cols__col {
     width:100%;
 
-    @media screen and (min-width:980px) {
+    @media screen and (min-width:768px) {
         width:calc(50% - #{$su*2});
         
         &:first-of-type {

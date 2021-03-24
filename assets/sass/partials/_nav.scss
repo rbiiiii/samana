@@ -7,7 +7,6 @@
     border: none;
     color:$dark;
     transition: opacity 200ms ease-out;
-    margin-left:auto;
     font-size:14px;
 
     @media screen and (min-width: 420px) {
@@ -111,10 +110,10 @@
         background-color:$white;
     }
 
-    $pages: chloe-dujardin yoga-cours-collectifs yoga-cours-sur-mesure meditation coaching-yoga agenda contact blog;
+    $pages: chloe-dujardin yoga yoga-at-work meditation horaires-tarifs contact blog;
 
     @each $page in $pages {
-        body.#{$page} &[href^="/#{$page}"],
+        body.#{$page} &[href$="/#{$page}"],
         body.categories &[href^="/blog"] {
             font-weight: bold;
             font-size: 0.85rem;

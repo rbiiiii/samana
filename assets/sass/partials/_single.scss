@@ -8,6 +8,10 @@
 		word-break: break-all;
 	}
 
+	& + .single-section {
+		margin-bottom:$su*6
+	}
+
 	&.single-section--price {
 		margin:$su*6 auto;
 
@@ -155,67 +159,6 @@
 	}
 }
 
-.yoga-prix__text-under {
-	max-width: 800px;
-	margin:$su*4 auto 0 auto;
-	font-size:1rem;
-
-	h2 {
-		@include ff-i;
-	}
-
-	h3 {
-		margin-top:$su*3;
-		font-size: 1.4rem;
-		font-weight: bold;
-	}
-
-	h4 {
-		margin-top:$su*2;
-		font-size: 1.2rem;
-		text-decoration: underline;
-	}
-}
-
-#yoga-horaire {
-
-	h2 {
-		text-align: center;
-		margin-bottom: $su*2;
-	}
-}
-
-.yoga-horaire__plus {
-	margin: $su*2 auto $su*8;
-	font-size: 1.2rem;
-	text-align: center;
-
-	a {
-		display: inline-block;
-		position:relative;
-
-		&:after {
-	        content:'';
-	        display:block;
-	        position:absolute;
-	        bottom:-0.1em;
-	        left:0;
-	        height:1px;
-	        width:100%;
-	        background-color:$green;
-	        opacity:1;
-	        transition:opacity 200ms ease-out;
-	    }
-
-	    &:hover, &:focus {
-
-	        &:after {
-	            opacity:0;
-	        }
-	    }
-	}
-}
-
 #surmesure-intro {
 
 	.fullw-img-wrapper--long-text picture {
@@ -234,76 +177,116 @@
 	}
 }
 
-#agenda-header {
-	margin: $su $su $su*4 $su;
+.horaires-tarifs {
 
-	@media screen and (min-width: 980px) {
-		margin:$su*2 $su*2 $su*6 $su*2;
-	}
-}
-
-h2 + #agenda__filter-wrapper {
-	margin-bottom:0;
-}
-
-#agenda__filter-wrapper {
-	font-size:1.2rem;
-	text-align: center;
-	margin:0 auto $su auto;
-	display:block;
-}
-
-.agenda-filter {
-
-	img {
-		display:block;
-		width:100%;
-		height:auto;
-	}
-
-	&.block__item figcaption {
-		opacity:1;
-	}
-}
-
-#delete-filters {
-	position:relative;
-	margin:12px auto $su auto;
-	border:none;
-	padding:0.3em 0;
-	font-size: 1.2rem;
-	background:none;
-	color:$dark;
-	
-	&:after {
-		content: '';
+	.single-section__title {
 		display: block;
-		position: absolute;
-		bottom: 0;
-		left: 0;
-		height: 1px;
-		width: 100%;
-		background-color: #326d6c;
-		opacity: 1;
-		transition: opacity 200ms ease-out;
+		margin-bottom: $su*2;
+		text-align: center;
+		@include ff-i;
+	}
+}
+
+.horaires-tarifs__header {
+	margin: $su auto $su*4 auto;
+	padding:0 $su;
+	max-width: $cw !important;
+
+	> * {
+
+		img {
+			width:100%;
+			height:auto;
+		}
+	}
+}
+
+.tarifs-abonnements {
+	
+	.flex-2-cols {
+		justify-content: space-between;
+		padding:0;
 	}
 
-	&:hover, &:focus {
-		cursor:pointer;
+	h3 {
+		@include ff-i;
+		margin: .5em 0;
+	}
+}
 
-		&:after {
-			opacity: 0;
+.tarifs-abonnements__item {
+	margin-bottom:$su*6;
+}
+
+.tarifs-abonnements__list {
+	padding:0;
+	
+	li {
+		position:relative;
+		padding-left:28px;
+		list-style-type: none;
+
+		&:before {
+			content:'';
+			display:block;
+			position:absolute;
+			top:0;
+			left:0;
+			width:20px;
+			height:20px;
+			background-size:cover;
 		}
 	}
 
+	.price {
+		
+		&:before {
+			background-image: url(/assets/img/agenda-price.svg);
+		}
+	}
+
+	.type {
+		
+		&:before {
+			background-image: url(/assets/img/agenda-schedule.svg);
+		}
+	}
+
+	.period {
+		
+		&:before {
+			background-image: url(/assets/img/agenda-when.svg);
+		}
+	}
 }
 
-#agenda-content {
-	margin-bottom:$su*4;
+.tarifs-abonnements__text {
+	font-size: 1rem;
+	@include ff-l;
+}
 
-	h2 {
-		display: block;
-		text-align: center;
+.tarifs-abonnements__btn {
+	margin-top:$su*2;
+	background-color: $green;
+	padding: 0.3em 0.9em;
+	border: 1px solid $green;
+	border-radius: 5px;
+	color:white;
+	@include ff-l;
+	font-size: 1.2rem;
+	text-transform: uppercase;
+	transition:background-color 200ms ease-out, color 200ms ease-out;
+
+	&:hover,
+	&:focus {
+		cursor: pointer;
+		background-color: transparent;
+		color:$green;
+	}
+
+	&:active {
+		background-color: $green;
+		color:white;
 	}
 }
 

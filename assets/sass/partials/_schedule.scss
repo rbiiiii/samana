@@ -1,177 +1,15 @@
-$heightUnit: 15px; //multiplicator
-$widthUnit: 140px;
-$nbrOfLines: 52;
-
 .schedule {
-	display:none;
-	position:relative;
-	width: ((6*$widthUnit) + (0.5*$widthUnit)) + 5px;
-	height:$heightUnit*56;
-	margin:0 auto;
-	@include ff-l;
-	border:1px solid $green;
-
-	@media screen and (min-width:979px) {
-		display:block;
-	}
-}
-
-.lines {
-	width:(6*$widthUnit) + 3px;
-	position: absolute;
-	top:4*$heightUnit;
-	left:0.5*$widthUnit;
-	padding:0;
-	overflow:hidden;
-
-	td {
-		padding:0;
-		height:$heightUnit;
-		border:1px solid lighten($green, 50%);
-		border-bottom: none;
-		border-right: none;
-		border-left: none;
-	}
-}
-
-.days {
-	display:flex;
-	position: relative;
-	left:(0.5*$widthUnit) - 2px;
-	width:6*$widthUnit + 5px;
-}
-
-.day {
-	border-left:1px solid $green;
-}
-
-.day__title {
-	display:flex;
-	align-items: center;
-	justify-content: center;
-	height:$heightUnit*4;
-	margin:0;
-	padding:0.5em;
-	text-align: center;
-	box-sizing: border-box;
-	text-transform: uppercase;
-	font-size: 1rem;
-}
-
-.day__schedule, .day__schedule tbody {
-	margin:0;
-	width:$widthUnit;
-	height:($heightUnit*$nbrOfLines) - 1px;
-	position:relative;
-}
-
-.day__hours {
-	margin-top:$heightUnit*4;
-	position:absolute;
-	top:0;
-	right:0;
-	bottom:0;
-	left:0;
-	width:(6*$widthUnit) + (0.5*$widthUnit) + 4px;
-
-	.hour {
-		display:flex;
-		padding:0.5em;
-		align-items:center;
-		justify-content: center;
-		height:4 * $heightUnit;
-		
-		.hour__text {
-			position:absolute;
-			left:0;
-			border:none;
-			width:0.5*$widthUnit;
-		}
-	}
-}
-
-.hour {
-	display:block;
-	height:$heightUnit;
-	border-top: 1px solid $green;
-	margin:0;
-
-	&:before {
-		display: none;
-	}
-}
-
-.day__block {
-	position:absolute;
-	width:100%;
-
-	&.adultes td {
-		background:#F4E9E6;
-	}
-
-	&.enfants td {
-		background:#C2DBDE;
-	}
-
-	&.ados td {
-		background:#EFD58A;
-	}
-
-	&.cours-de-danse td {
-		background:#ff9a64;
-	}
-
-	td {
-		display: flex;
-		flex-direction: column;
-		justify-content: center;
-		padding:0;
-		border:none;
-	}
-
-	> * {
-		line-height:1.4;
-	}
-
-	span, small {
-		display:block;
-		@include ff-i;
-	}
-
-	span {
-		font-size:0.8rem;
-	}
-
-	small {
-		font-size:0.65rem;
-	}
-}
-
-.schedule-mobile {
 	display: flex;
-	flex-direction: column;
-
-	@media screen and (min-width:480px) {
-		flex-direction: row;
-		flex-wrap: wrap;
-	}
-
-	@media screen and (min-width:1000px) {
-		display:none;
-	}
+	flex-wrap: wrap;
+	justify-content: center;
 }
 
-.schedule-mobile__item {
-	margin-bottom:$su*2;
-
-	@media screen and (min-width:480px) {
-		width:45%;
-		margin-right:2.5%;
-		margin-left:2.5%;
-	}
+.schedule__item {
+	margin:$su;
+	flex:0 1 260px;
 }
 
-.schedule-mobile__title {
+.schedule__title {
 	margin:0 0 $su 0;
 	text-transform: uppercase;
 	@include ff-l;
@@ -179,7 +17,7 @@ $nbrOfLines: 52;
 	font-size: 1.6rem;
 }
 
-.schedule-mobile__block {
+.schedule__block {
 	margin-bottom:$su;
 	padding:0.5em;
 	text-align: center;
@@ -209,6 +47,6 @@ $nbrOfLines: 52;
 	}
 }
 
-.schedule-mobile__block__subtext {
+.schedule__block__subtext {
 	font-size: 80%;
 }
