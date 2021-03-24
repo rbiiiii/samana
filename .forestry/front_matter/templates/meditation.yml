@@ -42,6 +42,24 @@ fields:
         name: text
         label: Paragraphe
       label: Textes
+- type : field_group_list
+  name: rate
+  label: Tarif
+  fields:
+  - type: text
+    name: title
+    label: Titre
+  - type: field_group_list
+    name: prices
+    label: Prix
+    fields:
+    - type: text
+      name: price
+      label: Prix
+  - type: text
+    name: unit
+    label: Unité
+
 pages:
 - content/meditation.md
 - content/yoga-cours-sur-mesure.md
