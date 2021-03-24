@@ -1,0 +1,104 @@
+---
+label: Horaires et tarifs
+hide_body: true
+fields:
+- type: text
+  name: slug
+  label: slug
+- type: text
+  name: type
+  label: type
+- type: text
+  name: title
+  label: title
+- type: field_group_list
+  name: schedule
+  label: schedule
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: field_group_list
+    name: blocks
+    label: blocks
+    fields:
+    - type: text
+      name: start
+      label: start
+    - type: text
+      name: end
+      label: end
+    - type: text
+      name: category
+      label: category
+    - type: text
+      name: subtext
+      label: subtext
+- type: field_group_list
+  name: rate
+  label: rate
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: list
+    name: type
+    label: type
+  - type: text
+    name: price
+    label: price
+  - type: text
+    name: period
+    label: period
+  - type: file
+    name: img
+    label: img
+  - type: textarea
+    name: text
+    label: text
+  - type: text
+    name: snip_id
+    label: snip_id
+  - type: number
+    name: snip_price
+    label: snip_price
+  - type: boolean
+    name: snip_sale
+    label: snip_sale
+  - type: text
+    name: snip_sale_price
+    label: snip_sale_price
+- type: field_group_list
+  name: retreat
+  label: retreat
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: list
+    name: type
+    label: type
+  - type: text
+    name: price
+    label: price
+  - type: text
+    name: period
+    label: period
+  - type: file
+    name: img
+    label: img
+  - type: textarea
+    name: text
+    label: text
+  - type: text
+    name: snip_id
+    label: snip_id
+  - type: number
+    name: snip_price
+    label: snip_price
+  - type: boolean
+    name: snip_sale
+    label: snip_sale
+  - type: text
+    name: snip_sale_price
+    label: snip_sale_price
