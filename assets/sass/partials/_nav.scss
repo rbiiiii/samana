@@ -110,7 +110,7 @@
         background-color:$white;
     }
 
-    $pages: chloe-dujardin yoga yoga-at-work meditation horaires-tarifs contact blog;
+    $pages: chloe-dujardin yoga yoga-at-work meditation horaires-tarifs videos blog contact;
 
     @each $page in $pages {
         body.#{$page} &[href$="/#{$page}"],
