@@ -27,8 +27,8 @@
           <div class="flex-2-cols__col chloe-content__txt">
             {{ with .Params.content_blocks }}
               {{ range . }}
-                <h2>{{ .block.title | safeHTML }} {{ with .block.title_italic | safeHTML }}<span class="ff-i">{{ . }}</span>{{ end }}</h2>
-                {{ range .block.texts }}
+                <h2>{{ .title | safeHTML }} {{ with .title_italic | safeHTML }}<span class="ff-i">{{ . }}</span>{{ end }}</h2>
+                {{ range .texts }}
                   <p>{{ .text | safeHTML }}</p>
                 {{ end }}
               {{ end }}
