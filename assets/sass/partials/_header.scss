@@ -9,7 +9,7 @@
     background-color:$white;
     border-bottom: 1px solid $green;
 
-    @media screen and (min-width: 980px) {
+    @media screen and (min-width: 1120px) {
         position:relative;
     } 
 }
@@ -29,7 +29,7 @@
         padding:0 $su*2;
     }
 
-    @media screen and (min-width: 980px) {
+    @media screen and (min-width: 1120px) {
         height:100px;
     }
 
@@ -68,8 +68,9 @@
     font-size:0.9rem;
     @include ff-l;
 
-    @media (min-width:980px) {
+    @media (min-width:1120px) {
         margin:0;
+        width:80px;
     }
 }
 
