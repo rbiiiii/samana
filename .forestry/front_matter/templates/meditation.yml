@@ -25,10 +25,6 @@ fields:
   name: content_blocks
   label: Blocs de contenu
   fields:
-  - type: field_group
-    name: block
-    label: Bloc
-    fields:
     - type: text
       name: title
       label: Titre

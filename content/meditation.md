@@ -12,8 +12,7 @@ intro_text:
 - text: <span class="ff-i">La méditation pour moi</span> est une manière d’être, c’est
     observer mon esprit tel qu’il est en profondeur, en toute clarté et bienveillance.
 content_blocks:
-- block:
-    title: Ma vision
+  - title: Ma vision
     title_italic: de la&nbsp;méditation
     texts:
     - text: J’ai débuté ma pratique de la méditation avec un cycle de pleine conscience
@@ -28,8 +27,7 @@ content_blocks:
     - text: Mon objectif est de vous offrir à côté des cours de yoga des moments plus
         axés sur la méditation dans la prolongation des cycles de pleine conscience
         ou simplement dans l’envie d’essayer la méditation.
-- block:
-    title: Méditez
+  - title: Méditez
     title_italic: avec&nbsp;moi &nbsp;!
     texts:
     - text: ''
