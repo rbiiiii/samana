@@ -77,7 +77,7 @@ Relisant et écoutant des spécialistes de la Bhagavad-Gîtâ, je réalise la sa
 
 La voie de l'action par le détachement et la générosité, l'art du soin à porter à autrui. Il m'est rappelé l'existence des forces d'ordre d'harmonisation et des forces de chaos & de distorsions. Toujours présentes au cœur de chaque cellule et de l'univers, des galaxies... dans nos pensées, nos corps et notre souffle.
 
-L'équilibre est l'affaire de chaque instant et si nous pouvons expérimenter l'harmonie; le désordre peut et va revenir, ce n'est jamais fini.
+L'équilibre est l'affaire de chaque instant. Si nous pouvons expérimenter l'harmonie, le désordre peut et va revenir, ce n'est jamais fini.
 
 Dans tout ordre, dans toute harmonie, il y a un germe de chaos et dans tout chaos il y a un germe d'harmonie. C'est la conception de l'interdépendance de toute chose. Tout n'est que relations, interactions.
 
