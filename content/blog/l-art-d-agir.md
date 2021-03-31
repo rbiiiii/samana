@@ -1,7 +1,7 @@
 +++
 categories = ["Yoga & Méditation"]
 photo = "/v1616248672/leo-roomets-_asfY_cHGNk-unsplash_fcktqo.jpg"
-publishdate = 2021-03-30T00:00:00Z
+publishdate = 2021-03-31T00:00:00Z
 title = "L'art d'agir, le chaos "
 
 +++
