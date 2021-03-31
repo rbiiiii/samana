@@ -80,10 +80,14 @@
     padding: 0.25em 0.5em;
     background:none;
     border:1px solid $dark;
-    font-size: 0.8rem;
+    font-size: 0.65rem;
     text-transform: uppercase;
     letter-spacing: 1px;
     transition:opacity 150ms ease-out;
+
+    @media (min-width:360px) {
+        font-size: 0.8rem;
+    }
 
     &:hover,
     &:focus {
