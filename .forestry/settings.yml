@@ -9,6 +9,7 @@ sections:
   label: Pages
   create: documents
   match: "*"
+  exclude: _index.md
   templates:
   - page-simple
 - type: directory
@@ -16,6 +17,7 @@ sections:
   label: Blog
   create: documents
   match: "**/*"
+  exclude: _index.md
   templates:
   - blog
 upload_dir: ''
