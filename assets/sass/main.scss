@@ -1,13 +1,5 @@
-$white: #F7F5F5;
-$light: #F4E9E6;
-$dark: #1E605F;
-$green: #326d6c;
 
-$mw: 1600px; // max-width
-$cw: 1260px; // content max-width
-
-$su: 20px; // spacing-unit
-
+@import "partials/_variables";
 
 @font-face {
     font-family: "Ubuntu";

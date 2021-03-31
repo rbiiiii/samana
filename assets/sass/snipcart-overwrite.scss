@@ -1,0 +1,18 @@
+@import "partials/_variables";
+
+.snipcart-cart-button--highlight {
+    background: $dark;
+}
+
+.snipcart__actions--link {
+    color:$dark;
+}
+
+.snipcart__box--badge-highlight {
+    background: $green;
+}
+
+.snipcart__icon--blue-light path,
+.snipcart__icon--blue-dark path {
+    fill:$dark;
+}
