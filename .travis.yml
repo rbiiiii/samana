@@ -7,17 +7,15 @@ install:
 - wget "https://github.com/gohugoio/hugo/releases/download/v${HUGO_RELEASE}/hugo_extended_${HUGO_RELEASE}_Linux-64bit.deb"
 - sudo dpkg -i hugo*.deb
 before_script:
-  - npm install -g gulp-cli
   - npm install
   - npm upgrade
 script:
 - hugo version
 - hugo -F
-- gulp
 env:
   global:
   - PRODUCTION=true
-  - HUGO_RELEASE=0.58.3
+  - HUGO_RELEASE=0.78.2
   - secure: sExiO7ZNU/28M3HHtzbPWHpEASeBJO+hp/ggp2ZU77Bv8M26IkEZeiSodfraTf0wsw6/MuoY3szK7Y8x78RuuWKjeURC534lQ7O7tIIbVC00vroMQu2iwN0PrxOkvjkavMWkQhqtNBN+H2TG1IK90oZTXAEIk3wjT+612poy9KdaPOi1m6BST0V1VFuBiLK5XcC0FBa/CVYuUVJEq1awu4SsPrIxr0VbpEJNPf6huw379IfMvsStYFSpTjTnFERAdQIeh2u8fiGTiJZSp31QXMyV4cFf/BJXBAlqw6P8jtuCBkI/05TMJkM54gaaU2IR2hcu4y5nb2O763PD6KKaO+Ld3S8L4pad5s1xstBUVauL2DVV2SxzQOTrK/IG9NCECjcNa2KfXPVqvbzIemX+1FuQbhh0cHYp4x4bejdjVdx28fQlFWkUW9svgurN1dNmeXD8PNojwl7gGW1/1CKFKsTiwoinkegHoAd8duk6HB/YsZwJc0mFfzzdNH/ZzXM8m5GAEdejgfYXICeWWJdmB9aFFXlmILYrOXeYqvQr/3fiL1KFunQ+KezDvdSNK2dEQlREmiGNqRDe9rHYoJxLBf0tWCWQMuaeBLLgshyH9HpiBvST1FR5sngX0l2rNS52WhOzJTWtdQF7Fvej75tVFpIz+pFWVmdZhFOa9owsmDM=
   - secure: cJruCLf3X1xb3NPJOTzFPbc9PQhDzF0dzuA4P7YdMnVJzQNMDrSVgsvJl2NPmrUGFL18mCFuId445w9+jzsIysEKS3PFEPOEpMhKzV2+wXrJqNo62s+ITDIIhkQtTWLuvYHPTVHyYzCmLyQs2B8fnFNCjTpYd4QiRM7nKufSaRSzRYAuxqnsE5/B+VjZf2DpKiIgAni81rxTuXy8qLSLV68azvx867MHz7mqjNOAU4UwDLIghwcwwTmipfnV7Jz9ItFHBGmQt042x7g/hONOwZBICz4L7RHrWKpwavIkW91TJb9UfQkGMefuS7pgj95cy5IdKCLBg4qh8GRfeodSRmBreShXHtgB/Sp0HdXz/CRrgZUy8H9WhNmJXy5kpWhhekBbJI5KgI5fx+04ZME4xoXOabAshveZ7vB1OiFOjuNWcKOIeufb1fu9aLjHI09l/p1orzMWQBks9qkueUQWOV4mErYTQQU6oLPwnoAorgfdwoOv+lu7UAiCcOLwnWORKH48dctjXYVrAAp+sxypMPhqQS9mT2hiU2zHY84xe5AIoWswV+8uvygLUos/8dowstpWEANepHuW6ULnYtF54bzgm4J+j47rorY2U9RA/66se39awYSQ5mtnx0AE43XaGA0SUCBnnn18P7w8CG1rxoA0NV4AkBffG1wrsDhRn14=
   - secure: mGhOBsGD+EpIy4x0g4pjDphy2hTLDunm0GGQesvrDrIiEOfcKMiwkcKiE4ygMr6XZKJ8JFcs+wZk1tJeMuEurjIQLZRJfITIhujH3aarxQ9tAvhI+OkFRlDAr4822jS9XQQ+wzcThc4biCwVx1U1bIzieD4qkiIqTvPQZYwnCcjm7lOSWd2rst9OM1gbPeGYvjO5db7yu7hEqjfV2QgFBikcyYy2YEOAECD2xfzhTnE6Pd8SI5p1zWOrgqQ7IPTebI+AIPIS6BD6stT+IkliD7trWIU6b8kmDVtDwF6cIKqGN2H3D+1u/qr2g32uvI3exvYbFADTJWWEm6qNvya3HjMH9UIze9b/31xPEtkLWWbJ3Z5xUoLBhRn5Ym8rIbApFjk71tEDt5IlDJr0tHazcncNd8n22QSi86S4Lk0BTnD5Ymc0kFqmL8KlCuskd4MX7vozI8YIhWJR3CaNOEY+XLwp9qsx/CNUiDysFHskO7NKi9NRevFLl3qd+iThk8KwP+W/KG4/ScqiGuqSjjTdbgnk/+vbAplwhPgO4hwv7YB38WITG1+3iuSwDH7tswo+1aMUNr9edXBK6cgPPREf/I+wzyZYmLs0ZCh5QkhwkJ3xhPoAtwZPrzB6e1dc9OuQwyolIITqsFEtiRZZLk7FQ8ZG7IPBuqBOV7dHqEkhyv4=
@@ -40,6 +38,6 @@ deploy:
 notifications:
   email:
     recipients:
-      - bonjour@studiocolibri.be
+      - foguenne.robin@gmail.com
     on_success: never # default: change
     on_failure: always # default: always
