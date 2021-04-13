@@ -1,0 +1,25 @@
+{{ define "main" }}
+
+    <section class="single-section cw">
+        <h1 class="videos-title">{{ .Title }}</h1>
+        {{ .Params.intro | markdownify }}
+        <p class="text-center">
+            <a href="/test" class="button">Accès privé</a>
+        </p>
+    </section>
+
+    <section class="single-section mw">
+        <div class="cw text-center">
+            <h2 class="videos-title">Vidéos en libre accès</h2>
+        </div>
+        <div class="videos-list">
+            {{ range .Params.videos }}
+                <article>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ .id }}" title="{{ .title }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <h3>{{ .title }}</h3>
+                    {{ with .date }}<p>{{ . }}</p>{{ end }}
+                </article>
+            {{ end }}
+        </div>
+    </section>
+{{ end }}
