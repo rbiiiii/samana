@@ -351,6 +351,14 @@ img.agenda__icons {
 		margin-bottom: 0;
 	}
 }
+
+.videos-intro {
+
+	.button {
+		font-size: 1.4rem;
+	}
+}
+
 .videos-title {
 	margin: $su*4 $su*2;
 	@include ff-i;
