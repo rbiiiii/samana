@@ -5,25 +5,43 @@ fields:
 - type: text
   name: slug
   label: slug
+  hidden: true
 - type: text
   name: type
   label: type
+  hidden: true
 - type: text
   name: title
-  label: title
+  label: Titre de la page
 - type: textarea
   name: intro
-  label: intro
+  label: Text d'introduction
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
 - type: field_group_list
   name: videos
-  label: videos
+  label: Vidéos en libre accès
   fields:
   - type: text
     name: title
-    label: title
+    label: Titre de la vidéo
   - type: text
     name: id
-    label: id
+    label: ID de la vidéo
+    description: 'Regarde l''adresse de la vidéo sur youtube (ex: https://www.youtube.com/watch?v=-ABhTqG0Vis)
+      et son ID est ce qui suit "watch?v=" donc pour celle-ci, ça serait : -ABhTqG0Vis.
+      Attention parfois, youtube ajoute d''autres choses que l''ID dans l''adresse.
+      Exemple, l''ID de cette vidéo "https://www.youtube.com/watch?v=SpHdvYtcSZE&amp;t=872s"
+      est "SpHdvYtcSZE", il ne faut pas prendre la dernière partie "&amp;t=872s" qui
+      sert à lancer la vidéo à 872 secondes. En gros, tu prends les caractères qui
+      suivent "v=" jusqu''à la fin de l''adresse ou jusqu''à ce que tu tombes sur
+      un autre "&amp;". Sinon lorsque tu cliques sur "partager" sur youtube, il te
+      donne un lien à copier du type "https://youtu.be/SpHdvYtcSZE" et on retrouve
+      bien l''ID "SpHdvYtcSZE" dedans ;)'
   - type: text
     name: date
-    label: date
+    label: Date à laquelle tu as publié/tourné la vidéo
+    description: Uniquement informatif pour les visiteurs, le classement tu le fais
+      toi-même en déplaçant les vidéos sur Forestry de haut en bas dans la liste.
