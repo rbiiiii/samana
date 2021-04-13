@@ -45,3 +45,5 @@ fields:
     label: Date à laquelle tu as publié/tourné la vidéo
     description: Uniquement informatif pour les visiteurs, le classement tu le fais
       toi-même en déplaçant les vidéos sur Forestry de haut en bas dans la liste.
+pages:
+- content/videos.md
