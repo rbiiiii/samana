@@ -1,0 +1,29 @@
+---
+label: Vidéos
+hide_body: true
+fields:
+- type: text
+  name: slug
+  label: slug
+- type: text
+  name: type
+  label: type
+- type: text
+  name: title
+  label: title
+- type: textarea
+  name: intro
+  label: intro
+- type: field_group_list
+  name: videos
+  label: videos
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: id
+    label: id
+  - type: text
+    name: date
+    label: date
