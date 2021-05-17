@@ -128,15 +128,12 @@ rate:
   snip_sale_price: 
 retreat:
 - title: Retraite Yoga et Méditation été 2021
-  type:
-  - '24'
+  type: []
   period: du 22 juillet au 24 juillet 2021
   img: "/v1621238499/daniel-mingook-kim-UXR--t8CZ1U-unsplash_pm1z61.jpg"
   text: "Trois journées complètes pour se retirer quelques jours et pratiquer du yoga
-    et de la méditation. (Il est recommandé de faire la retraite les 3 jours mais
-    également possible de venir participer à une ou deux journées sans aucun problème)\n\nAvec
-    une introduction à la gestion du stress par la pleine conscience (MBSR, je suis
-    en formation) et aux écrits fondateurs du yoga.  \nLa retraite est accessible
+    et de la méditation. \n\nAvec une introduction à la gestion du stress par la pleine
+    conscience (MBSR) et aux écrits fondateurs du yoga.  \nLa retraite est accessible
     à toutes et tous, débutants ou pratiquants.\n\nMagnifique manière de célébrer
     l'instant présent, de profiter d'un partage sur la sagesse millénaire du yoga
     et de la méditation.\n\nRetraite non résidentielle, avec auberge espagnole tous
