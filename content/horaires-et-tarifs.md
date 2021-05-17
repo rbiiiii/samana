@@ -44,7 +44,7 @@ rate:
   period: du 19 avril au 20 juin 2021
   img: "/AdobeStock_134920437_sumw7s.jpg"
   text: Vous n’êtes pas encore inscrit.es à mes cours de yoga et vous recherchez une
-    activité physique/spirituelle à pratiquer de chez vous? Comencez par la carte
+    activité physique/spirituelle à pratiquer de chez vous? Commencez par la carte
     découverte à 15€.
   snip_id: carte-decouverte
   snip_price: 15
@@ -120,5 +120,6 @@ retreat:
   snip_sale: true
   snip_sale_price: 30
   price: 180€ ou 150€* (prix réduit)
+draft: true
 
 ---
