@@ -127,7 +127,7 @@ rate:
   snip_sale: false
   snip_sale_price: 
 retreat:
-- title: Retraite Yoga et Méditation
+- title: Retraite Yoga et Méditation été 2021
   type:
   - '24'
   period: du 22 juillet au 24 juillet 2021
