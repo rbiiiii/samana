@@ -51,9 +51,9 @@ rate:
   price: 15€
   period: du 19 avril au 20 juin 2021
   img: "/AdobeStock_134920437_sumw7s.jpg"
-  text: 'Vous n’êtes pas encore inscrit.es à mes cours de yoga et vous recherchez
-    une activité physique/spirituelle à pratiquer de chez vous? Comencez par la carte
-    découverte à 15€.'
+  text: Vous n’êtes pas encore inscrit.es à mes cours de yoga et vous recherchez une
+    activité physique/spirituelle à pratiquer de chez vous? Comencez par la carte
+    découverte à 15€.
   snip_id: carte-decouverte
   snip_price: 15
   snip_sale: false
@@ -65,10 +65,10 @@ rate:
   price: 108€ (12€/cours) ou 80€* (prix réduit)
   period: du 19 avril au 20 juin 2021
   img: "/AdobeStock_134920437_sumw7s.jpg"
-  text: 'Vous êtes régulière-ers à un horaire fixe en ligne et vous souhaitez continuer
+  text: Vous êtes régulière-ers à un horaire fixe en ligne et vous souhaitez continuer
     en ligne un cours par semaine en réservant votre place en studio dès que cela
     sera possible? Une fois le retour en studio, vous ne voudrez pas suivre de cours
-    en ligne en plus.'
+    en ligne en plus.
   snip_id: abonnement-studio
   snip_price: 108
   snip_sale: true
@@ -80,9 +80,9 @@ rate:
   price: 130€ ou 100€* (prix réduit)
   period: du 19 avril au 20 juin 2021
   img: "/AdobeStock_134920437_sumw7s.jpg"
-  text: 'Vous êtes régulière-ers à un plusieurs horaires en ligne et vous souhaitez
+  text: Vous êtes régulière-ers à un plusieurs horaires en ligne et vous souhaitez
     continuer en ligne avec plusieurs cours par semaine en réservant en plus votre
-    place en studio dès que cela sera possible ?'
+    place en studio dès que cela sera possible ?
   snip_id: abonnement-studio-en-ligne
   snip_price: 130
   snip_sale: true
@@ -93,9 +93,9 @@ rate:
   price: 180€ pour 20 cours (9€/cours) ou 140€* (7€/cours) (prix réduit)
   period: du 19 avril au 20 juin 2021
   img: "/AdobeStock_134920437_sumw7s.jpg"
-  text: 'Vous recherchez une activité physique/spirituelle à pratiquer de chez vous?
+  text: Vous recherchez une activité physique/spirituelle à pratiquer de chez vous?
     Vous travaillez à la maison, en télétravail à cause du covid, ... Vous avez déjà
-    fait du yoga ou vous êtes totalement débutant ?'
+    fait du yoga ou vous êtes totalement débutant ?
   snip_id: abonnement-en-ligne-20
   snip_price: 180
   snip_sale: true
@@ -106,9 +106,9 @@ rate:
   price: 125€ pour 10 cours (12,5€/cours) ou 85€* (8,5€/cours) (prix réduit)
   period: du 19 avril au 20 juin 2021
   img: "/AdobeStock_134920437_sumw7s.jpg"
-  text: 'Vous recherchez une activité physique/spirituelle à pratiquer de chez vous?
+  text: Vous recherchez une activité physique/spirituelle à pratiquer de chez vous?
     Vous travaillez à la maison, en télétravail à cause du covid, ... Vous avez déjà
-    fait du yoga ou vous êtes totalement débutant ?'
+    fait du yoga ou vous êtes totalement débutant ?
   snip_id: abonnement-en-ligne-10
   snip_price: 125
   snip_sale: true
@@ -117,15 +117,35 @@ rate:
   price: 70€ pour 7 cours (10€/cours)
   period: du 19 avril au 20 juin 2021
   img: "/AdobeStock_134920437_sumw7s.jpg"
-  text: 'Vous recherchez une activité pour votre enfant ou votre ados un peu différente
+  text: Vous recherchez une activité pour votre enfant ou votre ados un peu différente
     ? Besoin de soutien dans la gestion du stress, des émotions ... J’organise des
     cours adapté de yoga pour enfant de 7 à 12 ans (jusque fin primaire) et pour ados
-    de 12 à 18 ans.'
+    de 12 à 18 ans.
   snip_id: abonnement-enfants
   snip_price: 70
   type: []
   snip_sale: false
   snip_sale_price: 
-retreat: []
+retreat:
+- title: Retraite Yoga et Méditation
+  type:
+  - '24'
+  period: du 22 juillet au 24 juillet 2021
+  img: "/v1621238499/daniel-mingook-kim-UXR--t8CZ1U-unsplash_pm1z61.jpg"
+  text: "Trois journées complètes pour se retirer quelques jours et pratiquer du yoga
+    et de la méditation. (Il est recommandé de faire la retraite les 3 jours mais
+    également possible de venir participer à une ou deux journées sans aucun problème)\n\nAvec
+    une introduction à la gestion du stress par la pleine conscience (MBSR, je suis
+    en formation) et aux écrits fondateurs du yoga.  \nLa retraite est accessible
+    à toutes et tous, débutants ou pratiquants.\n\nMagnifique manière de célébrer
+    l'instant présent, de profiter d'un partage sur la sagesse millénaire du yoga
+    et de la méditation.\n\nRetraite non résidentielle, avec auberge espagnole tous
+    les midis. Délicieux thé, tisanes et fruits bio disponibles toute la journée.
+    \ \nPlaces limitées***"
+  snip_price: 180
+  snip_id: Retraite juillet 2021
+  snip_sale: true
+  snip_sale_price: 30
+  price: 180€ ou 150€* (prix réduit)
 
 ---
