@@ -116,7 +116,7 @@ retreat:
     les midis. Délicieux thé, tisanes et fruits bio disponibles toute la journée.
     \ \nPlaces limitées***"
   snip_price: 180
-  snip_id: Retraite juillet 2021
+  snip_id: retraite-juillet-2021
   snip_sale: true
   snip_sale_price: 30
   price: 180€ ou 150€* (prix réduit)
