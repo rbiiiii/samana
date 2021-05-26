@@ -36,20 +36,6 @@ schedule:
     category: enfants
     subtext: Corps et Conscience
 rate:
-- title: Carte découverte en ligne ou en présentiel
-  type:
-  - 1 cours particulier de 30 minutes
-  - 1 cours gratuit collectif de 1h (en ligne ou en présentiel dès que possible.
-  price: 15€
-  period: du 19 avril au 20 juin 2021
-  img: "/AdobeStock_134920437_sumw7s.jpg"
-  text: Vous n’êtes pas encore inscrit.es à mes cours de yoga et vous recherchez une
-    activité physique/spirituelle à pratiquer de chez vous? Commencez par la carte
-    découverte à 15€.
-  snip_id: carte-decouverte
-  snip_price: 15
-  snip_sale: false
-  snip_sale_price: 
 - title: Abonnement Yoga au jardin été 2021
   type:
   - 5 cours en jardin/studio en juin & juillet 21
@@ -62,6 +48,21 @@ rate:
   snip_price: 70
   snip_sale: false
   snip_sale_price: 28
+- title: Carte découverte en ligne ou en présentiel
+  type:
+  - 1 cours particulier de 30 minutes
+  - 1 cours gratuit collectif de 1h (en ligne ou en présentiel dès que possible.
+  price: 25€
+  period: du 1 juin au 28 juillet 2021
+  img: "/v1575800434/AdobeStock_245653305_ujwegf.jpg"
+  text: Vous n’êtes pas encore inscrit.es à mes cours de yoga et vous recherchez une
+    activité physique/spirituelle à pratiquer ? Et si vous testiez un cours cet été?
+    Commencez par la carte découverte à 25€, vous pourrez ainsi pratiquer le yoga
+    et éventuellement vous inscrire pour la rentrée!
+  snip_id: carte-decouverte
+  snip_price: 25
+  snip_sale: false
+  snip_sale_price: 
 - title: Abonnement Studio + en ligne illimité
   type:
   - Cours en ligne illimités par semaine (accès à près de 45 sessions de yoga).
