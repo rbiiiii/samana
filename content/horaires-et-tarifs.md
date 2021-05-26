@@ -44,7 +44,7 @@ rate:
   img: "/v1584826755/chloe-0049-min_ztxykd.jpg"
   text: Retour des cours en présentiel, dans un jardin si possible, une fois par semaine
     au choix mardi 20h15, mercredi 09h15 (+ en juin samedi 10h15)
-  snip_id: Abonnement - Yoga Jardin
+  snip_id: YogaJardin-ete21
   snip_price: 70
   snip_sale: false
   snip_sale_price: 28
