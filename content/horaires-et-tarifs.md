@@ -63,46 +63,6 @@ rate:
   snip_price: 25
   snip_sale: false
   snip_sale_price: 
-- title: Abonnement Studio + en ligne illimité
-  type:
-  - Cours en ligne illimités par semaine (accès à près de 45 sessions de yoga).
-  - 1 cours / semaine
-  price: 130€ ou 100€* (prix réduit)
-  period: du 19 avril au 20 juin 2021
-  img: "/AdobeStock_134920437_sumw7s.jpg"
-  text: Vous êtes régulière-ers à un plusieurs horaires en ligne et vous souhaitez
-    continuer en ligne avec plusieurs cours par semaine en réservant en plus votre
-    place en studio dès que cela sera possible ?
-  snip_id: abonnement-studio-en-ligne
-  snip_price: 130
-  snip_sale: true
-  snip_sale_price: 30
-- title: Abonnement en ligne 10 sessions
-  type:
-  - Carte de 10 séances de yoga
-  price: 125€ pour 10 cours (12,5€/cours) ou 85€* (8,5€/cours) (prix réduit)
-  period: du 19 avril au 20 juin 2021
-  img: "/AdobeStock_134920437_sumw7s.jpg"
-  text: Vous recherchez une activité physique/spirituelle à pratiquer de chez vous?
-    Vous travaillez à la maison, en télétravail à cause du covid, ... Vous avez déjà
-    fait du yoga ou vous êtes totalement débutant ?
-  snip_id: abonnement-en-ligne-10
-  snip_price: 125
-  snip_sale: true
-  snip_sale_price: 40
-- title: Abonnement enfants et ados
-  price: 70€ pour 7 cours (10€/cours)
-  period: du 19 avril au 20 juin 2021
-  img: "/AdobeStock_134920437_sumw7s.jpg"
-  text: Vous recherchez une activité pour votre enfant ou votre ados un peu différente
-    ? Besoin de soutien dans la gestion du stress, des émotions ... J’organise des
-    cours adapté de yoga pour enfant de 7 à 12 ans (jusque fin primaire) et pour ados
-    de 12 à 18 ans.
-  snip_id: abonnement-enfants
-  snip_price: 70
-  type: []
-  snip_sale: false
-  snip_sale_price: 
 retreat:
 - title: Retraite Yoga et Méditation été 2021
   type: []
