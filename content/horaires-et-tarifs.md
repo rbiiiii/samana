@@ -52,12 +52,12 @@ rate:
   snip_sale_price: 
 - title: Abonnement Yoga au jardin été 2021
   type:
-  - 5 cours en jardin/studio en juillet
+  - 5 cours en jardin/studio en juin & juillet 21
   price: '70€ '
   period: du 8 juin au 28 juillet  2021
   img: "/v1584826755/chloe-0049-min_ztxykd.jpg"
   text: Retour des cours en présentiel, dans un jardin si possible, une fois par semaine
-    au choix mardi 20h15, mercredi 09h15.
+    au choix mardi 20h15, mercredi 09h15 (+ en juin samedi 10h15)
   snip_id: Abonnement - Yoga Jardin
   snip_price: 70
   snip_sale: false
