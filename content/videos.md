@@ -1,4 +1,5 @@
 ---
+draft: true
 slug: videos
 type: videos
 title: Vidéos
