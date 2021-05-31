@@ -22,7 +22,7 @@
     <link rel="stylesheet" type="text/css" href="{{ $style.Permalink | relURL }}">
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
     <link rel="stylesheet" href="https://cdn.snipcart.com/themes/v3.2.0/default/snipcart.css" />
-    {{ $snipStyle := resources.Get "sass/snipcart-overwrite.scss" | resources.ToCSS | resources.PostCSS (dict "config" "postcss.config.js") | resources.Minify | resources.Fingerprint }}
+    {{ $snipStyle := resources.Get "sass/snipcart-overwrite.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
     <link rel="stylesheet" type="text/css" href="{{ $snipStyle.Permalink | relURL }}">
     {{ partial "site-favicon.html" . }}
     <!-- Global site tag (gtag.js) - Google Analytics -->
