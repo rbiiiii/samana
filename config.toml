@@ -1,6 +1,6 @@
 baseURL = "https://www.yogasamana.be/"
 disableKinds = ["RSS"]
-languageCode = "fr-be"
+languageCode = "fr"
 title = "Yoga Liège | Yoga Samana"
 paginate = 10
 [params]
