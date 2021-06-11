@@ -36,7 +36,7 @@ schedule:
     category: enfants
     subtext: Corps et Conscience
 rate:
-- title: Abonnement Yoga au jardin été 2021
+- title: Abonnement Yoga Jardin été 2021
   type:
   - 5 cours en jardin/studio en juin & juillet 21
   price: 70€  ou 50€* (prix réduit)
