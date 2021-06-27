@@ -68,7 +68,7 @@ On désignera par la suite :
 
 La présente charte vise à vous informer des engagements du site eu égard au respect de votre vie privée et à la protection des données personnelles vous concernant, collectées et traitées à l'occasion de votre utilisation du service.
 
-En vous inscrivant sur ce site, vous vous engagez à nous fournir des informations véritables vous concernant. La communication de fausses informations est contraire aux conditions générales figurant sur le Site.
+En vous inscrivant sur ce site, vous vous engagez à nous fournir des informations véritables vous concernant. La communication de fausses informations est contraire aux conditions générales figurant sur le site.
 
 Vous pouvez à n'importe quel moment faire une demande auprès de Samana afin de savoir quelles informations vous concernant sont détenues par Samana yoga , de vous opposer à leur traitement, de les faire modifier ou supprimer et ce, en contactant le directeur de publication (coordonnées dans la rubrique « contacts » du site web).
 
