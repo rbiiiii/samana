@@ -52,7 +52,7 @@ rate:
   type:
   - 1 cours collectif de 1h en présentiel en juillet 2021
   price: 15€
-  period: du 13 au 28 juillet 2021 (mardi 20h15 ou mercredi 9h15)
+  period: du 13 au 28 juillet 2021
   img: "/v1575800434/AdobeStock_245653305_ujwegf.jpg"
   text: |-
     Vous n’êtes pas encore inscrit.es à mes cours de yoga et vous recherchez une activité physique/spirituelle à pratiquer ? Et si vous testiez un cours cet été? Commencez par venir participer à un cours, vous pourrez ainsi pratiquer le yoga et éventuellement vous inscrire pour la rentrée!
