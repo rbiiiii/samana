@@ -76,7 +76,7 @@ retreat:
     de célébrer l'instant présent, de profiter d'un partage sur la sagesse millénaire
     du yoga et de la méditation.\n\nRetraite non résidentielle, avec auberge espagnole
     tous les midis. Délicieux thé, tisanes et fruits bio disponibles toute la journée.
-    \ \nPlaces limitées***"
+    \ \nPlaces limitées*** (Lieu: Tout Coquelicot, 20 rue de la justice à 4420 Saint-Nicolas)"
   snip_price: 180
   snip_id: retraite-juillet-2021
   snip_sale: true
