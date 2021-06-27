@@ -26,15 +26,7 @@ schedule:
 - title: Vendredi
   blocks: []
 - title: Samedi
-  blocks:
-  - start: 10h15
-    end: 11h15
-    category: adultes
-    subtext: Corps et Conscience (En ligne)
-  - start: 11h30
-    end: 12h30
-    category: enfants
-    subtext: Corps et Conscience
+  blocks: []
 rate:
 - title: Abonnement Yoga Jardin été 2021
   type:
