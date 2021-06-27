@@ -48,19 +48,20 @@ rate:
   snip_price: 70
   snip_sale: true
   snip_sale_price: 20
-- title: Carte découverte en ligne ou en présentiel
+- title: Cours de yoga à l'unité
   type:
-  - 1 cours particulier de 30 minutes
-  - 1 cours gratuit collectif de 1h (en ligne ou en présentiel dès que possible.
-  price: 25€
-  period: du 1 juin au 28 juillet 2021
+  - 1 cours collectif de 1h en présentiel en juillet 2021
+  price: 15€
+  period: du 13 au 28 juillet 2021 (mardi 20h15 ou mercredi 9h15)
   img: "/v1575800434/AdobeStock_245653305_ujwegf.jpg"
-  text: Vous n’êtes pas encore inscrit.es à mes cours de yoga et vous recherchez une
-    activité physique/spirituelle à pratiquer ? Et si vous testiez un cours cet été?
-    Commencez par la carte découverte à 25€, vous pourrez ainsi pratiquer le yoga
-    et éventuellement vous inscrire pour la rentrée!
-  snip_id: carte-decouverte
-  snip_price: 25
+  text: |-
+    Vous n’êtes pas encore inscrit.es à mes cours de yoga et vous recherchez une activité physique/spirituelle à pratiquer ? Et si vous testiez un cours cet été? Commencez par venir participer à un cours, vous pourrez ainsi pratiquer le yoga et éventuellement vous inscrire pour la rentrée!
+
+    Cours mardi soir à 20h15 les 13/07, 20/07 et 27/07 & mercredi matin 9h15, les 14/07 et 28/07.
+
+    Lieu: Tout Coquelicot, 20 rue de la justice à 4420 Saint-Nicolas.
+  snip_id: cours-jardin
+  snip_price: 15
   snip_sale: false
   snip_sale_price: 
 retreat:
