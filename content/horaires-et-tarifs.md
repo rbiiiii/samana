@@ -32,10 +32,10 @@ rate:
   type:
   - 5 cours en jardin/studio en juin & juillet 21
   price: 70€  ou 50€* (prix réduit)
-  period: du 8 juin au 28 juillet  2021
+  period: du 13 au 28 juillet  2021
   img: "/v1584826755/chloe-0049-min_ztxykd.jpg"
   text: Retour des cours en présentiel, dans un jardin si possible, une fois par semaine
-    au choix mardi 20h15, mercredi 09h15 (+ en juin samedi 10h15)
+    au choix mardi 20h15, mercredi 09h15
   snip_id: YogaJardin-ete21
   snip_price: 70
   snip_sale: true
