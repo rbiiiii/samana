@@ -18,17 +18,17 @@ schedule:
   - start: 20h15
     end: 21h15
     category: adultes
-    subtext: Tout Coquelicot (En ligne)
+    subtext: Tout Coquelicot
 - title: Mercredi
   blocks:
+  - start: 9h15
+    end: 10h15
+    category: adultes
+    subtext: Corps et Conscience
   - start: 18h
     end: 20h
     category: adultes
     subtext: 'Bal Special - Danse '
-  - start: 9h15
-    end: 10h15
-    category: adultes
-    subtext: Corps et Conscience (En ligne)
 - title: Jeudi
   blocks:
   - start: 18h30
@@ -86,6 +86,5 @@ retreat:
   snip_sale: true
   snip_sale_price: 30
   price: 180€ ou 150€* (prix réduit)
-draft: true
 
 ---
