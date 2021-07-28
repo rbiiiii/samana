@@ -74,5 +74,6 @@ retreat:
   snip_sale: true
   snip_sale_price: 30
   price: 180€ ou 150€* (prix réduit)
+draft: true
 
 ---
