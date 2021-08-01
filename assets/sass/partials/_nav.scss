@@ -111,7 +111,7 @@
         background-color:$white;
     }
 
-    $pages: chloe-dujardin yoga yoga-at-work meditation horaires-tarifs videos blog contact;
+    $pages: chloe-dujardin yoga yoga-at-work meditation programme-mbsr horaires-tarifs videos blog contact;
 
     @each $page in $pages {
         body.#{$page} &[href$="/#{$page}"],
@@ -125,9 +125,7 @@
 .site-nav__has-submenu {
     position:relative;
 
-    &:hover ul,
-    &.open ul,
-    .site-nav__toplink:hover ~ ul {
+    &.open ul {
         display:block;
 
         @media screen and (min-width:1140px) {

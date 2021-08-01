@@ -3,6 +3,8 @@ var root = document.body,
 	siteNavBtn = document.getElementById('site-nav-btn'),
 	siteNavBtnIcon = document.getElementById('site-nav-btn__icon'),
 	siteNavLinks = document.querySelectorAll('.site-nav__link'),
+	siteNavLinksWithSubmenu = document.querySelectorAll('.site-nav__has-submenu'),
+	zIndex = 1,
 	resizeTimer;
 
 siteNavBtn.addEventListener('click', function() {
@@ -13,7 +15,7 @@ siteNavBtn.addEventListener('click', function() {
 		this.setAttribute('aria-expanded', false);
 	} else {
 		root.classList.add('open');
-		siteNavBtnIcon.innerHTML = 'X';
+		siteNavBtnIcon.innerHTML = '✕';
 		setTabIndex(0,siteNavLinks);
 		this.setAttribute('aria-expanded', true);
 	}
@@ -34,31 +36,27 @@ function toggleTabIndex(array, width) {
    }
 }
 
-var menuItems = document.querySelectorAll('.site-nav__has-submenu');
-Array.prototype.forEach.call(menuItems, function(el, i){
-	el.addEventListener("mouseover", function(event){
-		this.className = "site-nav__has-submenu open";
-		clearTimeout(timer);
-	});
-	el.addEventListener("mouseout", function(event){
-		timer = setTimeout(function(event){
-			document.querySelector(".site-nav__has-submenu.open").className = "site-nav__has-submenu";
-		}, 1000);
-	});
-});
-Array.prototype.forEach.call(menuItems, function(el, i){
-	el.querySelector('a').addEventListener("click",  function(event){
-		if (this.parentNode.className == "site-nav__has-submenu") {
-			this.parentNode.className = "site-nav__has-submenu open";
-			this.setAttribute('aria-expanded', "true");
-			this.setAttribute('tab-index', 0);
+function openSubMenu(item) {
+	item.classList.add('open');
+	item.setAttribute('aria-expanded', "true");
+	item.setAttribute('tab-index', 0);
+}
+
+function closeSubMenu(item) {
+	item.classList.remove('open');
+	item.setAttribute('aria-expanded', "false");
+	item.setAttribute('tab-index', 1);
+}
+
+siteNavLinksWithSubmenu.forEach(el => {
+	el.querySelector('a').addEventListener("click", function(e){
+		e.preventDefault();
+		siteNavLinksWithSubmenu.forEach(item => closeSubMenu(item));
+		if (el.classList.contains('open')) {
+			closeSubMenu(el);
 		} else {
-			this.parentNode.className = "site-nav__has-submenu";
-			this.setAttribute('aria-expanded', "false");
-			this.setAttribute('tab-index', 1);
+			openSubMenu(el);
 		}
-		event.preventDefault();
-		return false;
 	});
 });
 
