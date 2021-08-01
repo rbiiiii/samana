@@ -1,6 +1,11 @@
 {{ $nav := resources.Get "js/nav.js" }}
 {{ $navPublic := $nav | resources.Minify | resources.Fingerprint }}
-<script src="{{ $navPublic.Permalink }}"></script>
+<script defer src="{{ $navPublic.Permalink }}"></script>
+{{ $detailsSummary := resources.Get "js/detailsSummary.js" }}
+{{ $detailsSummaryPublic := $detailsSummary | resources.Minify | resources.Fingerprint }}
+{{- if eq .Params.slug "meditation" }}
+<script src="{{ $detailsSummaryPublic.Permalink }}"></script>
+{{- end }}
 <script async src="https://cdn.snipcart.com/themes/v3.2.0/default/snipcart.js"></script>
 {{ safeHTML `
     <div id="snipcart" data-config-modal-style="side" data-api-key="YWUxYzllZmYtMWJhOS00M2NkLTk2YzAtOTAzZTc0OGE2ZTVhNjM3NTExNjE4MTcyMjI3NTE3" hidden>
