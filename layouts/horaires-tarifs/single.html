@@ -43,21 +43,27 @@
 
 <section class="single-section cw tarifs-abonnements" id="tarifs-abonnements">
     <h2 class="single-section__title">Tarifs et abonnements</h2>
+    {{ $items := where .Params.rate "show" true }}
+    {{ if gt (len $items) 0 }}
     <div class="flex-2-cols">
-        {{ range .Params.rate }}
+        {{ range $items }}
             {{ partial "product.html" (dict "ctx" . "cloudinary" $.Site.Params.cloudinary_base_url "permalink" $.Permalink) }}
         {{ end }}
     </div>
+    {{ else }}
+        <p class="text-center">Il n'y a pas de cours ou abonnement prévu pour l'instant.</p>
+    {{ end }}
 </section>
 
 <section class="single-section cw tarifs-abonnements" id="stages-retraites">
     <h2 class="single-section__title">Stages et retraites</h2>
-    {{ if gt (len .Params.retreat) 0 }}
-        <div class="flex-2-cols">
-            {{ range .Params.retreat }}
-                {{ partial "product.html" (dict "ctx" . "cloudinary" $.Site.Params.cloudinary_base_url "permalink" $.Permalink) }}
-            {{ end }}
-        </div>
+    {{ $items := where .Params.retreat "show" true }}
+    {{ if gt (len $items) 0 }}
+    <div class="flex-2-cols">
+        {{ range $items }}
+            {{ partial "product.html" (dict "ctx" . "cloudinary" $.Site.Params.cloudinary_base_url "permalink" $.Permalink) }}
+        {{ end }}
+    </div>
     {{ else }}
         <p class="text-center">Il n'y a pas de retraite ou stage prévu pour l'instant.</p>
     {{ end }}

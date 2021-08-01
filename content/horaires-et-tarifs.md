@@ -29,6 +29,7 @@ schedule:
   blocks: []
 rate:
 - title: Abonnement Yoga Jardin été 2021
+  show: false
   type:
   - 5 cours en jardin/studio en juin & juillet 21
   price: 70€  ou 50€* (prix réduit)
@@ -41,6 +42,7 @@ rate:
   snip_sale: true
   snip_sale_price: 20
 - title: Cours de yoga à l'unité
+  show: false
   type:
   - 1 cours collectif de 1h en présentiel en juillet 2021
   price: 15€
@@ -58,6 +60,7 @@ rate:
   snip_sale_price: 
 retreat:
 - title: Retraite Yoga et Méditation été 2021
+  show: false
   type: []
   period: du 22 juillet au 24 juillet 2021
   img: "/v1621238499/daniel-mingook-kim-UXR--t8CZ1U-unsplash_pm1z61.jpg"
