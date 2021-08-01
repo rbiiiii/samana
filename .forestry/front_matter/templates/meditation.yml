@@ -38,6 +38,81 @@ fields:
       name: text
       label: Paragraphe
     label: Textes
+- name: mbsr
+  type: field_group
+  config: {}
+  fields:
+  - name: show
+    type: boolean
+    label: Activé ?
+    default: true
+    description: Si activé, la section MBSR apparait sur le site, si désactivé, elle
+      est cachée.
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Titre
+  - name: title_italic
+    type: text
+    config:
+      required: false
+    label: Titre en italique
+  - name: intro
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: Texte d'introduction
+  - name: register
+    type: field_group
+    config: {}
+    fields:
+    - name: show
+      type: boolean
+      label: Activé ?
+      description: Si activé, il apparaît en bas du texte d'intro, si désactivé, il
+        est caché.
+    - name: text
+      type: text
+      config:
+        required: false
+      label: Texte du bouton
+    - name: link
+      type: text
+      config:
+        required: false
+      label: Lien du bouton
+    label: Bouton d'inscription
+  - name: sections
+    type: field_group_list
+    fields:
+    - name: title
+      type: text
+      config:
+        required: false
+      label: Titre de la section
+    - name: content
+      type: textarea
+      default: ''
+      config:
+        required: false
+        wysiwyg: false
+        schema:
+          format: markdown
+      label: Contenu de la section
+      description: Attention à bien respecter l'ordre des titres et sous-titres pour
+        le référencement. Vu que le titre de section est déjà un H3, les titres dans
+        ce cas-ci sont des H4 et puis H5 etc..
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: Sections
+  label: Cycle MBSR
 pages:
 - content/meditation.md
 - content/yoga-cours-sur-mesure.md
