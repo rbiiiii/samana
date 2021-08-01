@@ -5,6 +5,10 @@ title: Horaires et tarifs
 schedule:
 - title: lundi
   blocks:
+  - start: '09h30'
+    end: 12h
+    category: adultes
+    subtext: Cycle MBSR dès 04 octobre 2021
   - start: 16h
     end: 17h
     category: enfants
@@ -14,15 +18,23 @@ schedule:
   - start: 20h15
     end: 21h15
     category: adultes
-    subtext: Tout Coquelicot (En ligne)
+    subtext: Tout Coquelicot
 - title: Mercredi
   blocks:
   - start: 9h15
     end: 10h15
     category: adultes
-    subtext: Corps et Conscience (En ligne)
+    subtext: Corps et Conscience
+  - start: 18h
+    end: 20h
+    category: adultes
+    subtext: 'Bal Special - Danse '
 - title: Jeudi
-  blocks: []
+  blocks:
+  - start: 18h30
+    end: 21h
+    category: adultes
+    subtext: Cycle MBSR dès le 7 octobre 2021
 - title: Vendredi
   blocks: []
 - title: Samedi
