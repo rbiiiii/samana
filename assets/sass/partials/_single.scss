@@ -181,6 +181,78 @@
 	}
 }
 
+.single-section--mbsr {
+	margin-top:$su*4;
+
+	h2 {
+		text-align: center;
+	}
+
+	h3, h4 {
+		@include ff-i;
+	}
+
+	h5 {
+		font-size:1rem;
+	}
+
+	details {
+		background-color:white;
+
+		.content {
+			padding:0 $su $su;
+		}
+	}
+
+	details + details {
+		margin-top:$su*2;
+	}
+
+	summary {
+		display: block;
+		padding:$su $su $su $su*2;
+		outline: none;
+		position: relative;
+		cursor: pointer;
+		transition:opacity 250ms ease-out;
+
+		&:hover,
+		&:focus {
+			cursor: pointer;
+			opacity: .7;
+		}
+
+		&:focus-visible {
+			outline: 1px solid $dark;
+		}
+
+		&:before {
+			content: '';
+			border-width: .4em;
+			border-style: solid;
+			border-color: transparent transparent transparent $dark;
+			position: absolute;
+			top: 1.3em;
+			left: 1em;
+			transform: rotate(0);
+			transform-origin: .2em 50%;
+			transition: 250ms transform ease-out;
+		}
+	}
+	
+	details summary::-webkit-details-marker {
+		display:none;
+	}
+	
+	details[open] > summary:before {
+		transform: rotate(90deg);
+	}
+
+	.mbsr-item__title {
+		display:inline;
+	}
+}
+
 .horaires-tarifs {
 
 	.single-section__title {
