@@ -69,6 +69,17 @@ body * {
     }
 }
 
+.single-col {
+    width:100%;
+    max-width: 720px;
+    margin:$su*3 auto $su*4 auto;
+    padding:0 $su;
+
+    h1 {
+        margin-bottom:$su*2;
+    }
+}
+
 .flex-2-cols {
     display: flex;
     flex-wrap: wrap;
