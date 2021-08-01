@@ -65,6 +65,12 @@ fields:
     label: Titre
     config:
       required: true
+  - name: show
+    type: boolean
+    label: Activé ?
+    description: Si activé, il s'affiche sur le site, si désactivé il reste caché
+      ;)
+    default: true
   - type: list
     name: type
     label: Durée du cours
@@ -188,5 +194,11 @@ fields:
     showOnly:
       field: snip_sale
       value: true
+  - name: show
+    type: boolean
+    label: Activé ?
+    description: Si activé, il s'affiche sur le site, si désactivé il reste caché
+      ;)
+    default: true
 pages:
 - content/horaires-et-tarifs.md
