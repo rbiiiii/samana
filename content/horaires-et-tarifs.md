@@ -91,7 +91,7 @@ rate:
   period: 23 septembre 2021
   img: "/v1629487416/saffu-pYaKs30p9zg-unsplash_kifjbw.jpg"
   text: Inscription à la séance d'information sur le programme MBSR, (obligatoire
-    en vue d'une inscription au cycle de8 semaines)
+    en vue d'une inscription au cycle de 8 semaines)
   snip_id: InfoMBSR-sept21
   snip_price: 10
   snip_sale: false
