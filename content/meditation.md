@@ -151,7 +151,7 @@ mbsr:
 
       #### Programme MBSR
 
-      275 € pour le programme de 8 séances et 1 journée complète (30h). Ce tarif donne également accès à une page spécifique sur le site internet reprenant le sylabus et les enregistrements de méditations guidées pour la pratique à domicile.
+      275 € pour le programme de 8 séances et 1 journée complète (30h). Ce tarif donne également accès à un syllabus imprimé et les enregistrements de méditations guidées pour la pratique à domicile.
 
       Un problème financier ne doit pas être un frein à votre engagement dans cette démarche. Contactez-moi et nous trouverons ensemble le moyen de rendre votre participation possible.
 
@@ -161,7 +161,7 @@ mbsr:
 
       #### Conditions d’annulation
 
-      Les frais d’inscriptions à la séance d’information ne sont ni remboursables ni transférables à un autre programme.
+      Les frais d’inscriptions de 10€ à la séance d’information ne sont ni remboursables ni transférables à un autre programme.
 
       S’inscrire au programme MBSR revient à s’engager pour l’entièreté du programme. Il est donc nécessaire d’en régler l’entièreté du tarif. Il ne sera procédé à aucun remboursement en cas d’absence à une des 8 séances. Il est toujours possible de profiter de l’autre créneau horaire pour rattraper une séance manquée (la même semaine du même cycle).
 
@@ -169,7 +169,7 @@ mbsr:
 
       #### Situation sanitaire pour le cycle de l’automne 2021
 
-      Le cycle de l’automne se donne en présentiel. En cas de désicions du gouvernement impliquant de ne plus pouvoir se réunir en présentiel, le programme sera transféré sous le format en ligne. En s’inscrivant au format présentiel, les personnes donnent leur consentement tacite à ces conditions. Il n’y a dès lors aucun remboursement ni transfert vers un programme ultérieur.
+      Le cycle de l’automne se donne en présentiel. En cas de décisions du gouvernement impliquant de ne plus pouvoir se réunir en présentiel, le programme sera transféré sous le format en ligne. En s’inscrivant au format présentiel, les personnes donnent leur consentement tacite à ces conditions. Il n’y a dès lors aucun remboursement ni transfert vers un programme ultérieur.
 
       #### Conditions de participation et inscription
 
@@ -177,15 +177,15 @@ mbsr:
 
       Le programme MBSR doit être suivi dans son entièreté. Il est donc important de s’assurer d’être présent.e à l’ensemble des séances et la journée de pratique. Si de façon occasionnelle et en prévenant à l’avance, vous ne pouvez être présent.e lors d’une séance, vous pourrez y assister à l’autre cycle (horaire) de la même semaine.
 
-      Le cycle comprend de manière très claire une continuité de pratique à domicile entre les séances en groupe. Ces pratiques peuvent durer jusque 60 minutes par jours tout au long du cycle. Il est égalment important de s’engager fermement à consacrer ces 45-60 minutes pour la pratique formelle, intégrer la pratique informelle dans la vie quotidienne et de manières ponctuelles, noter certaines situations en vue de soutenir notre exploration.
+      Le cycle comprend des pratiques à domicile entre les séances en groupe. Ces pratiques peuvent durer jusque 60 minutes par jours tout au long du cycle. Il est important en s'inscrivant pour le cycle de s’engager fermement à consacrer le temps prévu les pratiques formelles, les pratiques informelles au quotidien tout comme de prendre le temps de noter certaines expériences.
 
       ##### 2. Formulaire
 
-      Compléter le formulaire en ligne de demande d’inscription. Il est strictement confidentiel et sera consulté exclusivement par l’insctructice Chloé Dujardin. Ce formulaire nous permet avant tout de connaître votre démarche et éventuellement de relever certains points d’attentions quant à votre particiption au programme.
+      Compléter le formulaire en ligne de demande d’inscription. Il est strictement confidentiel et sera consulté exclusivement par l’insctructice Chloé Dujardin. Ce formulaire nous permet avant tout de connaître votre démarche et éventuellement de relever certains points d’attentions quant à votre participation au programme.
 
       ##### 3. Payer pour la séance d’information
 
-      Effectuer le paiement pour vous inscrire formellement à la séance d’infomation (obligatoire pour participer au cycle) via le lien renseigné dans le formulaire  (via la page "[horaires et tarifs](https://www.yogasamana.be/horaires-tarifs/)" du site www.yogasamana.be).
+      Effectuer le paiement pour vous inscrire formellement à la séance d’information (obligatoire pour participer au cycle) via le lien renseigné dans le formulaire  (via la page "[horaires et tarifs](https://www.yogasamana.be/horaires-tarifs/)" du site www.yogasamana.be).
 
       ##### 4. Contact téléphonique
 
