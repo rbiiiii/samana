@@ -29,7 +29,9 @@ content_blocks:
 - title: Méditez
   title_italic: avec&nbsp;moi &nbsp;!
   texts:
-  - text: ''
+  - text: |-
+      Je vous propose désormais des cycles de réduction du stress par la pleine conscience (MBSR). Le premier cycle démarre en octobre, avec un groupe le lundi matin et un groupe le jeudi soir.
+      Vous trouvez toutes les informations sur le cycle MBSR et les modalités pratiques ci-dessous.
   - text: La méditation en mouvement consiste en une pratique d’une heure et demie
       comprenant des moments de méditation pure axée sur l’instant présent, des mouvements
       de yoga, des partages de lectures et des visualisations. Il ne faut pas avoir
