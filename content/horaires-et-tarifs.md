@@ -51,7 +51,7 @@ rate:
 - title: Cours de yoga mardi soir 20h15
   show: true
   type: []
-  price: 210€
+  price: 210€ ou 150€ (tarif réduit)
   period: du 21 septembre au 25 janvier 2022
   img: "/v1575800434/AdobeStock_245653305_ujwegf.jpg"
   text: |-
