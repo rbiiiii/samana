@@ -25,6 +25,10 @@ schedule:
     end: 10h15
     category: adultes
     subtext: Yoga chez Corps et Conscience
+  - start: 13h30
+    end: 14h30
+    category: enfants
+    subtext: Yoga enfants chez Corps et Conscience
   - start: 18h
     end: 20h
     category: ados
