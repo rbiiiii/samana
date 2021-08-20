@@ -5,8 +5,8 @@ title: Horaires et tarifs
 schedule:
 - title: lundi
   blocks:
-  - start: '09h30'
-    end: 12h
+  - start: '09h00'
+    end: 11h30
     category: adultes
     subtext: Cycle MBSR dès 04 octobre 2021
   - start: 16h
@@ -18,16 +18,24 @@ schedule:
   - start: 20h15
     end: 21h15
     category: adultes
-    subtext: Tout Coquelicot
+    subtext: Yoga adultes chez Tout Coquelicot
 - title: Mercredi
   blocks:
-  - start: 9h15
-    end: 10h15
+  - start: 9h00
+    end: 10h00
     category: adultes
-    subtext: Corps et Conscience
+    subtext: Yoga adultes chez Corps et Conscience
+  - start: 13h30
+    end: 14h30
+    category: enfants
+    subtext: Yoga enfants chez Corps et Conscience
+  - start: 14h45
+    end: 15h45
+    category: ados
+    subtext: Yoga ados (Dès la 1ière secondaire) chez Corps et Conscience
   - start: 18h
     end: 20h
-    category: adultes
+    category: ados
     subtext: 'Bal Special - Danse '
 - title: Jeudi
   blocks:
