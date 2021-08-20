@@ -48,18 +48,19 @@ schedule:
 - title: Samedi
   blocks: []
 rate:
-- title: Abonnement Yoga Jardin été 2021
-  show: false
+- title: Inscription séance d'information Cycle gestion du stress par la pleine conscience
+    MBSR
+  show: true
   type:
-  - 5 cours en jardin/studio en juin & juillet 21
-  price: 70€  ou 50€* (prix réduit)
-  period: du 13 au 28 juillet  2021
-  img: "/v1584826755/chloe-0049-min_ztxykd.jpg"
-  text: Retour des cours en présentiel, dans un jardin si possible, une fois par semaine
-    au choix mardi 20h15, mercredi 09h15
-  snip_id: YogaJardin-ete21
-  snip_price: 70
-  snip_sale: true
+  - 1h30
+  price: '10€ '
+  period: 23 septembre 2021
+  img: "/v1621238499/daniel-mingook-kim-UXR--t8CZ1U-unsplash_pm1z61.jpg"
+  text: Inscription à la séance d'information sur le programme MBSR, (obligatoire
+    en vue d'une inscription au cycle de8 semaines)
+  snip_id: InfoMBSR-sept21
+  snip_price: 10
+  snip_sale: false
   snip_sale_price: 20
 - title: Cours de yoga à l'unité
   show: false
