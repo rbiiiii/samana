@@ -18,7 +18,7 @@ schedule:
   - start: 20h15
     end: 21h15
     category: adultes
-    subtext: Yoga - chez Tout Coquelicot
+    subtext: Yoga adultes chez Tout Coquelicot
 - title: Mercredi
   blocks:
   - start: 9h15
