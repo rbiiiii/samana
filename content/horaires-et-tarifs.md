@@ -62,7 +62,7 @@ rate:
     Cours de yoga en présentiel. !Ne pas payer le cours avant d'avoir eu ma confirmation qu'il reste bien des places. Merci :-).
 
     Lieu: Tout Coquelicot, 20 rue de la justice à 4420 Saint-Nicolas.
-  snip_id: cours-mardisoir-sept21jan22
+  snip_id: yoga-mardisoir-sept jan22
   snip_price: 210
   snip_sale: true
   snip_sale_price: 60
