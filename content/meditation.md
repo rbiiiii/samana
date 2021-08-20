@@ -61,7 +61,7 @@ mbsr:
   register:
     show: true
     text: Inscrivez-vous
-    link: https://forms.gle/jL4ehhDKKd4UrSUR6
+    link: https://forms.gle/wJVTzsJyVgbNWegL9
   sections:
   - title: Programme MBSR
     content: |-
