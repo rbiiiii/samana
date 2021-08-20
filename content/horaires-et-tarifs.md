@@ -65,7 +65,7 @@ rate:
   snip_id: cours-mardisoir-sept21jan22
   snip_price: 210
   snip_sale: true
-  snip_sale_price: 195
+  snip_sale_price: 60
 - title: Cours de yoga du mercredi matin 09h00
   show: true
   type:
