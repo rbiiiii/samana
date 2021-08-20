@@ -24,7 +24,7 @@ schedule:
   - start: 9h00
     end: 10h00
     category: adultes
-    subtext: Yoga adulte chez Corps et Conscience
+    subtext: Yoga adultes chez Corps et Conscience
   - start: 13h30
     end: 14h30
     category: enfants
