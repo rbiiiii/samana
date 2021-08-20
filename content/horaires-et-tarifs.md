@@ -60,7 +60,7 @@ rate:
 
     Séance d'information le 21 septembre 2021 (sur inscription via email à contact@yogasamana.be), début des cours le 28 septembre 2021.
 
-    Cours de yoga en présentiel. !Ne pas payer le cours avant d'avoir eu ma confirmation qu'il reste bien des places.
+    Cours de yoga en présentiel. !Ne pas payer le cours avant d'avoir eu ma confirmation qu'il reste bien des places. Merci :-).
 
     Lieu: Tout Coquelicot, 20 rue de la justice à 4420 Saint-Nicolas.
   snip_id: cours-mardisoir-sept21jan22
