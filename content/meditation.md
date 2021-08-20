@@ -46,17 +46,18 @@ mbsr:
     conçue dans un cadre hospitalier pour réduire le stress résultant de la maladie,
     des douleurs chroniques et des traitements pénibles, cette approche a contribué
     largement à l’amélioration de la qualité de vie de nombreux patients et soignants.
-    Les programmes de réduction du stress en sortant des hôpitaux sont également destinés
-    à d’autres catégories de population. Des personnes de tout horizon ressentant
-    le besoin de mieux apprivoiser le stress de la vie moderne, un besoin d'une pause,
-    d'apprendre à être autrement présent à eux même, se relevant d'une période difficile.\n\nLors
-    de ce cycle de 8 semaines nous aborderons toute une série de pratiques et d'échanges
-    en groupe nous permettant d'expérimenter et de nous entraîner ensemble à la méditation
-    de pleine conscience. Participer à un cycle MBSR implique d'être présent-e toutes
-    les semaines et de s'investir dans une pratique quotidienne à domicile. \n\nAvant
-    de pouvoir confirmer votre inscription au cycle, merci de vous inscrire à la séance
-    d'information obligatoire en remplissant le formulaire en ligne via le bouton
-    ci-dessous.\n\nPour toutes questions, contactez nous via contact@yogasamana.be."
+    Les programmes de réduction du stress en sortant des hôpitaux se sont également
+    adressés à d’autres catégories de la population. Des personnes de tout horizon,
+    ressentant le besoin de mieux apprivoiser le stress de la vie moderne, le besoin
+    d'une pause, d'apprendre à être autrement présent à eux-même ou encore se relevant
+    d'une période difficile.\n\nLors de ce cycle de 8 semaines nous aborderons toute
+    une série de pratiques et d'échanges en groupe nous permettant d'expérimenter
+    et de nous entraîner ensemble à la méditation de pleine conscience. Participer
+    à un cycle MBSR implique d'être présent-e toutes les semaines et de s'investir
+    dans une pratique quotidienne à domicile. \n\nAvant de pouvoir confirmer votre
+    inscription au cycle, merci de vous inscrire à la séance d'information obligatoire
+    en remplissant le formulaire en ligne via le bouton ci-dessous.\n\nPour toutes
+    questions, contactez nous via contact@yogasamana.be."
   register:
     show: true
     text: Inscrivez-vous
@@ -101,19 +102,19 @@ mbsr:
     content: |-
       #### Séance d’information
 
-      Mercredi 8 septembre 2021 de 18h à 20h00 (inscription via email à [mailto:contact@yogasamana.be](contact@yogasamana.be))
+      Jeudi 23 septembre 2021 de 18h30 à 20h00 (inscription obligatoire, formulaire en ligne, 10€)
 
       #### Cycle du lundi matin (format présentiel, par Chloé Dujardin instructrice MBSR qualifiée)
 
-      1. Lundi 04 octobre 2021, 9h30-12h30
-      2. Lundi 11 octobre 2021, 9h30 – 12h00
-      3. Lundi 18 octobre 2021, 9h30 – 12h00
-      4. Lundi 25 octobre 2021, 9h30 – 12h00
+      1. Lundi 04 octobre 2021, 9h00 – 12h00
+      2. Lundi 11 octobre 2021, 9h00 – 11h30
+      3. Lundi 18 octobre 2021, 9h00 – 11h30
+      4. Lundi 25 octobre 2021, 9h00 – 11h30
       5. Lundi 02 novembre pas de session
-      6. Lundi 08 novembre 2021, 9h30 – 12h00
-      7. Lundi 15 novembre 2021, 9h30 – 12h00
-      8. Lundi 22 novembre 2021, 9h30-12h00
-      9. Lundi 29 novembre 2021, 9h30-12h30
+      6. Lundi 08 novembre 2021, 9h00 – 11h30
+      7. Lundi 15 novembre 2021, 9h00 – 11h30
+      8. Lundi 22 novembre 2021, 9h00 – 11h30
+      9. Lundi 29 novembre 2021, 9h00 – 12h00
 
       #### Cycle du jeudi soir (format présentiel, par Chloé Dujardin instructrice MBSR qualifiée)
 
@@ -121,17 +122,17 @@ mbsr:
       2. Jeudi 13 octobre 2021, 18h30-21h00
       3. Jeudi 20 octobre 2021, 18h30-21h00
       4. Jeudi 27 octobre 2021, 18h30-21h00
-      5. Jeudi 3 novembre 2021 pas de session
-      6. Jeudi 10 novembre 2021, 18h30-21h00
-      7. Jeudi 17 novembre 2021, 18h30-21h00
-      8. Jeudi 24 novembre 2021, 18h00-21h00
+      5. Jeudi 03 novembre 2021 pas de session
+      6. Jeudi 11 novembre 2021, 18h30-21h00
+      7. Jeudi 18 novembre 2021, 18h30-21h00
+      8. Jeudi 25 novembre 2021, 18h00-21h00
       9. Jeudi 02 décembre 2021, 18h30-21h30
 
       #### Journée de pratique en présentiel
 
       **Format**: Les deux groupes sont réunis dans lieu précisé au début du cycle.
 
-      **Dates**: Journée de pleine conscience le samedi 20 novembre 2021 de 10h00 à 17h00.
+      **Dates**: Journée de pleine conscience le samedi 20 novembre 2021 de 09h30 à 17h00.
   - title: Lieux et matériel nécessaire
     content: "Cycle du lundi matin se déroule chez « **Corps et Conscience** »,  \n107
       bv Kleyer à 4000 Liège.\nCycle du jeudi soir se déroule chez « **Tout Coquelicot**
