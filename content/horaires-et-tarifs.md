@@ -49,7 +49,7 @@ schedule:
   blocks: []
 rate:
 - title: Cours de yoga mardi soir 20h15
-  show: false
+  show: true
   type:
   - 1h
   price: 210€
@@ -57,6 +57,8 @@ rate:
   img: "/v1575800434/AdobeStock_245653305_ujwegf.jpg"
   text: |-
     Cours mardi soir à 20h15 jusque 21h15 (arrivée à 20h05 pour se placer dans la salle), 15 cours entre septembre 2021 et Janvier 2022.
+
+    Séance d'information le 21 septembre 2021 (sur inscription via email à contact@yogasamana.be), début des cours le 28 septembre 2021.
 
     Cours de yoga en présentiel. !Ne pas payer le cours avant d'avoir eu ma confirmation qu'il reste bien des places.
 
