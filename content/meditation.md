@@ -69,7 +69,7 @@ mbsr:
 
       Le cycle comprend :
 
-      * un court entretien téléphonique sur base du formulaire complété au préalable
+      * un court entretien téléphonique sur base du formulaire complété au préalable en ligne
       * 1 séance d’information (obligatoire) présentant le programme MBSR
       * 8 séances de 2h30 (1 séance par semaine), 3h00 la 1e et dernière séance
       * 1 journée de pratique entre la 6e et la 7e séance
