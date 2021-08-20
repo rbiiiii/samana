@@ -55,7 +55,11 @@ rate:
   img: "/v1575800407/YOGA_POUR_ADOS_12-18_ANS_nwtwus.png"
   text: "Cours de yoga 12-18 ans: gestion du stress, image de soi, rester en lien
     avec son corps qui évolue, améliorer sa posture et sa respiration, ...   \nRespirer
-    et savoir petit à petit apprivoiser sa vie intérieure..."
+    et savoir petit à petit apprivoiser sa vie intérieure...\n\nSéance d’information
+    le 22 septembre 2021 (sur inscription via email à [contact@yogasamana.be](mailto:contact@yogasamana.be)),
+    début des cours le 29 septembre 2021.\n\nCours de yoga en présentiel. !Ne pas
+    payer le cours avant d’avoir eu ma confirmation qu’il reste bien des places. Merci
+    :-).\n\nLieu: Corps et Conscience, 107 bv Kleyer à 4000 Liège."
   price: 150€ ou 105€ (prix réduit)
   snip_price: 150
   snip_id: yoagados-septjan22
