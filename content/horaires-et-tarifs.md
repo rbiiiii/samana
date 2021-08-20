@@ -21,10 +21,10 @@ schedule:
     subtext: Yoga adultes chez Tout Coquelicot
 - title: Mercredi
   blocks:
-  - start: 9h15
-    end: 10h15
+  - start: 9h00
+    end: 10h00
     category: adultes
-    subtext: Yoga chez Corps et Conscience
+    subtext: Yoga adulte chez Corps et Conscience
   - start: 13h30
     end: 14h30
     category: enfants
