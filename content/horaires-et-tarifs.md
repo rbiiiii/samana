@@ -27,7 +27,7 @@ schedule:
     subtext: Yoga chez Corps et Conscience
   - start: 18h
     end: 20h
-    category: adultes
+    category: ados
     subtext: 'Bal Special - Danse '
 - title: Jeudi
   blocks:
