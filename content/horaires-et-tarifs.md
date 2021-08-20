@@ -48,6 +48,40 @@ schedule:
 - title: Samedi
   blocks: []
 rate:
+- title: Cours de yoga mardi soir 20h15
+  show: false
+  type:
+  - 1h
+  price: 210€
+  period: du 21 septembre au 25 janvier 2022
+  img: "/v1575800434/AdobeStock_245653305_ujwegf.jpg"
+  text: |-
+    Cours mardi soir à 20h15 jusque 21h15 (arrivée à 20h05 pour se placer dans la salle), 15 cours entre septembre 2021 et Janvier 2022.
+
+    Cours de yoga en présentiel. !Ne pas payer le cours avant d'avoir eu ma confirmation qu'il reste bien des places.
+
+    Lieu: Tout Coquelicot, 20 rue de la justice à 4420 Saint-Nicolas.
+  snip_id: cours-mardisoir-sept21jan22
+  snip_price: 210
+  snip_sale: true
+  snip_sale_price: 195
+- title: Cours de yoga du mercredi matin 09h00
+  show: false
+  type:
+  - 1h
+  period: du 22 septembre au 24 janvier 2022
+  img: "/v1575800406/yoga-4595166_1920_sbfhqc.jpg"
+  text: |-
+    Cours mercredi matin 09h00 jusque 10h00 (arrivée à 08h50 pour se placer dans la salle), 15 cours entre septembre 2021 et Janvier 2022.
+
+    Cours de yoga en présentiel. !Ne pas payer le cours avant d'avoir eu ma confirmation qu'il reste bien des places.
+
+    Lieu: Corps et Conscience, 107 bv Kleyer à 4000 Liège.
+  price: 210€
+  snip_price: 210
+  snip_id: "150"
+  snip_sale: false
+  snip_sale_price: 
 - title: Inscription séance d'information Cycle gestion du stress par la pleine conscience
     MBSR
   show: true
@@ -62,23 +96,6 @@ rate:
   snip_price: 10
   snip_sale: false
   snip_sale_price: 20
-- title: Cours de yoga à l'unité
-  show: false
-  type:
-  - 1 cours collectif de 1h en présentiel en juillet 2021
-  price: 15€
-  period: du 13 au 28 juillet 2021
-  img: "/v1575800434/AdobeStock_245653305_ujwegf.jpg"
-  text: |-
-    Vous n’êtes pas encore inscrit.es à mes cours de yoga et vous recherchez une activité physique/spirituelle à pratiquer ? Et si vous testiez un cours cet été? Commencez par venir participer à un cours, vous pourrez ainsi pratiquer le yoga et éventuellement vous inscrire pour la rentrée!
-
-    Cours mardi soir à 20h15 les 13/07, 20/07 et 27/07 & mercredi matin 9h15, les 14/07 et 28/07.
-
-    Lieu: Tout Coquelicot, 20 rue de la justice à 4420 Saint-Nicolas.
-  snip_id: cours-jardin
-  snip_price: 15
-  snip_sale: false
-  snip_sale_price: 
 retreat:
 - title: Retraite Yoga et Méditation été 2021
   show: false
