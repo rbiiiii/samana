@@ -80,7 +80,7 @@ rate:
     Cours de yoga en présentiel. !Ne pas payer le cours avant d'avoir eu ma confirmation qu'il reste bien des places. Merci :-).
 
     Lieu: Corps et Conscience, 107 bv Kleyer à 4000 Liège.
-  price: 210€
+  price: 210€ ou 150€ (tarif réduit)
   snip_price: 210
   snip_id: yogamercmatin-sept21-jan22
   snip_sale: true
