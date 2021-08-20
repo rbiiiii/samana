@@ -35,9 +35,158 @@ content_blocks:
         comprenant des moments de méditation pure axée sur l’instant présent, des
         mouvements de yoga, des partages de lectures et des visualisations. Il ne
         faut pas avoir de prérequis spécifiques pour y participer.
-rate:
-  - title: Méditation en mouvement
-    prices:
-    - price: "/"
-    unit: 15€
+mbsr: 
+  show: true
+  title: Cycle MBSR
+  title_italic: de 8 semaines
+  intro:  |-
+      Texte d'introduction au cycle mbsr. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas convallis ante vitae interdum pellentesque. Nunc ultricies est non nibh tincidunt lacinia. Integer non felis non purus ornare porta. Sed non turpis auctor, elementum diam non, aliquam sem. Morbi pulvinar placerat lobortis.
+      
+      Ut auctor est non purus fermentum hendrerit. Cras ornare, libero eget auctor posuere, mauris diam aliquet ipsum, non ullamcorper enim erat nec nibh. Etiam non scelerisque libero, at rhoncus tellus. Mauris nec sapien eget risus porta dignissim id at dolor. Duis dolor nunc, faucibus sit amet ligula vel, bibendum elementum dui. Duis nec libero eget ante ornare pulvinar. 
+  register:
+    show: true
+    text: Inscrivez-vous
+    link: https://forms.gle/jL4ehhDKKd4UrSUR6
+  sections:
+  - title: Programme MBSR
+    content: |-
+      #### Format du programme MBSR
+      
+      Le cycle comprend :
+          
+      - un bref entretien téléphonique avec l’enseignant sur base du formulaire complété au préalable
+      - 1 séance d’information (obligatoire) présentant le programme MBSR
+      - 8 séances de 2h30 à 3h00 (1 séance par semaine)
+      - 1 journée de pratique entre la 6e et la 7e séance
+      
+      #### Contenu des séances
+        
+      - pratiques formelles (scan corporel, yoga en pleine conscience, méditation assise, méditation marchée)
+      - pratiques informelles
+      - éléments didactiques en lien avec le stress, les perceptions…
+      - temps de réflexion et d’échanges en groupe visant à soutenir le cheminement dans la pratique
+      
+      #### Pratiques à domicile entre les séances
+        
+      - pratiques formelles à l’aide d’enregistrements de méditations guidées
+      - pratiques informelles à intégrer dans son quotidien
+      - exercices pour soutenir la connaissance de soi en lien avec le stress dans sa vie
+      
+      #### Contre-indications de la Pleine Conscience
+        
+      Cette approche n’est pas appropriée pour les difficultés suivantes, qui nécessitent un traitement spécifique:
+      
+      - dépression en phase aiguë
+      - trouble bipolaire (maniaco-dépression) non stabilisé
+      - troubles de l’attention
+      - séquelles psychologiques d’abus physiques, émotionnels ou sexuels
+      - dissociation
+      - attaques de panique récurrentes
+      - troubles psychotiques (hallucinations, délires)
+
+  - title: Dates de L’automne 2021
+    content: |-
+      #### Séance d’information
+
+      Mercredi 8 septembre 2021 de 18h à 20h00 (inscription via email à [mailto:contact@yogasamana.be](contact@yogasamana.be))
+      
+      #### Cycle du lundi matin (format présentiel, par Chloé Dujardin instructrice MBSR qualifiée)
+
+      1. Lundi 04 octobre 2021, 9h30-12h30
+      2. Lundi 11 octobre 2021, 9h30 – 12h00
+      3. Lundi 18 octobre 2021, 9h30 – 12h00
+      4. Lundi 25 octobre 2021, 9h30 – 12h00
+      5. Lundi 02 novembre pas de session
+      6. Lundi 08 novembre 2021, 9h30 – 12h00
+      7. Lundi 15 novembre 2021, 9h30 – 12h00
+      8. Lundi 22 novembre 2021, 9h30-12h00
+      9. Lundi 29 novembre 2021, 9h30-12h30
+
+      #### Cycle du jeudi soir (format présentiel, par Chloé Dujardin instructrice MBSR qualifiée)
+
+      1. Jeudi 07 octobre 2021, 18h30-21h30
+      2. Jeudi 13 octobre 2021, 18h30-21h00
+      3. Jeudi 20 octobre 2021, 18h30-21h00
+      4. Jeudi 27 octobre 2021, 18h30-21h00
+      5. Jeudi 3 novembre 2021 pas de session
+      6. Jeudi 10 novembre 2021, 18h30-21h00
+      7. Jeudi 17 novembre 2021, 18h30-21h00
+      8. Jeudi 24 novembre 2021, 18h00-21h00
+      9. Jeudi 02 décembre 2021, 18h30-21h30
+
+      #### Journée de pratique en présentiel
+
+      **Format**: Les deux groupes sont réunis dans lieu précisé au début du cycle.
+      
+      **Dates**: Journée de pleine conscience le samedi 20 novembre 2021 de 10h00 à 17h00.
+
+  - title: Lieux et matériel nécessaire
+    content: |-
+      Cycle du lundi matin se déroule chez « **Corps et Conscience** »,  
+      107 bv Kleyer à 4000 Liège.
+      Cycle du jeudi soir se déroule chez « **Tout Coquelicot** »,  
+      20 rue de la justice à 4420 Saint-Nicolas.  
+
+      #### Séance en présentiel en studio
+
+      - Prévoir une pièce au calme, où vous pourrez pratiquer seul.e sans être déranger pendant toute la durée de votre session MBSR.
+      - Un tapis de sol
+      - Si vous avez un coussin ou un petit tabouret de méditation, vous vous pourrez les amener. (Nous aurrons des chaises à votre disposition également)
+      - Vêtements confortables
+      - Une couverture ou un châle.
+
+      #### Séances de pratique à domicile
+
+      - Un tapis de sol
+      - Chaise, un coussin ou un petit tabouret de méditation pour la meditation assise.
+
+  - title: Tarifs et conditions d’annulation
+    content: |-
+      #### Séance d’information et contact au téléphone : <small>10€</small>.
+
+      #### Programme MBSR
+
+      275 € pour le programme de 8 séances et 1 journée complète (30h). Ce tarif donne également accès à une page spécifique sur le site internet reprenant le sylabus et les enregistrements de méditations guidées pour la pratique à domicile.
+      
+      Un problème financier ne doit pas être un frein à votre engagement dans cette démarche. Contactez-moi et nous trouverons ensemble le moyen de rendre votre participation possible.
+
+      #### Mutuelles
+
+      Certaines mutuelles interviennent spécifiquement (pour un montant forfaitaire) dans les programmes de pleine conscience. Veillez à vous renseigner auprès de votre mutuelle et à vous fournir des documents nécessaires au remboursement. (attention ces documents sont spécifiques à la pleine conscience).
+
+      #### Conditions d’annulation
+
+      Les frais d’inscriptions à la séance d’information ne sont ni remboursables ni transférables à un autre programme.
+
+      S’inscrire au programme MBSR revient à s’engager pour l’entièreté du programme. Il est donc nécessaire d’en régler l’entièreté du tarif. Il ne sera procédé à aucun remboursement en cas d’absence à une des 8 séances. Il est toujours possible de profiter de l’autre créneau horaire pour rattraper une séance manquée (la même semaine du même cycle).
+
+      En cas d’annulation, jusque 72h avant le démarrage du cycle, le remboursement s’effectue avec une retenue de 75€. (non transférable à un autre cycle). Passé ce délais, en cas d’annulation aucun remboursement ne sera effectué.
+
+      #### Situation sanitaire pour le cycle de l’automne 2021
+      
+      Le cycle de l’automne se donne en présentiel. En cas de désicions du gouvernement impliquant de ne plus pouvoir se réunir en présentiel, le programme sera transféré sous le format en ligne. En s’inscrivant au format présentiel, les personnes donnent leur consentement tacite à ces conditions. Il n’y a dès lors aucun remboursement ni transfert vers un programme ultérieur.
+
+      #### Conditions de participation et inscription
+
+      ##### 1. Engagement préalable
+      
+      Le programme MBSR doit être suivi dans son entièreté. Il est donc important de s’assurer d’être présent.e à l’ensemble des séances et la journée de pratique. Si de façon occasionnelle et en prévenant à l’avance, vous ne pouvez être présent.e lors d’une séance, vous pourrez y assister à l’autre cycle (horaire) de la même semaine.
+      
+      Le cycle comprend de manière très claire une continuité de pratique à domicile entre les séances en groupe. Ces pratiques peuvent durer jusque 60 minutes par jours tout au long du cycle. Il est égalment important de s’engager fermement à consacrer ces 45-60 minutes pour la pratique formelle, intégrer la pratique informelle dans la vie quotidienne et de manières ponctuelles, noter certaines situations en vue de soutenir notre exploration.
+
+      ##### 2. Formulaire
+
+      Compléter le formulaire en ligne de demande d’inscription. Il est strictement confidentiel et sera consulté exclusivement par l’insctructice Chloé Dujardin. Ce formulaire nous permet avant tout de connaître votre démarche et éventuellement de relever certains points d’attentions quant à votre particiption au programme.
+
+      ##### 3. Payer pour la séance d’information
+      
+      Effectuer le paiement pour vous inscrire formellement à la séance d’infomation (obligatoire pour participer au cycle) via le lien renseigné dans le formulaire  (via la page "[horaires et tarifs](https://www.yogasamana.be/horaires-tarifs/)" du site www.yogasamana.be).
+
+      ##### 4. Contact téléphonique
+      
+      Chloé vous contactera par téléphone pour un échange sur base de votre formulaire (rempli en ligne). Merci de relire les contres-indications définies plus haut sur la page. Nous pourrons, si vous êtes concerné.e en parler de vive voix et vérifier si cela est le bon moment pour entamer un cycle de pleine conscience.
+
+      ##### 5. Paiement du cycle
+      
+      Une fois le formulaire rempli, et à la suite de votre participation à la séance d’information, vous pourrez effectuer le paiement qui sera mis en ligne sur le site internet.
 ---
