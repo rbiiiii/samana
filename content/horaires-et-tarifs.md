@@ -68,7 +68,7 @@ rate:
   snip_sale: true
   snip_sale_price: 195
 - title: Cours de yoga du mercredi matin 09h00
-  show: false
+  show: true
   type:
   - 1h
   period: du 22 septembre au 24 janvier 2022
@@ -76,7 +76,9 @@ rate:
   text: |-
     Cours mercredi matin 09h00 jusque 10h00 (arrivée à 08h50 pour se placer dans la salle), 15 cours entre septembre 2021 et Janvier 2022.
 
-    Cours de yoga en présentiel. !Ne pas payer le cours avant d'avoir eu ma confirmation qu'il reste bien des places.
+    Séance d'information le 22 septembre 2021 (sur inscription via email à contact@yogasamana.be), début des cours le 29 septembre 2021.
+
+    Cours de yoga en présentiel. !Ne pas payer le cours avant d'avoir eu ma confirmation qu'il reste bien des places. Merci :-).
 
     Lieu: Corps et Conscience, 107 bv Kleyer à 4000 Liège.
   price: 210€
