@@ -82,7 +82,7 @@ rate:
     Lieu: Corps et Conscience, 107 bv Kleyer à 4000 Liège.
   price: 210€ ou 150€ (tarif réduit)
   snip_price: 210
-  snip_id: yogamercmatin-sept21-jan22
+  snip_id: yoga-mercmatinseptjan22
   snip_sale: true
   snip_sale_price: 60
 - title: Inscription séance d'information Cycle gestion du stress par la pleine conscience
