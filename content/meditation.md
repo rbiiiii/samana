@@ -165,7 +165,7 @@ mbsr:
 
       S’inscrire au programme MBSR revient à s’engager pour l’entièreté du programme. Il est donc nécessaire d’en régler l’entièreté du tarif. Il ne sera procédé à aucun remboursement en cas d’absence à une des 8 séances. Il est toujours possible de profiter de l’autre créneau horaire pour rattraper une séance manquée (la même semaine du même cycle).
 
-      En cas d’annulation, jusque 72h avant le démarrage du cycle, le remboursement s’effectue avec une retenue de 75€. (non transférable à un autre cycle). Passé ce délais, en cas d’annulation aucun remboursement ne sera effectué.
+      En cas d’annulation, jusque 72h avant le démarrage du cycle, le remboursement s’effectue avec une retenue de 80€. (non transférable à un autre cycle). Passé ce délais, en cas d’annulation aucun remboursement ne sera effectué.
 
       #### Situation sanitaire pour le cycle de l’automne 2021
 
