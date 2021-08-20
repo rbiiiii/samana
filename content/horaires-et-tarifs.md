@@ -5,8 +5,8 @@ title: Horaires et tarifs
 schedule:
 - title: lundi
   blocks:
-  - start: '09h30'
-    end: 12h
+  - start: '09h00'
+    end: 11h30
     category: adultes
     subtext: Cycle MBSR dès 04 octobre 2021
   - start: 16h
