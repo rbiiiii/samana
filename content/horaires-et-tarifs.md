@@ -89,7 +89,7 @@ rate:
   - 1h30
   price: '10€ '
   period: 23 septembre 2021
-  img: "/v1621238499/daniel-mingook-kim-UXR--t8CZ1U-unsplash_pm1z61.jpg"
+  img: "/v1629487416/saffu-pYaKs30p9zg-unsplash_kifjbw.jpg"
   text: Inscription à la séance d'information sur le programme MBSR, (obligatoire
     en vue d'une inscription au cycle de8 semaines)
   snip_id: InfoMBSR-sept21
