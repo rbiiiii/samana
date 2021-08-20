@@ -48,7 +48,39 @@ schedule:
 - title: Samedi
   blocks: []
 rate:
-- title: Cours de yoga enfants
+- title: Cours de yoga ados 14h45
+  show: true
+  type: []
+  period: du 22 septembre au 26 janvier 2020
+  img: "/v1575800407/YOGA_POUR_ADOS_12-18_ANS_nwtwus.png"
+  text: "Cours de yoga 12-18 ans: gestion du stress, image de soi, rester en lien
+    avec son corps qui évolue, améliorer sa posture et sa respiration, ...   \nRespirer
+    et savoir petit à petit apprivoiser sa vie intérieure..."
+  price: 150€ ou 105€ (prix réduit)
+  snip_price: 150
+  snip_id: yoagados-septjan22
+  snip_sale: true
+  snip_sale_price: 45
+- title: Cours de yoga du mercredi matin 09h00
+  show: true
+  type:
+  - 1h
+  period: du 22 septembre au 24 janvier 2022
+  img: "/v1575800406/yoga-4595166_1920_sbfhqc.jpg"
+  text: |-
+    Cours mercredi matin 09h00 jusque 10h00 (arrivée à 08h50 pour se placer dans la salle), 15 cours entre septembre 2021 et Janvier 2022.
+
+    Séance d'information le 22 septembre 2021 (sur inscription via email à contact@yogasamana.be), début des cours le 29 septembre 2021.
+
+    Cours de yoga en présentiel. !Ne pas payer le cours avant d'avoir eu ma confirmation qu'il reste bien des places. Merci :-).
+
+    Lieu: Corps et Conscience, 107 bv Kleyer à 4000 Liège.
+  price: 210€ ou 150€ (tarif réduit)
+  snip_price: 210
+  snip_id: yoga-mercmatinseptjan22
+  snip_sale: true
+  snip_sale_price: 60
+- title: Cours de yoga enfants 13h30
   show: true
   type: []
   period: du 22 septembre au 26 janvier 2022
@@ -80,25 +112,6 @@ rate:
     Lieu: Tout Coquelicot, 20 rue de la justice à 4420 Saint-Nicolas.
   snip_id: yoga-mardisoir-septjan22
   snip_price: 210
-  snip_sale: true
-  snip_sale_price: 60
-- title: Cours de yoga du mercredi matin 09h00
-  show: true
-  type:
-  - 1h
-  period: du 22 septembre au 24 janvier 2022
-  img: "/v1575800406/yoga-4595166_1920_sbfhqc.jpg"
-  text: |-
-    Cours mercredi matin 09h00 jusque 10h00 (arrivée à 08h50 pour se placer dans la salle), 15 cours entre septembre 2021 et Janvier 2022.
-
-    Séance d'information le 22 septembre 2021 (sur inscription via email à contact@yogasamana.be), début des cours le 29 septembre 2021.
-
-    Cours de yoga en présentiel. !Ne pas payer le cours avant d'avoir eu ma confirmation qu'il reste bien des places. Merci :-).
-
-    Lieu: Corps et Conscience, 107 bv Kleyer à 4000 Liège.
-  price: 210€ ou 150€ (tarif réduit)
-  snip_price: 210
-  snip_id: yoga-mercmatinseptjan22
   snip_sale: true
   snip_sale_price: 60
 - title: Inscription séance d'information Cycle gestion du stress par la pleine conscience
