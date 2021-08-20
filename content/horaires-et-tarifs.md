@@ -21,6 +21,10 @@ schedule:
     subtext: Yoga - chez Tout Coquelicot
 - title: Mercredi
   blocks:
+  - start: 14h45
+    end: 15h45
+    category: ados
+    subtext: Yoga ados (Dès la 1ière secondaire) chez Corps et Conscience
   - start: 9h15
     end: 10h15
     category: adultes
