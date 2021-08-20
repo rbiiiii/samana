@@ -46,16 +46,17 @@ mbsr:
     conçue dans un cadre hospitalier pour réduire le stress résultant de la maladie,
     des douleurs chroniques et des traitements pénibles, cette approche a contribué
     largement à l’amélioration de la qualité de vie de nombreux patients et soignants.
-    Les programmes de réduction du stress ont désormais élargi leurs champs d’application,
-    sortant des hôpitaux pour venir en aide à d’autres catégories de population. Des
-    personnes de tout horizon ressentant le besoin de mieux apprivoiser le stress
-    de la vie moderne, un besoin d'une pause, d'apprendre à être autrement présent
-    à eux même.\n\nLors de ce cycle de 8 semaines nous aborderons toute une série
-    de pratiques et d'échanges en groupe nous permettant d'expérimenter et de nous
-    entraîner ensemble à la méditation de pleine conscience. \n\nAvant de pouvoir
-    confirmer votre inscription au cycle, merci de vous inscire à la séance d'information
-    obligatoire en remplissant le formulaire en ligne via le bouton ci-dessous.\n\nPour
-    toutes questions, contactez nous via contact@yogasamana.be."
+    Les programmes de réduction du stress en sortant des hôpitaux sont également destinés
+    à d’autres catégories de population. Des personnes de tout horizon ressentant
+    le besoin de mieux apprivoiser le stress de la vie moderne, un besoin d'une pause,
+    d'apprendre à être autrement présent à eux même, se relevant d'une période difficile.\n\nLors
+    de ce cycle de 8 semaines nous aborderons toute une série de pratiques et d'échanges
+    en groupe nous permettant d'expérimenter et de nous entraîner ensemble à la méditation
+    de pleine conscience. Participer à un cycle MBSR implique d'être présent-e toutes
+    les semaines et de s'investir dans une pratique quotidienne à domicile. \n\nAvant
+    de pouvoir confirmer votre inscription au cycle, merci de vous inscrire à la séance
+    d'information obligatoire en remplissant le formulaire en ligne via le bouton
+    ci-dessous.\n\nPour toutes questions, contactez nous via contact@yogasamana.be."
   register:
     show: true
     text: Inscrivez-vous
@@ -69,14 +70,14 @@ mbsr:
 
       * un court entretien téléphonique sur base du formulaire complété au préalable
       * 1 séance d’information (obligatoire) présentant le programme MBSR
-      * 8 séances de 2h30 à 3h00 (1 séance par semaine)
+      * 8 séances de 2h30 (1 séance par semaine), 3h00 la 1e et dernière séance
       * 1 journée de pratique entre la 6e et la 7e séance
 
       #### Contenu des séances
 
       * pratiques formelles (scan corporel, yoga en pleine conscience, méditation assise, méditation marché)
       * pratiques informelles
-      * éléments didactiques en lien avec le stress, les perceptions…
+      * éléments en lien avec le stress, les perceptions…
       * temps de réflexion et d’échanges en groupe visant, soutien le chemin dans la pratique
 
       #### Pratiques à domicile entre les séances
