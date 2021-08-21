@@ -100,7 +100,7 @@ rate:
   snip_id: yogaenfants-septjan22
   snip_sale: true
   snip_sale_price: 45
-- title: Cours de yoga mardi soir 20h15
+- title: Cours de yoga mardi 20h15
   show: true
   type: []
   price: 210€ ou 150€ (tarif réduit)
