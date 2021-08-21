@@ -65,7 +65,7 @@ rate:
   snip_id: yoagados-septjan22
   snip_sale: true
   snip_sale_price: 45
-- title: Cours de yoga du mercredi matin 09h00
+- title: Cours de yoga du mercredi 09h00
   show: true
   type:
   - 1h
