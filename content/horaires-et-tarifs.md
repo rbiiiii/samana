@@ -89,12 +89,12 @@ rate:
   type: []
   period: du 22 septembre au 26 janvier 2022
   img: "/v1629496262/AdobeStock_134920437-min_xyqdkc.jpg"
-  text: "Cours de yoga pour enfants entre 8 et 11 ans (école primaire). \n\nConnaître
+  text: "Cours de yoga pour enfants entre 8 et 11 ans (école primaire).\n\nConnaître
     ses émotions, connaître son corps, respirer et savoir petit à petit apprivoiser
     sa vie intérieure \U0001F609! Dans la détente et la bonne humeur \U0001F642!\n\nCours
-    d'essai sur inscription le mercredi 22 septembre, les cours reprennent le 29 septembre.
-    Attention à ne pas payer l'abonnement sans avoir confirmé avec moi la place disponible.
-    Merci :-)."
+    d'essai sur inscription le mercredi 22 septembre à 13h30 (sur inscription via
+    contact@yogasamana.be). Les cours reprennent le 29 septembre. Attention à ne pas
+    payer l'abonnement sans avoir confirmé avec moi la place disponible. Merci :-)."
   price: 150€ ou 105€ (prix réduit)
   snip_price: 105
   snip_id: yogaenfants-septjan22
