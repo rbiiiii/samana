@@ -84,7 +84,7 @@ rate:
   snip_id: yoga-mercmatinseptjan22
   snip_sale: true
   snip_sale_price: 60
-- title: Cours de yoga enfants 13h30
+- title: Cours de yoga enfants mercredi 13h30
   show: true
   type: []
   period: du 22 septembre au 26 janvier 2022
