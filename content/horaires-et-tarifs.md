@@ -102,7 +102,7 @@ rate:
   snip_id: yogaenfants-septjan22
   snip_sale: true
   snip_sale_price: 45
-- title: Cours de yoga mardi 20h15
+- title: Cours de yoga adultes - Mardi 20h15
   show: true
   type: []
   price: 210€ ou 150€ (tarif réduit)
@@ -114,6 +114,8 @@ rate:
     Séance d'information le mardi 21 septembre 2021 (sur inscription via email à contact@yogasamana.be), début des cours le 28 septembre 2021.
 
     Cours de yoga en présentiel. !Ne pas payer le cours avant d'avoir eu ma confirmation qu'il reste bien des places. Merci :-).
+
+    \-> Formulaire à remplir pour confirmer votre inscription avec le paiement: [https://forms.gle/ma642HhS8E2C6t2B6](https://forms.gle/ma642HhS8E2C6t2B6 "https://forms.gle/ma642HhS8E2C6t2B6")
 
     Lieu: Tout Coquelicot, 20 rue de la justice à 4420 Saint-Nicolas.
   snip_id: yoga-mardisoir-septjan22
