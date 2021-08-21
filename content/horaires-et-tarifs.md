@@ -48,14 +48,14 @@ schedule:
 - title: Samedi
   blocks: []
 rate:
-- title: Cours de yoga ados 14h45
+- title: Cours de yoga ados mercredi 14h45
   show: true
   type: []
   period: du 22 septembre au 26 janvier 2020
   img: "/v1575800407/YOGA_POUR_ADOS_12-18_ANS_nwtwus.png"
   text: "Cours de yoga 12-18 ans: gestion du stress, image de soi, rester en lien
-    avec son corps qui évolue, améliorer sa posture et sa respiration, ...   \nRespirer
-    et savoir petit à petit apprivoiser sa vie intérieure...\n\nSéance d’information
+    avec son corps qui évolue, améliorer sa posture et sa respiration.  \nRespirer
+    et savoir petit à petit apprivoiser sa vie intérieure.\n\nSéance d’information
     le 22 septembre 2021 (sur inscription via email à [contact@yogasamana.be](mailto:contact@yogasamana.be)),
     début des cours le 29 septembre 2021.\n\nCours de yoga en présentiel. !Ne pas
     payer le cours avant d’avoir eu ma confirmation qu’il reste bien des places. Merci
