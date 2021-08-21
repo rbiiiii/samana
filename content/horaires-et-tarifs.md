@@ -65,7 +65,7 @@ rate:
   snip_id: yoagados-septjan22
   snip_sale: true
   snip_sale_price: 45
-- title: Cours de yoga du mercredi 09h00
+- title: Cours de yoga adultes - Mercredi 09h00
   show: true
   type:
   - 1h
@@ -77,6 +77,8 @@ rate:
     Séance d'information le 22 septembre 2021 à 9h00 (sur inscription via email à contact@yogasamana.be), début des cours le 29 septembre 2021.
 
     Cours de yoga en présentiel. !Ne pas payer le cours avant d'avoir eu ma confirmation qu'il reste bien des places. Merci :-).
+
+    \-> Formulaire à remplir pour confirmer votre inscription avec le paiement: [https://forms.gle/ma642HhS8E2C6t2B6](https://forms.gle/ma642HhS8E2C6t2B6 "https://forms.gle/ma642HhS8E2C6t2B6")
 
     Lieu: Corps et Conscience, 107 bv Kleyer à 4000 Liège.
   price: 210€ ou 150€ (tarif réduit)
