@@ -17,32 +17,6 @@
                 </p>
             </div>
         </payment>
-        <order section="content-header">
-            <div class="root">
-                <div class="snipcart__box snipcart-order__box snipcart-order__box__header">
-                    <div class="snipcart__box--title">
-                        <div class="snipcart__box--badge snipcart__box--badge snipcart__box--badge-highlight snipcart__font--bold snipcart__font--secondary">
-                            <icon name="checkmark" class="snipcart__icon"></icon>
-                        </div>
-                        <div>
-                            <h1 class="snipcart__font--subtitle">{{ $localize('confirmation.thank_you_for_your_order') }}</h1>
-                        </div>
-                    </div>
-                    <div v-if="isConfirmationAsync" class="snipcart-order__async-confirmation-notice">
-                        <flash-message type="success">
-                            {{ $localize('confirmation.async_confirmation_notice') }}
-                        </flash-message>
-                    </div>
-                    <div v-else class="snipcart-order__invoice-number">
-                        {{ $localize('cart.invoice_number') }} : <em class="snipcart-order__invoice-number--highlight snipcart__font--black snipcart__font--secondary">{{ cart.invoiceNumber }}</em>
-                    </div>
-                    <div>
-                        <p style="color:#326d6c;margin: 20px 0 10px;font-weight: bold;font-size: 1.1rem;line-height: 1.25;">Lien vers votre formulaire d'inscription aux cours de yoga. Merci de le remplir avant de venir à votre premier cours :</p>
-                        <p><a style="color: #326d6c;font-weight: bold;font-size: 1.1rem;line-height: 1.25;text-decoration: underline;" href="https://forms.gle/2tchSwusog7wQFKu6">Formulaire d'inscription</a></strong></p>
-                    </div>
-                </div>
-            </div>
-        </order>
     </div>
 ` }}
 <script>
