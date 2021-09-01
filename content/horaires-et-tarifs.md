@@ -48,23 +48,42 @@ schedule:
 - title: Samedi
   blocks: []
 rate:
-- title: Cours de yoga ados mercredi 14h45
+- title: Inscription séance d'information Cycle gestion du stress par la pleine conscience
+    MBSR
+  show: true
+  type:
+  - 1h30
+  price: '10€ '
+  period: '20 septembre 2021 (à 9h30) ou 23 septembre 2021 (à 18h30) '
+  img: "/v1629487416/saffu-pYaKs30p9zg-unsplash_kifjbw.jpg"
+  text: |-
+    Inscription à la séance d'information sur le programme MBSR, (obligatoire en vue d'une inscription au cycle de 8 semaines)
+
+    Formulaire d'inscription en ligne à remplir **avant** la séance d'info si possible: [https://forms.gle/EcFXxVHNNgVrFB2z7](https://forms.gle/EcFXxVHNNgVrFB2z7 "https://forms.gle/EcFXxVHNNgVrFB2z7")
+  snip_id: InfoMBSR-sept21
+  snip_price: 10
+  snip_sale: false
+  snip_sale_price: 20
+- title: Cours de yoga adultes - Mardi 20h15
   show: true
   type: []
-  period: du 22 septembre au 26 janvier 2020
-  img: "/v1575800407/YOGA_POUR_ADOS_12-18_ANS_nwtwus.png"
-  text: "Cours de yoga 12-18 ans: gestion du stress, image de soi, rester en lien
-    avec son corps qui évolue, améliorer sa posture et sa respiration.  \nRespirer
-    et savoir petit à petit apprivoiser sa vie intérieure.\n\nSéance d’information
-    le 22 septembre 2021 à 14h45 (sur inscription via email à [contact@yogasamana.be](mailto:contact@yogasamana.be)),
-    début des cours le 29 septembre 2021.\n\nCours de yoga en présentiel. !Ne pas
-    payer le cours avant d’avoir eu ma confirmation qu’il reste bien des places. Merci
-    :-).\n\nLieu: Corps et Conscience, 107 bv Kleyer à 4000 Liège."
-  price: 150€ ou 105€ (prix réduit)
-  snip_price: 150
-  snip_id: yoagados-septjan22
+  price: 210€ ou 150€ (tarif réduit)
+  period: du 21 septembre au 25 janvier 2022
+  img: "/v1575800434/AdobeStock_245653305_ujwegf.jpg"
+  text: |-
+    Cours mardi soir à 20h15 jusque 21h15 (arrivée à 20h05 pour se placer dans la salle), 15 cours entre septembre 2021 et Janvier 2022.
+
+    Séance d'information le mardi 21 septembre 2021 (sur inscription via email à contact@yogasamana.be), début des cours le 28 septembre 2021.
+
+    Cours de yoga en présentiel. !Ne pas payer le cours avant d'avoir eu ma confirmation qu'il reste bien des places. Merci :-).
+
+    \-> Formulaire à remplir pour confirmer votre inscription avec le paiement: [https://forms.gle/ma642HhS8E2C6t2B6](https://forms.gle/ma642HhS8E2C6t2B6 "https://forms.gle/ma642HhS8E2C6t2B6")
+
+    Lieu: Tout Coquelicot, 20 rue de la justice à 4420 Saint-Nicolas.
+  snip_id: yoga-mardisoir-septjan22
+  snip_price: 210
   snip_sale: true
-  snip_sale_price: 45
+  snip_sale_price: 60
 - title: Cours de yoga adultes - Mercredi 09h00
   show: true
   type:
@@ -86,6 +105,23 @@ rate:
   snip_id: yoga-mercmatinseptjan22
   snip_sale: true
   snip_sale_price: 60
+- title: Cours de yoga ados mercredi 14h45
+  show: true
+  type: []
+  period: du 22 septembre au 26 janvier 2020
+  img: "/v1575800407/YOGA_POUR_ADOS_12-18_ANS_nwtwus.png"
+  text: "Cours de yoga 12-18 ans: gestion du stress, image de soi, rester en lien
+    avec son corps qui évolue, améliorer sa posture et sa respiration.  \nRespirer
+    et savoir petit à petit apprivoiser sa vie intérieure.\n\nSéance d’information
+    le 22 septembre 2021 à 14h45 (sur inscription via email à [contact@yogasamana.be](mailto:contact@yogasamana.be)),
+    début des cours le 29 septembre 2021.\n\nCours de yoga en présentiel. !Ne pas
+    payer le cours avant d’avoir eu ma confirmation qu’il reste bien des places. Merci
+    :-).\n\nLieu: Corps et Conscience, 107 bv Kleyer à 4000 Liège."
+  price: 150€ ou 105€ (prix réduit)
+  snip_price: 150
+  snip_id: yoagados-septjan22
+  snip_sale: true
+  snip_sale_price: 45
 - title: Cours de yoga enfants mercredi 13h30
   show: true
   type: []
@@ -102,42 +138,6 @@ rate:
   snip_id: yogaenfants-septjan22
   snip_sale: true
   snip_sale_price: 45
-- title: Cours de yoga adultes - Mardi 20h15
-  show: true
-  type: []
-  price: 210€ ou 150€ (tarif réduit)
-  period: du 21 septembre au 25 janvier 2022
-  img: "/v1575800434/AdobeStock_245653305_ujwegf.jpg"
-  text: |-
-    Cours mardi soir à 20h15 jusque 21h15 (arrivée à 20h05 pour se placer dans la salle), 15 cours entre septembre 2021 et Janvier 2022.
-
-    Séance d'information le mardi 21 septembre 2021 (sur inscription via email à contact@yogasamana.be), début des cours le 28 septembre 2021.
-
-    Cours de yoga en présentiel. !Ne pas payer le cours avant d'avoir eu ma confirmation qu'il reste bien des places. Merci :-).
-
-    \-> Formulaire à remplir pour confirmer votre inscription avec le paiement: [https://forms.gle/ma642HhS8E2C6t2B6](https://forms.gle/ma642HhS8E2C6t2B6 "https://forms.gle/ma642HhS8E2C6t2B6")
-
-    Lieu: Tout Coquelicot, 20 rue de la justice à 4420 Saint-Nicolas.
-  snip_id: yoga-mardisoir-septjan22
-  snip_price: 210
-  snip_sale: true
-  snip_sale_price: 60
-- title: Inscription séance d'information Cycle gestion du stress par la pleine conscience
-    MBSR
-  show: true
-  type:
-  - 1h30
-  price: '10€ '
-  period: 23 septembre 2021
-  img: "/v1629487416/saffu-pYaKs30p9zg-unsplash_kifjbw.jpg"
-  text: |-
-    Inscription à la séance d'information sur le programme MBSR, (obligatoire en vue d'une inscription au cycle de 8 semaines)
-
-    Formulaire d'inscription en ligne à remplir **avant** la séance d'info si possible: [https://forms.gle/EcFXxVHNNgVrFB2z7](https://forms.gle/EcFXxVHNNgVrFB2z7 "https://forms.gle/EcFXxVHNNgVrFB2z7")
-  snip_id: InfoMBSR-sept21
-  snip_price: 10
-  snip_sale: false
-  snip_sale_price: 20
 retreat:
 - title: Retraite Yoga et Méditation été 2021
   show: false
