@@ -100,7 +100,9 @@ mbsr:
     content: |-
       #### Séance d’information
 
-      Jeudi 23 septembre 2021 de 18h30 à 20h00 (inscription obligatoire, formulaire en ligne, 10€)
+      Lundi 20 septembre 2021 à 9h30 (Corps et Conscience) ou Jeudi 23 septembre 2021 de 18h30 à 20h00 (Chez tout Coquelicot)
+
+      (inscription obligatoire, formulaire en ligne, 10€)
 
       #### Cycle du lundi matin (format présentiel, par Chloé Dujardin instructrice MBSR qualifiée)
 
