@@ -9,10 +9,6 @@ schedule:
     end: 11h30
     category: adultes
     subtext: Cycle MBSR dès 04 octobre 2021
-  - start: 16h
-    end: 17h
-    category: enfants
-    subtext: Ecole Saint-Maur
 - title: Mardi
   blocks:
   - start: 20h15
