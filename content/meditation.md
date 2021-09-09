@@ -33,17 +33,17 @@ content_blocks:
       Je vous propose désormais des cycles de réduction du stress par la pleine conscience (MBSR). Le premier cycle démarre en octobre, avec un groupe le lundi matin et un groupe le jeudi soir.
       Vous trouvez toutes les informations sur le cycle MBSR et les modalités pratiques ci-dessous.
   - text: "La pleine conscience c'est quoi? \n\nPlus une façon d’être qu’une technique,
-      la plein conscience signifie diriger son attention, intentionnellement vers
-      l’instant présent et de façon non jugeante.\nC’est une pratique, ce n’est pas
-      une attitude naturelle constante chez nous. Et dans cette pratique nous cultivons
-      la curiosité, l’exploration, la bonté et l’amitié vis-à-vis de tout ce dont
-      nous pouvons faire l’expérience. Ce qui est agréable et aussi ce qui est désagréable
-      ou ni l’un ni l’autre.\n\nUne pratique qui moment après moment, jour après jours
-      et semaines après semaine nous emmène dans une expérience subtile de ce qui
-      est présent.\nNous pourrons être au contact très simplement avec notre mental
-      et notre corps. Au contact de ce qui est, de nos pensées autour de ce qui est
-      présent, de nos émotions, nos sensations ... C'est développer une autre manière
-      d'être là pur nous même et le monde qui nous entoure."
+      la pleine conscience signifie diriger son attention, intentionnellement vers
+      l’instant présent et de façon non jugeante.\n\nC’est une pratique, ce n’est
+      pas une attitude naturelle constante chez nous. Et dans cette pratique nous
+      cultivons la curiosité, l’exploration, la bonté et l’amitié vis-à-vis de tout
+      ce dont nous pouvons faire l’expérience. Ce qui est agréable et aussi ce qui
+      est désagréable ou ni l’un ni l’autre.\nUne pratique qui moment après moment,
+      jour après jours et semaines après semaine nous emmène dans une expérience subtile
+      de ce qui est présent.\n\nNous pourrons être au contact très simplement avec
+      notre mental et notre corps. Au contact de ce qui est, de nos pensées autour
+      de ce qui est présent, de nos émotions, nos sensations ... C'est développer
+      une autre manière d'être là pour nous même et le monde qui nous entoure."
 mbsr:
   show: true
   title: Cycle MBSR
