@@ -112,7 +112,9 @@ rate:
     le 22 septembre 2021 à 14h45 (sur inscription via email à [contact@yogasamana.be](mailto:contact@yogasamana.be)),
     début des cours le 29 septembre 2021.\n\nCours de yoga en présentiel. !Ne pas
     payer le cours avant d’avoir eu ma confirmation qu’il reste bien des places. Merci
-    :-).\n\nLieu: Corps et Conscience, 107 bv Kleyer à 4000 Liège."
+    :-).\n\nMerci de remplir le formulaire en ligne ici: [https://forms.gle/uwh3m9i99P55Vcss9](https://forms.gle/uwh3m9i99P55Vcss9
+    \"https://forms.gle/uwh3m9i99P55Vcss9\")\n\nLieu: Corps et Conscience, 107 bv
+    Kleyer à 4000 Liège."
   price: 150€ ou 105€ (prix réduit)
   snip_price: 150
   snip_id: yoagados-septjan22
