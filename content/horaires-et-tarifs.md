@@ -44,6 +44,19 @@ schedule:
 - title: Samedi
   blocks: []
 rate:
+- title: Cycle gestion du stress par la pleine conscience automne 2021
+  show: true
+  type: []
+  period: du 04 oct. (lundi matin) au 29 nov. 2021 et du 07oct. (jeudi soir) au 02
+    déc. 2021
+  img: "/v1575800419/AdobeStock_216060429_yjx8hp.jpg"
+  text: "Vous avez participé à la séance d'info MBSR de septembre 2021. \n\nVous pouvez
+    régler ici votre participation au cycle de pleine conscience MBSR. "
+  price: 275€
+  snip_price: 275
+  snip_id: MBSRautomne2021
+  snip_sale: false
+  snip_sale_price: 
 - title: Inscription séance d'information Cycle gestion du stress par la pleine conscience
     MBSR
   show: true
