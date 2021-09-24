@@ -44,7 +44,7 @@ schedule:
 - title: Samedi
   blocks: []
 rate:
-- title: Cycle gestion du stress par la pleine conscience automne 2021
+- title: Cycle gestion du stress par la pleine conscience automne 2021 MBSR
   show: true
   type: []
   period: du 04 oct. (lundi matin) au 29 nov. 2021 et du 07oct. (jeudi soir) au 02
