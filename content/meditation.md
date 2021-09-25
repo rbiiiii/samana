@@ -129,10 +129,10 @@ mbsr:
       #### Cycle du jeudi soir (format présentiel, par Chloé Dujardin instructrice MBSR qualifiée)
 
       1. Jeudi 07 octobre 2021, 18h30-21h30
-      2. Jeudi 13 octobre 2021, 18h30-21h00
-      3. Jeudi 20 octobre 2021, 18h30-21h00
-      4. Jeudi 27 octobre 2021, 18h30-21h00
-      5. Jeudi 03 novembre 2021 pas de session
+      2. Jeudi 14 octobre 2021, 18h30-21h00
+      3. Jeudi 21 octobre 2021, 18h30-21h00
+      4. Jeudi 28 octobre 2021, 18h30-21h00
+      5. Jeudi 04 novembre 2021 pas de session
       6. Jeudi 11 novembre 2021, 18h30-21h00
       7. Jeudi 18 novembre 2021, 18h30-21h00
       8. Jeudi 25 novembre 2021, 18h00-21h00
