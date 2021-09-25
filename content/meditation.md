@@ -110,7 +110,7 @@ mbsr:
     content: |-
       #### Séance d’information
 
-      Lundi 20 septembre 2021 à 9h30 (Corps et Conscience) ou Jeudi 23 septembre 2021 de 18h30 à 20h00 (Chez tout Coquelicot)
+      Lundi 20 septembre 2021 à 9h30 (Corps et Conscience) ou Jeudi 23 septembre 2021 de 18h30 à 21h00 (Chez tout Coquelicot)
 
       (inscription obligatoire, formulaire en ligne, 10€)
 
