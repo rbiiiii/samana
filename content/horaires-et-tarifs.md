@@ -59,7 +59,7 @@ rate:
   snip_sale_price: 
 - title: Inscription séance d'information Cycle gestion du stress par la pleine conscience
     MBSR
-  show: true
+  show: false
   type:
   - 1h30
   price: '10€ '
