@@ -73,7 +73,7 @@ rate:
   snip_price: 10
   snip_sale: false
   snip_sale_price: 20
-- title: Cours de yoga adultes - Mardi 20h15
+- title: COMPLET cours de yoga adultes - Mardi 20h15
   show: true
   type: []
   price: 210€ ou 150€ (tarif réduit)
@@ -93,7 +93,7 @@ rate:
   snip_price: 210
   snip_sale: true
   snip_sale_price: 60
-- title: Cours de yoga adultes - Mercredi 09h00
+- title: COMPLET cours de yoga adultes - Mercredi 09h00
   show: true
   type:
   - 1h
@@ -114,7 +114,7 @@ rate:
   snip_id: yoga-mercmatinseptjan22
   snip_sale: true
   snip_sale_price: 60
-- title: Cours de yoga ados mercredi 14h45
+- title: 2 places - Cours de yoga ados mercredi 14h45
   show: true
   type: []
   period: du 22 septembre au 26 janvier 2020
@@ -133,7 +133,7 @@ rate:
   snip_id: yoagados-septjan22
   snip_sale: true
   snip_sale_price: 45
-- title: Cours de yoga enfants mercredi 13h30
+- title: 5 places Cours de yoga enfants mercredi 13h30
   show: true
   type: []
   period: du 22 septembre au 26 janvier 2022
