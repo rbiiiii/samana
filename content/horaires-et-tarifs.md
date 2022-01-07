@@ -44,17 +44,19 @@ schedule:
 - title: Samedi
   blocks: []
 rate:
-- title: Cycle gestion du stress par la pleine conscience automne 2021 MBSR
+- title: 'Cycle MBSR - Gestion du stress par la pleine conscience Printemps 2022 '
   show: true
   type: []
-  period: du 04 oct. (lundi matin) au 29 nov. 2021 et du 07oct. (jeudi soir) au 02
-    déc. 2021
+  period: du 25 avril au 13 juin 2022 (lundi matin) et du 28/04 au 16 juin 2022 (jeudi
+    soir)
   img: "/v1575800419/AdobeStock_216060429_yjx8hp.jpg"
-  text: "Vous avez participé à la séance d'info MBSR de septembre 2021. \n\nVous pouvez
-    régler ici votre participation au cycle de pleine conscience MBSR. "
+  text: |-
+    Vous avez participé à la séance d'info MBSR de mars ou avril  2022.
+
+    Vous pouvez régler ici votre participation au cycle de pleine conscience MBSR.
   price: 275€
   snip_price: 275
-  snip_id: MBSRautomne2021
+  snip_id: MBSRprintemps2022
   snip_sale: false
   snip_sale_price: 
 - title: Inscription séance d'information Cycle gestion du stress par la pleine conscience
