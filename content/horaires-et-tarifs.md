@@ -136,7 +136,7 @@ rate:
   snip_sale: true
   snip_sale_price: 45
 - title: 5 places Cours de yoga enfants mercredi 13h30
-  show: true
+  show: false
   type: []
   period: du 22 septembre au 26 janvier 2022
   img: "/v1629496262/AdobeStock_134920437-min_xyqdkc.jpg"
