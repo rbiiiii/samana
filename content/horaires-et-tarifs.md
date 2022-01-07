@@ -70,7 +70,7 @@ rate:
   text: |-
     Inscription à la séance d'information sur le programme MBSR, (obligatoire en vue d'une inscription au cycle de 8 semaines)
 
-    Formulaire d'inscription en ligne à remplir **avant** la séance d'info si possible: [https://forms.gle/EcFXxVHNNgVrFB2z7](https://forms.gle/EcFXxVHNNgVrFB2z7 "https://forms.gle/EcFXxVHNNgVrFB2z7")
+    Formulaire d'inscription en ligne à remplir **avant** la séance d'info si possible: [https://forms.gle/paLPiQk8EqsSDaqx7](https://forms.gle/paLPiQk8EqsSDaqx7 "https://forms.gle/paLPiQk8EqsSDaqx7")
   snip_id: InfoMBSR-avril21
   snip_price: 10
   snip_sale: false
