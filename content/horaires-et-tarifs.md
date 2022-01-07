@@ -40,7 +40,7 @@ schedule:
   - start: 9h
     end: 10h
     category: adultes
-    subtext: Cours de yoga adultes chez Corsp et conscience.
+    subtext: Yoga adultes chez Corps et Conscience
 - title: Samedi
   blocks: []
 rate:
