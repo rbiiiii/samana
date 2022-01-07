@@ -173,15 +173,15 @@ mbsr:
 
       En cas d’annulation, jusque 72h avant le démarrage du cycle, le remboursement s’effectue avec une retenue de 80€. (non transférable à un autre cycle). Passé ce délais, en cas d’annulation aucun remboursement ne sera effectué.
 
-      #### Situation sanitaire pour le cycle de l’automne 2021
+      #### Situation sanitaire pour le cycle du printemps 2022
 
-      Le cycle de l’automne se donne en présentiel. En cas de décisions du gouvernement impliquant de ne plus pouvoir se réunir en présentiel, le programme sera transféré sous le format en ligne. En s’inscrivant au format présentiel, les personnes donnent leur consentement tacite à ces conditions. Il n’y a dès lors aucun remboursement ni transfert vers un programme ultérieur.
+      Le cycle du printemps se donne en présentiel. En cas de décisions du gouvernement impliquant de ne plus pouvoir se réunir en présentiel, le programme sera transféré sous le format en ligne. En s’inscrivant au format présentiel, les personnes donnent leur consentement tacite à ces conditions. Il n’y a dès lors aucun remboursement ni transfert vers un programme ultérieur.
 
       #### Conditions de participation et inscription
 
       ##### 1. Engagement préalable
 
-      Le programme MBSR doit être suivi dans son entièreté. Il est donc important de s’assurer d’être présent.e à l’ensemble des séances et la journée de pratique. Si de façon occasionnelle et en prévenant à l’avance, vous ne pouvez être présent.e lors d’une séance, vous pourrez y assister à l’autre cycle (horaire) de la même semaine.
+      **Le programme MBSR doit être suivi dans son entièreté. Il est donc important de s’assurer d’être présent.e à l’ensemble des séances et la journée de pratique.** Si de façon occasionnelle et en prévenant à l’avance, vous ne pouvez être présent.e lors d’une séance, vous pourrez y assister à l’autre cycle (horaire) de la même semaine.
 
       Le cycle comprend des pratiques à domicile entre les séances en groupe. Ces pratiques peuvent durer jusque 60 minutes par jours tout au long du cycle. Il est important en s'inscrivant pour le cycle de s’engager fermement à consacrer le temps prévu les pratiques formelles, les pratiques informelles au quotidien tout comme de prendre le temps de noter certaines expériences.
 
