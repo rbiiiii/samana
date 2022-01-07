@@ -59,19 +59,19 @@ rate:
   snip_id: MBSRprintemps2022
   snip_sale: false
   snip_sale_price: 
-- title: Inscription séance d'information Cycle gestion du stress par la pleine conscience
-    MBSR
+- title: Inscription Séance d'information Cycle MBSR - Gestion du stress par la pleine
+    conscience
   show: false
   type:
   - 1h30
   price: '10€ '
-  period: '20 septembre 2021 (à 9h30) ou 23 septembre 2021 (à 18h30) '
+  period: Lundi 28 mars ou les jeudi 31 mars et 21 avril 2022
   img: "/v1629487416/saffu-pYaKs30p9zg-unsplash_kifjbw.jpg"
   text: |-
     Inscription à la séance d'information sur le programme MBSR, (obligatoire en vue d'une inscription au cycle de 8 semaines)
 
     Formulaire d'inscription en ligne à remplir **avant** la séance d'info si possible: [https://forms.gle/EcFXxVHNNgVrFB2z7](https://forms.gle/EcFXxVHNNgVrFB2z7 "https://forms.gle/EcFXxVHNNgVrFB2z7")
-  snip_id: InfoMBSR-sept21
+  snip_id: InfoMBSR-avril21
   snip_price: 10
   snip_sale: false
   snip_sale_price: 20
