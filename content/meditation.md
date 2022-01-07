@@ -106,43 +106,41 @@ mbsr:
       * dissociation
       * attaques de panique récurrentes
       * troubles psychotiques (hallucinations, délires)
-  - title: Dates de L’automne 2021
+  - title: Dates Printemps 2021
     content: |-
       #### Séance d’information
 
-      Lundi 20 septembre 2021 à 9h30 (Corps et Conscience) ou Jeudi 23 septembre 2021 de 18h30 à 21h00 (Chez tout Coquelicot)
+      Lundi 28 mars 2021 de 10h à 11h30 ou Jeudi 31 mars 2021 & jeudi 21 avril de 18h30 à 21h00 (Chez tout Coquelicot)
 
       (inscription obligatoire, formulaire en ligne, 10€)
 
       #### Cycle du lundi matin (format présentiel, par Chloé Dujardin instructrice MBSR qualifiée)
 
-      1. Lundi 04 octobre 2021, 9h00 – 12h00
-      2. Lundi 11 octobre 2021, 9h00 – 11h30
-      3. Lundi 18 octobre 2021, 9h00 – 11h30
-      4. Lundi 25 octobre 2021, 9h00 – 11h30
-      5. Lundi 02 novembre pas de session
-      6. Lundi 08 novembre 2021, 9h00 – 11h30
-      7. Lundi 15 novembre 2021, 9h00 – 11h30
-      8. Lundi 22 novembre 2021, 9h00 – 11h30
-      9. Lundi 29 novembre 2021, 9h00 – 12h00
+      1. Lundi 25 avril 2022, 9h00 – 12h00
+      2. Lundi 02 Mai 2022, 9h00 – 11h30
+      3. Lundi 09 Mai 2022, 9h00 – 11h30
+      4. Lundi 16 Mai 2022, 9h00 – 11h30
+      5. Lundi 23 Mai 2022, 9h00 – 11h30
+      6. Lundi 30 Mai 2022, 9h00 – 11h30
+      7. **Mardi 07 Juin 2022**, 9h00 – 11h30
+      8. Lundi 13 juin 2022, 9h00 – 11h30
 
       #### Cycle du jeudi soir (format présentiel, par Chloé Dujardin instructrice MBSR qualifiée)
 
-      1. Jeudi 07 octobre 2021, 18h30-21h30
-      2. Jeudi 14 octobre 2021, 18h30-21h00
-      3. Jeudi 21 octobre 2021, 18h30-21h00
-      4. Jeudi 28 octobre 2021, 18h30-21h00
-      5. Jeudi 04 novembre 2021 pas de session
-      6. Jeudi 11 novembre 2021, 18h30-21h00
-      7. Jeudi 18 novembre 2021, 18h30-21h00
-      8. Jeudi 25 novembre 2021, 18h00-21h00
-      9. Jeudi 02 décembre 2021, 18h30-21h30
+      1. Jeudi 28 avril 2022, 18h30 – 21h30
+      2. Jeudi 05 Mai 2022, 18h30 – 21h00
+      3. Jeudi 12 Mai 2022, 18h30 – 21h00
+      4. Jeudi 19 Mai 2022, 18h30 – 21h00
+      5. **Mercredi 25 Mai 2022**, 18h30 – 21h00
+      6. Jeudi 02 juin 2022 , 18h30 – 21h00
+      7. Jeudi 09 juin 2022, 18h30 – 21h00
+      8. Jeudi 13 juin 2022, 18h30 – 21h30
 
       #### Journée de pratique en présentiel
 
       **Format**: Les deux groupes sont réunis dans lieu précisé au début du cycle.
 
-      **Dates**: Journée de pleine conscience le samedi 20 novembre 2021 de 09h30 à 17h00.
+      **Dates**: Journée de pleine conscience le samedi 04 juin 2022 de 09h30 à 17h00.
   - title: Lieux et matériel nécessaire
     content: "Cycle du lundi matin se déroule chez « **Corps et Conscience** »,  \n107
       bv Kleyer à 4000 Liège.\nCycle du jeudi soir se déroule chez « **Tout Coquelicot**
