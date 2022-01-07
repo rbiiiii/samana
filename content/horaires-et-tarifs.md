@@ -75,14 +75,14 @@ rate:
   snip_price: 10
   snip_sale: false
   snip_sale_price: 20
-- title: COMPLET cours de yoga adultes - Mardi 20h15
-  show: true
+- title: Cours de yoga adultes - Mardi 20h15
+  show: false
   type: []
   price: 210€ ou 150€ (tarif réduit)
-  period: du 21 septembre au 25 janvier 2022
+  period: du 06 février au 24 mai 2022
   img: "/v1575800434/AdobeStock_245653305_ujwegf.jpg"
   text: |-
-    Cours mardi soir à 20h15 jusque 21h15 (arrivée à 20h05 pour se placer dans la salle), 15 cours entre septembre 2021 et Janvier 2022.
+    Cours mardi soir à 20h15 jusque 21h15 (arrivée à 20h05 pour se placer dans la salle), 1 ateliers de 3h en février et 10 cours entre mars et Mai 2022.
 
     Séance d'information le mardi 21 septembre 2021 (sur inscription via email à contact@yogasamana.be), début des cours le 28 septembre 2021.
 
