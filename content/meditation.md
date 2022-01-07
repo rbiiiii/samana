@@ -142,17 +142,15 @@ mbsr:
 
       **Dates**: Journée de pleine conscience le samedi 04 juin 2022 de 09h30 à 17h00.
   - title: Lieux et matériel nécessaire
-    content: "Cycle du lundi matin se déroule chez « **Corps et Conscience** »,  \n107
-      bv Kleyer à 4000 Liège.\nCycle du jeudi soir se déroule chez « **Tout Coquelicot**
-      »,  \n20 rue de la justice à 4420 Saint-Nicolas. \n\nLa journée complète se
-      déroule le samedi 20 novemnre de 9h30 à 17h, chez « **Tout Coquelicot** », 20
-      rue de la justice à 4420 Saint-Nicolas. \n\n#### Séance en présentiel en studio\n\n*
-      Un tapis de sol\n* Si vous avez un coussin ou un petit tabouret de méditation,
-      vous vous pourrez les amener. (Nous avons des chaises à votre disposition également)\n*
-      Vêtements confortables.\n* Une couverture ou un châle.\n\n#### Séances de pratique
-      à domicile\n\n* Prévoir une pièce au calme, où vous pourrez pratiquer seul.e
-      sans être dérangé.e.\n* Un tapis de sol.\n* Chaise, un coussin ou un petit tabouret
-      de méditation pour la méditation assise."
+    content: "Les 2 cycles se déroulent chez « **Tout Coquelicot** »,  \n20 rue de
+      la justice à 4420 Saint-Nicolas.\n\nLa journée complète se déroule le 04 Juin
+      2022 de 9h30 à 17h, chez « **Tout Coquelicot** ».\n\n#### Séance en présentiel
+      en studio\n\n* Un tapis de sol\n* Si vous avez un coussin ou un petit tabouret
+      de méditation, vous vous pourrez les amener. (Nous avons des chaises à votre
+      disposition également)\n* Vêtements confortables.\n* Une couverture ou un châle.\n\n####
+      Séances de pratique à domicile\n\n* Prévoir une pièce au calme, où vous pourrez
+      pratiquer seul.e sans être dérangé.e.\n* Un tapis de sol.\n* Chaise, un coussin
+      ou un petit tabouret de méditation pour la méditation assise."
   - title: Tarifs et conditions d’annulation
     content: |-
       #### Séance d’information et contact au téléphone : <small>10€</small>.
