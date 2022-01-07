@@ -110,7 +110,7 @@ mbsr:
     content: |-
       #### Séance d’information
 
-      Lundi 28 mars 2021 de 10h à 11h30 ou Jeudi 31 mars 2021 & jeudi 21 avril de 18h30 à 21h00 (Chez tout Coquelicot)
+      Lundi 28 mars 2022 de 10h à 11h30 ou jeudi 31 mars & jeudi 21 avril 2022 de 18h30 à 21h00 (Chez tout Coquelicot)
 
       (inscription obligatoire, formulaire en ligne, 10€)
 
