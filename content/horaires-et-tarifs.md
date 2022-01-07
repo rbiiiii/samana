@@ -21,10 +21,6 @@ schedule:
     end: 10h00
     category: adultes
     subtext: Yoga adultes chez Corps et Conscience
-  - start: 13h30
-    end: 14h30
-    category: enfants
-    subtext: Yoga enfants chez Corps et Conscience
   - start: 14h45
     end: 15h45
     category: ados
@@ -40,7 +36,11 @@ schedule:
     category: adultes
     subtext: Cycle MBSR dès le 7 octobre 2021
 - title: Vendredi
-  blocks: []
+  blocks:
+  - start: 9h
+    end: 10h
+    category: adultes
+    subtext: Cours de yoga adultes chez Corsp et conscience.
 - title: Samedi
   blocks: []
 rate:
