@@ -82,7 +82,8 @@ rate:
   snip_sale_price: 20
 - title: Cours de yoga adultes - Mardi 20h15 (7 places)
   show: true
-  type: []
+  type:
+  - '4'
   price: 185€ ou 130€ (tarif réduit)
   period: du 06 février au 24 mai 2022
   img: "/v1575800434/AdobeStock_245653305_ujwegf.jpg"
