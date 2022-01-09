@@ -153,7 +153,8 @@ rate:
   snip_id: yoga-vendmatin-fevmai22
   snip_sale: true
   snip_sale_price: 55
-  type: []
+  type:
+  - '4'
   img: "/v1598214449/IMG_4551_zbks33.jpg"
 - title: 5 places Cours de yoga enfants mercredi 13h30
   show: false
