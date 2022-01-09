@@ -119,7 +119,8 @@ rate:
   snip_sale_price: 55
 - title: Cours de yoga ados - Mercredi 14h45 (2 places)
   show: false
-  type: []
+  type:
+  - '4'
   period: du 13 février au 25 mai 2022
   img: "/v1575800407/YOGA_POUR_ADOS_12-18_ANS_nwtwus.png"
   text: |-
