@@ -55,8 +55,8 @@ rate:
     2 ateliers de 3h avant la reprise du yoga hebdomadaire en mars, une belle manière de se rencontrer et de vérifier si c'est le moment de démarrer le yoga pour vous.
 
     Atelier comprenant de la philosophie du yoga, un peu de chant védique (à écouter ou à essayer!) et une pratique que vous pourrez reproduire chez vous.  avec Feuille/ rappel de l'enchaînement des postures et vidéo consultable sur le site internet.
-  price: "45"
-  snip_price: 50
+  price: "40"
+  snip_price: 40
   snip_id: yoga-atelier-fevmars22
   snip_sale: true
 - title: Cours de yoga adultes - Mardi 20h15 (7 places)
