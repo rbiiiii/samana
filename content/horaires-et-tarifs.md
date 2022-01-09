@@ -106,7 +106,7 @@ rate:
   text: |-
     Cours mercredi matin 09h00 jusque 10h00 (arrivée à 08h50 pour se placer dans la salle), 1 atelier de 3h le 6 février et 10 cours hebdomadaire entre mars et mai 2022.
 
-    \-> Formulaire à remplir avant le premier cours pour confirmer votre inscription avec le paiement: [https://forms.gle/ma642HhS8E2C6t2B6](https://forms.gle/ma642HhS8E2C6t2B6 "https://forms.gle/ma642HhS8E2C6t2B6")
+    \-> Formulaire à remplir avant le premier cours pour confirmer votre inscription avec le paiement: [https://forms.gle/TH4N5ef6zsMASXZd9](https://forms.gle/TH4N5ef6zsMASXZd9 "https://forms.gle/TH4N5ef6zsMASXZd9")
 
     Cours de yoga en présentiel. !Ne pas payer le cours avant d'avoir eu ma confirmation qu'il reste bien des places. Merci :-).
 
