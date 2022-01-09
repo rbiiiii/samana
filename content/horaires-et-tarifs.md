@@ -97,11 +97,11 @@ rate:
   snip_price: 185
   snip_sale: true
   snip_sale_price: 55
-- title: COMPLET cours de yoga adultes - Mercredi 09h00
+- title: Cours de yoga adultes - Mercredi 09h00
   show: true
   type:
   - 1h
-  period: du 22 septembre au 26 janvier 2022
+  period: du 6 février au 25 mai 2022
   img: "/v1575800406/yoga-4595166_1920_sbfhqc.jpg"
   text: |-
     Cours mercredi matin 09h00 jusque 10h00 (arrivée à 08h50 pour se placer dans la salle), 15 cours entre septembre 2021 et Janvier 2022.
