@@ -65,7 +65,7 @@ rate:
   type:
   - 1h30
   price: '10€ '
-  period: Lundi 28 mars ou les jeudi 31 mars et 21 avril 2022
+  period: Lundi 28 mars ou les jeudis 31 mars et 21 avril 2022
   img: "/v1629487416/saffu-pYaKs30p9zg-unsplash_kifjbw.jpg"
   text: |-
     Inscription à la séance d'information sur le programme MBSR, (obligatoire en vue d'une inscription au cycle de 8 semaines)
