@@ -116,7 +116,7 @@ rate:
   snip_id: yoga-mercmatin-fevmai22
   snip_sale: true
   snip_sale_price: 55
-- title: Cours de yoga ados mercredi 14h45 (2 places)
+- title: Cours de yoga ados - Mercredi 14h45 (2 places)
   show: false
   type: []
   period: du 13 février au 25 mai 2022
