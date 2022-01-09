@@ -44,6 +44,21 @@ schedule:
 - title: Samedi
   blocks: []
 rate:
+- title: Deux Ateliers Yoga Introduction, posture, philosophie.
+  show: true
+  type:
+  - '3'
+  period: Samedi 15 janvier & le dimanche 6 février 2022 (14h-17h)
+  snip_sale_price: 10
+  img: "/v1576530341/chloe-0086-min_rvjkme.jpg"
+  text: |-
+    2 ateliers de 3h avant la reprise du yoga hebdomadaire en mars, une belle manière de se rencontrer et de vérifier si c'est le moment de démarrer le yoga pour vous.
+
+    Atelier comprenant de la philosophie du yoga, un peu de chant védique (à écouter ou à essayer!) et une pratique que vous pourrez reproduire chez vous.  avec Feuille/ rappel de l'enchaînement des postures et vidéo consultable sur le site internet.
+  price: "45"
+  snip_price: 50
+  snip_id: yoga-atelier-fevmars22
+  snip_sale: true
 - title: 'Cycle MBSR - Gestion du stress par la pleine conscience Printemps 2022 '
   show: false
   type:
