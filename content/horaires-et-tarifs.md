@@ -79,7 +79,7 @@ rate:
   snip_price: 10
   snip_sale: false
   snip_sale_price: 20
-- title: Cours de yoga adultes - Mardi 20h15
+- title: Cours de yoga adultes - Mardi 20h15 (7 places)
   show: true
   type: []
   price: 185€ ou 130€ (tarif réduit)
@@ -97,7 +97,7 @@ rate:
   snip_price: 185
   snip_sale: true
   snip_sale_price: 55
-- title: Cours de yoga adultes - Mercredi 09h00
+- title: Cours de yoga adultes - Mercredi 09h00 (4 places)
   show: true
   type:
   - 1h
@@ -135,7 +135,7 @@ rate:
   snip_id: yoagados-septjan22
   snip_sale: true
   snip_sale_price: 45
-- title: Cours de yoga adultes - vendredi 9h
+- title: Cours de yoga adultes - vendredi 9h00 (New! 10 places)
   show: true
   period: Du 6 février au 20 mai 2022
   text: |-
