@@ -70,7 +70,11 @@ rate:
   text: |-
     Inscription à la séance d'information sur le programme MBSR, (obligatoire en vue d'une inscription au cycle de 8 semaines)
 
-    Formulaire d'inscription en ligne à remplir **avant** la séance d'info si possible: [https://forms.gle/paLPiQk8EqsSDaqx7](https://forms.gle/paLPiQk8EqsSDaqx7 "https://forms.gle/paLPiQk8EqsSDaqx7")
+    ! Formulaire d'inscription en ligne à remplir **avant** la séance d'info si possible: [https://forms.gle/paLPiQk8EqsSDaqx7](https://forms.gle/paLPiQk8EqsSDaqx7 "https://forms.gle/paLPiQk8EqsSDaqx7")
+
+    Lundi 28 mars de 10h à 11h30 chez Tout Coquelicot.
+
+    Jeudi 31mars et jeudi 21 avril de 18h30 à 20h chez Tout Coquelicot.
   snip_id: InfoMBSR-avril21
   snip_price: 10
   snip_sale: false
