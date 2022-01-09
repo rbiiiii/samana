@@ -191,23 +191,29 @@ rate:
   snip_sale: true
   snip_sale_price: 45
 retreat:
-- title: Retraite Yoga et Méditation été 2021
-  show: false
-  type: []
-  period: du 22 juillet au 24 juillet 2021
-  img: "/v1621238499/daniel-mingook-kim-UXR--t8CZ1U-unsplash_pm1z61.jpg"
-  text: "Trois journées complètes pour se retirer quelques jours et pratiquer du yoga
-    et de la méditation. (9h30 - 16h00)\n\nAvec une introduction à la gestion du stress
-    par la pleine conscience (MBSR) et aux écrits fondateurs du yoga.  \nLa retraite
-    est accessible à toutes et tous, débutants ou pratiquants.\n\nMagnifique manière
-    de célébrer l'instant présent, de profiter d'un partage sur la sagesse millénaire
-    du yoga et de la méditation.\n\nRetraite non résidentielle, avec auberge espagnole
-    tous les midis. Délicieux thé, tisanes et fruits bio disponibles toute la journée.
-    \ \nPlaces limitées*** (Lieu: Tout Coquelicot, 20 rue de la justice à 4420 Saint-Nicolas)"
-  snip_price: 180
+- title: Retraite Yoga et Méditation été 2022
+  show: true
+  type:
+  - '20'
+  period: du 21 juillet au 24 juillet 2021
+  img: "/v1641740543/chloe-0076-min_ogdxdm.jpg"
+  text: "Quatre journées complètes pour se retirer quelques jours et pratiquer du
+    yoga et de la méditation. (9h30 - 16h00)\n\nAvec une introduction à la gestion
+    du stress par la pleine conscience (MBSR) et aux écrits fondateurs du yoga.  \nLa
+    retraite est accessible à toutes et tous, débutants ou pratiquants.\n\nMagnifique
+    manière de célébrer l'instant présent, de profiter d'un partage sur la sagesse
+    millénaire du yoga et de la méditation.\n\nRetraite non résidentielle, avec auberge
+    espagnole tous les midis. Délicieux thé, tisanes et fruits bio disponibles toute
+    la journée.  \nPlaces limitées*** (Lieu: Tout Coquelicot, 20 rue de la justice
+    à 4420 Saint-Nicolas) Nécessité de participer à l'entièreté de la retraite. \n\nLe
+    tarif ne doit doit pas être un frein à votre participation, c'est pourquoi le
+    tarif réduit est destiné aux personnes en maladie, chômage, famille monoparentale,
+    pension, étudiants. Si le tarif est un soucis, ne pas hésiter à m'en parler, nous
+    trouverons une solution."
+  snip_price: 240
   snip_id: retraite-juillet-2021
   snip_sale: true
-  snip_sale_price: 30
-  price: 180€ ou 150€* (prix réduit)
+  snip_sale_price: 180
+  price: 240€ ou 180€* (prix réduit)
 
 ---
