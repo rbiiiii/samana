@@ -55,6 +55,8 @@ rate:
     2 ateliers de 3h avant la reprise du yoga hebdomadaire en mars, une belle manière de se rencontrer et de vérifier si c'est le moment de démarrer le yoga pour vous.
 
     Atelier comprenant de la philosophie du yoga, un peu de chant védique (à écouter ou à essayer!) et une pratique que vous pourrez reproduire chez vous.  avec Feuille/ rappel de l'enchaînement des postures et vidéo consultable sur le site internet.
+
+    \*Si vous ne pouvez, désirez ne participer qu'à un atelier, prix de 25€ à verser au compte BE30 0689 3991 8711 avec en communication atelier yoga janvier ou février, nom et prénom. (merci de vérifier d'abord avec moi s'il reste des places ;-). (contact@yogasamana.be)
   price: "40"
   snip_price: 40
   snip_id: yoga-atelier-fevmars22
