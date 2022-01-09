@@ -98,26 +98,24 @@ rate:
   snip_sale: true
   snip_sale_price: 55
 - title: Cours de yoga adultes - Mercredi 09h00
-  show: true
+  show: false
   type:
   - 1h
   period: du 6 février au 25 mai 2022
   img: "/v1575800406/yoga-4595166_1920_sbfhqc.jpg"
   text: |-
-    Cours mercredi matin 09h00 jusque 10h00 (arrivée à 08h50 pour se placer dans la salle), 15 cours entre septembre 2021 et Janvier 2022.
+    Cours mercredi matin 09h00 jusque 10h00 (arrivée à 08h50 pour se placer dans la salle), 1 atelier de 3h le 6 février et 10 cours hebdomadaire entre mars et mai 2022.
 
-    Séance d'information le 22 septembre 2021 à 9h00 (sur inscription via email à contact@yogasamana.be), début des cours le 29 septembre 2021.
+    \-> Formulaire à remplir avant le premier cours pour confirmer votre inscription avec le paiement: [https://forms.gle/ma642HhS8E2C6t2B6](https://forms.gle/ma642HhS8E2C6t2B6 "https://forms.gle/ma642HhS8E2C6t2B6")
 
     Cours de yoga en présentiel. !Ne pas payer le cours avant d'avoir eu ma confirmation qu'il reste bien des places. Merci :-).
 
-    \-> Formulaire à remplir pour confirmer votre inscription avec le paiement: [https://forms.gle/ma642HhS8E2C6t2B6](https://forms.gle/ma642HhS8E2C6t2B6 "https://forms.gle/ma642HhS8E2C6t2B6")
-
     Lieu: Corps et Conscience, 107 bv Kleyer à 4000 Liège.
-  price: 210€ ou 150€ (tarif réduit)
-  snip_price: 210
-  snip_id: yoga-mercmatinseptjan22
+  price: 185€ ou 130€ (tarif réduit)
+  snip_price: 185
+  snip_id: yoga-mercmatinfemai22
   snip_sale: true
-  snip_sale_price: 60
+  snip_sale_price: 55
 - title: 2 places - Cours de yoga ados mercredi 14h45
   show: true
   type: []
