@@ -187,7 +187,7 @@ mbsr:
 
       ##### 2. Formulaire
 
-      Compléter le formulaire en ligne de demande d’inscription. Il est strictement confidentiel et sera consulté exclusivement par l’instructrice Chloé Dujardin. Ce formulaire nous permet avant tout de connaître votre démarche et éventuellement de relever certains points d’attentions quant à votre participation au programme.
+      Compléter le formulaire en ligne de demande d’inscription avant la séance d'information si possible. ( [https://forms.gle/Uso8s94vd27Bsou2A](https://forms.gle/Uso8s94vd27Bsou2A) "https://forms.gle/Uso8s94vd27Bsou2A")) Il est strictement confidentiel et sera consulté exclusivement par l’instructrice Chloé Dujardin. Ce formulaire nous permet avant tout de connaître votre démarche et éventuellement de relever certains points d’attentions quant à votre participation au programme.
 
       ##### 3. Payer pour la séance d’information
 
