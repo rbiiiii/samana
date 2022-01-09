@@ -8,7 +8,7 @@ schedule:
   - start: '09h00'
     end: 11h30
     category: adultes
-    subtext: Cycle MBSR dès 04 octobre 2021
+    subtext: Cycle MBSR dès 25 avril 2022
 - title: Mardi
   blocks:
   - start: 20h15
