@@ -116,7 +116,7 @@ rate:
   snip_id: yoga-mercmatin-fevmai22
   snip_sale: true
   snip_sale_price: 55
-- title: 2 places - Cours de yoga ados mercredi 14h45
+- title: Cours de yoga ados mercredi 14h45 (2 places)
   show: true
   type: []
   period: du 22 septembre au 26 janvier 2020
