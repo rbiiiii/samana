@@ -98,7 +98,7 @@ rate:
   snip_sale: true
   snip_sale_price: 55
 - title: Cours de yoga adultes - Mercredi 09h00
-  show: false
+  show: true
   type:
   - 1h
   period: du 6 février au 25 mai 2022
@@ -113,7 +113,7 @@ rate:
     Lieu: Corps et Conscience, 107 bv Kleyer à 4000 Liège.
   price: 185€ ou 130€ (tarif réduit)
   snip_price: 185
-  snip_id: yoga-mercmatinfemai22
+  snip_id: yoga-mercmatin-fevmai22
   snip_sale: true
   snip_sale_price: 55
 - title: 2 places - Cours de yoga ados mercredi 14h45
