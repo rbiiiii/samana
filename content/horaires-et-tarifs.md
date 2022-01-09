@@ -209,11 +209,11 @@ retreat:
     participation, c'est pourquoi le tarif réduit est destiné aux personnes en maladie,
     chômage, famille monoparentale, pension, étudiants. Si le tarif est un soucis,
     ne pas hésiter à m'en parler, nous trouverons une solution."
-  price: 180€ ou 130€ (tarif réduit)
+  price: 180€ ou 135€ (tarif réduit)
   snip_price: 180
   snip_id: "130"
   snip_sale: true
-  snip_sale_price: 50
+  snip_sale_price: 45
   show: true
 - title: Retraite Yoga et Méditation été 2022
   show: true
