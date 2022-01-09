@@ -119,22 +119,23 @@ rate:
 - title: Cours de yoga ados mercredi 14h45 (2 places)
   show: true
   type: []
-  period: du 22 septembre au 26 janvier 2020
+  period: du 13 février au 25 mai 2022
   img: "/v1575800407/YOGA_POUR_ADOS_12-18_ANS_nwtwus.png"
-  text: "Cours de yoga 12-18 ans: gestion du stress, image de soi, rester en lien
-    avec son corps qui évolue, améliorer sa posture et sa respiration.  \nRespirer
-    et savoir petit à petit apprivoiser sa vie intérieure.\n\nSéance d’information
-    le 22 septembre 2021 à 14h45 (sur inscription via email à [contact@yogasamana.be](mailto:contact@yogasamana.be)),
-    début des cours le 29 septembre 2021.\n\nCours de yoga en présentiel. !Ne pas
-    payer le cours avant d’avoir eu ma confirmation qu’il reste bien des places. Merci
-    :-).\n\nMerci de remplir le formulaire en ligne ici: [https://forms.gle/uwh3m9i99P55Vcss9](https://forms.gle/uwh3m9i99P55Vcss9
-    \"https://forms.gle/uwh3m9i99P55Vcss9\")\n\nLieu: Corps et Conscience, 107 bv
-    Kleyer à 4000 Liège."
-  price: 150€ ou 105€ (prix réduit)
-  snip_price: 150
-  snip_id: yoagados-septjan22
+  text: |-
+    Cours de yoga 12-18 ans: gestion du stress, image de soi, rester en lien avec son corps qui évolue, améliorer sa posture et sa respiration. Respirer et savoir petit à petit apprivoiser sa vie intérieure.
+
+    1 atelier de 3h le 13 février et 10 cours hebdomadaire entre mars et mai 2022.
+
+    \-> Formulaire à remplir avant le premier cours pour confirmer votre inscription avec le paiement: [https://forms.gle/ma642HhS8E2C6t2B6](https://forms.gle/ma642HhS8E2C6t2B6 "https://forms.gle/ma642HhS8E2C6t2B6")
+
+    Cours de yoga en présentiel. !Ne pas payer le cours avant d'avoir eu ma confirmation qu'il reste bien des places. Merci :-).
+
+    Lieu: Corps et Conscience, 107 bv Kleyer à 4000 Liège.
+  price: 130€ ou 105€ (prix réduit)
+  snip_price: 130
+  snip_id: yoagados-fevmai22
   snip_sale: true
-  snip_sale_price: 45
+  snip_sale_price: 35
 - title: Cours de yoga adultes - vendredi 9h00 (New! 10 places)
   show: true
   period: Du 6 février au 20 mai 2022
