@@ -191,6 +191,28 @@ rate:
   snip_sale: true
   snip_sale_price: 45
 retreat:
+- title: Retraite yoga et méditation printemps 2022
+  type:
+  - '15'
+  period: du 16 au 18 avril 2022
+  img: "/v1641740804/chloe-0018_1_-min_e8pdmj.jpg"
+  text: "Trois journées complètes pour se retirer quelques jours et pratiquer du yoga
+    et de la méditation. (9h30 - 16h00)\n\nAvec une introduction aux écrits fondateurs
+    du yoga.  \nLa retraite est accessible à toutes et tous, débutants ou pratiquants.\n\nS'offrir
+    une pause sans attendre l'été, se ressourcer avec notre propre souffle. \n\nRetraite
+    non résidentielle, avec auberge espagnole tous les midis. Délicieux thé, tisanes
+    et fruits bio disponibles toute la journée.  \nPlaces limitées*** (Lieu: Tout
+    Coquelicot, 20 rue de la justice à 4420 Saint-Nicolas) Nécessité de participer
+    à l'entièreté de la retraite. \n\nLe tarif ne doit doit pas être un frein à votre
+    participation, c'est pourquoi le tarif réduit est destiné aux personnes en maladie,
+    chômage, famille monoparentale, pension, étudiants. Si le tarif est un soucis,
+    ne pas hésiter à m'en parler, nous trouverons une solution."
+  price: 180€ ou 130€ (tarif réduit)
+  snip_price: 180
+  snip_id: "130"
+  snip_sale: true
+  snip_sale_price: 50
+  show: true
 - title: Retraite Yoga et Méditation été 2022
   show: true
   type:
