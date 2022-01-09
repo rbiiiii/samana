@@ -59,42 +59,6 @@ rate:
   snip_price: 50
   snip_id: yoga-atelier-fevmars22
   snip_sale: true
-- title: 'Cycle MBSR - Gestion du stress par la pleine conscience Printemps 2022 '
-  show: false
-  type:
-  - '30'
-  period: du 25 avril au 13 juin 2022 (lundi matin) et du 28/04 au 16 juin 2022 (jeudi
-    soir)
-  img: "/v1575800419/AdobeStock_216060429_yjx8hp.jpg"
-  text: |-
-    Vous avez participé à la séance d'info MBSR de mars ou avril  2022.
-
-    Vous pouvez régler ici votre participation au cycle de pleine conscience MBSR.
-  price: 275€
-  snip_price: 275
-  snip_id: MBSRprintemps2022
-  snip_sale: false
-  snip_sale_price: 
-- title: Inscription Séance d'information Cycle MBSR - Gestion du stress par la pleine
-    conscience
-  show: true
-  type:
-  - 1h30
-  price: '10€ '
-  period: Lundi 28 mars ou les jeudis 31 mars et 21 avril 2022
-  img: "/v1629487416/saffu-pYaKs30p9zg-unsplash_kifjbw.jpg"
-  text: |-
-    Inscription à la séance d'information sur le programme MBSR, (obligatoire en vue d'une inscription au cycle de 8 semaines)
-
-    ! Formulaire d'inscription en ligne à remplir **avant** la séance d'info si possible: [https://forms.gle/paLPiQk8EqsSDaqx7](https://forms.gle/paLPiQk8EqsSDaqx7 "https://forms.gle/paLPiQk8EqsSDaqx7")
-
-    Lundi 28 mars de 10h à 11h30 chez Tout Coquelicot.
-
-    Jeudi 31mars et jeudi 21 avril de 18h30 à 20h chez Tout Coquelicot.
-  snip_id: InfoMBSR-avril21
-  snip_price: 10
-  snip_sale: false
-  snip_sale_price: 20
 - title: Cours de yoga adultes - Mardi 20h15 (7 places)
   show: true
   type:
@@ -173,6 +137,42 @@ rate:
   type:
   - '4'
   img: "/v1598214449/IMG_4551_zbks33.jpg"
+- title: 'Cycle MBSR - Gestion du stress par la pleine conscience Printemps 2022 '
+  show: false
+  type:
+  - '30'
+  period: du 25 avril au 13 juin 2022 (lundi matin) et du 28/04 au 16 juin 2022 (jeudi
+    soir)
+  img: "/v1575800419/AdobeStock_216060429_yjx8hp.jpg"
+  text: |-
+    Vous avez participé à la séance d'info MBSR de mars ou avril  2022.
+
+    Vous pouvez régler ici votre participation au cycle de pleine conscience MBSR.
+  price: 275€
+  snip_price: 275
+  snip_id: MBSRprintemps2022
+  snip_sale: false
+  snip_sale_price: 
+- title: Inscription Séance d'information Cycle MBSR - Gestion du stress par la pleine
+    conscience
+  show: true
+  type:
+  - 1h30
+  price: '10€ '
+  period: Lundi 28 mars ou les jeudis 31 mars et 21 avril 2022
+  img: "/v1629487416/saffu-pYaKs30p9zg-unsplash_kifjbw.jpg"
+  text: |-
+    Inscription à la séance d'information sur le programme MBSR, (obligatoire en vue d'une inscription au cycle de 8 semaines)
+
+    ! Formulaire d'inscription en ligne à remplir **avant** la séance d'info si possible: [https://forms.gle/paLPiQk8EqsSDaqx7](https://forms.gle/paLPiQk8EqsSDaqx7 "https://forms.gle/paLPiQk8EqsSDaqx7")
+
+    Lundi 28 mars de 10h à 11h30 chez Tout Coquelicot.
+
+    Jeudi 31mars et jeudi 21 avril de 18h30 à 20h chez Tout Coquelicot.
+  snip_id: InfoMBSR-avril21
+  snip_price: 10
+  snip_sale: false
+  snip_sale_price: 20
 - title: 5 places Cours de yoga enfants mercredi 13h30
   show: false
   type: []
