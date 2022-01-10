@@ -124,11 +124,13 @@ rate:
   show: true
   period: Du 11 mars au 20 mai 2022
   text: |-
-    Cours vendredi matin 09h00 jusque 10h00 (arrivée à 08h50 pour se placer dans la salle), 9 cours hebdomadaire entre mars et mai 2022. ( Envie d'essayer avant de démarrer? Voir les 2 ateliers de 3h proposés par ailleurs le Samedi 15 janvier et ou le dimanche 6 février-14h-17h)
+    Cours vendredi matin 09h00 jusque 10h00 (arrivée à 08h50 pour se placer dans la salle), 9 cours hebdomadaire entre mars et mai 2022. ( Envie d'essayer avant de démarrer? Voir les 2 ateliers de 3h proposés par ailleurs le Samedi 15 janvier et/ou le dimanche 6 février-14h-17h)
 
     \-> Formulaire à remplir avant le premier cours pour confirmer votre inscription avec le paiement: [https://forms.gle/TH4N5ef6zsMASXZd9](https://forms.gle/TH4N5ef6zsMASXZd9 "https://forms.gle/TH4N5ef6zsMASXZd9")
 
     Cours de yoga en présentiel. !Ne pas payer le cours avant d'avoir eu ma confirmation qu'il reste bien des places. Merci :-).
+
+    Pour les tarifs et paiements c'est ici: [https://www.yogasamana.be/horaires-tarifs/](https://www.yogasamana.be/horaires-tarifs/ "https://www.yogasamana.be/horaires-tarifs/").
 
     Lieu: Corps et Conscience, 107 bv Kleyer à 4000 Liège.
   price: 130€ ou 100€ (tarif réduit)
