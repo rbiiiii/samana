@@ -87,7 +87,7 @@ rate:
   period: du 9 mars au 25 mai 2022
   img: "/v1575800406/yoga-4595166_1920_sbfhqc.jpg"
   text: |-
-    Cours mercredi matin 09h00 jusque 10h00 (arrivée à 08h50 pour se placer dans la salle), 10 cours hebdomadaire entre mars et mai 2022.
+    Cours mercredi matin 09h00 jusque 10h00 (arrivée à 08h50 pour se placer dans la salle), 10 cours hebdomadaire entre mars et mai 2022. ( Envie d'essayer avant de démarrer? Voir les 2 ateliers de 3h proposés par ailleurs le Samedi 15 janvier et/ou le dimanche 6 février-14h-17h)
 
     \-> Formulaire à remplir avant le premier cours pour confirmer votre inscription avec le paiement: [https://forms.gle/TH4N5ef6zsMASXZd9](https://forms.gle/TH4N5ef6zsMASXZd9 "https://forms.gle/TH4N5ef6zsMASXZd9")
 
