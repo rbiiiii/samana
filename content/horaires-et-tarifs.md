@@ -225,7 +225,7 @@ retreat:
 - title: Retraite Yoga et Méditation été 2022
   show: true
   type:
-  - '20'
+  - 20h
   period: du 21 juillet au 24 juillet 2021
   img: "/v1641740543/chloe-0076-min_ogdxdm.jpg"
   text: "Quatre journées complètes pour se retirer quelques jours et pratiquer du
