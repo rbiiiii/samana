@@ -202,7 +202,7 @@ rate:
 retreat:
 - title: Retraite yoga et méditation printemps 2022
   type:
-  - '15'
+  - 15h
   period: du 16 au 18 avril 2022
   img: "/v1641740804/chloe-0018_1_-min_e8pdmj.jpg"
   text: "Trois journées complètes pour se retirer quelques jours et pratiquer du yoga
