@@ -84,7 +84,7 @@ rate:
   show: true
   type:
   - 1h
-  period: du 6 février au 25 mai 2022
+  period: du 9 mars au 25 mai 2022
   img: "/v1575800406/yoga-4595166_1920_sbfhqc.jpg"
   text: |-
     Cours mercredi matin 09h00 jusque 10h00 (arrivée à 08h50 pour se placer dans la salle), 1 atelier de 3h le 6 février et 10 cours hebdomadaire entre mars et mai 2022.
@@ -94,11 +94,11 @@ rate:
     Cours de yoga en présentiel. !Ne pas payer le cours avant d'avoir eu ma confirmation qu'il reste bien des places. Merci :-).
 
     Lieu: Corps et Conscience, 107 bv Kleyer à 4000 Liège.
-  price: 185€ ou 130€ (tarif réduit)
-  snip_price: 185
+  price: 140€ ou 110€ (tarif réduit)
+  snip_price: 140
   snip_id: yoga-mercmatin-fevmai22
   snip_sale: true
-  snip_sale_price: 55
+  snip_sale_price: 30
 - title: Cours de yoga ados - Mercredi 14h45 (2 places)
   show: false
   type:
