@@ -93,6 +93,8 @@ rate:
 
     Cours de yoga en présentiel. !Ne pas payer le cours avant d'avoir eu ma confirmation qu'il reste bien des places. Merci :-).
 
+    Pour les tarifs et paiements c'est ici: [https://www.yogasamana.be/horaires-tarifs/](https://www.yogasamana.be/horaires-tarifs/ "https://www.yogasamana.be/horaires-tarifs/").
+
     Lieu: Corps et Conscience, 107 bv Kleyer à 4000 Liège.
   price: 140€ ou 110€ (tarif réduit)
   snip_price: 140
