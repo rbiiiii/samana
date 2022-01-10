@@ -66,10 +66,10 @@ rate:
   type:
   - '4'
   price: 140€ ou 110€ (tarif réduit)
-  period: du 06 février au 24 mai 2022
+  period: du 08 mars au 24 mai 2022
   img: "/v1575800434/AdobeStock_245653305_ujwegf.jpg"
   text: |-
-    Cours mardi soir à 20h15 jusque 21h15 (arrivée à 20h05 pour se placer dans la salle), 10 cours hebdomadaire entre mars et mai 2022. (Voir les 2 ateliers de 3h proposés par ailleurs le dimanche 6 février)
+    Cours mardi soir à 20h15 jusque 21h15 (arrivée à 20h05 pour se placer dans la salle), 10 cours hebdomadaire entre mars et mai 2022. ( Envie d'essayer avant de démarrer? Voir les 2 ateliers de 3h proposés par ailleurs le Samedi 15 janvier et ou le dimanche 6 février-14h-17h)
 
     \-> Formulaire à remplir avant le premier cours pour confirmer votre inscription avec le paiement: [https://forms.gle/TH4N5ef6zsMASXZd9](https://forms.gle/TH4N5ef6zsMASXZd9 "https://forms.gle/TH4N5ef6zsMASXZd9")
 
