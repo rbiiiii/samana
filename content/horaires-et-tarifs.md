@@ -122,20 +122,20 @@ rate:
   snip_sale_price: 35
 - title: Cours de yoga adultes - vendredi 9h00 (New! 10 places)
   show: true
-  period: Du 6 février au 20 mai 2022
+  period: Du 11 mars au 20 mai 2022
   text: |-
-    Cours vendredi matin 09h00 jusque 10h00 (arrivée à 08h50 pour se placer dans la salle), 1 atelier de 3h le 6 février et 10 cours hebdomadaire entre mars et mai 2022.
+    Cours vendredi matin 09h00 jusque 10h00 (arrivée à 08h50 pour se placer dans la salle), 9 cours hebdomadaire entre mars et mai 2022. ( Envie d'essayer avant de démarrer? Voir les 2 ateliers de 3h proposés par ailleurs le Samedi 15 janvier et ou le dimanche 6 février-14h-17h)
 
     \-> Formulaire à remplir avant le premier cours pour confirmer votre inscription avec le paiement: [https://forms.gle/TH4N5ef6zsMASXZd9](https://forms.gle/TH4N5ef6zsMASXZd9 "https://forms.gle/TH4N5ef6zsMASXZd9")
 
     Cours de yoga en présentiel. !Ne pas payer le cours avant d'avoir eu ma confirmation qu'il reste bien des places. Merci :-).
 
     Lieu: Corps et Conscience, 107 bv Kleyer à 4000 Liège.
-  price: 185€ ou 130€ (tarif réduit)
-  snip_price: 185
+  price: 130€ ou 100€ (tarif réduit)
+  snip_price: 130
   snip_id: yoga-vendmatin-fevmai22
   snip_sale: true
-  snip_sale_price: 55
+  snip_sale_price: 30
   type:
   - '4'
   img: "/v1598214449/IMG_4551_zbks33.jpg"
