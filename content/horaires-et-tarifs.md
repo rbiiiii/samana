@@ -65,11 +65,11 @@ rate:
   show: true
   type:
   - '4'
-  price: 185€ ou 130€ (tarif réduit)
+  price: 140€ ou 110€ (tarif réduit)
   period: du 06 février au 24 mai 2022
   img: "/v1575800434/AdobeStock_245653305_ujwegf.jpg"
   text: |-
-    Cours mardi soir à 20h15 jusque 21h15 (arrivée à 20h05 pour se placer dans la salle), 1 atelier de 3h en février et 10 cours hebdomadaire entre mars et mai 2022.
+    Cours mardi soir à 20h15 jusque 21h15 (arrivée à 20h05 pour se placer dans la salle), 10 cours hebdomadaire entre mars et mai 2022. (Voir les 2 ateliers de 3h proposés par ailleurs le dimanche 6 février)
 
     \-> Formulaire à remplir avant le premier cours pour confirmer votre inscription avec le paiement: [https://forms.gle/TH4N5ef6zsMASXZd9](https://forms.gle/TH4N5ef6zsMASXZd9 "https://forms.gle/TH4N5ef6zsMASXZd9")
 
@@ -77,9 +77,9 @@ rate:
 
     Lieu: Tout Coquelicot, 20 rue de la justice à 4420 Saint-Nicolas.
   snip_id: yoga-mardisoir-fevmai22
-  snip_price: 185
+  snip_price: 140
   snip_sale: true
-  snip_sale_price: 55
+  snip_sale_price: 30
 - title: Cours de yoga adultes - Mercredi 09h00 (4 places)
   show: true
   type:
