@@ -148,7 +148,7 @@ rate:
 - title: 'Cycle MBSR - Gestion du stress par la pleine conscience Printemps 2022 '
   show: false
   type:
-  - '30'
+  - 2h30
   period: du 25 avril au 13 juin 2022 (lundi matin) et du 28/04 au 16 juin 2022 (jeudi
     soir)
   img: "/v1575800419/AdobeStock_216060429_yjx8hp.jpg"
