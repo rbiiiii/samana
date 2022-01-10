@@ -171,6 +171,8 @@ rate:
     Vous avez participé à la séance d'info MBSR de mars ou avril  2022.
 
     Vous pouvez régler ici votre participation au cycle de pleine conscience MBSR.
+
+    Si pas encore rempli, merci de remplir le formulaire d'inscription ici: [https://forms.gle/paLPiQk8EqsSDaqx7](https://forms.gle/paLPiQk8EqsSDaqx7 "https://forms.gle/paLPiQk8EqsSDaqx7")
   price: 275€
   snip_price: 275
   snip_id: MBSRprintemps2022
