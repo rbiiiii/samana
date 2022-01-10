@@ -47,7 +47,7 @@ rate:
 - title: Deux Ateliers Yoga Introduction, posture, philosophie.
   show: true
   type:
-  - '3'
+  - 3h
   period: Samedi 15 janvier & le dimanche 6 février 2022 (14h-17h)
   snip_sale_price: 10
   img: "/v1576530341/chloe-0086-min_rvjkme.jpg"
