@@ -112,7 +112,7 @@ mbsr:
 
       Lundi 28 mars 2022 de 10h à 11h30 ou jeudi 31 mars & jeudi 21 avril 2022 de 18h30 à 21h00 (Chez tout Coquelicot)
 
-      (inscription obligatoire, formulaire en ligne, 10€)
+      (inscription obligatoire, formulaire en ligne, 10€: voir ici: [https://www.yogasamana.be/horaires-tarifs/#tarifs-abonnements](https://www.yogasamana.be/horaires-tarifs/#tarifs-abonnements "https://www.yogasamana.be/horaires-tarifs/#tarifs-abonnements"))
 
       #### Cycle du lundi matin (format présentiel, par Chloé Dujardin instructrice MBSR qualifiée)
 
@@ -121,9 +121,10 @@ mbsr:
       3. Lundi 09 Mai 2022, 9h00 – 11h30
       4. Lundi 16 Mai 2022, 9h00 – 11h30
       5. Lundi 23 Mai 2022, 9h00 – 11h30
-      6. Lundi 30 Mai 2022, 9h00 – 11h30
+      6. Lundi 30 Mai 2022, pas de session
       7. **Mardi 07 Juin 2022**, 9h00 – 11h30
       8. Lundi 13 juin 2022, 9h00 – 11h30
+      9. Lundi 29 juin 2022 9h00 – 12h00
 
       #### Cycle du jeudi soir (format présentiel, par Chloé Dujardin instructrice MBSR qualifiée)
 
@@ -132,15 +133,16 @@ mbsr:
       3. Jeudi 12 Mai 2022, 18h30 – 21h00
       4. Jeudi 19 Mai 2022, 18h30 – 21h00
       5. **Mercredi 25 Mai 2022**, 18h30 – 21h00
-      6. Jeudi 02 juin 2022 , 18h30 – 21h00
+      6. Jeudi 02 juin 2022 , pas de session
       7. Jeudi 09 juin 2022, 18h30 – 21h00
-      8. Jeudi 13 juin 2022, 18h30 – 21h30
+      8. Jeudi 16 juin 2022, 18h30 – 21h00
+      9. Jeudi 23 juin 2022, 18h30 – 21h30
 
       #### Journée de pratique en présentiel
 
-      **Format**: Les deux groupes sont réunis dans lieu précisé au début du cycle.
+      **Format**: Les deux groupes sont réunis dans un lieu précisé au début du cycle.
 
-      **Dates**: Journée de pleine conscience le samedi 04 juin 2022 de 09h30 à 17h00.
+      **Dates**: Journée de pleine conscience le samedi 11 juin 2022 de 09h30 à 17h00.
   - title: Lieux et matériel nécessaire
     content: "Les 2 cycles se déroulent chez « **Tout Coquelicot** »,  \n20 rue de
       la justice à 4420 Saint-Nicolas.\n\nLa journée complète se déroule le 04 Juin
