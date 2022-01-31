@@ -64,15 +64,16 @@ rate:
 - title: Soutien à la pratique de la méditation (suite à un cycle MBSR)
   show: true
   type: []
-  period: Jeudis 20/01, 24/02 & 24/03
+  period: 24/02 & 24/03
   img: "/v1575800433/mountain-top-983890_1920_da2eoa.jpg"
-  text: "3 Soirées de soutien à la méditation, destinés uniquement pour les personnes
-    ayant suivi un cycle de gestion du stress par la pleine conscience (MBSR).\n\n45€
-    pour les 3 ou 20€ par session.\n\n\\*Si vous ne pouvez, désirez ne participer
-    qu’à un atelier, prix de 20€ à verser au compte BE30 0689 3991 8711 avec en communication
-    support médiation janvier, février ou mars + nom et prénom. "
-  price: "45"
-  snip_price: 45
+  text: |-
+    2 Soirées de soutien à la méditation, destinés uniquement pour les personnes ayant suivi un cycle de gestion du stress par la pleine conscience (MBSR).
+
+    40€ pour les 2 ou 15€ par session.
+
+    \*Si vous ne pouvez, désirez ne participer qu’à un atelier, prix de 15€ à verser au compte BE30 0689 3991 8711 avec en communication support médiation février ou mars + nom et prénom.
+  price: "40"
+  snip_price: 40
   snip_id: supportmeditation-janmars22
   snip_sale: false
   snip_sale_price: 
