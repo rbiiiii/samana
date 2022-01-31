@@ -106,11 +106,11 @@ mbsr:
       * dissociation
       * attaques de panique récurrentes
       * troubles psychotiques (hallucinations, délires)
-  - title: Dates Printemps 2021
+  - title: Dates Printemps 2022
     content: |-
       #### Séance d’information
 
-      Lundi 28 mars 2022 de 10h à 11h30 ou jeudi 31 mars & jeudi 21 avril 2022 de 18h30 à 21h00 (Chez tout Coquelicot)
+      Lundi 28 mars 2022 de 10h à 11h30 ou jeudi 31 mars & jeudi 21 avril 2022 de 18h30 à 21h00 (Chez tout Coquelicot, 20 rue de la justice à 4420 Saint-Nicolas)
 
       (inscription obligatoire, formulaire en ligne, 10€: voir ici: [https://www.yogasamana.be/horaires-tarifs/#tarifs-abonnements](https://www.yogasamana.be/horaires-tarifs/#tarifs-abonnements "https://www.yogasamana.be/horaires-tarifs/#tarifs-abonnements"))
 
