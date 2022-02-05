@@ -34,7 +34,7 @@ schedule:
   - start: 18h30
     end: 21h
     category: adultes
-    subtext: Cycle MBSR dès le 28 avril 2022
+    subtext: Cycle MBSR dès le 28 avril 2022 Chez Tout Coquelicot
 - title: Vendredi
   blocks:
   - start: 9h
