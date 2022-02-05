@@ -262,7 +262,7 @@ retreat:
   snip_price: 240
   snip_id: retraite-juillet-2021
   snip_sale: true
-  snip_sale_price: 180
+  snip_sale_price: 60
   price: 240€ ou 180€* (prix réduit)
 
 ---
