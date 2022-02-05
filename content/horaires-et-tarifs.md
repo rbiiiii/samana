@@ -8,7 +8,7 @@ schedule:
   - start: '09h00'
     end: 11h30
     category: adultes
-    subtext: Cycle MBSR dès 25 avril 2022
+    subtext: Cycle MBSR dès le 25 avril 2022 Chez Tout Coquelicot
 - title: Mardi
   blocks:
   - start: 20h15
