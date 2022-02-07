@@ -2,8 +2,7 @@
 slug: videos
 type: videos
 title: Vidéos
-intro: Je vous partage quelques vidéos de pratiques de yoga sur cette page. Je proposerai
-  des vidéos ciblées pour les personnes suivant mes cours en semaine.
+intro: 'Je vous partage quelques vidéos de pratiques de yoga sur cette page. '
 videos:
 - title: Changer les perspectives - Yoga du matin
   id: "-ABhTqG0Vis"
