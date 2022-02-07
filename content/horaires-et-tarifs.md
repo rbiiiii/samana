@@ -222,7 +222,7 @@ rate:
   snip_sale: true
   snip_sale_price: 20
 retreat:
-- title: Retraite yoga et méditation printemps 2022
+- title: Retraite yoga et méditation Printemps 2022
   type:
   - 15h
   period: du 16 au 18 avril 2022
