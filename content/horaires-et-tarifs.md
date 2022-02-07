@@ -21,12 +21,16 @@ schedule:
     end: 10h00
     category: adultes
     subtext: Yoga adultes chez Corps et Conscience
+  - start: 13h30
+    end: 1'h30
+    category: enfants
+    subtext: Cours de yoga enfants dès 8 ans Chez Corps et Conscience
   - start: 14h45
     end: 15h45
     category: ados
     subtext: Yoga ados (Dès la 1ière secondaire) chez Corps et Conscience
-  - start: 18h
-    end: 20h
+  - start: 18h30
+    end: 20h30
     category: ados
     subtext: 'Bal Special - Danse '
 - title: Jeudi
