@@ -1,6 +1,5 @@
 +++
 categories = []
-draft = true
 photo = "/v1575800407/AdobeStock_101450117-1_gfprs7.jpg"
 publishdate = 2022-02-21T00:00:00Z
 title = "Le yoga et les enfants"
