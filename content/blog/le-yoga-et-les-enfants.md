@@ -39,3 +39,5 @@ A tout âge, le yoga est une excellente pratique pour développer sa conscience 
 ***
 
 Après ma formation spécifique au yoga pour enfant, cela fait maintenant 3 ans que je partage le yoga aux enfants dès 8 ans. Je propose un cours léger tout en étant fondé sur une pratique adaptée et spécifiquement construite pour les enfants. Ils s'amusent, ils apprennent, ils rayonnent :-).
+
+Cours les mercredis de 13h30 à 14h30 chez Corps et Conscience au 107 bv Kleyer à 4000 Liège. (reprise le 9 mars 2022)
