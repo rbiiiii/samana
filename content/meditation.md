@@ -142,11 +142,11 @@ mbsr:
 
       **Format**: Les deux groupes sont réunis dans un lieu précisé au début du cycle.
 
-      **Dates**: Journée de pleine conscience le samedi 11 juin 2022 de 09h30 à 17h00.
+      **Dates**: Journée de pleine conscience le samedi 11 juin 2022 de 09h30 à 17h00 Chez Terre et Source.
   - title: Lieux et matériel nécessaire
     content: "Les 2 cycles se déroulent chez « **Tout Coquelicot** »,  \n20 rue de
-      la justice à 4420 Saint-Nicolas.\n\nLa journée complète se déroule le 04 Juin
-      2022 de 9h30 à 17h, chez « **Tout Coquelicot** ».\n\n#### Séance en présentiel
+      la justice à 4420 Saint-Nicolas.\n\nJournée de pleine conscience le samedi 11
+      juin 2022 de 09h30 à 17h00 Chez \"Terre et Source\".\n\n#### Séance en présentiel
       en studio\n\n* Un tapis de sol\n* Si vous avez un coussin ou un petit tabouret
       de méditation, vous vous pourrez les amener. (Nous avons des chaises à votre
       disposition également)\n* Vêtements confortables.\n* Une couverture ou un châle.\n\n####
