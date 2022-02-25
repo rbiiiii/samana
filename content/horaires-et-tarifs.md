@@ -69,7 +69,7 @@ rate:
   type:
   - 1h
   img: "/v1598214449/IMG_4551_zbks33.jpg"
-- title: Cours de yoga adultes - Mardi 20h15 (5 places disponibles)
+- title: Cours de yoga adultes - Mardi 20h15 (3 places disponibles)
   show: true
   type:
   - 1h
