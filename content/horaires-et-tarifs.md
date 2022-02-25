@@ -144,7 +144,7 @@ rate:
   snip_id: yoagados-fevmai22
   snip_sale: true
   snip_sale_price: 25
-- title: Cours de yoga adultes - vendredi 9h00 (New! 10 places)
+- title: Cours de yoga adultes - vendredi 9h00 (New! 7 places)
   show: true
   period: Du 11 mars au 20 mai 2022
   text: |-
