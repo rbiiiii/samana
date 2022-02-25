@@ -81,7 +81,7 @@ rate:
   snip_id: supportmeditation-janmars22
   snip_sale: false
   snip_sale_price: 
-- title: Cours de yoga adultes - Mardi 20h15 (8 places disponibles)
+- title: Cours de yoga adultes - Mardi 20h15 (5 places disponibles)
   show: true
   type:
   - 1h
