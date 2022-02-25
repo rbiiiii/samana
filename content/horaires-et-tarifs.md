@@ -111,6 +111,24 @@ rate:
   snip_id: yoga-mercmatin-fevmai22
   snip_sale: true
   snip_sale_price: 30
+- title: Cours de yoga enfants mercredi 13h30 - 6 places
+  show: true
+  type:
+  - 1h
+  period: du 9mars au 25 mai 2022
+  img: "/v1629496262/AdobeStock_134920437-min_xyqdkc.jpg"
+  text: "Cours de yoga pour enfants entre 8 et 11 ans (école primaire).\n\nConnaître
+    ses émotions, connaître son corps, respirer et savoir petit à petit apprivoiser
+    sa vie intérieure \U0001F609! Dans la détente et la bonne humeur \U0001F642!\n\nLes
+    cours reprennent le 9 mars. Possibilité de venir faire un essai gratuitement.\n\nAttention
+    à ne pas payer l'abonnement sans avoir confirmé avec moi la place disponible.
+    Merci :-).\n\nMerci de remplir le formulaire en ligne ici: [https://forms.gle/uwh3m9i99P55Vcss9](https://forms.gle/uwh3m9i99P55Vcss9
+    \"https://forms.gle/uwh3m9i99P55Vcss9\")"
+  price: 100€ ou 80€ (prix réduit)
+  snip_price: 100
+  snip_id: yogaenfants-fevmai22
+  snip_sale: true
+  snip_sale_price: 20
 - title: Cours de yoga ados - Mercredi 14h45 (2 places)
   show: true
   type:
@@ -203,24 +221,6 @@ rate:
   snip_price: 40
   snip_id: yoga-atelier-fevmars22
   snip_sale: true
-- title: Cours de yoga enfants mercredi 13h30 -  10 places
-  show: true
-  type:
-  - 1h
-  period: du 9mars au 25 mai 2022
-  img: "/v1629496262/AdobeStock_134920437-min_xyqdkc.jpg"
-  text: "Cours de yoga pour enfants entre 8 et 11 ans (école primaire).\n\nConnaître
-    ses émotions, connaître son corps, respirer et savoir petit à petit apprivoiser
-    sa vie intérieure \U0001F609! Dans la détente et la bonne humeur \U0001F642!\n\nLes
-    cours reprennent le 9 mars. Possibilité de venir faire un essai gratuitement.\n\nAttention
-    à ne pas payer l'abonnement sans avoir confirmé avec moi la place disponible.
-    Merci :-).\n\nMerci de remplir le formulaire en ligne ici: [https://forms.gle/uwh3m9i99P55Vcss9](https://forms.gle/uwh3m9i99P55Vcss9
-    \"https://forms.gle/uwh3m9i99P55Vcss9\")"
-  price: 100€ ou 80€ (prix réduit)
-  snip_price: 100
-  snip_id: yogaenfants-fevmai22
-  snip_sale: true
-  snip_sale_price: 20
 retreat:
 - title: Retraite yoga et méditation Printemps 2022
   type:
