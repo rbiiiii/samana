@@ -48,39 +48,27 @@ schedule:
 - title: Samedi
   blocks: []
 rate:
-- title: Deux Ateliers Yoga Introduction, posture, philosophie.
-  show: false
-  type:
-  - 3h
-  period: Samedi 15 janvier & le dimanche 6 février 2022 (14h-17h)
-  snip_sale_price: 10
-  img: "/v1576530341/chloe-0086-min_rvjkme.jpg"
-  text: |-
-    2 ateliers de 3h avant la reprise du yoga hebdomadaire en mars, une belle manière de se rencontrer et de vérifier si c'est le moment de démarrer le yoga pour vous.
-
-    Atelier comprenant de la philosophie du yoga, un peu de chant védique (à écouter ou à essayer!) et une pratique que vous pourrez reproduire chez vous.  avec Feuille/ rappel de l'enchaînement des postures et vidéo consultable sur le site internet.
-
-    \*Si vous ne pouvez, désirez ne participer qu'à un atelier, prix de 25€ à verser au compte BE30 0689 3991 8711 avec en communication atelier yoga janvier ou février, nom et prénom. (merci de vérifier d'abord avec moi s'il reste des places ;-). (contact@yogasamana.be)
-  price: "40"
-  snip_price: 40
-  snip_id: yoga-atelier-fevmars22
-  snip_sale: true
-- title: Soutien à la pratique de la méditation (suite à un cycle MBSR)
+- title: Cours de yoga adultes - vendredi 9h00 (New! 7 places)
   show: true
-  type: []
-  period: 24/02 & 24/03
-  img: "/v1575800433/mountain-top-983890_1920_da2eoa.jpg"
+  period: Du 11 mars au 20 mai 2022
   text: |-
-    2 soirées de soutien à la méditation, destinés uniquement pour les personnes ayant suivi un cycle de gestion du stress par la pleine conscience (MBSR).
+    Cours vendredi matin 09h00 jusque 10h00 (arrivée à 08h50 pour se placer dans la salle), 9 cours hebdomadaire entre mars et mai 2022. ( Envie d'essayer avant de démarrer? Voir les 2 ateliers de 3h proposés par ailleurs le Samedi 15 janvier et/ou le dimanche 6 février-14h-17h)
 
-    40€ pour les 2 ou 25€ par session.
+    \-> Formulaire à remplir avant le premier cours pour confirmer votre inscription avec le paiement: [https://forms.gle/TH4N5ef6zsMASXZd9](https://forms.gle/TH4N5ef6zsMASXZd9 "https://forms.gle/TH4N5ef6zsMASXZd9")
 
-    \*Si vous ne pouvez, désirez ne participer qu’à un atelier, prix de 15€ à verser au compte BE30 0689 3991 8711 avec en communication support médiation février ou mars + nom et prénom.
-  price: "40"
-  snip_price: 40
-  snip_id: supportmeditation-janmars22
-  snip_sale: false
-  snip_sale_price: 
+    Cours de yoga en présentiel. !Ne pas payer le cours avant d'avoir eu ma confirmation qu'il reste bien des places. Merci :-).
+
+    Pour les tarifs et paiements c'est ici: [https://www.yogasamana.be/horaires-tarifs/](https://www.yogasamana.be/horaires-tarifs/ "https://www.yogasamana.be/horaires-tarifs/").
+
+    Lieu: Corps et Conscience, 107 bv Kleyer à 4000 Liège.
+  price: 130€ ou 100€ (tarif réduit)
+  snip_price: 130
+  snip_id: yoga-vendmatin-fevmai22
+  snip_sale: true
+  snip_sale_price: 30
+  type:
+  - 1h
+  img: "/v1598214449/IMG_4551_zbks33.jpg"
 - title: Cours de yoga adultes - Mardi 20h15 (5 places disponibles)
   show: true
   type:
@@ -144,45 +132,6 @@ rate:
   snip_id: yoagados-fevmai22
   snip_sale: true
   snip_sale_price: 25
-- title: Cours de yoga adultes - vendredi 9h00 (New! 7 places)
-  show: true
-  period: Du 11 mars au 20 mai 2022
-  text: |-
-    Cours vendredi matin 09h00 jusque 10h00 (arrivée à 08h50 pour se placer dans la salle), 9 cours hebdomadaire entre mars et mai 2022. ( Envie d'essayer avant de démarrer? Voir les 2 ateliers de 3h proposés par ailleurs le Samedi 15 janvier et/ou le dimanche 6 février-14h-17h)
-
-    \-> Formulaire à remplir avant le premier cours pour confirmer votre inscription avec le paiement: [https://forms.gle/TH4N5ef6zsMASXZd9](https://forms.gle/TH4N5ef6zsMASXZd9 "https://forms.gle/TH4N5ef6zsMASXZd9")
-
-    Cours de yoga en présentiel. !Ne pas payer le cours avant d'avoir eu ma confirmation qu'il reste bien des places. Merci :-).
-
-    Pour les tarifs et paiements c'est ici: [https://www.yogasamana.be/horaires-tarifs/](https://www.yogasamana.be/horaires-tarifs/ "https://www.yogasamana.be/horaires-tarifs/").
-
-    Lieu: Corps et Conscience, 107 bv Kleyer à 4000 Liège.
-  price: 130€ ou 100€ (tarif réduit)
-  snip_price: 130
-  snip_id: yoga-vendmatin-fevmai22
-  snip_sale: true
-  snip_sale_price: 30
-  type:
-  - 1h
-  img: "/v1598214449/IMG_4551_zbks33.jpg"
-- title: 'Cycle MBSR - Gestion du stress par la pleine conscience Printemps 2022 '
-  show: false
-  type:
-  - 2h30
-  period: du 25 avril au 13 juin 2022 (lundi matin) et du 28/04 au 16 juin 2022 (jeudi
-    soir)
-  img: "/v1575800419/AdobeStock_216060429_yjx8hp.jpg"
-  text: |-
-    Vous avez participé à la séance d'info MBSR de mars ou avril  2022.
-
-    Vous pouvez régler ici votre participation au cycle de pleine conscience MBSR.
-
-    Si pas encore rempli, merci de remplir le formulaire d'inscription ici: [https://forms.gle/paLPiQk8EqsSDaqx7](https://forms.gle/paLPiQk8EqsSDaqx7 "https://forms.gle/paLPiQk8EqsSDaqx7")
-  price: 275€
-  snip_price: 275
-  snip_id: MBSRprintemps2022
-  snip_sale: false
-  snip_sale_price: 
 - title: Inscription Séance d'information Cycle MBSR - Gestion du stress par la pleine
     conscience
   show: true
@@ -203,6 +152,57 @@ rate:
   snip_price: 10
   snip_sale: false
   snip_sale_price: 20
+- title: 'Cycle MBSR - Gestion du stress par la pleine conscience Printemps 2022 '
+  show: false
+  type:
+  - 2h30
+  period: du 25 avril au 13 juin 2022 (lundi matin) et du 28/04 au 16 juin 2022 (jeudi
+    soir)
+  img: "/v1575800419/AdobeStock_216060429_yjx8hp.jpg"
+  text: |-
+    Vous avez participé à la séance d'info MBSR de mars ou avril  2022.
+
+    Vous pouvez régler ici votre participation au cycle de pleine conscience MBSR.
+
+    Si pas encore rempli, merci de remplir le formulaire d'inscription ici: [https://forms.gle/paLPiQk8EqsSDaqx7](https://forms.gle/paLPiQk8EqsSDaqx7 "https://forms.gle/paLPiQk8EqsSDaqx7")
+  price: 275€
+  snip_price: 275
+  snip_id: MBSRprintemps2022
+  snip_sale: false
+  snip_sale_price: 
+- title: Soutien à la pratique de la méditation (suite à un cycle MBSR)
+  show: true
+  type: []
+  period: 24/02 & 24/03
+  img: "/v1575800433/mountain-top-983890_1920_da2eoa.jpg"
+  text: |-
+    2 soirées de soutien à la méditation, destinés uniquement pour les personnes ayant suivi un cycle de gestion du stress par la pleine conscience (MBSR).
+
+    40€ pour les 2 ou 25€ par session.
+
+    \*Si vous ne pouvez, désirez ne participer qu’à un atelier, prix de 15€ à verser au compte BE30 0689 3991 8711 avec en communication support médiation février ou mars + nom et prénom.
+  price: "40"
+  snip_price: 40
+  snip_id: supportmeditation-janmars22
+  snip_sale: false
+  snip_sale_price: 
+- title: Deux Ateliers Yoga Introduction, posture, philosophie.
+  show: false
+  type:
+  - 3h
+  period: Samedi 15 janvier & le dimanche 6 février 2022 (14h-17h)
+  snip_sale_price: 10
+  img: "/v1576530341/chloe-0086-min_rvjkme.jpg"
+  text: |-
+    2 ateliers de 3h avant la reprise du yoga hebdomadaire en mars, une belle manière de se rencontrer et de vérifier si c'est le moment de démarrer le yoga pour vous.
+
+    Atelier comprenant de la philosophie du yoga, un peu de chant védique (à écouter ou à essayer!) et une pratique que vous pourrez reproduire chez vous.  avec Feuille/ rappel de l'enchaînement des postures et vidéo consultable sur le site internet.
+
+    \*Si vous ne pouvez, désirez ne participer qu'à un atelier, prix de 25€ à verser au compte BE30 0689 3991 8711 avec en communication atelier yoga janvier ou février, nom et prénom. (merci de vérifier d'abord avec moi s'il reste des places ;-). (contact@yogasamana.be)
+  price: "40"
+  snip_price: 40
+  snip_id: yoga-atelier-fevmars22
+  snip_sale: true
 - title: Cours de yoga enfants mercredi 13h30 -  10 places
   show: true
   type:
