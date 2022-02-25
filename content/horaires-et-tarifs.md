@@ -102,7 +102,7 @@ rate:
   snip_price: 140
   snip_sale: true
   snip_sale_price: 30
-- title: Cours de yoga adultes - Mercredi 09h00 (5 places disponibles)
+- title: Cours de yoga adultes - Mercredi 09h00 (4 places disponibles)
   show: true
   type:
   - 1h
