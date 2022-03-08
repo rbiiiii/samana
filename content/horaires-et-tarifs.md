@@ -48,7 +48,7 @@ schedule:
 - title: Samedi
   blocks: []
 rate:
-- title: Cours de yoga adultes - vendredi 9h00 (New! 7 places)
+- title: Cours de yoga adultes - vendredi 9h00 (New!2 places)
   show: true
   period: Du 11 mars au 20 mai 2022
   text: |-
