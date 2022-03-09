@@ -112,7 +112,7 @@ rate:
   snip_sale: true
   snip_sale_price: 30
 - title: Cours de yoga enfants mercredi 13h30 - 6 places
-  show: true
+  show: false
   type:
   - 1h
   period: du 9mars au 25 mai 2022
