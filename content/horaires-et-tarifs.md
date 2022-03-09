@@ -21,10 +21,6 @@ schedule:
     end: 10h00
     category: adultes
     subtext: Yoga adultes chez Corps et Conscience
-  - start: 13h30
-    end: 1'h30
-    category: enfants
-    subtext: Cours de yoga enfants dès 8 ans Chez Corps et Conscience
   - start: 14h45
     end: 15h45
     category: ados
@@ -48,7 +44,7 @@ schedule:
 - title: Samedi
   blocks: []
 rate:
-- title: Cours de yoga adultes - vendredi 9h00 (New!2 places)
+- title: Cours de yoga adultes - vendredi 9h00 (New!1 places)
   show: true
   period: Du 11 mars au 20 mai 2022
   text: |-
@@ -90,7 +86,7 @@ rate:
   snip_price: 140
   snip_sale: true
   snip_sale_price: 30
-- title: Cours de yoga adultes - Mercredi 09h00 (2 places disponibles)
+- title: Cours de yoga adultes - Mercredi 09h00 (1 place)
   show: true
   type:
   - 1h
