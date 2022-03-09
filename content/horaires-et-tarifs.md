@@ -79,8 +79,8 @@ rate:
     Vous pouvez régler ici votre participation au cycle de pleine conscience MBSR.
 
     Si pas encore rempli, merci de remplir le formulaire d'inscription ici: [https://forms.gle/paLPiQk8EqsSDaqx7](https://forms.gle/paLPiQk8EqsSDaqx7 "https://forms.gle/paLPiQk8EqsSDaqx7")
-  price: 275€
-  snip_price: 275
+  price: 290€
+  snip_price: 290
   snip_id: MBSRprintemps2022
   snip_sale: false
   snip_sale_price: 
