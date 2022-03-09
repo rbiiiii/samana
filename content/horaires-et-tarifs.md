@@ -44,6 +44,44 @@ schedule:
 - title: Samedi
   blocks: []
 rate:
+- title: Inscription Séance d'information Cycle MBSR - Gestion du stress par la pleine
+    conscience
+  show: true
+  type:
+  - 1h30
+  price: '10€ '
+  period: Lundi 28 mars ou les jeudis 31 mars et 21 avril 2022
+  img: "/v1629487416/saffu-pYaKs30p9zg-unsplash_kifjbw.jpg"
+  text: |-
+    Inscription à la séance d'information sur le programme MBSR, (obligatoire en vue d'une inscription au cycle de 8 semaines)
+
+    ! Formulaire d'inscription en ligne à remplir **avant** la séance d'info si possible: [https://forms.gle/paLPiQk8EqsSDaqx7](https://forms.gle/paLPiQk8EqsSDaqx7 "https://forms.gle/paLPiQk8EqsSDaqx7")
+
+    Lundi 28 mars de 10h à 11h30 chez Tout Coquelicot.
+
+    Jeudi 31mars et jeudi 21 avril de 18h30 à 20h chez Tout Coquelicot.
+  snip_id: InfoMBSR-avril21
+  snip_price: 10
+  snip_sale: false
+  snip_sale_price: 20
+- title: 'Cycle MBSR - Gestion du stress par la pleine conscience Printemps 2022 '
+  show: false
+  type:
+  - 2h30
+  period: du 25 avril au 13 juin 2022 (lundi matin) et du 28/04 au 16 juin 2022 (jeudi
+    soir)
+  img: "/v1575800419/AdobeStock_216060429_yjx8hp.jpg"
+  text: |-
+    Vous avez participé à la séance d'info MBSR de mars ou avril  2022.
+
+    Vous pouvez régler ici votre participation au cycle de pleine conscience MBSR.
+
+    Si pas encore rempli, merci de remplir le formulaire d'inscription ici: [https://forms.gle/paLPiQk8EqsSDaqx7](https://forms.gle/paLPiQk8EqsSDaqx7 "https://forms.gle/paLPiQk8EqsSDaqx7")
+  price: 275€
+  snip_price: 275
+  snip_id: MBSRprintemps2022
+  snip_sale: false
+  snip_sale_price: 
 - title: Cours de yoga adultes - vendredi 9h00 (New!1 places)
   show: true
   period: Du 11 mars au 20 mai 2022
@@ -107,24 +145,6 @@ rate:
   snip_id: yoga-mercmatin-fevmai22
   snip_sale: true
   snip_sale_price: 30
-- title: Cours de yoga enfants mercredi 13h30 - 6 places
-  show: false
-  type:
-  - 1h
-  period: du 9mars au 25 mai 2022
-  img: "/v1629496262/AdobeStock_134920437-min_xyqdkc.jpg"
-  text: "Cours de yoga pour enfants entre 8 et 11 ans (école primaire).\n\nConnaître
-    ses émotions, connaître son corps, respirer et savoir petit à petit apprivoiser
-    sa vie intérieure \U0001F609! Dans la détente et la bonne humeur \U0001F642!\n\nLes
-    cours reprennent le 9 mars. Possibilité de venir faire un essai gratuitement.\n\nAttention
-    à ne pas payer l'abonnement sans avoir confirmé avec moi la place disponible.
-    Merci :-).\n\nMerci de remplir le formulaire en ligne ici: [https://forms.gle/uwh3m9i99P55Vcss9](https://forms.gle/uwh3m9i99P55Vcss9
-    \"https://forms.gle/uwh3m9i99P55Vcss9\")"
-  price: 100€ ou 80€ (prix réduit)
-  snip_price: 100
-  snip_id: yogaenfants-fevmai22
-  snip_sale: true
-  snip_sale_price: 20
 - title: Cours de yoga ados - Mercredi 14h45 (2 places)
   show: true
   type:
@@ -146,44 +166,6 @@ rate:
   snip_id: yoagados-fevmai22
   snip_sale: true
   snip_sale_price: 25
-- title: Inscription Séance d'information Cycle MBSR - Gestion du stress par la pleine
-    conscience
-  show: true
-  type:
-  - 1h30
-  price: '10€ '
-  period: Lundi 28 mars ou les jeudis 31 mars et 21 avril 2022
-  img: "/v1629487416/saffu-pYaKs30p9zg-unsplash_kifjbw.jpg"
-  text: |-
-    Inscription à la séance d'information sur le programme MBSR, (obligatoire en vue d'une inscription au cycle de 8 semaines)
-
-    ! Formulaire d'inscription en ligne à remplir **avant** la séance d'info si possible: [https://forms.gle/paLPiQk8EqsSDaqx7](https://forms.gle/paLPiQk8EqsSDaqx7 "https://forms.gle/paLPiQk8EqsSDaqx7")
-
-    Lundi 28 mars de 10h à 11h30 chez Tout Coquelicot.
-
-    Jeudi 31mars et jeudi 21 avril de 18h30 à 20h chez Tout Coquelicot.
-  snip_id: InfoMBSR-avril21
-  snip_price: 10
-  snip_sale: false
-  snip_sale_price: 20
-- title: 'Cycle MBSR - Gestion du stress par la pleine conscience Printemps 2022 '
-  show: false
-  type:
-  - 2h30
-  period: du 25 avril au 13 juin 2022 (lundi matin) et du 28/04 au 16 juin 2022 (jeudi
-    soir)
-  img: "/v1575800419/AdobeStock_216060429_yjx8hp.jpg"
-  text: |-
-    Vous avez participé à la séance d'info MBSR de mars ou avril  2022.
-
-    Vous pouvez régler ici votre participation au cycle de pleine conscience MBSR.
-
-    Si pas encore rempli, merci de remplir le formulaire d'inscription ici: [https://forms.gle/paLPiQk8EqsSDaqx7](https://forms.gle/paLPiQk8EqsSDaqx7 "https://forms.gle/paLPiQk8EqsSDaqx7")
-  price: 275€
-  snip_price: 275
-  snip_id: MBSRprintemps2022
-  snip_sale: false
-  snip_sale_price: 
 - title: Soutien à la pratique de la méditation (suite à un cycle MBSR)
   show: true
   type: []
@@ -200,6 +182,24 @@ rate:
   snip_id: supportmeditation-janmars22
   snip_sale: false
   snip_sale_price: 
+- title: Cours de yoga enfants mercredi 13h30 - 6 places
+  show: false
+  type:
+  - 1h
+  period: du 9mars au 25 mai 2022
+  img: "/v1629496262/AdobeStock_134920437-min_xyqdkc.jpg"
+  text: "Cours de yoga pour enfants entre 8 et 11 ans (école primaire).\n\nConnaître
+    ses émotions, connaître son corps, respirer et savoir petit à petit apprivoiser
+    sa vie intérieure \U0001F609! Dans la détente et la bonne humeur \U0001F642!\n\nLes
+    cours reprennent le 9 mars. Possibilité de venir faire un essai gratuitement.\n\nAttention
+    à ne pas payer l'abonnement sans avoir confirmé avec moi la place disponible.
+    Merci :-).\n\nMerci de remplir le formulaire en ligne ici: [https://forms.gle/uwh3m9i99P55Vcss9](https://forms.gle/uwh3m9i99P55Vcss9
+    \"https://forms.gle/uwh3m9i99P55Vcss9\")"
+  price: 100€ ou 80€ (prix réduit)
+  snip_price: 100
+  snip_id: yogaenfants-fevmai22
+  snip_sale: true
+  snip_sale_price: 20
 - title: Deux Ateliers Yoga Introduction, posture, philosophie.
   show: false
   type:
