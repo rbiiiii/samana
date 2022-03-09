@@ -234,7 +234,7 @@ retreat:
     participation, c'est pourquoi le tarif réduit est destiné aux personnes en maladie,
     chômage, famille monoparentale, pension, étudiants. Si le tarif est un soucis,
     ne pas hésiter à m'en parler, nous trouverons une solution."
-  price: 180€ ou 135€ (tarif réduit)
+  price: 180€ ou 155€ (tarif réduit)
   snip_price: 180
   snip_id: retraiteavril-22
   snip_sale: true
@@ -244,7 +244,7 @@ retreat:
   show: true
   type:
   - 20h
-  period: du 21 juillet au 24 juillet 2021
+  period: du 21 juillet au 24 juillet 2022
   img: "/v1641740543/chloe-0076-min_ogdxdm.jpg"
   text: "Quatre journées complètes pour se retirer quelques jours et pratiquer du
     yoga et de la méditation. (9h30 - 16h00)\n\nAvec une introduction à la gestion
