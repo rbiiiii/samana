@@ -260,9 +260,9 @@ retreat:
     pension, étudiants. Si le tarif est un soucis, ne pas hésiter à m'en parler, nous
     trouverons une solution."
   snip_price: 240
-  snip_id: retraite-juillet-2021
+  snip_id: retraite-juillet-2022
   snip_sale: true
-  snip_sale_price: 60
-  price: 240€ ou 180€* (prix réduit)
+  snip_sale_price: 40
+  price: 240€ ou 200€* (prix réduit)
 
 ---
