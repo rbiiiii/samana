@@ -236,9 +236,9 @@ retreat:
     ne pas hésiter à m'en parler, nous trouverons une solution."
   price: 180€ ou 135€ (tarif réduit)
   snip_price: 180
-  snip_id: "130"
+  snip_id: retraiteavril-22
   snip_sale: true
-  snip_sale_price: 45
+  snip_sale_price: 25
   show: true
 - title: Retraite Yoga et Méditation été 2022
   show: true
