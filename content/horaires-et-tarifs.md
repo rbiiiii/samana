@@ -84,7 +84,7 @@ rate:
   snip_id: MBSRprintemps2022
   snip_sale: false
   snip_sale_price: 
-- title: Cours de yoga adultes - vendredi 9h00 (New!1 places)
+- title: Cours de yoga adultes - vendredi 9h00 (New!2 places)
   show: true
   period: Du 11 mars au 20 mai 2022
   text: |-
