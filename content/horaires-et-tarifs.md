@@ -234,10 +234,12 @@ retreat:
     Coquelicot, 20 rue de la justice à 4420 Saint-Nicolas) Possibilité de faire 1,
     2 ou 3 journées avec une priorité accordée aux personnes participant à l'entièreté
     de la retraite.\n\nTarif pour une journée 85€, pour 2 jours 140€ et pour 3 180€.
-    (& pas de possibilité de tarif réduit pour moins de 3 jours)\n\nLe tarif ne doit
-    doit pas être un frein à votre participation, c'est pourquoi le tarif réduit est
-    destiné aux personnes en maladie, chômage, famille monoparentale, pension, étudiants.
-    Si le tarif est un soucis, ne pas hésiter à m'en parler, nous trouverons une solution."
+    (possibilité d'1 tarif réduit pour les 3 jours). Les 85€ ou 140€ peuvent être
+    payé en cash ou via versement ici: BE30 0689 3991 8711 avec en communication retraite
+    printemps 1 ou 2 jours et vos noms et prénoms)\n\nLe tarif ne doit doit pas être
+    un frein à votre participation, c'est pourquoi le tarif réduit est destiné aux
+    personnes en maladie, chômage, famille monoparentale, pension, étudiants. Si le
+    tarif est un soucis, ne pas hésiter à m'en parler, nous trouverons une solution."
   price: 180€ ou 155€ (tarif réduit)
   snip_price: 180
   snip_id: retraiteavril-22
