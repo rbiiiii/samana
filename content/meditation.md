@@ -142,7 +142,7 @@ mbsr:
 
       **Format**: Les deux groupes sont réunis dans un lieu précisé au début du cycle.
 
-      **Dates**: Journée de pleine conscience le samedi 11 juin 2022 de 09h30 à 17h00 Chez Terre et Source.
+      **Dates**: Journée de pleine conscience le samedi 11 juin 2022 de 09h30 à 17h00 Chez Terre et Source ([rue d’Aubel, 59 à 4651 Battice](https://www.google.com/maps/place/Rue+d'Aubel+59,+4651+Herve/@50.6493422,5.7959962,13z/data=!4m5!3m4!1s0x47c08cfa42ae4a73:0x26e11fdbdd69bb8a!8m2!3d50.6493405!4d5.8310153))
   - title: Lieux et matériel nécessaire
     content: "Les 2 cycles se déroulent chez « **Tout Coquelicot** »,  \n20 rue de
       la justice à 4420 Saint-Nicolas.\n\nJournée de pleine conscience le samedi 11
