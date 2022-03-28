@@ -124,7 +124,7 @@ mbsr:
       6. Lundi 30 Mai 2022, pas de session
       7. **Mardi 07 Juin 2022**, 9h00 – 11h30
       8. Lundi 13 juin 2022, 9h00 – 11h30
-      9. Lundi 29 juin 2022 9h00 – 12h00
+      9. Lundi 20 juin 2022 9h00 – 12h00
 
       #### Cycle du jeudi soir (format présentiel, par Chloé Dujardin instructrice MBSR qualifiée)
 
