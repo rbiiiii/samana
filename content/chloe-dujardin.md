@@ -60,6 +60,8 @@ formations:
     (Réduction du Stress Basée sur la Pleine Conscience)
 - text: Professeur de yoga certifiée pour enfants et adolescents auprès de Philip
     Rigo.
+- text: Membre de l'Association Belge Francophone de Pleine Conscience -Mindfullness
+    (ABFM)
 - text: Membre de la Fédération belge d'Hébertisme et de yoga.
 
 ---
