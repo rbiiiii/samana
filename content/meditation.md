@@ -144,15 +144,17 @@ mbsr:
 
       **Dates**: Journée de pleine conscience le samedi 11 juin 2022 de 09h30 à 17h00 Chez Terre et Source ([rue d’Aubel, 59 à 4651 Battice](https://www.google.com/maps/place/Rue+d'Aubel+59,+4651+Herve/@50.6493422,5.7959962,13z/data=!4m5!3m4!1s0x47c08cfa42ae4a73:0x26e11fdbdd69bb8a!8m2!3d50.6493405!4d5.8310153))
   - title: Lieux et matériel nécessaire
-    content: "Les 2 cycles se déroulent chez « **Tout Coquelicot** »,  \n20 rue de
-      la justice à 4420 Saint-Nicolas.\n\nJournée de pleine conscience le samedi 11
-      juin 2022 de 09h30 à 17h00 Chez \"Terre et Source\".\n\n#### Séance en présentiel
-      en studio\n\n* Un tapis de sol\n* Si vous avez un coussin ou un petit tabouret
-      de méditation, vous vous pourrez les amener. (Nous avons des chaises à votre
-      disposition également)\n* Vêtements confortables.\n* Une couverture ou un châle.\n\n####
-      Séances de pratique à domicile\n\n* Prévoir une pièce au calme, où vous pourrez
-      pratiquer seul.e sans être dérangé.e.\n* Un tapis de sol.\n* Chaise, un coussin
-      ou un petit tabouret de méditation pour la méditation assise."
+    content: "Les 2 cycles se déroulent chez « **Tout Coquelicot** »,  \n[20 rue de
+      la justice à 4420 Saint-Nicolas.](https://goo.gl/maps/ot8kTot5r1yj8vEA9)\n\nJournée
+      de pleine conscience le samedi 11 juin 2022 de 09h30 à 17h00 Chez \"Terre et
+      Source\".([rue d’Aubel, 59 à 4651 Battice](https://www.google.com/maps/place/Rue+d'Aubel+59,+4651+Herve/@50.6493422,5.7959962,13z/data=!4m5!3m4!1s0x47c08cfa42ae4a73:0x26e11fdbdd69bb8a!8m2!3d50.6493405!4d5.8310153))\n\n####
+      Séance en présentiel en studio\n\n* Un tapis de sol\n* Si vous avez un coussin
+      ou un petit tabouret de méditation, vous vous pourrez les amener. (Nous avons
+      des chaises à votre disposition également)\n* Vêtements confortables.\n* Une
+      couverture ou un châle.\n\n#### Séances de pratique à domicile\n\n* Prévoir
+      une pièce au calme, où vous pourrez pratiquer seul.e sans être dérangé.e.\n*
+      Un tapis de sol.\n* Chaise, un coussin ou un petit tabouret de méditation pour
+      la méditation assise."
   - title: Tarifs et conditions d’annulation
     content: |-
       #### Séance d’information et contact au téléphone : <small>10€</small>.
