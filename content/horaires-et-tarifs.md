@@ -68,11 +68,11 @@ rate:
   show: false
   type:
   - 2h30
-  period: du 25 avril au 13 juin 2022 (lundi matin) et du 28/04 au 16 juin 2022 (jeudi
+  period: du 25 avril au 20 juin 2022 (lundi matin) et du 28/04 au 23 juin 2022 (jeudi
     soir)
   img: "/v1575800419/AdobeStock_216060429_yjx8hp.jpg"
   text: |-
-    Vous avez participé à la séance d'info MBSR de mars ou avril  2022.
+    Vous avez participé à la séance d'info MBSR de mars ou avril 2022.
 
     Vous pouvez régler ici votre participation au cycle de pleine conscience MBSR.
 
@@ -82,7 +82,7 @@ rate:
   snip_id: MBSRprintemps2022
   snip_sale: false
   snip_sale_price: 
-- title: Cours de yoga adultes - vendredi 9h00 (New!2 places)
+- title: Cours de yoga adultes - vendredi 9h00 (complet)
   show: true
   period: Du 11 mars au 20 mai 2022
   text: |-
@@ -110,21 +110,20 @@ rate:
   price: 140€ ou 110€ (tarif réduit)
   period: du 08 mars au 24 mai 2022
   img: "/v1575800434/AdobeStock_245653305_ujwegf.jpg"
-  text: |-
-    Cours mardi soir à 20h15 jusque 21h15 (arrivée à 20h05 pour se placer dans la salle), 10 cours hebdomadaire entre mars et mai 2022. ( Envie d'essayer avant de démarrer? Voir les 2 ateliers de 3h proposés par ailleurs le Samedi 15 janvier et ou le dimanche 6 février-14h-17h)
-
-    \-> Formulaire à remplir avant le premier cours pour confirmer votre inscription avec le paiement: [https://forms.gle/TH4N5ef6zsMASXZd9](https://forms.gle/TH4N5ef6zsMASXZd9 "https://forms.gle/TH4N5ef6zsMASXZd9")
-
-    Cours de yoga en présentiel. !Ne pas payer le cours avant d'avoir eu ma confirmation qu'il reste bien des places. Merci :-).
-
-    Pour les tarifs et paiements c'est ici: [https://www.yogasamana.be/horaires-tarifs/](https://www.yogasamana.be/horaires-tarifs/ "https://www.yogasamana.be/horaires-tarifs/").
-
-    Lieu: Tout Coquelicot, 20 rue de la justice à 4420 Saint-Nicolas.
+  text: "Cours mardi soir à 20h15 jusque 21h15 (arrivée à 20h05 pour se placer dans
+    la salle), 10 cours hebdomadaire entre mars et mai 2022. \n\n\\-> Formulaire à
+    remplir avant le premier cours pour confirmer votre inscription avec le paiement:
+    [https://forms.gle/TH4N5ef6zsMASXZd9](https://forms.gle/TH4N5ef6zsMASXZd9 \"https://forms.gle/TH4N5ef6zsMASXZd9\")\n\nCours
+    de yoga en présentiel. !Ne pas payer le cours avant d'avoir eu ma confirmation
+    qu'il reste bien des places. Merci :-).\n\nPour les tarifs et paiements c'est
+    ici: [https://www.yogasamana.be/horaires-tarifs/](https://www.yogasamana.be/horaires-tarifs/
+    \"https://www.yogasamana.be/horaires-tarifs/\").\n\nLieu: Tout Coquelicot, 20
+    rue de la justice à 4420 Saint-Nicolas."
   snip_id: yoga-mardisoir-fevmai22
   snip_price: 140
   snip_sale: true
   snip_sale_price: 30
-- title: Cours de yoga adultes - Mercredi 09h00 (1 place)
+- title: Cours de yoga adultes - Mercredi 09h00 (complet)
   show: true
   type:
   - 1h
@@ -145,7 +144,7 @@ rate:
   snip_id: yoga-mercmatin-fevmai22
   snip_sale: true
   snip_sale_price: 30
-- title: Cours de yoga ados - Mercredi 14h45 (2 places)
+- title: Cours de yoga ados - Mercredi 14h45 (1 places)
   show: true
   type:
   - 1h
@@ -218,6 +217,30 @@ rate:
   snip_id: yoga-atelier-fevmars22
   snip_sale: true
 retreat:
+- title: Retraite Yoga et Méditation été 2022
+  show: true
+  type:
+  - 20h
+  period: du 21 juillet au 24 juillet 2022
+  img: "/v1641740543/chloe-0076-min_ogdxdm.jpg"
+  text: "Quatre journées complètes pour se retirer quelques jours et pratiquer du
+    yoga et de la méditation. (9h30 - 16h00)\n\nAvec une introduction à la gestion
+    du stress par la pleine conscience (MBSR) et aux écrits fondateurs du yoga.  \nLa
+    retraite est accessible à toutes et tous, débutants ou pratiquants.\n\nMagnifique
+    manière de célébrer l'instant présent, de profiter d'un partage sur la sagesse
+    millénaire du yoga et de la méditation.\n\nRetraite non résidentielle, avec auberge
+    espagnole tous les midis. Délicieux thé, tisanes et fruits bio disponibles toute
+    la journée.  \nPlaces limitées*** (Lieu: Tout Coquelicot, 20 rue de la justice
+    à 4420 Saint-Nicolas) Nécessité de participer à l'entièreté de la retraite. \n\nLe
+    tarif ne doit doit pas être un frein à votre participation, c'est pourquoi le
+    tarif réduit est destiné aux personnes en maladie, chômage, famille monoparentale,
+    pension, étudiants. Si le tarif est un soucis, ne pas hésiter à m'en parler, nous
+    trouverons une solution."
+  snip_price: 240
+  snip_id: retraite-juillet-2022
+  snip_sale: true
+  snip_sale_price: 40
+  price: 240€ ou 200€* (prix réduit)
 - title: Retraite yoga et méditation Printemps 2022
   type:
   - 15h
@@ -243,30 +266,6 @@ retreat:
   snip_id: retraiteavril-22
   snip_sale: true
   snip_sale_price: 25
-  show: true
-- title: Retraite Yoga et Méditation été 2022
-  show: true
-  type:
-  - 20h
-  period: du 21 juillet au 24 juillet 2022
-  img: "/v1641740543/chloe-0076-min_ogdxdm.jpg"
-  text: "Quatre journées complètes pour se retirer quelques jours et pratiquer du
-    yoga et de la méditation. (9h30 - 16h00)\n\nAvec une introduction à la gestion
-    du stress par la pleine conscience (MBSR) et aux écrits fondateurs du yoga.  \nLa
-    retraite est accessible à toutes et tous, débutants ou pratiquants.\n\nMagnifique
-    manière de célébrer l'instant présent, de profiter d'un partage sur la sagesse
-    millénaire du yoga et de la méditation.\n\nRetraite non résidentielle, avec auberge
-    espagnole tous les midis. Délicieux thé, tisanes et fruits bio disponibles toute
-    la journée.  \nPlaces limitées*** (Lieu: Tout Coquelicot, 20 rue de la justice
-    à 4420 Saint-Nicolas) Nécessité de participer à l'entièreté de la retraite. \n\nLe
-    tarif ne doit doit pas être un frein à votre participation, c'est pourquoi le
-    tarif réduit est destiné aux personnes en maladie, chômage, famille monoparentale,
-    pension, étudiants. Si le tarif est un soucis, ne pas hésiter à m'en parler, nous
-    trouverons une solution."
-  snip_price: 240
-  snip_id: retraite-juillet-2022
-  snip_sale: true
-  snip_sale_price: 40
-  price: 240€ ou 200€* (prix réduit)
+  show: false
 
 ---
