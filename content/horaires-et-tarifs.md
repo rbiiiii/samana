@@ -50,16 +50,14 @@ rate:
   type:
   - 1h30
   price: '10€ '
-  period: Lundi 28 mars ou les jeudis 31 mars et 21 avril 2022
+  period: le jeudi 21 avril 2022
   img: "/v1629487416/saffu-pYaKs30p9zg-unsplash_kifjbw.jpg"
   text: |-
     Inscription à la séance d'information sur le programme MBSR, (obligatoire en vue d'une inscription au cycle de 8 semaines)
 
     1\.Remplir le Formulaire d'inscription en ligne **avant** la séance d'info si possible: [https://forms.gle/paLPiQk8EqsSDaqx7](https://forms.gle/paLPiQk8EqsSDaqx7 "https://forms.gle/paLPiQk8EqsSDaqx7")
 
-    Lundi 28 mars de 10h à 11h30 chez Tout Coquelicot.
-
-    Jeudi 31mars et jeudi 21 avril de 18h30 à 20h chez Tout Coquelicot.
+    Jeudi 21 avril de 18h30 à 20h chez Tout Coquelicot.
 
     2\.Payer les 10€ en appuyant sur réservation.
   snip_id: InfoMBSR-avril22
