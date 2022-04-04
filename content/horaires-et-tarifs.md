@@ -65,16 +65,16 @@ rate:
   snip_sale: false
   snip_sale_price: 20
 - title: 'Cycle MBSR - Gestion du stress par la pleine conscience Printemps 2022 '
-  show: false
+  show: true
   type:
   - 2h30
   period: du 25 avril au 20 juin 2022 (lundi matin) et du 28/04 au 23 juin 2022 (jeudi
     soir)
   img: "/v1575800419/AdobeStock_216060429_yjx8hp.jpg"
   text: |-
-    Vous avez participé à la séance d'info MBSR de mars ou avril 2022.
+    Vous avez participé à la séance d'info MBSR de mars ou du 21 avril 2022.
 
-    Vous pouvez régler ici votre participation au cycle de pleine conscience MBSR.
+    Vous pouvez régler ici votre participation au cycle de réduction du stress par la pleine conscience MBSR.
 
     Si pas encore rempli, merci de remplir le formulaire d'inscription ici: [https://forms.gle/paLPiQk8EqsSDaqx7](https://forms.gle/paLPiQk8EqsSDaqx7 "https://forms.gle/paLPiQk8EqsSDaqx7")
   price: 290€
