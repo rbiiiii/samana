@@ -143,7 +143,7 @@ rate:
   snip_id: yoga-mercmatin-fevmai22
   snip_sale: true
   snip_sale_price: 30
-- title: Cours de yoga ados - Mercredi 14h45 (1 places)
+- title: Cours de yoga ados - Mercredi 14h45 (1 place)
   show: true
   type:
   - 1h
