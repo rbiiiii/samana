@@ -82,26 +82,6 @@ rate:
   snip_id: MBSRprintemps2022
   snip_sale: false
   snip_sale_price: 
-- title: Cours de yoga adultes - vendredi 9h00 (complet)
-  show: true
-  period: Du 11 mars au 20 mai 2022
-  text: "Cours vendredi matin 09h00 jusque 10h00 (arrivée à 08h50 pour se placer dans
-    la salle), 9 cours hebdomadaire entre mars et mai 2022. \n\n\\-> Formulaire à
-    remplir avant le premier cours pour confirmer votre inscription avec le paiement:
-    [https://forms.gle/TH4N5ef6zsMASXZd9](https://forms.gle/TH4N5ef6zsMASXZd9 \"https://forms.gle/TH4N5ef6zsMASXZd9\")\n\nCours
-    de yoga en présentiel. !Ne pas payer le cours avant d'avoir eu ma confirmation
-    qu'il reste bien des places. Merci :-).\n\nPour les tarifs et paiements c'est
-    ici: [https://www.yogasamana.be/horaires-tarifs/](https://www.yogasamana.be/horaires-tarifs/
-    \"https://www.yogasamana.be/horaires-tarifs/\").\n\nLieu: Corps et Conscience,
-    107 bv Kleyer à 4000 Liège."
-  price: 130€ ou 100€ (tarif réduit)
-  snip_price: 130
-  snip_id: yoga-vendmatin-fevmai22
-  snip_sale: true
-  snip_sale_price: 30
-  type:
-  - 1h
-  img: "/v1598214449/IMG_4551_zbks33.jpg"
 - title: Cours de yoga adultes - Mardi 20h15 (Liste d'attente)
   show: true
   type:
@@ -160,6 +140,26 @@ rate:
   snip_id: yoagados-fevmai22
   snip_sale: true
   snip_sale_price: 25
+- title: Cours de yoga adultes - vendredi 9h00 (complet)
+  show: true
+  period: Du 11 mars au 20 mai 2022
+  text: "Cours vendredi matin 09h00 jusque 10h00 (arrivée à 08h50 pour se placer dans
+    la salle), 9 cours hebdomadaire entre mars et mai 2022. \n\n\\-> Formulaire à
+    remplir avant le premier cours pour confirmer votre inscription avec le paiement:
+    [https://forms.gle/TH4N5ef6zsMASXZd9](https://forms.gle/TH4N5ef6zsMASXZd9 \"https://forms.gle/TH4N5ef6zsMASXZd9\")\n\nCours
+    de yoga en présentiel. !Ne pas payer le cours avant d'avoir eu ma confirmation
+    qu'il reste bien des places. Merci :-).\n\nPour les tarifs et paiements c'est
+    ici: [https://www.yogasamana.be/horaires-tarifs/](https://www.yogasamana.be/horaires-tarifs/
+    \"https://www.yogasamana.be/horaires-tarifs/\").\n\nLieu: Corps et Conscience,
+    107 bv Kleyer à 4000 Liège."
+  price: 130€ ou 100€ (tarif réduit)
+  snip_price: 130
+  snip_id: yoga-vendmatin-fevmai22
+  snip_sale: true
+  snip_sale_price: 30
+  type:
+  - 1h
+  img: "/v1598214449/IMG_4551_zbks33.jpg"
 - title: Soutien à la pratique de la méditation (suite à un cycle MBSR)
   show: true
   type: []
