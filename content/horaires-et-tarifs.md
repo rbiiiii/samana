@@ -161,7 +161,7 @@ rate:
   - 1h
   img: "/v1598214449/IMG_4551_zbks33.jpg"
 - title: Soutien à la pratique de la méditation (suite à un cycle MBSR)
-  show: true
+  show: false
   type: []
   period: 24/02 & 24/03
   img: "/v1575800433/mountain-top-983890_1920_da2eoa.jpg"
