@@ -218,18 +218,21 @@ retreat:
   - 20h
   period: du 21 juillet au 23 juillet 2022
   img: "/v1641740543/chloe-0076-min_ogdxdm.jpg"
-  text: "Trois journées complètes pour se retirer quelques jours et pratiquer du yoga
-    et de la méditation. (9h30 - 16h00)\n\nAvec une introduction à la gestion du stress
-    par la pleine conscience (MBSR) et aux écrits fondateurs du yoga.  \nLa retraite
-    est accessible à toutes et tous, débutants ou pratiquants.\n\nMagnifique manière
-    de célébrer l'instant présent, de profiter d'un partage sur la sagesse millénaire
-    du yoga et de la méditation.\n\nRetraite non résidentielle, avec auberge espagnole
-    tous les midis. Délicieux thé, tisanes et fruits bio disponibles toute la journée.
-    \ \nPlaces limitées*** (Lieu: Tout Coquelicot, 20 rue de la justice à 4420 Saint-Nicolas)
-    Nécessité de participer à l'entièreté de la retraite.\n\nLe tarif ne doit doit
-    pas être un frein à votre participation, c'est pourquoi le tarif réduit est destiné
-    aux personnes en maladie, chômage, famille monoparentale, pension, étudiants.
-    Si le tarif est un soucis, ne pas hésiter à m'en parler, nous trouverons une solution."
+  text: "Vous êtes en Belgique ce mois de juillet 2022? \n\nOffrez-vous une retraite
+    de yoga et de méditation. Du 21 au 23 juillet: 3 journées complètes pour se retirer
+    quelques jours à Liège. Un retraite pour prendre soin de soi, pratiquer du yoga
+    et de la méditation autour du thème de la compassion.\n\nAvec une introduction
+    à la gestion du stress par la pleine conscience (MBSR) et aux écrits fondateurs
+    du yoga. La retraite est accessible à toutes et tous, débutants ou pratiquants.\n\nMagnifique
+    manière de célébrer l'instant présent, de profiter d'un partage sur la sagesse
+    millénaire du yoga et de la méditation.\n\nRetraite non résidentielle, avec auberge
+    espagnole tous les midis. Délicieux thé, tisanes et fruits bio disponibles toute
+    la journée.  \nPlaces limitées*** (Lieu: Tout Coquelicot, 20 rue de la justice
+    à 4420 Saint-Nicolas) Nécessité de participer à l'entièreté de la retraite.\n\nLe
+    tarif ne doit doit pas être un frein à votre participation, c'est pourquoi le
+    tarif réduit est destiné aux personnes en maladie de longue durée, chômage, famille
+    monoparentale, pension, étudiants. Si le tarif est un soucis, ne pas hésiter à
+    m'en parler, nous trouverons ensemble une solution."
   snip_price: 210
   snip_id: retraite-juillet-2022
   snip_sale: true
