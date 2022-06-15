@@ -1,7 +1,7 @@
 +++
 categories = []
 photo = "/v1655308694/mitchell-griest-fbXHHCiheVM-unsplash_eeplr4.jpg"
-publishdate = ""
+publishdate = 2022-06-15T00:00:00Z
 title = "La méditation et la tonalité du ressenti"
 
 +++
