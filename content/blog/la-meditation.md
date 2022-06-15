@@ -1,13 +1,12 @@
 +++
 categories = []
-draft = true
 photo = "/v1655308694/mitchell-griest-fbXHHCiheVM-unsplash_eeplr4.jpg"
 publishdate = ""
-title = "La méditation et la tonalité de notre ressenti"
+title = "La méditation et la tonalité du ressenti"
 
 +++
-En novembre 2020, j'ai participé à une retraite en ligne silencieuse autour des vedanā avec Martine Bachelord. Au milieu de cet hiver et de ce deuxième confinement, j'ai expérimenté quelques jours de recul en silence sur les sensations présentes dans la méditation.  
-Dans la méditation Bouddhique, il est possible d'expérimenter tout une série de contemplations sur le souffle, sur le corps, sur le mental, ... 
+En novembre 2020, j'ai participé à une retraite en ligne silencieuse autour des vedanā avec Martine Bachelord. Au milieu de cet hiver et de ce deuxième confinement, j'ai expérimenté quelques jours de recul en silence sur les sensations présentes dans la méditation. Qu'est ce qui est ressenti?  
+Dans la méditation Bouddhiste, il est possible d'expérimenter toute une série de contemplations avec le souffle, avec le corps, avec le mental, ... 
 
 Une de ces nombreuses pratiques consiste à être au contact des sensations. Sans y associer une jugement, un commentaire ou des souvenirs... Tout simplement être au contact de la sensation et de ressentir si elle est agréable, désagréable ou encore ni l'un ni l'autre.
 
