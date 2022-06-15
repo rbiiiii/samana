@@ -61,7 +61,7 @@ formations:
 - text: Retraite silencieuse 2020 - "Vedana" avec Martine Batchelord & Bernat Font
     (en ligne)
 - text: Retraite silencieuse 2021 - "Pleine conscience en période d'incertitude" avec
-    Bob Stahl
+    Bob Stahl & Gwénola Herbette
 - text: 2022 Retraite silencieuse - "un coeur vaste" avec Pascal Auclair et Gwénola
     Herbette
 - text: Professeur de yoga certifiée. Formation de 500h sur 4 années auprès de Philip
