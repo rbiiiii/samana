@@ -52,16 +52,23 @@ content_blocks:
         est également désormais instructrice qualifié MBSR et organisera des cycles
         de pleine conscience MBSR dès l''automne 2021. '
 formations:
-- text: Professeur de yoga certifiée. Formation de 500h sur 4 années auprès de Philip
-    Rigo. (Certification reconnue par l’ADEPS et la Fédération belge d'Hébertisme
-    et de Yoga).
 - text: |
     Instructrice MBSR qualifiée à L'institut de Pleine Conscience.
     (Réduction du Stress Basée sur la Pleine Conscience)
-- text: Professeur de yoga certifiée pour enfants et adolescents auprès de Philip
-    Rigo.
 - text: Membre de l'Association Belge Francophone de Pleine Conscience -Mindfullness
     (ABFM)
+- text: Retraite silencieuse 2019 - "Vipassana" avec Bob Stahl
+- text: Retraite silencieuse 2020 - "Vedana" avec Martine Batchelord & Bernat Font
+    (en ligne)
+- text: Retraite silencieuse 2021 - "Pleine conscience en période d'incertitude" avec
+    Bob Stahl
+- text: 2022 Retraite silencieuse - "un coeur vaste" avec Pascal Auclair et Gwénola
+    Herbette
+- text: Professeur de yoga certifiée. Formation de 500h sur 4 années auprès de Philip
+    Rigo. (Certification reconnue par l’ADEPS et la Fédération belge d'Hébertisme
+    et de Yoga).
+- text: Professeur de yoga certifiée pour enfants et adolescents auprès de Philip
+    Rigo.
 - text: Membre de la Fédération belge d'Hébertisme et de yoga.
 
 ---
