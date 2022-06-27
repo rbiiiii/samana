@@ -106,7 +106,7 @@ mbsr:
       * dissociation
       * attaques de panique récurrentes
       * troubles psychotiques (hallucinations, délires)
-  - title: Dates Printemps 2022
+  - title: Dates Automne 2022 à venir!
     content: |-
       #### Séance d’information
 
