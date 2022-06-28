@@ -24,7 +24,7 @@ schedule:
   - start: 17h
     end: 17h30
     category: ados
-    subtext: Bal Special - Ballet Bienveillant :-)
+    subtext: Bal Special-danse ados- Ballet Bienveillant :-)
   - start: 18h30
     end: 20h30
     category: ados
@@ -94,7 +94,7 @@ rate:
   snip_id: MBSRprintemps2022
   snip_sale: false
   snip_sale_price: 
-- title: Cours de yoga adultes - Mardi 20h15 (Liste d'attente)
+- title: Cours de yoga adultes - Jeudi 20h15 (Liste d'attente)
   show: true
   type:
   - 1h
