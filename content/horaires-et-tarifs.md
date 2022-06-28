@@ -56,6 +56,28 @@ schedule:
 - title: Samedi
   blocks: []
 rate:
+- title: Cours de yoga adultes Jeudi 19h
+  show: false
+  type: []
+  period: ''
+  img: ''
+  text: |-
+    Cours jeudi soir à 19h jusque 20h (arrivée à 18h50 pour se placer dans la salle).
+
+    6 cours hebdomadaire en sept et octobre (pas de cours pendant les congés scolaires) et ensuite 2 ateliers de 2h par mois le samedi après-midi de 14h à 16h:  5 & 19 novembre et 3 & 10 décembre.
+
+    \-> Formulaire à remplir avant le premier cours pour confirmer votre inscription avec le paiement: [https://forms.gle/fz6yvb4PztTtgg6t5](https://forms.gle/fz6yvb4PztTtgg6t5 "https://forms.gle/fz6yvb4PztTtgg6t5")
+
+    Cours de yoga en présentiel. !Ne pas payer le cours avant d'avoir eu ma confirmation qu'il reste bien des places. Merci :-).
+
+    Pour les tarifs et paiements c'est ici: [https://www.yogasamana.be/horaires-tarifs/](https://www.yogasamana.be/horaires-tarifs/ "https://www.yogasamana.be/horaires-tarifs/").
+
+    Lieu: Tout Coquelicot, 20 rue de la justice à 4420 Saint-Nicolas.
+  price: "195"
+  snip_price: 195
+  snip_id: Coursyogajeudi1
+  snip_sale: true
+  snip_sale_price: 45
 - title: Inscription Séance d'information Cycle MBSR - Réduction du stress par la
     pleine conscience
   show: true
