@@ -28,7 +28,7 @@ schedule:
   - start: 18h30
     end: 20h30
     category: ados
-    subtext: 'Bal Special - Danse '
+    subtext: Bal Special - Danse ados
 - title: Jeudi
   blocks:
   - start: 19h
