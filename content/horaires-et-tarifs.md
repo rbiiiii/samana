@@ -44,7 +44,11 @@ schedule:
   - start: 9h
     end: 10h
     category: adultes
-    subtext: NEW!!! Yoga adultes chez Corps et Conscience
+    subtext: Yoga adultes chez Tout Coquelicot
+  - start: 10h30
+    end: 13h00
+    category: adultes
+    subtext: Cycle MBSR dès le 11 nov Chez Tout Coquelicot
 - title: Samedi
   blocks: []
 rate:
