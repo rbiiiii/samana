@@ -56,6 +56,42 @@ schedule:
 - title: Samedi
   blocks: []
 rate:
+- title: Cours de yoga adultes - Mercredi 09h00 reprise le 14/09/22, inscription dès
+    le 15juillet 22
+  show: true
+  type:
+  - 1h
+  period: du 9 mars au 25 mai 2022
+  img: "/v1575800406/yoga-4595166_1920_sbfhqc.jpg"
+  text: "Cours mercredi matin 09h00 jusque 10h00 (arrivée à 08h50 pour se placer dans
+    la salle), 13 cours hebdomadaire entre sept et déc 2022.\n\nCours de yoga en présentiel.
+    !Ne pas payer le cours avant d'avoir eu ma confirmation qu'il reste bien des places.
+    Merci :-).\n\nPour les tarifs et paiements \n\nLieu: Corps et Conscience, 107
+    bv Kleyer à 4000 Liège."
+  price: à venir
+  snip_price: 140
+  snip_id: yoga-mercmatin-fevmai22
+  snip_sale: true
+  snip_sale_price: 30
+- title: Cours de yoga ados - Mercredi 14h00
+  show: false
+  type:
+  - 1h
+  period: du 14 septembre au 26 avril 2023
+  img: "/v1575800407/YOGA_POUR_ADOS_12-18_ANS_nwtwus.png"
+  text: |-
+    Cours de yoga 12-18 ans: gestion du stress, image de soi, rester en lien avec son corps qui évolue, améliorer sa posture et sa respiration. Respirer et savoir petit à petit apprivoiser sa vie intérieure.
+
+    \-> Formulaire à remplir avant le premier cours pour confirmer votre inscription avec le paiement: [https://forms.gle/ecya3YEwfLsmZFqCA](https://forms.gle/ecya3YEwfLsmZFqCA "https://forms.gle/ecya3YEwfLsmZFqCA")
+
+    Cours de yoga en présentiel. !Ne pas payer le cours avant d'avoir eu ma confirmation qu'il reste bien des places. Merci :-).
+
+    Lieu: Corps et Conscience, 107 bv Kleyer à 4000 Liège.
+  price: 130€ ou 105€ (prix réduit)
+  snip_price: 130
+  snip_id: yoagados-fevmai22
+  snip_sale: true
+  snip_sale_price: 25
 - title: Cours de yoga adultes Jeudi 19h
   show: false
   type: []
@@ -78,6 +114,47 @@ rate:
   snip_id: Coursyogajeudi1
   snip_sale: true
   snip_sale_price: 45
+- title: Cours de yoga adultes - Jeudi 20h15
+  show: false
+  type:
+  - 1h
+  price: 140€ ou 110€ (tarif réduit)
+  period: du 15 septembre au 27 avril 2022
+  img: "/v1575800434/AdobeStock_245653305_ujwegf.jpg"
+  text: "Cours jeudi soir à 20h15 jusque 21h15 (arrivée à 20h05 pour se placer dans
+    la salle). \n\n6 cours hebdomadaire en sept et octobre (pas de cours pendant les
+    congés scolaires) et ensuite 2 ateliers de 2h par mois le samedi après-midi de
+    14hà 16h:  5 & 19 novembre et 3 & 10 décembre.\n\n\\-> Formulaire à remplir avant
+    le premier cours pour confirmer votre inscription avec le paiement: [https://forms.gle/fz6yvb4PztTtgg6t5](https://forms.gle/fz6yvb4PztTtgg6t5
+    \"https://forms.gle/fz6yvb4PztTtgg6t5\")\n\nCours de yoga en présentiel. !Ne pas
+    payer le cours avant d'avoir eu ma confirmation qu'il reste bien des places. Merci
+    :-).\n\nPour les tarifs et paiements c'est ici: [https://www.yogasamana.be/horaires-tarifs/](https://www.yogasamana.be/horaires-tarifs/
+    \"https://www.yogasamana.be/horaires-tarifs/\").\n\nLieu: Tout Coquelicot, 20
+    rue de la justice à 4420 Saint-Nicolas."
+  snip_id: yoga-mardisoir-fevmai22
+  snip_price: 140
+  snip_sale: true
+  snip_sale_price: 30
+- title: Cours de yoga adultes - vendredi 9h00 (complet)
+  show: true
+  period: Du 11 mars au 20 mai 2022
+  text: "Cours vendredi matin 09h00 jusque 10h00 (arrivée à 08h50 pour se placer dans
+    la salle), 9 cours hebdomadaire entre mars et mai 2022. \n\n\\-> Formulaire à
+    remplir avant le premier cours pour confirmer votre inscription avec le paiement:
+    [https://forms.gle/TH4N5ef6zsMASXZd9](https://forms.gle/TH4N5ef6zsMASXZd9 \"https://forms.gle/TH4N5ef6zsMASXZd9\")\n\nCours
+    de yoga en présentiel. !Ne pas payer le cours avant d'avoir eu ma confirmation
+    qu'il reste bien des places. Merci :-).\n\nPour les tarifs et paiements c'est
+    ici: [https://www.yogasamana.be/horaires-tarifs/](https://www.yogasamana.be/horaires-tarifs/
+    \"https://www.yogasamana.be/horaires-tarifs/\").\n\nLieu: Corps et Conscience,
+    107 bv Kleyer à 4000 Liège."
+  price: 130€ ou 100€ (tarif réduit)
+  snip_price: 130
+  snip_id: yoga-vendmatin-fevmai22
+  snip_sale: true
+  snip_sale_price: 30
+  type:
+  - 1h
+  img: "/v1598214449/IMG_4551_zbks33.jpg"
 - title: Inscription Séance d'information Cycle MBSR - Réduction du stress par la
     pleine conscience
   show: true
@@ -116,85 +193,6 @@ rate:
   snip_id: MBSRprintemps2022
   snip_sale: false
   snip_sale_price: 
-- title: Cours de yoga adultes - Jeudi 20h15
-  show: false
-  type:
-  - 1h
-  price: 140€ ou 110€ (tarif réduit)
-  period: du 15 septembre au 27 avril 2022
-  img: "/v1575800434/AdobeStock_245653305_ujwegf.jpg"
-  text: "Cours jeudi soir à 20h15 jusque 21h15 (arrivée à 20h05 pour se placer dans
-    la salle). \n\n6 cours hebdomadaire en sept et octobre (pas de cours pendant les
-    congés scolaires) et ensuite 2 ateliers de 2h par mois le samedi après-midi de
-    14hà 16h:  5 & 19 novembre et 3 & 10 décembre.\n\n\\-> Formulaire à remplir avant
-    le premier cours pour confirmer votre inscription avec le paiement: [https://forms.gle/fz6yvb4PztTtgg6t5](https://forms.gle/fz6yvb4PztTtgg6t5
-    \"https://forms.gle/fz6yvb4PztTtgg6t5\")\n\nCours de yoga en présentiel. !Ne pas
-    payer le cours avant d'avoir eu ma confirmation qu'il reste bien des places. Merci
-    :-).\n\nPour les tarifs et paiements c'est ici: [https://www.yogasamana.be/horaires-tarifs/](https://www.yogasamana.be/horaires-tarifs/
-    \"https://www.yogasamana.be/horaires-tarifs/\").\n\nLieu: Tout Coquelicot, 20
-    rue de la justice à 4420 Saint-Nicolas."
-  snip_id: yoga-mardisoir-fevmai22
-  snip_price: 140
-  snip_sale: true
-  snip_sale_price: 30
-- title: Cours de yoga adultes - Mercredi 09h00 reprise le 14/09/22, inscription dès
-    le 15juillet 22
-  show: true
-  type:
-  - 1h
-  period: du 9 mars au 25 mai 2022
-  img: "/v1575800406/yoga-4595166_1920_sbfhqc.jpg"
-  text: "Cours mercredi matin 09h00 jusque 10h00 (arrivée à 08h50 pour se placer dans
-    la salle), 13 cours hebdomadaire entre sept et déc 2022.\n\nCours de yoga en présentiel.
-    !Ne pas payer le cours avant d'avoir eu ma confirmation qu'il reste bien des places.
-    Merci :-).\n\nPour les tarifs et paiements \n\nLieu: Corps et Conscience, 107
-    bv Kleyer à 4000 Liège."
-  price: à venir
-  snip_price: 140
-  snip_id: yoga-mercmatin-fevmai22
-  snip_sale: true
-  snip_sale_price: 30
-- title: Cours de yoga ados - Mercredi 14h45 (1 place)
-  show: true
-  type:
-  - 1h
-  period: du 13 février au 25 mai 2022
-  img: "/v1575800407/YOGA_POUR_ADOS_12-18_ANS_nwtwus.png"
-  text: |-
-    Cours de yoga 12-18 ans: gestion du stress, image de soi, rester en lien avec son corps qui évolue, améliorer sa posture et sa respiration. Respirer et savoir petit à petit apprivoiser sa vie intérieure.
-
-    1 atelier de 3h le 13 février et 10 cours hebdomadaire entre mars et mai 2022.
-
-    \-> Formulaire à remplir avant le premier cours pour confirmer votre inscription avec le paiement: [https://forms.gle/ecya3YEwfLsmZFqCA](https://forms.gle/ecya3YEwfLsmZFqCA "https://forms.gle/ecya3YEwfLsmZFqCA")
-
-    Cours de yoga en présentiel. !Ne pas payer le cours avant d'avoir eu ma confirmation qu'il reste bien des places. Merci :-).
-
-    Lieu: Corps et Conscience, 107 bv Kleyer à 4000 Liège.
-  price: 130€ ou 105€ (prix réduit)
-  snip_price: 130
-  snip_id: yoagados-fevmai22
-  snip_sale: true
-  snip_sale_price: 25
-- title: Cours de yoga adultes - vendredi 9h00 (complet)
-  show: true
-  period: Du 11 mars au 20 mai 2022
-  text: "Cours vendredi matin 09h00 jusque 10h00 (arrivée à 08h50 pour se placer dans
-    la salle), 9 cours hebdomadaire entre mars et mai 2022. \n\n\\-> Formulaire à
-    remplir avant le premier cours pour confirmer votre inscription avec le paiement:
-    [https://forms.gle/TH4N5ef6zsMASXZd9](https://forms.gle/TH4N5ef6zsMASXZd9 \"https://forms.gle/TH4N5ef6zsMASXZd9\")\n\nCours
-    de yoga en présentiel. !Ne pas payer le cours avant d'avoir eu ma confirmation
-    qu'il reste bien des places. Merci :-).\n\nPour les tarifs et paiements c'est
-    ici: [https://www.yogasamana.be/horaires-tarifs/](https://www.yogasamana.be/horaires-tarifs/
-    \"https://www.yogasamana.be/horaires-tarifs/\").\n\nLieu: Corps et Conscience,
-    107 bv Kleyer à 4000 Liège."
-  price: 130€ ou 100€ (tarif réduit)
-  snip_price: 130
-  snip_id: yoga-vendmatin-fevmai22
-  snip_sale: true
-  snip_sale_price: 30
-  type:
-  - 1h
-  img: "/v1598214449/IMG_4551_zbks33.jpg"
 - title: Soutien à la pratique de la méditation (suite à un cycle MBSR)
   show: false
   type: []
@@ -211,24 +209,6 @@ rate:
   snip_id: supportmeditation-janmars22
   snip_sale: false
   snip_sale_price: 
-- title: Cours de yoga enfants mercredi 13h30 - 6 places
-  show: false
-  type:
-  - 1h
-  period: du 9mars au 25 mai 2022
-  img: "/v1629496262/AdobeStock_134920437-min_xyqdkc.jpg"
-  text: "Cours de yoga pour enfants entre 8 et 11 ans (école primaire).\n\nConnaître
-    ses émotions, connaître son corps, respirer et savoir petit à petit apprivoiser
-    sa vie intérieure \U0001F609! Dans la détente et la bonne humeur \U0001F642!\n\nLes
-    cours reprennent le 9 mars. Possibilité de venir faire un essai gratuitement.\n\nAttention
-    à ne pas payer l'abonnement sans avoir confirmé avec moi la place disponible.
-    Merci :-).\n\nMerci de remplir le formulaire en ligne ici: [https://forms.gle/uwh3m9i99P55Vcss9](https://forms.gle/uwh3m9i99P55Vcss9
-    \"https://forms.gle/uwh3m9i99P55Vcss9\")"
-  price: 100€ ou 80€ (prix réduit)
-  snip_price: 100
-  snip_id: yogaenfants-fevmai22
-  snip_sale: true
-  snip_sale_price: 20
 - title: Deux Ateliers Yoga Introduction, posture, philosophie.
   show: false
   type:
