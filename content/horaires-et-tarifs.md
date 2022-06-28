@@ -4,25 +4,21 @@ type: horaires-tarifs
 title: Horaires et tarifs
 schedule:
 - title: lundi
-  blocks:
-  - start: '09h00'
-    end: 11h30
-    category: adultes
-    subtext: Cycle MBSR dès le 25 avril Chez Tout Coquelicot
+  blocks: []
 - title: Mardi
-  blocks:
-  - start: 20h15
-    end: 21h15
-    category: adultes
-    subtext: Yoga adultes chez Tout Coquelicot
+  blocks: []
 - title: Mercredi
   blocks:
   - start: 9h00
     end: 10h00
     category: adultes
     subtext: Yoga adultes chez Corps et Conscience
-  - start: 14h45
-    end: 15h45
+  - start: 10h15
+    end: 11h15
+    category: adultes
+    subtext: Yoga adultes chez Corps et Conscience
+  - start: 14h00
+    end: 15h30
     category: ados
     subtext: Yoga ados (Dès la 1ière secondaire) chez Corps et Conscience
   - start: 18h30
@@ -31,10 +27,18 @@ schedule:
     subtext: 'Bal Special - Danse '
 - title: Jeudi
   blocks:
+  - start: 19h
+    end: 20h
+    category: adultes
+    subtext: Yoga adultes chez Tout Coquelicot
+  - start: 20h15
+    end: 21h15
+    category: adultes
+    subtext: Yoga adultes chez Tout Coquelicot
   - start: 18h30
     end: 21h
     category: adultes
-    subtext: Cycle MBSR dès le 28 avril Chez Tout Coquelicot
+    subtext: Cycle MBSR dès le 10 nov Chez Tout Coquelicot
 - title: Vendredi
   blocks:
   - start: 9h
@@ -102,19 +106,19 @@ rate:
   snip_price: 140
   snip_sale: true
   snip_sale_price: 30
-- title: Cours de yoga adultes - Mercredi 09h00 (complet)
+- title: Cours de yoga adultes - Mercredi 09h00 reprise le 14/09/22, inscription dès
+    le 15juillet 22
   show: true
   type:
   - 1h
   period: du 9 mars au 25 mai 2022
   img: "/v1575800406/yoga-4595166_1920_sbfhqc.jpg"
   text: "Cours mercredi matin 09h00 jusque 10h00 (arrivée à 08h50 pour se placer dans
-    la salle), 10 cours hebdomadaire entre mars et mai 2022. \n\nCours de yoga en
-    présentiel. !Ne pas payer le cours avant d'avoir eu ma confirmation qu'il reste
-    bien des places. Merci :-).\n\nPour les tarifs et paiements c'est ici: [https://www.yogasamana.be/horaires-tarifs/](https://www.yogasamana.be/horaires-tarifs/
-    \"https://www.yogasamana.be/horaires-tarifs/\").\n\nLieu: Corps et Conscience,
-    107 bv Kleyer à 4000 Liège."
-  price: 140€ ou 110€ (tarif réduit)
+    la salle), 13 cours hebdomadaire entre sept et déc 2022.\n\nCours de yoga en présentiel.
+    !Ne pas payer le cours avant d'avoir eu ma confirmation qu'il reste bien des places.
+    Merci :-).\n\nPour les tarifs et paiements \n\nLieu: Corps et Conscience, 107
+    bv Kleyer à 4000 Liège."
+  price: à venir
   snip_price: 140
   snip_id: yoga-mercmatin-fevmai22
   snip_sale: true
