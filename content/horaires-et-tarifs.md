@@ -56,9 +56,9 @@ schedule:
 - title: Samedi
   blocks: []
 rate:
-- title: Inscription Séance d'information Cycle MBSR - Gestion du stress par la pleine
-    conscience
-  show: false
+- title: Inscription Séance d'information Cycle MBSR - Réduction du stress par la
+    pleine conscience
+  show: true
   type:
   - 1h30
   price: '10€ '
@@ -67,12 +67,12 @@ rate:
   text: |-
     Inscription à la séance d'information sur le programme MBSR, (obligatoire en vue d'une inscription au cycle de 8 semaines)
 
-    1\.Remplir le Formulaire d'inscription en ligne **avant** la séance d'info si possible: [https://forms.gle/paLPiQk8EqsSDaqx7](https://forms.gle/paLPiQk8EqsSDaqx7 "https://forms.gle/paLPiQk8EqsSDaqx7")
+    1\.Remplir le Formulaire d'inscription en ligne **avant** la séance d'info si possible: [https://forms.gle/vydejWFS4dSBmSZW7](https://forms.gle/vydejWFS4dSBmSZW7 "https://forms.gle/vydejWFS4dSBmSZW7")
 
-    Jeudi 21 avril de 18h30 à 20h chez Tout Coquelicot.
+    Samedi 17/09, Samedi 8 octobre ou 22 octobre de 14h30 à 16h, chez Tout Coquelicot.
 
     2\.Payer les 10€ en appuyant sur réservation.
-  snip_id: InfoMBSR-avril22
+  snip_id: InfoMBSR-novdec22
   snip_price: 10
   snip_sale: false
   snip_sale_price: 20
