@@ -66,42 +66,16 @@ mbsr:
       * attaques de panique récurrentes
       * troubles psychotiques (hallucinations, délires)
   - title: Dates Automne 2022 à venir!
-    content: |-
-      #### Séance d’information
-
-      Lundi 28 mars 2022 de 10h à 11h30 ou jeudi 31 mars & jeudi 21 avril 2022 de 18h30 à 21h00 (Chez tout Coquelicot, 20 rue de la justice à 4420 Saint-Nicolas)
-
-      (inscription obligatoire, formulaire en ligne, 10€: voir ici: [https://www.yogasamana.be/horaires-tarifs/#tarifs-abonnements](https://www.yogasamana.be/horaires-tarifs/#tarifs-abonnements "https://www.yogasamana.be/horaires-tarifs/#tarifs-abonnements"))
-
-      #### Cycle du lundi matin (format présentiel, par Chloé Dujardin instructrice MBSR qualifiée)
-
-      1. Lundi 25 avril 2022, 9h00 – 12h00
-      2. Lundi 02 Mai 2022, 9h00 – 11h30
-      3. Lundi 09 Mai 2022, 9h00 – 11h30
-      4. Lundi 16 Mai 2022, 9h00 – 11h30
-      5. Lundi 23 Mai 2022, 9h00 – 11h30
-      6. Lundi 30 Mai 2022, pas de session
-      7. **Mardi 07 Juin 2022**, 9h00 – 11h30
-      8. Lundi 13 juin 2022, 9h00 – 11h30
-      9. Lundi 20 juin 2022 9h00 – 12h00
-
-      #### Cycle du jeudi soir (format présentiel, par Chloé Dujardin instructrice MBSR qualifiée)
-
-      1. Jeudi 28 avril 2022, 18h30 – 21h30
-      2. Jeudi 05 Mai 2022, 18h30 – 21h00
-      3. Jeudi 12 Mai 2022, 18h30 – 21h00
-      4. Jeudi 19 Mai 2022, 18h30 – 21h00
-      5. **Mercredi 25 Mai 2022**, 18h30 – 21h00
-      6. Jeudi 02 juin 2022 , pas de session
-      7. Jeudi 09 juin 2022, 18h30 – 21h00
-      8. Jeudi 16 juin 2022, 18h30 – 21h00
-      9. Jeudi 23 juin 2022, 18h30 – 21h30
-
-      #### Journée de pratique en présentiel
-
-      **Format**: Les deux groupes sont réunis dans un lieu précisé au début du cycle.
-
-      **Dates**: Journée de pleine conscience le samedi 11 juin 2022 de 09h30 à 17h00 Chez Terre et Source ([rue d’Aubel, 59 à 4651 Battice](https://www.google.com/maps/place/Rue+d'Aubel+59,+4651+Herve/@50.6493422,5.7959962,13z/data=!4m5!3m4!1s0x47c08cfa42ae4a73:0x26e11fdbdd69bb8a!8m2!3d50.6493405!4d5.8310153))
+    content: "#### Séance d’information\n\nDates à venir \n\n(Chez tout Coquelicot,
+      20 rue de la justice à 4420 Saint-Nicolas)\n\n(inscription obligatoire, formulaire
+      en ligne, 10€,\n\nvoir ici : à venir \n\n#### Cycle du jeudi soir (format présentiel,
+      par Chloé Dujardin instructrice MBSR qualifiée)\n\n1. Jeudi 10 novembre 2022,
+      18h30 – 21h30\n2. dates à venir\n\n#### Cycle du lundi matin (format présentiel,
+      par Chloé Dujardin instructrice MBSR qualifiée)\n\n1. Vendredi 11 novembre 2022,
+      10h30 - 13h00\n2. dates à venir\n\n#### Journée de pratique en présentiel\n\n**Format**:
+      Les deux groupes sont réunis dans un lieu précisé au début du cycle.\n\n**Dates**:
+      Journée de pleine conscience le samedi décembre 2022 de 09h30 à 17h00 Chez Tout
+      Coquelicot."
   - title: Lieux et matériel nécessaire
     content: "Les 2 cycles se déroulent chez « **Tout Coquelicot** »,  \n[20 rue de
       la justice à 4420 Saint-Nicolas.](https://goo.gl/maps/ot8kTot5r1yj8vEA9)\n\nJournée
