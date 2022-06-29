@@ -39,31 +39,10 @@
         <h2 class="ff-i">Tarif</h2>
         {{ partial "price.html" (dict "context" . "type" "meditation" "data" .Params.rate) }}
     </section> -->
-    {{ if .Params.mbsr.show }}
-      <section class="single-section single-section--mbsr cw" id="meditation-mbsr">
-        <h2>{{ .Params.mbsr.title | safeHTML }} {{ with .Params.mbsr.title_italic | safeHTML }}<span class="ff-i">{{ . }}</span>{{ end }}</h2>
-        <div class="single-section--mbsr__intro single-col">
-          {{ .Params.mbsr.intro | markdownify }}
-          {{ if .Params.mbsr.register.show }}
-            <p class="text-center">
-              <a class="button" href="{{ .Params.mbsr.register.link }}" target="_blank">{{ .Params.mbsr.register.text }}</a>
-            </p>
-          {{ end }}
-        </div>
-        <div class="single-section--mbsr__tabs single-col">
-          {{ range .Params.mbsr.sections }}
-              <details class="mbsr-item">
-                  <summary>
-                      <h3 class="mbsr-item__title">{{ .title }}</h3>
-                  </summary>
-                  <div class="content">
-                      {{ .content | markdownify }}
-                  </div>
-              </details>
-          {{ end }}
-        </div>
-      </section>
-    {{ end }}
+
+    <div class="single-section cw" style="margin:40px auto;">
+      <p class="text-center"><a class="button" href="/cycle-mbsr">Plus d'infos sur le cycle MBSR</a></p>
+    </div>
 
     <div class="single-section cw">
       <p class="text-center"><a class="button" href="/contact">Contactez-moi</a></p>
