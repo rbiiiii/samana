@@ -6,12 +6,6 @@ fields:
   type: field_group
   config: {}
   fields:
-  - name: show
-    type: boolean
-    label: Activé ?
-    default: true
-    description: Si activé, la section MBSR apparait sur le site, si désactivé, elle
-      est cachée.
   - name: title
     type: text
     config:
