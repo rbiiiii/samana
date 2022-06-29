@@ -73,8 +73,9 @@ rate:
   snip_id: yoga-mercmatin-fevmai22
   snip_sale: true
   snip_sale_price: 30
-- title: Cours de yoga ados - Mercredi 14h00
-  show: false
+- title: Cours de yoga ados - Mercredi 14h00, reprise le 14/09 inscription dès le
+    15 juillet
+  show: true
   type:
   - 1h
   period: du 14 septembre au 26 avril 2023
@@ -82,16 +83,16 @@ rate:
   text: |-
     Cours de yoga 12-18 ans: gestion du stress, image de soi, rester en lien avec son corps qui évolue, améliorer sa posture et sa respiration. Respirer et savoir petit à petit apprivoiser sa vie intérieure.
 
-    \-> Formulaire à remplir avant le premier cours pour confirmer votre inscription avec le paiement: [https://forms.gle/ecya3YEwfLsmZFqCA](https://forms.gle/ecya3YEwfLsmZFqCA "https://forms.gle/ecya3YEwfLsmZFqCA")
+    \-> Formulaire à remplir avant le premier cours pour confirmer votre inscription avec le paiement: Réservation à partir du 15 juillet 2022
 
     Cours de yoga en présentiel. !Ne pas payer le cours avant d'avoir eu ma confirmation qu'il reste bien des places. Merci :-).
 
     Lieu: Corps et Conscience, 107 bv Kleyer à 4000 Liège.
-  price: 130€ ou 105€ (prix réduit)
-  snip_price: 130
-  snip_id: yoagados-fevmai22
+  price: à venir
+  snip_price: 150
+  snip_id: yoagados-septdec2
   snip_sale: true
-  snip_sale_price: 25
+  snip_sale_price: 30
 - title: Cours de yoga adultes Jeudi 19h
   show: false
   type: []
