@@ -56,8 +56,28 @@ schedule:
 - title: Samedi
   blocks: []
 rate:
-- title: Cours de yoga adultes - Mercredi 10h15 reprise le 14/09/22, inscription dès
+- title: Cours de yoga adultes - Mercredi 09h00 reprise le 14/09/22, inscription dès
     le 15juillet 22
+  show: true
+  type:
+  - 1h
+  period: du 14 septembre au 26 avril 2023
+  img: "/v1575800406/yoga-4595166_1920_sbfhqc.jpg"
+  text: |-
+    Cours mercredi matin 09h00 jusque 10h00 (arrivée à 08h50 pour se placer dans la salle), 13 cours hebdomadaire entre sept et déc 2022.
+
+    Cours de yoga en présentiel. !Ne pas payer le cours avant d'avoir eu ma confirmation qu'il reste bien des places. Merci :-).
+
+    Pour les tarifs et paiements: à venir
+
+    Lieu: Corps et Conscience, 107 bv Kleyer à 4000 Liège.
+  price: à venir
+  snip_price: 140
+  snip_id: yoga-mercmatin-fevmai22
+  snip_sale: true
+  snip_sale_price: 30
+- title: Cours de yoga adultes - Mercredi 10h15 reprise le 14/09/22, inscription dès
+    le 15 juillet 22
   show: true
   type:
   - 1h
@@ -76,25 +96,8 @@ rate:
   snip_sale: true
   snip_sale_price: 30
   img: "/v1584627110/AdobeStock_251503715-min_rvmb3x.jpg"
-- title: Cours de yoga adultes - Mercredi 09h00 reprise le 14/09/22, inscription dès
-    le 15juillet 22
-  show: true
-  type:
-  - 1h
-  period: du 14 septembre au 26 avril 2023
-  img: "/v1575800406/yoga-4595166_1920_sbfhqc.jpg"
-  text: "Cours mercredi matin 09h00 jusque 10h00 (arrivée à 08h50 pour se placer dans
-    la salle), 13 cours hebdomadaire entre sept et déc 2022.\n\nCours de yoga en présentiel.
-    !Ne pas payer le cours avant d'avoir eu ma confirmation qu'il reste bien des places.
-    Merci :-).\n\nPour les tarifs et paiements \n\nLieu: Corps et Conscience, 107
-    bv Kleyer à 4000 Liège."
-  price: à venir
-  snip_price: 140
-  snip_id: yoga-mercmatin-fevmai22
-  snip_sale: true
-  snip_sale_price: 30
-- title: Cours de yoga ados - Mercredi 14h00, reprise le 14/09 inscription dès le
-    15 juillet
+- title: 'Cours de yoga ados - Mercredi 14h00, reprise le 14/09 inscription dès le
+    15 juillet 22 '
   show: true
   type:
   - 1h
@@ -106,6 +109,8 @@ rate:
     \-> Formulaire à remplir avant le premier cours pour confirmer votre inscription avec le paiement: Réservation à partir du 15 juillet 2022
 
     Cours de yoga en présentiel. !Ne pas payer le cours avant d'avoir eu ma confirmation qu'il reste bien des places. Merci :-).
+
+    Pour les tarifs et paiements: à venir
 
     Lieu: Corps et Conscience, 107 bv Kleyer à 4000 Liège.
   price: à venir
@@ -129,7 +134,7 @@ rate:
 
     Cours de yoga en présentiel. !Ne pas payer le cours avant d'avoir eu ma confirmation qu'il reste bien des places. Merci :-).
 
-    Pour les tarifs et paiements c'est ici: [https://www.yogasamana.be/horaires-tarifs/](https://www.yogasamana.be/horaires-tarifs/ "https://www.yogasamana.be/horaires-tarifs/").
+    Pour les tarifs et paiements: à venir
 
     Lieu: Tout Coquelicot, 20 rue de la justice à 4420 Saint-Nicolas.
   price: à venir
@@ -154,7 +159,7 @@ rate:
 
     Cours de yoga en présentiel. !Ne pas payer le cours avant d'avoir eu ma confirmation qu'il reste bien des places. Merci :-).
 
-    Pour les tarifs et paiements c'est ici: [https://www.yogasamana.be/horaires-tarifs/](https://www.yogasamana.be/horaires-tarifs/ "https://www.yogasamana.be/horaires-tarifs/").
+    Pour les tarifs et paiements: à venir
 
     Lieu: Tout Coquelicot, 20 rue de la justice à 4420 Saint-Nicolas.
   snip_id: yoga-mardisoir-fevmai22
@@ -172,7 +177,7 @@ rate:
 
     Cours de yoga en présentiel. !Ne pas payer le cours avant d'avoir eu ma confirmation qu'il reste bien des places. Merci :-).
 
-    Pour les tarifs et paiements c'est ici: [https://www.yogasamana.be/horaires-tarifs/](https://www.yogasamana.be/horaires-tarifs/ "https://www.yogasamana.be/horaires-tarifs/").
+    Pour les tarifs et paiements: à venir
 
     Lieu: Tout Coquelicot, 20 rue de la justice à 4420 Saint-Nicolas.
   price: à venir
