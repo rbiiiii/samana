@@ -2,14 +2,12 @@
 slug: cycle-mbsr
 type: cycle-mbsr
 title: Cycle MBSR
+intro_text:
+  - text : Le programme de « Réduction du stress basée sur la pleine conscience » ou programme MBSR (Mindfulness-Based Stress Reduction) est un programme développé par Jon Kabat-Zinn depuis 1979 à la Clinique de Réduction du Stress du centre hospitalier de l’Université du Massachusetts (UMass), devenue maintenant le CFM, Center for Mindfulness in Medecine, Health Care, and Society.
 mbsr:
   title: Cycle MBSR
   title_italic: de 8 semaines
-  intro: "Le programme de **«** Réduction du stress basée sur la pleine conscience
-    » ou programme MBSR (Mindfulness-Based Stress Reduction) est un programme développé
-    par Jon Kabat-Zinn depuis 1979 à la Clinique de Réduction du Stress du centre
-    hospitalier de l’Université du Massachusetts (UMass), devenue maintenant le CFM,
-    Center for Mindfulness in Medecine, Health Care, and Society.\n\nInitialement
+  intro: "Initialement
     conçue dans un cadre hospitalier pour réduire le stress résultant de la maladie,
     des douleurs chroniques et des traitements pénibles, cette approche a contribué
     largement à l’amélioration de la qualité de vie de nombreux patients et soignants.

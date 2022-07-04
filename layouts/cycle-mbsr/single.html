@@ -1,15 +1,39 @@
 {{ define "main" }}
 
-  <section class="single-section single-section--mbsr cw" id="meditation-mbsr">
-    <h2>{{ .Params.mbsr.title | safeHTML }} {{ with .Params.mbsr.title_italic | safeHTML }}<span class="ff-i">{{ . }}</span>{{ end }}</h2>
-    <div class="single-section--mbsr__intro single-col">
-      {{ .Params.mbsr.intro | markdownify }}
-      {{ if .Params.mbsr.register.show }}
-        <p class="text-center">
-          <a class="button" href="{{ .Params.mbsr.register.link }}" target="_blank">{{ .Params.mbsr.register.text }}</a>
-        </p>
+<section class="single-section fullw-img-wrapper--long-text" id="meditation-intro">
+  <figure class="fullw-img-wrapper">
+      <picture class="fullw-img">
+          <source type="image/webp" media="(max-width: 979px)" srcset="{{.Site.BaseURL}}assets/img/cycle-mbsr-full-small.webp">
+          <source type="image/jpeg" media="(max-width: 979px)" srcset="{{.Site.BaseURL}}assets/img/cycle-mbsr-full-small.jpg">
+          <source type="image/webp" media="(min-width: 980px)" srcset="{{.Site.BaseURL}}assets/img/cycle-mbsr-full.webp">
+          <source type="image/jpeg" media="(min-width: 980px)" srcset="{{.Site.BaseURL}}assets/img/cycle-mbsr-full.jpg">
+          <img class="fullw-img" src="{{.Site.BaseURL}}assets/img/cycle-mbsr-full.jpg" alt=""  width="1640" height="1091">
+      </picture>
+      {{ with .Params.intro_text }}
+      <figcaption>
+          {{ range . }}<p>{{ .text | safeHTML}}</p>{{ end }}
+      </figcaption>
       {{ end }}
+  </figure>
+</section>
+
+  <section class="single-section single-section--mbsr cw" id="meditation-mbsr">
+    <div class="flex-2-cols">
+      <div class="flex-2-cols__col chloe-content__img">
+        <img src="{{.Site.BaseURL}}assets/img/cycle-mbsr-content.jpg" alt="Photographie de Chloé Dujardin">
+      </div>
+      <div class="flex-2-cols__col chloe-content__txt">
+        <h2>{{ .Params.mbsr.title | safeHTML }} {{ with .Params.mbsr.title_italic | safeHTML }}<span class="ff-i">{{ . }}</span>{{ end }}</h2>
+        <div class="single-section--mbsr__intro single-col">
+          {{ .Params.mbsr.intro | markdownify }}
+        </div>
+      </div>
     </div>
+    {{ if .Params.mbsr.register.show }}
+      <p class="text-center">
+        <a class="button" href="{{ .Params.mbsr.register.link }}" target="_blank">{{ .Params.mbsr.register.text }}</a>
+      </p>
+    {{ end }}
     <div class="single-section--mbsr__tabs single-col">
       {{ range .Params.mbsr.sections }}
           <details class="mbsr-item">
