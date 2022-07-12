@@ -57,7 +57,7 @@ schedule:
   blocks: []
 rate:
 - title: Cours de yoga adultes - Mercredi 09h00 reprise le 14/09/22, inscription dès
-    le 15juillet 22
+    le 20 juillet 22
   show: true
   type:
   - 1h
@@ -77,7 +77,7 @@ rate:
   snip_sale: true
   snip_sale_price: 30
 - title: Cours de yoga adultes - Mercredi 10h15 reprise le 14/09/22, inscription dès
-    le 15 juillet 22
+    le 20 juillet 22
   show: true
   type:
   - 1h
@@ -97,7 +97,7 @@ rate:
   snip_sale_price: 30
   img: "/v1584627110/AdobeStock_251503715-min_rvmb3x.jpg"
 - title: 'Cours de yoga ados - Mercredi 14h00, reprise le 14/09 inscription dès le
-    15 juillet 22 '
+    20 juillet 22 '
   show: true
   type:
   - 1h
@@ -118,7 +118,7 @@ rate:
   snip_id: yoagados-septdec2
   snip_sale: true
   snip_sale_price: 30
-- title: Cours de yoga adultes Jeudi 19h - reprise le 15/09 inscription dès le 15
+- title: Cours de yoga adultes Jeudi 19h - reprise le 15/09 inscription dès le 20
     juillet
   show: true
   type:
@@ -142,7 +142,7 @@ rate:
   snip_id: Coursyogajeudi1
   snip_sale: true
   snip_sale_price: 45
-- title: Cours de yoga adultes - Jeudi 20h15 reprise le 15/09 inscription dès le 15
+- title: Cours de yoga adultes - Jeudi 20h15 reprise le 15/09 inscription dès le 20
     juillet
   show: true
   type:
@@ -167,7 +167,7 @@ rate:
   snip_sale: true
   snip_sale_price: 30
 - title: Cours de yoga adultes - Vendredi 9h00 reprise le 09/09 inscription dès le
-    15 juillet
+    20 juillet
   show: true
   period: Du 09 septembre au 28avril 2023
   text: |-
@@ -208,22 +208,22 @@ rate:
   snip_price: 10
   snip_sale: false
   snip_sale_price: 20
-- title: 'Cycle MBSR - Gestion du stress par la pleine conscience Printemps 2022 '
+- title: 'Cycle MBSR - Gestion du stress par la pleine conscience Automne 2022 '
   show: false
   type:
   - 2h30
-  period: du 25 avril au 20 juin 2022 (lundi matin) et du 28/04 au 23 juin 2022 (jeudi
-    soir)
+  period: du 10 novembre au 5 janvier 2023 (jeudi soir) et du 11/11 au 6 janvier 2023
+    (vendredi matin)
   img: "/v1575800419/AdobeStock_216060429_yjx8hp.jpg"
   text: |-
-    Vous avez participé à la séance d'info MBSR de mars ou du 21 avril 2022.
+    Vous avez participé à la séance d'info MBSR en septembre ou octobre 2022.
 
     Vous pouvez régler ici votre participation au cycle de réduction du stress par la pleine conscience MBSR.
 
     Si pas encore rempli, merci de remplir le formulaire d'inscription ici: [https://forms.gle/paLPiQk8EqsSDaqx7](https://forms.gle/paLPiQk8EqsSDaqx7 "https://forms.gle/paLPiQk8EqsSDaqx7")
   price: 290€
   snip_price: 290
-  snip_id: MBSRprintemps2022
+  snip_id: MBSRautomne2022
   snip_sale: false
   snip_sale_price: 
 - title: Soutien à la pratique de la méditation (suite à un cycle MBSR)
