@@ -3,24 +3,27 @@ slug: cycle-mbsr
 type: cycle-mbsr
 title: Cycle MBSR
 intro_text:
-  - text : Le programme de « Réduction du stress basée sur la pleine conscience » ou programme MBSR (Mindfulness-Based Stress Reduction) est un programme développé par Jon Kabat-Zinn depuis 1979 à la Clinique de Réduction du Stress du centre hospitalier de l’Université du Massachusetts (UMass), devenue maintenant le CFM, Center for Mindfulness in Medecine, Health Care, and Society.
+- text: Le programme de « Réduction du stress basée sur la pleine conscience » ou
+    programme MBSR (Mindfulness-Based Stress Reduction) est un programme développé
+    par Jon Kabat-Zinn depuis 1979 à la Clinique de Réduction du Stress du centre
+    hospitalier de l’Université du Massachusetts (UMass), devenue maintenant le CFM,
+    Center for Mindfulness in Medecine, Health Care, and Society.
 mbsr:
   title: Cycle MBSR
   title_italic: de 8 semaines
-  intro: "Initialement
-    conçue dans un cadre hospitalier pour réduire le stress résultant de la maladie,
-    des douleurs chroniques et des traitements pénibles, cette approche a contribué
-    largement à l’amélioration de la qualité de vie de nombreux patients et soignants.
-    Les programmes de réduction du stress en sortant des hôpitaux se sont également
-    adressés à d’autres catégories de la population. Des personnes de tout horizon,
-    ressentant le besoin de mieux apprivoiser le stress de la vie moderne, le besoin
-    d'une pause, d'apprendre à être autrement présent à eux-même ou encore se relevant
-    d'une période difficile.\n\nLors de ce cycle de 8 semaines nous aborderons toute
-    une série de pratiques et d'échanges en groupe nous permettant d'expérimenter
-    et de nous entraîner ensemble à la méditation de pleine conscience. Participer
-    à un cycle MBSR implique d'être présent-e toutes les semaines et de s'investir
-    dans une pratique quotidienne à domicile. \n\nAvant de pouvoir confirmer votre
-    inscription au cycle, merci de vous inscrire à la séance d'information obligatoire
+  intro: "Initialement conçue dans un cadre hospitalier pour réduire le stress résultant
+    de la maladie, des douleurs chroniques et des traitements pénibles, cette approche
+    a contribué largement à l’amélioration de la qualité de vie de nombreux patients
+    et soignants. Les programmes de réduction du stress en sortant des hôpitaux se
+    sont également adressés à d’autres catégories de la population. Des personnes
+    de tout horizon, ressentant le besoin de mieux apprivoiser le stress de la vie
+    moderne, le besoin d'une pause, d'apprendre à être autrement présent à eux-même
+    ou encore se relevant d'une période difficile.\n\nLors de ce cycle de 8 semaines
+    nous aborderons toute une série de pratiques et d'échanges en groupe nous permettant
+    d'expérimenter et de nous entraîner ensemble à la méditation de pleine conscience.
+    Participer à un cycle MBSR implique d'être présent-e toutes les semaines et de
+    s'investir dans une pratique quotidienne à domicile. \n\nAvant de pouvoir confirmer
+    votre inscription au cycle, merci de vous inscrire à la séance d'information obligatoire
     en remplissant le formulaire en ligne via le bouton ci-dessous.\n\nPour toutes
     questions, contactez nous via contact@yogasamana.be."
   register:
@@ -63,17 +66,24 @@ mbsr:
       * dissociation
       * attaques de panique récurrentes
       * troubles psychotiques (hallucinations, délires)
-  - title: Dates Automne 2022 à venir!
-    content: "#### Séance d’information\n\nDates à venir \n\n(Chez tout Coquelicot,
-      20 rue de la justice à 4420 Saint-Nicolas)\n\n(inscription obligatoire, formulaire
-      en ligne, 10€,\n\nvoir ici : à venir \n\n#### Cycle du jeudi soir (format présentiel,
-      par Chloé Dujardin instructrice MBSR qualifiée)\n\n1. Jeudi 10 novembre 2022,
-      18h30 – 21h30\n2. dates à venir\n\n#### Cycle du lundi matin (format présentiel,
+  - title: Dates Automne 2022
+    content: "#### Séance d’information\n\nDates samedis 17 septembre, 8 octobre ou
+      22 octobre 2022 de 14h30 à 16h, chez Tout Coquelicot, 20 rue de la justice à
+      4420 Saint-Nicolas)\n\n(inscription obligatoire, formulaire en ligne à remplir,
+      10€, voir ici : \n\n#### Cycle du jeudi soir (format présentiel, par Chloé Dujardin
+      instructrice MBSR qualifiée)\n\n1. Jeudi 10 novembre 2022, 18h30 – 21h30\n2.
+      Jeudi 17 novembre 2022, 18h30 – 21h00\n3. Jeudi 24 novembre 2022, 18h30 – 21h00\n4.
+      Jeudi 01 décembre 2022, 18h30 – 21h00\n5. Jeudi 08 décembre 2022, 18h30 – 21h00\n6.
+      Jeudi 15 décembre 2022, 18h30 – 21h00\n7. Jeudi 22 décembre 2022, 18h30 – 21h00\n8.
+      Jeudi 05 janvier 2023, 18h30 – 21h30\n\n#### Cycle du lundi matin (format présentiel,
       par Chloé Dujardin instructrice MBSR qualifiée)\n\n1. Vendredi 11 novembre 2022,
-      10h30 - 13h00\n2. dates à venir\n\n#### Journée de pratique en présentiel\n\n**Format**:
-      Les deux groupes sont réunis dans un lieu précisé au début du cycle.\n\n**Dates**:
-      Journée de pleine conscience le samedi décembre 2022 de 09h30 à 17h00 Chez Tout
-      Coquelicot."
+      10h30 - 13h30\n2. Vendredi 18 novembre 2022, 10h30 - 13h00\n3. Vendredi 25 novembre
+      2022, 10h30 - 13h00\n4. Vendredi 02 décembre 2022, 10h30 - 13h00\n5. Vendredi
+      09 décembre 2022, 10h30 - 13h00\n6. Vendredi 16 décembre 2022, 10h30 - 13h00\n7.
+      Vendredi 23 décembre 2022, 10h30 - 13h00\n8. Vendredi 06 janvier 2023, 10h30
+      - 13h30\n\n#### Journée de pratique en présentiel\n\n**Format**: Les deux groupes
+      sont réunis dans un lieu précisé au début du cycle.\n\n**Dates**: Journée de
+      pleine conscience le samedi 17 décembre 2022 de 09h30 à 17h00 Chez Tout Coquelicot."
   - title: Lieux et matériel nécessaire
     content: "Les 2 cycles se déroulent chez « **Tout Coquelicot** »,  \n[20 rue de
       la justice à 4420 Saint-Nicolas.](https://goo.gl/maps/ot8kTot5r1yj8vEA9)\n\nJournée
