@@ -106,15 +106,14 @@ mbsr:
   - title: Lieux et matériel nécessaire
     content: "Les 2 cycles se déroulent chez « **Tout Coquelicot** »,  \n[20 rue de
       la justice à 4420 Saint-Nicolas.](https://goo.gl/maps/ot8kTot5r1yj8vEA9)\n\nJournée
-      de pleine conscience le samedi 11 juin 2022 de 09h30 à 17h00 Chez \"Terre et
-      Source\".([rue d’Aubel, 59 à 4651 Battice](https://www.google.com/maps/place/Rue+d'Aubel+59,+4651+Herve/@50.6493422,5.7959962,13z/data=!4m5!3m4!1s0x47c08cfa42ae4a73:0x26e11fdbdd69bb8a!8m2!3d50.6493405!4d5.8310153))\n\n####
-      Séance en présentiel en studio\n\n* Un tapis de sol\n* Si vous avez un coussin
-      ou un petit tabouret de méditation, vous vous pourrez les amener. (Nous avons
-      des chaises à votre disposition également)\n* Vêtements confortables.\n* Une
-      couverture ou un châle.\n\n#### Séances de pratique à domicile\n\n* Prévoir
-      une pièce au calme, où vous pourrez pratiquer seul.e sans être dérangé.e.\n*
-      Un tapis de sol.\n* Chaise, un coussin ou un petit tabouret de méditation pour
-      la méditation assise."
+      de pleine conscience le samedi 17 décembre juin 2022 de 09h30 à 17h00 Chez \"Tout
+      Coquelicot\".(20 rue de la justice à 4420 Saint-Nicolas)\n\n#### Séance en présentiel
+      en studio\n\n* Un tapis de sol\n* Si vous avez un coussin ou un petit tabouret
+      de méditation, vous vous pourrez les amener. (Nous avons des chaises à votre
+      disposition également)\n* Vêtements confortables.\n* Une couverture ou un châle.\n\n####
+      Séances de pratique à domicile\n\n* Prévoir une pièce au calme, où vous pourrez
+      pratiquer seul.e sans être dérangé.e.\n* Un tapis de sol.\n* Chaise, un coussin
+      ou un petit tabouret de méditation pour la méditation assise."
   - title: Tarifs et conditions d’annulation
     content: |-
       #### Séance d’information et contact au téléphone : <small>10€</small>.
@@ -137,9 +136,9 @@ mbsr:
 
       En cas d’annulation, jusque 72h avant le démarrage du cycle, le remboursement s’effectue avec une retenue de 80€. (non transférable à un autre cycle). Passé ce délais, en cas d’annulation aucun remboursement ne sera effectué.
 
-      #### Situation sanitaire pour le cycle du printemps 2022
+      #### Situation sanitaire pour le cycle de l'automne 2022
 
-      Le cycle du printemps se donne en présentiel. En cas de décisions du gouvernement impliquant de ne plus pouvoir se réunir en présentiel, le programme sera transféré sous le format en ligne. En s’inscrivant au format présentiel, les personnes donnent leur consentement tacite à ces conditions. Il n’y a dès lors aucun remboursement ni transfert vers un programme ultérieur.
+      Le cycle de l'automne se donne en présentiel. En cas de décisions du gouvernement impliquant de ne plus pouvoir se réunir en présentiel, le programme sera transféré sous le format en ligne. En s’inscrivant au format présentiel, les personnes donnent leur consentement tacite à ces conditions. Il n’y a dès lors aucun remboursement ni transfert vers un programme ultérieur.
 
       #### Conditions de participation et inscription
 
@@ -151,7 +150,9 @@ mbsr:
 
       ##### 2. Formulaire
 
-      Compléter le formulaire en ligne de demande d’inscription avant la séance d'information si possible. ( [https://forms.gle/Uso8s94vd27Bsou2A](https://forms.gle/Uso8s94vd27Bsou2A) "https://forms.gle/Uso8s94vd27Bsou2A")) Il est strictement confidentiel et sera consulté exclusivement par l’instructrice Chloé Dujardin. Ce formulaire nous permet avant tout de connaître votre démarche et éventuellement de relever certains points d’attentions quant à votre participation au programme.
+      Compléter le formulaire en ligne de demande d’inscription avant la séance d'information si possible. (ici: [https://forms.gle/4xgtat7Y3fQi9Zjm8](https://forms.gle/4xgtat7Y3fQi9Zjm8) "https://forms.gle/4xgtat7Y3fQi9Zjm8"))
+
+      Il est strictement confidentiel et sera consulté exclusivement par l’instructrice Chloé Dujardin. Ce formulaire nous permet avant tout de connaître votre démarche et éventuellement de relever certains points d’attentions quant à votre participation au programme.
 
       ##### 3. Payer pour la séance d’information
 
@@ -163,6 +164,6 @@ mbsr:
 
       ##### 5. Paiement du cycle
 
-      Une fois le formulaire rempli, et à la suite de votre participation à la séance d’information, vous pourrez effectuer le paiement qui sera mis en ligne sur le site internet.
+      Une fois le formulaire rempli, et à la suite de votre participation à la séance d’information, vous pourrez effectuer le paiement qui sera mis en ligne sur le site internet.(via la page "[horaires et tarifs](https://www.yogasamana.be/horaires-tarifs/)" du site www.yogasamana.be)
 
 ---
