@@ -28,7 +28,7 @@ mbsr:
     questions, contactez nous via contact@yogasamana.be."
   register:
     show: true
-    text: Inscrivez-vous
+    text: 'Formulaire d''inscription ici '
     link: https://forms.gle/4xgtat7Y3fQi9Zjm8
   sections:
   - title: Programme MBSR
