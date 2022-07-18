@@ -70,6 +70,8 @@ rate:
 
     Merci :-).
 
+    \-> Formulaire à remplir avant le premier cours pour confirmer votre inscription avec le paiement: [https://forms.gle/Fz7pTSh5uGEE2cLd8](https://forms.gle/Fz7pTSh5uGEE2cLd8 "https://forms.gle/Fz7pTSh5uGEE2cLd8")
+
     Pour les tarifs et paiements, engagement pour l'année scolaire payable en 2 fois. (possibilité de trouver des solutions d'étalement de paiement si besoin)
 
     T1/ Sept-déc 2022, 13 cours : tarif plein 195€ (14€/cours) - tarif réduit 160€ (12€/cours) - payable au plus tard en septembre 2022 ( 1 session d'info gratuite est prévue avant le 14/09)
