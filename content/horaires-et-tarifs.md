@@ -72,9 +72,9 @@ rate:
 
     Pour les tarifs et paiements, engagement pour l'année scolaire payable en 2 fois. (possibilité de trouver des solutions d'étalement de paiement si besoin)
 
-    T1/ Sept-déc 2022, 13 cours : tarif plein 195€ (14€/cours) - tarif réduit 160€ (12€/cours)
+    T1/ Sept-déc 2022, 13 cours : tarif plein 195€ (14€/cours) - tarif réduit 160€ (12€/cours) - payable au plus tard en septembre 2022 ( 1 session d'info gratuite est prévue avant le 14/09)
 
-    T2/ Jan-avril 2023, 15 cours : tarif plein 225€ (14€/cours) - tarif réduit 180€ (12€/cours)
+    T2/ Jan-avril 2023, 15 cours : tarif plein 225€ (14€/cours) - tarif réduit 180€ (12€/cours) - payable au plus tard le 10 décembre 2022.
 
     Abonnement annuel payé en une fois, avec prix réduit de 15%, en payant directement sur le compte BE30 0689 3283 8418 : tarif plein 350€ (13€/cours) - tarif réduit 280€ (10€/cours) (en précisant votre horaire et le nom et prénom de la personne qui participe au cours).
 
@@ -99,16 +99,16 @@ rate:
 
     Pour les tarifs et paiements, engagement pour l'année scolaire payable en 2 fois. (possibilité de trouver des solutions d'étalement de paiement si besoin)
 
-    T1/ Sept-déc 2022, 13 cours : tarif plein 195€ (15€/cours) - tarif réduit 160€ (12€/cours)
+    T1/ Sept-déc 2022, 13 cours : tarif plein 195€ (14€/cours) - tarif réduit 160€ (12€/cours) - payable au plus tard en septembre 2022 ( 1 session d'info gratuite est prévue avant le 14/09)
 
-    T2/ Jan-avril 2023, 15 cours : tarif plein 225€ (15€/cours) - tarif réduit 180€ (12€/cours)
+    T2/ Jan-avril 2023, 15 cours : tarif plein 225€ (14€/cours) - tarif réduit 180€ (12€/cours) - payable au plus tard le 10 décembre 2022.
 
     Abonnement annuel payé en une fois, avec prix réduit de 15%, en payant directement sur le compte BE30 0689 3283 8418 : tarif plein 350€ (13€/cours) - tarif réduit 280€ (10€/cours) (en précisant votre horaire et le nom et prénom de la personne qui participe au cours).
 
     Lieu: Corps et Conscience, 107 bv Kleyer à 4000 Liège.
   price: 'T1: 195€ ou 160€ (tarif réduit) / T2: 225€ ou 180€ (tarif réduit)'
   snip_price: 195
-  snip_id: abnmerc2sept-dec22
+  snip_id: yoga-mercmatin2-sept-dec22
   snip_sale: true
   snip_sale_price: 35
   img: "/v1584627110/AdobeStock_251503715-min_rvmb3x.jpg"
@@ -122,18 +122,22 @@ rate:
   text: |-
     Cours de yoga 12-18 ans: gestion du stress, image de soi, rester en lien avec son corps qui évolue, améliorer sa posture et sa respiration. Respirer et savoir petit à petit apprivoiser sa vie intérieure.
 
-    \-> Formulaire à remplir avant le premier cours pour confirmer votre inscription avec le paiement: Réservation à partir du 15 juillet 2022
+    \-> Formulaire à remplir avant le premier cours pour confirmer l'inscription de votre ados avec le paiement: [https://forms.gle/Fz7pTSh5uGEE2cLd8](https://forms.gle/Fz7pTSh5uGEE2cLd8 "https://forms.gle/Fz7pTSh5uGEE2cLd8")
 
     Cours de yoga en présentiel. !Ne pas payer le cours avant d'avoir eu ma confirmation qu'il reste bien des places. Merci :-).
 
-    Pour les tarifs et paiements: à venir
+    Pour les tarifs et paiements, engagement pour l'année scolaire payable en 2 fois. (possibilité de trouver des solutions d'étalement de paiement si besoin)
+
+    T1/ Sept-déc 2022, 13 cours : tarif plein 130€ (10€/cours) - tarif réduit 110€ (8,5€/cours) - payable au plus tard en septembre 2022 ( 1 cours d'essai possible s'il reste des places en septembre 22)
+
+    T2/ Jan-avril 2023, 15 cours : tarif plein 150€ (10€/cours) - tarif réduit 130€ (8,5€/cours) - payable au plus tard le 10 décembre 2022.
 
     Lieu: Corps et Conscience, 107 bv Kleyer à 4000 Liège.
-  price: à venir
-  snip_price: 150
-  snip_id: yoagados-septdec2
+  price: 'T1: 130€ ou 110€ (tarif réduit) / T2: 150€ ou 130€ (tarif réduit)'
+  snip_price: 130
+  snip_id: yoga-ados-septdec-22
   snip_sale: true
-  snip_sale_price: 30
+  snip_sale_price: 20
 - title: Cours de yoga adultes Jeudi 19h - reprise le 15/09 inscription dès le 20
     juillet
   show: true
@@ -144,63 +148,89 @@ rate:
   text: |-
     Cours jeudi soir à 19h jusque 20h (arrivée à 18h50 pour se placer dans la salle).
 
-    6 cours hebdomadaire en sept et octobre (pas de cours pendant les congés scolaires) et ensuite 2 ateliers de 2h par mois le samedi après-midi de 14h à 16h:  5 & 19 novembre et 3 & 10 décembre.
+    T1: 6 cours hebdomadaire en sept et octobre (pas de cours pendant les congés scolaires) et ensuite 2 ateliers de 2h par mois le samedi après-midi de 14h à 16h:  5 & 19 novembre et 3 & 10 décembre 2022.
 
-    \-> Formulaire à remplir avant le premier cours pour confirmer votre inscription avec le paiement: à venir
+    T2: 6 cours hebdomadaire en janvier et février 2023 (pas de cours pendant les congés scolaires) et ensuite 2 ateliers de 2h par mois le samedi après-midi de 14h à 16h:  11 & 25 mars et 8 et 22 avril 2023.
 
-    Cours de yoga en présentiel. !Ne pas payer le cours avant d'avoir eu ma confirmation qu'il reste bien des places. Merci :-).
+    Les ateliers seront l'occasion de pratiquer des sessions plus longues de yoga tout en partageant la philosophie des sutras de Patanjali. Venez expérimenter une connaissance plus fine et subtile du yoga :-).
 
-    Pour les tarifs et paiements: à venir
+    Cours de yoga en présentiel. !!!Ne pas payer le cours avant d'avoir eu ma confirmation qu'il reste bien des places. (via contact@yogasamana.be)
+
+    Merci :-).
+
+    Pour les tarifs et paiements, engagement pour l'année scolaire payable en 2 fois. (possibilité de trouver des solutions d'étalement de paiement si besoin)
+
+    T1/ Sept-déc 2022, 6h cours et 8h de cours/ateliers : tarif plein 195€ (14€/cours) - tarif réduit 160€ (12€/cours) - payable au plus tard en septembre 2022 ( 1 session d'info gratuite est prévue avant le 14/09)
+
+    T2/ Jan-avril 2023, 6h cours et 8h de cours/ateliers : tarif plein 225€ (14€/cours) - tarif réduit 180€ (12€/cours) - payable au plus tard le 10 décembre 2022.
+
+    Abonnement annuel payé en une fois, avec prix réduit de 15%, en payant directement sur le compte BE30 0689 3283 8418 : tarif plein 350€ (13€/cours) - tarif réduit 280€ (10€/cours) (en précisant votre horaire + nom et prénom de la personne qui participe au cours).
 
     Lieu: Tout Coquelicot, 20 rue de la justice à 4420 Saint-Nicolas.
-  price: à venir
+  price: 'T1: 195€ ou 160€ (tarif réduit) / T2: 225€ ou 180€ (tarif réduit)'
   snip_price: 195
-  snip_id: Coursyogajeudi1
+  snip_id: yogajeudisoir1-sept-dec-22
   snip_sale: true
-  snip_sale_price: 45
+  snip_sale_price: 35
 - title: Cours de yoga adultes - Jeudi 20h15 reprise le 15/09 inscription dès le 20
     juillet
   show: true
   type:
   - 1h
-  price: à venir
+  price: 'T1: 195€ ou 160€ (tarif réduit) / T2: 225€ ou 180€ (tarif réduit)'
   period: du 15 septembre au 27 avril 2022
   img: "/v1575800434/AdobeStock_245653305_ujwegf.jpg"
   text: |-
     Cours jeudi soir à 20h15 jusque 21h15 (arrivée à 20h05 pour se placer dans la salle).
 
-    6 cours hebdomadaire en sept et octobre (pas de cours pendant les congés scolaires) et ensuite 2 ateliers de 2h par mois le samedi après-midi de 14hà 16h:  5 & 19 novembre et 3 & 10 décembre.
+    T1: 6 cours hebdomadaire en sept et octobre (pas de cours pendant les congés scolaires) et ensuite 2 ateliers de 2h par mois le samedi après-midi de 14h à 16h:  5 & 19 novembre et 3 & 10 décembre 2022.
 
-    \-> Formulaire à remplir avant le premier cours pour confirmer votre inscription avec le paiement: à venir
+    T2: 6 cours hebdomadaire en janvier et février 2023 (pas de cours pendant les congés scolaires) et ensuite 2 ateliers de 2h par mois le samedi après-midi de 14h à 16h:  11 & 25 mars et 8 et 22 avril 2023.
 
-    Cours de yoga en présentiel. !Ne pas payer le cours avant d'avoir eu ma confirmation qu'il reste bien des places. Merci :-).
+    Les ateliers seront l'occasion de pratiquer des sessions plus longues de yoga tout en partageant la philosophie des sutras de Patanjali. Venez expérimenter une connaissance plus fine et subtile du yoga :-).
 
-    Pour les tarifs et paiements: à venir
+    Cours de yoga en présentiel. !!!Ne pas payer le cours avant d'avoir eu ma confirmation qu'il reste bien des places. (via contact@yogasamana.be)
+
+    Merci :-).
+
+    Pour les tarifs et paiements, engagement pour l'année scolaire payable en 2 fois. (possibilité de trouver des solutions d'étalement de paiement si besoin)
+
+    T1/ Sept-déc 2022, 6h cours et 8h de cours/ateliers : tarif plein 195€ (14€/cours) - tarif réduit 160€ (12€/cours) - payable au plus tard en septembre 2022 ( 1 session d'info gratuite est prévue avant le 14/09)
+
+    T2/ Jan-avril 2023, 6h cours et 8h de cours/ateliers : tarif plein 225€ (14€/cours) - tarif réduit 180€ (12€/cours) - payable au plus tard le 10 décembre 2022.
+
+    Abonnement annuel payé en une fois, avec prix réduit de 15%, en payant directement sur le compte BE30 0689 3283 8418 : tarif plein 350€ (13€/cours) - tarif réduit 280€ (10€/cours) (en précisant votre horaire + nom et prénom de la personne qui participe au cours).
 
     Lieu: Tout Coquelicot, 20 rue de la justice à 4420 Saint-Nicolas.
-  snip_id: yoga-mardisoir-fevmai22
-  snip_price: 140
+  snip_id: yoga-jeudisoir2-sept-dec22
+  snip_price: 195
   snip_sale: true
-  snip_sale_price: 30
+  snip_sale_price: 35
 - title: Cours de yoga adultes - Vendredi 9h00 reprise le 09/09 inscription dès le
     20 juillet
   show: true
-  period: Du 09 septembre au 28avril 2023
+  period: Du 09 septembre au 28 avril 2023
   text: |-
-    Cours vendredi matin 09h00 jusque 10h00 (arrivée à 08h50 pour se placer dans la salle).
+    Cours mercredi matin 09h00 jusque 10h00 (arrivée à 08h50 pour se placer dans la salle), 13 cours hebdomadaire entre sept et déc 2022 & 15 cours entre janvier et avril 2023.
 
-    \-> Formulaire à remplir avant le premier cours pour confirmer votre inscription avec le paiement: à venir
+    Cours de yoga en présentiel. !!!Ne pas payer le cours avant d'avoir eu ma confirmation qu'il reste bien des places. (via contact@yogasamana.be)
 
-    Cours de yoga en présentiel. !Ne pas payer le cours avant d'avoir eu ma confirmation qu'il reste bien des places. Merci :-).
+    Merci :-).
 
-    Pour les tarifs et paiements: à venir
+    Pour les tarifs et paiements, engagement pour l'année scolaire payable en 2 fois. (possibilité de trouver des solutions d'étalement de paiement si besoin)
+
+    T1/ Sept-déc 2022, 13 cours : tarif plein 195€ (14€/cours) - tarif réduit 160€ (12€/cours) - payable au plus tard en septembre 2022 ( 1 session d'info gratuite est prévue avant le 14/09)
+
+    T2/ Jan-avril 2023, 15 cours : tarif plein 225€ (14€/cours) - tarif réduit 180€ (12€/cours)
+
+    Abonnement annuel payé en une fois, avec prix réduit de 15%, en payant directement sur le compte BE30 0689 3283 8418 : tarif plein 350€ (13€/cours) - tarif réduit 280€ (10€/cours) (en précisant votre horaire et le nom et prénom de la personne qui participe au cours).
 
     Lieu: Tout Coquelicot, 20 rue de la justice à 4420 Saint-Nicolas.
-  price: à venir
-  snip_price: 130
-  snip_id: yoga-vendmatin-fevmai22
+  price: 'T1: 195€ ou 160€ (tarif réduit) / T2: 225€ ou 180€ (tarif réduit)'
+  snip_price: 195
+  snip_id: yoga-vendmatin-septdec22
   snip_sale: true
-  snip_sale_price: 30
+  snip_sale_price: 35
   type:
   - 1h
   img: "/v1598214449/IMG_4551_zbks33.jpg"
