@@ -91,18 +91,26 @@ rate:
   - 1h
   period: du 14 septembre au 26 avril 2023
   text: |-
-    Cours mercredi matin 10h15 jusque 11h15 (arrivée à 10h05 pour se placer dans la salle), 13 cours hebdomadaire entre sept et déc 2022.
+    Cours mercredi matin 10h15 jusque 11h15 (arrivée à 10h05 pour se placer dans la salle), 13 cours hebdomadaire entre sept et déc 2022 & 15 cours entre janvier et avril 2023.
 
-    Cours de yoga en présentiel. !Ne pas payer le cours avant d'avoir eu ma confirmation qu'il reste bien des places. Merci :-).
+    Cours de yoga en présentiel. !!!Ne pas payer le cours avant d'avoir eu ma confirmation qu'il reste bien des places. (via contact@yogasamana.be)
 
-    Pour les tarifs et paiements: à venir
+    Merci :-).
+
+    Pour les tarifs et paiements, engagement pour l'année scolaire payable en 2 fois. (possibilité de trouver des solutions d'étalement de paiement si besoin)
+
+    T1/ Sept-déc 2022, 13 cours : tarif plein 195€ (14€/cours) - tarif réduit 160€ (12€/cours)
+
+    T2/ Jan-avril 2023, 15 cours : tarif plein 210€ (14€/cours) - tarif réduit 180€ (12€/cours)
+
+    Abonnement annuel payé en une fois, avec prix réduit de 15%, en payant directement sur le compte BE30 0689 3283 8418 : tarif plein 336€ - tarif réduit 280€ (en précisant votre horaire et le nom et prénom de la personne qui participe au cours.
 
     Lieu: Corps et Conscience, 107 bv Kleyer à 4000 Liège.
   price: à venir
   snip_price: 195
-  snip_id: abnmerc2sept-dec
+  snip_id: abnmerc2sept-dec22
   snip_sale: true
-  snip_sale_price: 30
+  snip_sale_price: 35
   img: "/v1584627110/AdobeStock_251503715-min_rvmb3x.jpg"
 - title: 'Cours de yoga ados - Mercredi 14h00, reprise le 14/09 inscription dès le
     20 juillet 22 '
