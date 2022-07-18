@@ -122,7 +122,7 @@ rate:
   text: |-
     Cours de yoga 12-18 ans: gestion du stress, image de soi, rester en lien avec son corps qui évolue, améliorer sa posture et sa respiration. Respirer et savoir petit à petit apprivoiser sa vie intérieure.
 
-    \-> Formulaire à remplir avant le premier cours pour confirmer l'inscription de votre ados avec le paiement: [https://forms.gle/Fz7pTSh5uGEE2cLd8](https://forms.gle/Fz7pTSh5uGEE2cLd8 "https://forms.gle/Fz7pTSh5uGEE2cLd8")
+    \-> Formulaire à remplir avant le premier cours pour confirmer l'inscription de votre ados avec le paiement: [https://forms.gle/BnCHo6VUxBMdBQ3M6](https://forms.gle/BnCHo6VUxBMdBQ3M6 "https://forms.gle/BnCHo6VUxBMdBQ3M6")
 
     Cours de yoga en présentiel. !Ne pas payer le cours avant d'avoir eu ma confirmation qu'il reste bien des places. Merci :-).
 
