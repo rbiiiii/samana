@@ -74,12 +74,12 @@ rate:
 
     T1/ Sept-déc 2022, 13 cours : tarif plein 195€ (14€/cours) - tarif réduit 160€ (12€/cours)
 
-    T2/ Jan-avril 2023, 15 cours : tarif plein 210€ (14€/cours) - tarif réduit 180€ (12€/cours)
+    T2/ Jan-avril 2023, 15 cours : tarif plein 225€ (14€/cours) - tarif réduit 180€ (12€/cours)
 
-    Abonnement annuel payé en une fois, avec prix réduit de 15%, en payant directement sur le compte BE30 0689 3283 8418 : tarif plein 336€ - tarif réduit 280€ (en précisant votre horaire et le nom et prénom de la personne qui participe au cours.
+    Abonnement annuel payé en une fois, avec prix réduit de 15%, en payant directement sur le compte BE30 0689 3283 8418 : tarif plein 350€ (13€/cours) - tarif réduit 280€ (10€/cours) (en précisant votre horaire et le nom et prénom de la personne qui participe au cours).
 
     Lieu: Corps et Conscience, 107 bv Kleyer à 4000 Liège.
-  price: 'T1: 195€ ou 160€ (tarif réduit) / T2: 210€ ou 180€ (tarif réduit)'
+  price: 'T1: 195€ ou 160€ (tarif réduit) / T2: 225€ ou 180€ (tarif réduit)'
   snip_price: 195
   snip_id: yoga-mercmatin1-sept-dec22
   snip_sale: true
@@ -99,14 +99,14 @@ rate:
 
     Pour les tarifs et paiements, engagement pour l'année scolaire payable en 2 fois. (possibilité de trouver des solutions d'étalement de paiement si besoin)
 
-    T1/ Sept-déc 2022, 13 cours : tarif plein 195€ (14€/cours) - tarif réduit 160€ (12€/cours)
+    T1/ Sept-déc 2022, 13 cours : tarif plein 195€ (15€/cours) - tarif réduit 160€ (12€/cours)
 
-    T2/ Jan-avril 2023, 15 cours : tarif plein 210€ (14€/cours) - tarif réduit 180€ (12€/cours)
+    T2/ Jan-avril 2023, 15 cours : tarif plein 225€ (15€/cours) - tarif réduit 180€ (12€/cours)
 
-    Abonnement annuel payé en une fois, avec prix réduit de 15%, en payant directement sur le compte BE30 0689 3283 8418 : tarif plein 336€ - tarif réduit 280€ (en précisant votre horaire et le nom et prénom de la personne qui participe au cours.
+    Abonnement annuel payé en une fois, avec prix réduit de 15%, en payant directement sur le compte BE30 0689 3283 8418 : tarif plein 350€ (13€/cours) - tarif réduit 280€ (10€/cours) (en précisant votre horaire et le nom et prénom de la personne qui participe au cours).
 
     Lieu: Corps et Conscience, 107 bv Kleyer à 4000 Liège.
-  price: à venir
+  price: 'T1: 195€ ou 160€ (tarif réduit) / T2: 225€ ou 180€ (tarif réduit)'
   snip_price: 195
   snip_id: abnmerc2sept-dec22
   snip_sale: true
