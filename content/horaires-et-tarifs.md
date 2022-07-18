@@ -66,24 +66,24 @@ rate:
   text: |-
     Cours mercredi matin 09h00 jusque 10h00 (arrivée à 08h50 pour se placer dans la salle), 13 cours hebdomadaire entre sept et déc 2022 & 15 cours entre janvier et avril 2023.
 
-    Cours de yoga en présentiel. !!!Ne pas payer le cours avant d'avoir eu ma confirmation qu'il reste bien des places. Merci :-).
+    Cours de yoga en présentiel. !!!Ne pas payer le cours avant d'avoir eu ma confirmation qu'il reste bien des places. (via contact@yogasamana.be)
+
+    Merci :-).
 
     Pour les tarifs et paiements, engagement pour l'année scolaire payable en 2 fois. (possibilité de trouver des solutions d'étalement de paiement si besoin)
 
-    T1/ Sept-déc 2022, 13 cours : tarif plein 185€ (14€/cours) - tarif réduit 160€ (12€/cours)
+    T1/ Sept-déc 2022, 13 cours : tarif plein 195€ (14€/cours) - tarif réduit 160€ (12€/cours)
 
     T2/ Jan-avril 2023, 15 cours : tarif plein 210€ (14€/cours) - tarif réduit 180€ (12€/cours)
 
-    Abonnement annuel possible (15% de réduction) en payant directement sur le compte BE30 0689 3283 8418 : tarif plein 336€ - tarif réduit 280€ (en précisant votre horaire et le nom et prénom de la personne qui participe au cours.
-
-    Carte de 10 cours à 155€ à prendre à la carte possible dans la limite des places disponibles (me contacter obligatoirement avant tout paiement)
+    Abonnement annuel payé en une fois, avec prix réduit de 15%, en payant directement sur le compte BE30 0689 3283 8418 : tarif plein 336€ - tarif réduit 280€ (en précisant votre horaire et le nom et prénom de la personne qui participe au cours.
 
     Lieu: Corps et Conscience, 107 bv Kleyer à 4000 Liège.
-  price: 'T1: 185€ ou 160€ (tarif réduit) / T2: 210€ ou 180€ (tarif réduit)'
-  snip_price: 185
+  price: 'T1: 195€ ou 160€ (tarif réduit) / T2: 210€ ou 180€ (tarif réduit)'
+  snip_price: 195
   snip_id: yoga-mercmatin1-sept-dec22
   snip_sale: true
-  snip_sale_price: 25
+  snip_sale_price: 35
 - title: Cours de yoga adultes - Mercredi 10h15 reprise le 14/09/22, inscription dès
     le 20 juillet 22
   show: true
