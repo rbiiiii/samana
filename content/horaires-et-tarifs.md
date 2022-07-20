@@ -93,24 +93,25 @@ rate:
   type:
   - 1h
   period: du 14 septembre au 26 avril 2023
-  text: |-
-    Cours mercredi matin 10h15 jusque 11h15 (arrivée à 10h05 pour se placer dans la salle), 13 cours hebdomadaire entre sept et déc 2022 & 15 cours entre janvier et avril 2023.
-
-    Cours de yoga en présentiel. !!!Ne pas payer le cours avant d'avoir eu ma confirmation qu'il reste bien des places. (via contact@yogasamana.be)
-
-    Merci :-).
-
-    \-> Formulaire à remplir avant le premier cours pour confirmer votre inscription avec le paiement: [https://forms.gle/Fz7pTSh5uGEE2cLd8](https://forms.gle/Fz7pTSh5uGEE2cLd8 "https://forms.gle/Fz7pTSh5uGEE2cLd8")
-
-    Pour les tarifs et paiements, engagement pour l'année scolaire payable en 2 fois. (possibilité de trouver des solutions d'étalement de paiement si besoin)
-
-    T1/ Sept-déc 2022, 13 cours : tarif plein 195€ (14€/cours) - tarif réduit 160€ (12€/cours) - payable au plus tard en septembre 2022 ( 1 session d'info gratuite est prévue avant le 14/09)
-
-    T2/ Jan-avril 2023, 14 cours : tarif plein 210€ (14€/cours) - tarif réduit 170€ (12€/cours) - payable au plus tard le 10 décembre 2022.
-
-    Abonnement annuel payé en une fois, avec prix réduit de 15%, en payant directement sur le compte BE30 0689 3283 8418 : tarif plein 350€ (13€/cours) - tarif réduit 280€ (10€/cours) (en précisant votre horaire et le nom et prénom de la personne qui participe au cours).
-
-    Lieu: Corps et Conscience, 107 bv Kleyer à 4000 Liège.
+  text: "Cours mercredi matin 10h15 jusque 11h15 (arrivée à 10h05 pour se placer dans
+    la salle), 13 cours hebdomadaire entre sept et déc 2022 & 15 cours entre janvier
+    et avril 2023.Cours de yoga en présentiel (sauf passage en ligne si obligation
+    de fermer la salle de yoga).\n\nPour les tarifs et paiements, engagement pour
+    l'année scolaire payable en 2 fois T1 & T2. (possibilité de trouver des solutions
+    d'étalement de paiement si besoin) ou en 1 fois avec réduction de 15%.\n\n**Lieu:
+    Corps et Conscience, 107 bv Kleyer à 4000 Liège.**\n\n**Quand: début des cours
+    le mercredi 14 septembre 2022**\n\n**Comment s’inscrire:**\n\n1. Formulaire à
+    remplir pour confirmer votre inscription : [https://forms.gle/Fz7pTSh5uGEE2cLd8](https://forms.gle/Fz7pTSh5uGEE2cLd8
+    \"https://forms.gle/Fz7pTSh5uGEE2cLd8\")\n2. Payer en ligne via réservation ci-dessous.
+    \n\n**Informations & précisions sur les échéances de paiement:**\n\n**T1/ Sept-déc
+    2022, 13 cours** : tarif plein 195€ (14€/cours) - tarif réduit 160€ (12€/cours)
+    - payable au plus tard en septembre 2022 ( session d'info gratuite est prévue
+    avant le 10/09)\n\n**T2/ Jan-avril 2023, 14 cours :** tarif plein 210€ (14€/cours)
+    - tarif réduit 170€ (12€/cours) - payable au plus tard le 10 décembre 2022.\n\nT1&T2/
+    Possible abonnement annuel payé en une fois, avec prix réduit de 15%, en payant
+    directement sur le compte BE30 0689 3283 8418 : tarif plein 350€ (13€/cours) -
+    tarif réduit 280€ (10€/cours) (en précisant votre horaire et le nom et prénom
+    de la personne qui participe au cours)."
   price: 'T1: 195€ ou 160€ (tarif réduit) / T2: 210€ ou 170€ (tarif réduit)'
   snip_price: 195
   snip_id: yoga-mercmatin2-sept-dec22
