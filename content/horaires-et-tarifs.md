@@ -63,25 +63,27 @@ rate:
   - 1h
   period: du 14 septembre au 26 avril 2023
   img: "/v1575800406/yoga-4595166_1920_sbfhqc.jpg"
-  text: "Cours mercredi matin 09h00 jusque 10h00 (arrivée à 08h50 pour se placer dans
-    la salle), 13 cours hebdomadaire entre sept et déc 2022 & 14 cours entre janvier
-    et avril 2023. Cours de yoga en présentiel (sauf passage en ligne si obligation
-    de fermer la salle de yoga).\n\nPour les tarifs et paiements, engagement pour
-    l'année scolaire payable en 2 fois T1 & T2. (possibilité de trouver des solutions
-    d'étalement de paiement si besoin) ou en 1 fois avec réduction de 15%.\n\n**Lieu:
-    Corps et Conscience, 107 bv Kleyer à 4000 Liège.**\n\n**Quand: début des cours
-    le mercredi 14 septembre 2022**\n\n**Comment s’inscrire:**\n\n1. Formulaire à
-    remplir pour confirmer votre inscription : [https://forms.gle/Fz7pTSh5uGEE2cLd8](https://forms.gle/Fz7pTSh5uGEE2cLd8
-    \"https://forms.gle/Fz7pTSh5uGEE2cLd8\")\n2. Payer en ligne via réservation ci-dessous.
-    \n\n**Informations & précisions sur les échéances de paiement:**\n\n**T1/ Sept-déc
-    2022, 13 cours** : tarif plein 195€ (14€/cours) - tarif réduit 160€ (12€/cours)
-    - payable au plus tard en septembre 2022 ( session d'info gratuite est prévue
-    avant le 10/09)\n\n**T2/ Jan-avril 2023, 14 cours :** tarif plein 210€ (14€/cours)
-    - tarif réduit 170€ (12€/cours) - payable au plus tard le 10 décembre 2022.\n\nT1&T2/
-    Possible abonnement annuel payé en une fois, avec prix réduit de 15%, en payant
-    directement sur le compte BE30 0689 3283 8418 : tarif plein 350€ (13€/cours) -
-    tarif réduit 280€ (10€/cours) (en précisant votre horaire et le nom et prénom
-    de la personne qui participe au cours)."
+  text: |-
+    Cours mercredi matin 09h00 jusque 10h00 (arrivée à 08h50 pour se placer dans la salle), 13 cours hebdomadaire entre entre septembre et décembre 2022 & 14 cours entre janvier et avril 2023. Cours de yoga en présentiel (sauf passage en ligne si obligation de fermer la salle de yoga).
+
+    Pour les tarifs et paiements, engagement pour l'année scolaire payable en 2 fois T1 & T2. (possibilité de trouver des solutions d'étalement de paiement si besoin) ou en 1 fois avec une réduction de 15%.
+
+    **Lieu: Corps et Conscience, 107 bv Kleyer à 4000 Liège.**
+
+    **Quand: début des cours le mercredi 14 septembre 2022**
+
+    **Comment s’inscrire:**
+
+    1. Formulaire à remplir pour confirmer votre inscription : [https://forms.gle/Fz7pTSh5uGEE2cLd8](https://forms.gle/Fz7pTSh5uGEE2cLd8 "https://forms.gle/Fz7pTSh5uGEE2cLd8")
+    2. Payer en ligne via réservation ci-dessous.
+
+    **Informations & précisions sur les échéances de paiement:**
+
+    **T1/ Sept-déc 2022, 13 cours** : tarif plein 195€ (14€/cours) - tarif réduit 160€ (12€/cours) - payable au plus tard en septembre 2022 ( session d'info gratuite est prévue avant le 10/09)
+
+    **T2/ Jan-avril 2023, 14 cours :** tarif plein 210€ (14€/cours) - tarif réduit 170€ (12€/cours) - payable au plus tard le 10 décembre 2022.
+
+    T1&T2/ Possible abonnement annuel payé en une fois, avec prix réduit de 15%, en payant directement sur le compte BE30 0689 3283 8418 : tarif plein 350€ (13€/cours) - tarif réduit 280€ (10€/cours) (en précisant votre horaire et le nom et prénom de la personne qui participe au cours).
   price: 'T1: 195€ ou 160€ (tarif réduit) / T2: 210€ ou 170€ (tarif réduit)'
   snip_price: 195
   snip_id: yoga-mercmatin1-sept-dec22
@@ -93,25 +95,27 @@ rate:
   type:
   - 1h
   period: du 14 septembre au 26 avril 2023
-  text: "Cours mercredi matin 10h15 jusque 11h15 (arrivée à 10h05 pour se placer dans
-    la salle), 13 cours hebdomadaire entre sept et déc 2022 & 15 cours entre janvier
-    et avril 2023.Cours de yoga en présentiel (sauf passage en ligne si obligation
-    de fermer la salle de yoga).\n\nPour les tarifs et paiements, engagement pour
-    l'année scolaire payable en 2 fois T1 & T2. (possibilité de trouver des solutions
-    d'étalement de paiement si besoin) ou en 1 fois avec réduction de 15%.\n\n**Lieu:
-    Corps et Conscience, 107 bv Kleyer à 4000 Liège.**\n\n**Quand: début des cours
-    le mercredi 14 septembre 2022**\n\n**Comment s’inscrire:**\n\n1. Formulaire à
-    remplir pour confirmer votre inscription : [https://forms.gle/Fz7pTSh5uGEE2cLd8](https://forms.gle/Fz7pTSh5uGEE2cLd8
-    \"https://forms.gle/Fz7pTSh5uGEE2cLd8\")\n2. Payer en ligne via réservation ci-dessous.
-    \n\n**Informations & précisions sur les échéances de paiement:**\n\n**T1/ Sept-déc
-    2022, 13 cours** : tarif plein 195€ (14€/cours) - tarif réduit 160€ (12€/cours)
-    - payable au plus tard en septembre 2022 ( session d'info gratuite est prévue
-    avant le 10/09)\n\n**T2/ Jan-avril 2023, 14 cours :** tarif plein 210€ (14€/cours)
-    - tarif réduit 170€ (12€/cours) - payable au plus tard le 10 décembre 2022.\n\nT1&T2/
-    Possible abonnement annuel payé en une fois, avec prix réduit de 15%, en payant
-    directement sur le compte BE30 0689 3283 8418 : tarif plein 350€ (13€/cours) -
-    tarif réduit 280€ (10€/cours) (en précisant votre horaire et le nom et prénom
-    de la personne qui participe au cours)."
+  text: |-
+    Cours mercredi matin 10h15 jusque 11h15 (arrivée à 10h05 pour se placer dans la salle), 13 cours hebdomadaire entre entre septembre et décembre 2022 & 14 cours entre janvier et avril 2023. Cours de yoga en présentiel (sauf passage en ligne si obligation de fermer la salle de yoga).
+
+    Pour les tarifs et paiements, engagement pour l'année scolaire payable en 2 fois T1 & T2. (possibilité de trouver des solutions d'étalement de paiement si besoin) ou en 1 fois avec une réduction de 15%.
+
+    **Lieu: Corps et Conscience, 107 bv Kleyer à 4000 Liège.**
+
+    **Quand: début des cours le mercredi 14 septembre 2022**
+
+    **Comment s’inscrire:**
+
+    1. Formulaire à remplir pour confirmer votre inscription : [https://forms.gle/Fz7pTSh5uGEE2cLd8](https://forms.gle/Fz7pTSh5uGEE2cLd8 "https://forms.gle/Fz7pTSh5uGEE2cLd8")
+    2. Payer en ligne via réservation ci-dessous.
+
+    **Informations & précisions sur les échéances de paiement:**
+
+    **T1/ Sept-déc 2022, 13 cours** : tarif plein 195€ (14€/cours) - tarif réduit 160€ (12€/cours) - payable au plus tard en septembre 2022 ( session d'info gratuite est prévue avant le 10/09)
+
+    **T2/ Jan-avril 2023, 14 cours :** tarif plein 210€ (14€/cours) - tarif réduit 170€ (12€/cours) - payable au plus tard le 10 décembre 2022.
+
+    T1&T2/ Possible abonnement annuel payé en une fois, avec prix réduit de 15%, en payant directement sur le compte BE30 0689 3283 8418 : tarif plein 350€ (13€/cours) - tarif réduit 280€ (10€/cours) (en précisant votre horaire et le nom et prénom de la personne qui participe au cours).
   price: 'T1: 195€ ou 160€ (tarif réduit) / T2: 210€ ou 170€ (tarif réduit)'
   snip_price: 195
   snip_id: yoga-mercmatin2-sept-dec22
@@ -125,20 +129,23 @@ rate:
   - 1h30
   period: du 14 septembre au 26 avril 2023
   img: "/v1575800407/YOGA_POUR_ADOS_12-18_ANS_nwtwus.png"
-  text: |-
-    Cours de yoga 12-18 ans: gestion du stress, image de soi, rester en lien avec son corps qui évolue, améliorer sa posture et sa respiration. Respirer et savoir petit à petit apprivoiser sa vie intérieure.
-
-    \-> Formulaire à remplir avant le premier cours pour confirmer l'inscription de votre ados avec le paiement: [https://forms.gle/BnCHo6VUxBMdBQ3M6](https://forms.gle/BnCHo6VUxBMdBQ3M6 "https://forms.gle/BnCHo6VUxBMdBQ3M6")
-
-    Cours de yoga en présentiel. !Ne pas payer le cours avant d'avoir eu ma confirmation qu'il reste bien des places. Merci :-).
-
-    Pour les tarifs et paiements, engagement pour l'année scolaire payable en 2 fois. (possibilité de trouver des solutions d'étalement de paiement si besoin)
-
-    T1/ Sept-déc 2022, 13 cours : tarif plein 150€ (12€/1h30 cours) - tarif réduit 130€ (10€/1h30 cours) - payable au plus tard en septembre 2022 ( 1 cours d'essai possible s'il reste des places en septembre 22)
-
-    T2/ Jan-avril 2023, 14 cours : tarif plein 165€ (12€/1h30 cours) - tarif réduit 140€ (10€/1h30 cours) - payable au plus tard le 10 décembre 2022.
-
-    Lieu: Corps et Conscience, 107 bv Kleyer à 4000 Liège.
+  text: "Cours de yoga 12-18 ans: gestion du stress, image de soi, rester en lien
+    avec son corps qui évolue, améliorer sa posture et sa respiration. Respirer et
+    savoir petit à petit apprivoiser sa vie intérieure. \n\nCours mercredi de 14h
+    à 15h30, 13 cours hebdomadaire entre entre septembre et décembre 2022 & 14 cours
+    entre janvier et avril 2023. Cours de yoga en présentiel (sauf passage en ligne
+    si obligation de fermer la salle de yoga).\n\nPour les tarifs et paiements, engagement
+    pour l'année scolaire payable en 2 fois T1 & T2. (possibilité de trouver des solutions
+    d'étalement de paiement si besoin)\n\n**Lieu: Corps et Conscience, 107 bv Kleyer
+    à 4000 Liège.**\n\n**Quand: début des cours le mercredi 14 septembre 2022**\n\n**Comment
+    s’inscrire:**\n\n1. Formulaire à remplir pour confirmer votre inscription : [https://forms.gle/BnCHo6VUxBMdBQ3M6](https://forms.gle/BnCHo6VUxBMdBQ3M6
+    \"https://forms.gle/BnCHo6VUxBMdBQ3M6\")\n2. Payer en ligne via réservation ci-dessous.\n\n**Informations
+    & précisions sur les échéances de paiement:**\n\n**T1/ Sept-déc 2022, 13 cours**
+    : tarif plein 150€ (12€/1h30 cours) - tarif réduit 130€ (10€/1h30 cours) - payable
+    au plus tard en septembre 2022 ( 1 cours d'essai possible s'il reste des places
+    en septembre 22)\n\n**T2/ Jan-avril 2023, 14 cours** : tarif plein 165€ (12€/1h30
+    cours) - tarif réduit 140€ (10€/1h30 cours) - payable au plus tard le 10 décembre
+    2022."
   price: 'T1: 150€ ou 130€ (tarif réduit) / T2: 165€ ou 140€ (tarif réduit)'
   snip_price: 150
   snip_id: yoga-ados-septdec-22
@@ -220,24 +227,25 @@ rate:
     20 juillet
   show: true
   period: Du 09 septembre au 28 avril 2023
-  text: |-
-    Cours mercredi matin 09h00 jusque 10h00 (arrivée à 08h50 pour se placer dans la salle), 13 cours hebdomadaire entre sept et déc 2022 & 15 cours entre janvier et avril 2023.
-
-    Cours de yoga en présentiel. !!!Ne pas payer le cours avant d'avoir eu ma confirmation qu'il reste bien des places. (via contact@yogasamana.be)
-
-    Merci :-).
-
-    \-> Formulaire à remplir avant le premier cours pour confirmer votre inscription avec le paiement: [https://forms.gle/Fz7pTSh5uGEE2cLd8](https://forms.gle/Fz7pTSh5uGEE2cLd8 "https://forms.gle/Fz7pTSh5uGEE2cLd8")
-
-    Pour les tarifs et paiements, engagement pour l'année scolaire payable en 2 fois. (possibilité de trouver des solutions d'étalement de paiement si besoin)
-
-    T1/ Sept-déc 2022, 13 cours : tarif plein 195€ (14€/cours) - tarif réduit 160€ (12€/cours) - payable au plus tard en septembre 2022 ( 1 session d'info gratuite est prévue avant le 14/09)
-
-    T2/ Jan-avril 2023, 14 cours : tarif plein 210€ (14€/cours) - tarif réduit 170€ (12€/cours)
-
-    Abonnement annuel payé en une fois, avec prix réduit de 15%, en payant directement sur le compte BE30 0689 3283 8418 : tarif plein 350€ (13€/cours) - tarif réduit 280€ (10€/cours) (en précisant votre horaire et le nom et prénom de la personne qui participe au cours).
-
-    Lieu: Tout Coquelicot, 20 rue de la justice à 4420 Saint-Nicolas.
+  text: "Cours vendredi matin 09h00 jusque 10h00 (arrivée à 08h50 pour se placer dans
+    la salle), 13 cours hebdomadaire entre septembre et décembre 2022 & 14 cours entre
+    janvier et avril 2023. Cours de yoga en présentiel (sauf passage en ligne si obligation
+    de fermer la salle de yoga).\n\nPour les tarifs et paiements, engagement pour
+    l'année scolaire payable en 2 fois T1 & T2. (possibilité de trouver des solutions
+    d'étalement de paiement si besoin) ou en 1 fois avec une réduction de 15%.\n\n**Lieu:
+    Tout Coquelicot, 20 rue de la justice à 4420 Saint-Nicolas.**\n\n**Quand: début
+    des cours le vendredi 09 septembre 2022.**\n\n**Comment s’inscrire:**\n\n1. Formulaire
+    à remplir pour confirmer votre inscription : [https://forms.gle/Fz7pTSh5uGEE2cLd8](https://forms.gle/Fz7pTSh5uGEE2cLd8
+    \"https://forms.gle/Fz7pTSh5uGEE2cLd8\")\n2. Payer en ligne via réservation ci-dessous.
+    \n\n**Informations & précisions sur les échéances de paiement:**\n\n**T1/ Sept-déc
+    2022, 13 cours** : tarif plein 195€ (14€/cours) - tarif réduit 160€ (12€/cours)
+    - payable au plus tard en septembre 2022 ( session d'info gratuite est prévue
+    avant le 10/09)\n\n**T2/ Jan-avril 2023, 14 cours :** tarif plein 210€ (14€/cours)
+    - tarif réduit 170€ (12€/cours) - payable au plus tard le 10 décembre 2022.\n\nT1&T2/
+    Possible abonnement annuel payé en une fois, avec prix réduit de 15%, en payant
+    directement sur le compte BE30 0689 3283 8418 : tarif plein 350€ (13€/cours) -
+    tarif réduit 280€ (10€/cours) (en précisant votre horaire et le nom et prénom
+    de la personne qui participe au cours)."
   price: 'T1: 195€ ou 160€ (tarif réduit) / T2: 210€ ou 170€ (tarif réduit)'
   snip_price: 195
   snip_id: yoga-vendmatin-septdec22
