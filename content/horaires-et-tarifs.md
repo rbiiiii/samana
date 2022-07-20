@@ -159,29 +159,26 @@ rate:
   period: 15 septembre au 27 avril 2023
   img: "/v1598214449/IMG_4551_zbks33.jpg"
   text: |-
-    Cours jeudi soir à 19h jusque 20h (arrivée à 18h50 pour se placer dans la salle).
+    Cours jeudi soir à 19h jusque 20h (arrivée à 18h50 pour se placer dans la salle). Il y a alternance entre cours hebdomadaire en septembre/octobre, et ateliers de 2h le samedi en novembre/décembre. (Voir plus précisément ci-dessous). Cours de yoga en présentiel (sauf passage en ligne si obligation de fermer la salle de yoga).
 
-    T1: 6 cours hebdomadaire en sept et octobre (pas de cours pendant les congés scolaires) et ensuite 2 ateliers de 2h par mois le samedi après-midi de 14h à 16h:  5 & 19 novembre et 3 & 10 décembre 2022.
+    Pour les tarifs et paiements, engagement pour l'année scolaire payable en 2 fois T1 & T2. (possibilité de trouver des solutions d'étalement de paiement si besoin) ou en 1 fois avec une réduction de 15%.
 
-    T2: 6 cours hebdomadaire en janvier et février 2023 (pas de cours pendant les congés scolaires) et ensuite 2 ateliers de 2h par mois le samedi après-midi de 14h à 16h:  11 & 25 mars et 8 et 22 avril 2023.
+    **Lieu: Tout Coquelicot, 20 rue de la justice à 4420 Saint-Nicolas.**
 
-    Les ateliers seront l'occasion de pratiquer des sessions plus longues de yoga tout en partageant la philosophie des sutras de Patanjali. Venez expérimenter une connaissance plus fine et subtile du yoga :-).
+    **Quand: début des cours le jeudi 15 septembre 2022.**
 
-    Cours de yoga en présentiel. !!!Ne pas payer le cours avant d'avoir eu ma confirmation qu'il reste bien des places. (via contact@yogasamana.be)
+    **Comment s’inscrire:**
 
-    Merci :-).
+    1. Formulaire à remplir pour confirmer votre inscription : [https://forms.gle/Fz7pTSh5uGEE2cLd8](https://forms.gle/Fz7pTSh5uGEE2cLd8 "https://forms.gle/Fz7pTSh5uGEE2cLd8")
+    2. Payer en ligne via réservation ci-dessous.
 
-    \-> Formulaire à remplir avant le premier cours pour confirmer votre inscription avec le paiement: [https://forms.gle/Fz7pTSh5uGEE2cLd8](https://forms.gle/Fz7pTSh5uGEE2cLd8 "https://forms.gle/Fz7pTSh5uGEE2cLd8")
+    **Informations & précisions sur les échéances de paiement:**
 
-    Pour les tarifs et paiements, engagement pour l'année scolaire payable en 2 fois. (possibilité de trouver des solutions d'étalement de paiement si besoin)
+    **T1/ Sept-déc 2022, 6h cours et 8h de cours-ateliers**: tarif plein 195€ (14€/cours) - tarif réduit 160€ (12€/cours) - payable au plus tard en septembre 2022 ( session d'info gratuite est prévue le 10/09)
 
-    T1/ Sept-déc 2022, 6h cours et 8h de cours/ateliers : tarif plein 195€ (14€/cours) - tarif réduit 160€ (12€/cours) - payable au plus tard en septembre 2022 ( 1 session d'info gratuite est prévue avant le 14/09)
+    **T2/ Jan-avril 2023, 6h cours et 8h de cours-ateliers :** tarif plein 210€ (14€/cours) - tarif réduit 170€ (12€/cours) - payable au plus tard le 10 décembre 2022.
 
-    T2/ Jan-avril 2023, 6h cours et 8h de cours/ateliers : tarif plein 225€ (14€/cours) - tarif réduit 180€ (12€/cours) - payable au plus tard le 10 décembre 2022.
-
-    Abonnement annuel payé en une fois, avec prix réduit de 15%, en payant directement sur le compte BE30 0689 3283 8418 : tarif plein 350€ (13€/cours) - tarif réduit 280€ (10€/cours) (en précisant votre horaire + nom et prénom de la personne qui participe au cours).
-
-    Lieu: Tout Coquelicot, 20 rue de la justice à 4420 Saint-Nicolas.
+    **T1&T2/ Possible abonnement annuel** payé en une fois, avec prix réduit de 15%, en payant directement sur le compte BE30 0689 3283 8418 : tarif plein 350€ (13€/cours) - tarif réduit 280€ (10€/cours) (en précisant votre horaire et le nom et prénom de la personne qui participe au cours).
   price: 'T1: 195€ ou 160€ (tarif réduit) / T2: 225€ ou 180€ (tarif réduit)'
   snip_price: 195
   snip_id: yogajeudisoir1-sept-dec-22
