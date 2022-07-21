@@ -193,7 +193,7 @@ rate:
   period: du 15 septembre au 27 avril 2022
   img: "/v1575800434/AdobeStock_245653305_ujwegf.jpg"
   text: |-
-    Cours jeudi soir à 20h15 jusque 21h15 (arrivée à 20h05 pour se placer dans la salle).Il y a alternance entre cours hebdomadaire en septembre/octobre, et ateliers de 2h le samedi en novembre/décembre. (Voir plus précisément ci-dessous). Cours de yoga en présentiel (sauf passage en ligne si obligation de fermer la salle de yoga).
+    Cours jeudi soir à 20h15 jusque 21h15 (arrivée à 20h05 pour se placer dans la salle). Il y a alternance entre cours hebdomadaire en septembre/octobre, et ateliers de 2h le samedi en novembre/décembre. (Voir plus précisément ci-dessous). Cours de yoga en présentiel (sauf passage en ligne si obligation de fermer la salle de yoga).
 
     Pour les tarifs et paiements, engagement pour l'année scolaire payable en 2 fois T1 & T2. (possibilité de trouver des solutions d'étalement de paiement si besoin) ou en 1 fois avec une réduction de 15%.
 
