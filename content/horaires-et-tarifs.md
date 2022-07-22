@@ -178,7 +178,7 @@ rate:
 
     **T2/ Jan-avril 2023, 6h cours et 8h de cours-ateliers :** tarif plein 210€ (14€/cours) - tarif réduit 170€ (12€/cours) - payable au plus tard le 10 décembre 2022.
 
-    **T1&T2/ Possible abonnement annuel** payé en une fois, avec prix réduit de 15%, en payant directement sur le compte BE30 0689 3283 8418 : tarif plein 350€ (13€/cours) - tarif réduit 280€ (10€/cours) (en précisant votre horaire et le nom et prénom de la personne qui participe au cours).
+    **T1&T2/ Possible abonnement annuel** payé en une fois, avec prix réduit de 15%, en payant directement sur le compte BE30 0689 3991 8711: tarif plein 350€ (13€/cours) - tarif réduit 280€ (10€/cours) (en précisant votre horaire et le nom et prénom de la personne qui participe au cours).
   price: 'T1: 195€ ou 160€ (tarif réduit) / T2: 225€ ou 180€ (tarif réduit)'
   snip_price: 195
   snip_id: yogajeudisoir1-sept-dec-22
@@ -212,7 +212,7 @@ rate:
 
     **T2/ Jan-avril 2023, 6h cours et 8h de cours-ateliers :** tarif plein 210€ (14€/cours) - tarif réduit 170€ (12€/cours) - payable au plus tard le 10 décembre 2022.
 
-    **T1&T2/ Possible abonnement annuel** payé en une fois, avec prix réduit de 15%, en payant directement sur le compte BE30 0689 3283 8418 : tarif plein 350€ (13€/cours) - tarif réduit 280€ (10€/cours) (en précisant votre horaire et le nom et prénom de la personne qui participe au cours).
+    **T1&T2/ Possible abonnement annuel** payé en une fois, avec prix réduit de 15%, en payant directement sur le compte BE30 0689 3991 8711 : tarif plein 350€ (13€/cours) - tarif réduit 280€ (10€/cours) (en précisant votre horaire et le nom et prénom de la personne qui participe au cours).
   snip_id: yoga-jeudisoir2-sept-dec22
   snip_price: 195
   snip_sale: true
@@ -221,25 +221,27 @@ rate:
     20 juillet
   show: true
   period: Du 09 septembre au 28 avril 2023
-  text: "Cours vendredi matin 09h00 jusque 10h00 (arrivée à 08h50 pour se placer dans
-    la salle), 13 cours hebdomadaire entre septembre et décembre 2022 & 14 cours entre
-    janvier et avril 2023. Cours de yoga en présentiel (sauf passage en ligne si obligation
-    de fermer la salle de yoga).\n\nPour les tarifs et paiements, engagement pour
-    l'année scolaire payable en 2 fois T1 & T2. (possibilité de trouver des solutions
-    d'étalement de paiement si besoin) ou en 1 fois avec une réduction de 15%.\n\n**Lieu:
-    Tout Coquelicot, 20 rue de la justice à 4420 Saint-Nicolas.**\n\n**Quand: début
-    des cours le vendredi 09 septembre 2022.**\n\n**Comment s’inscrire:**\n\n1. Formulaire
-    à remplir pour confirmer votre inscription : [https://forms.gle/Fz7pTSh5uGEE2cLd8](https://forms.gle/Fz7pTSh5uGEE2cLd8
-    \"https://forms.gle/Fz7pTSh5uGEE2cLd8\")\n2. Payer en ligne via réservation ci-dessous.
-    \n\n**Informations & précisions sur les échéances de paiement:**\n\n**T1/ Sept-déc
-    2022, 13 cours** : tarif plein 195€ (14€/cours) - tarif réduit 160€ (12€/cours)
-    - payable au plus tard en septembre 2022 ( session d'info gratuite est prévue
-    avant le 10/09)\n\n**T2/ Jan-avril 2023, 14 cours :** tarif plein 210€ (14€/cours)
-    - tarif réduit 170€ (12€/cours) - payable au plus tard le 10 décembre 2022.\n\nT1&T2/
-    Possible abonnement annuel payé en une fois, avec prix réduit de 15%, en payant
-    directement sur le compte BE30 0689 3283 8418 : tarif plein 350€ (13€/cours) -
-    tarif réduit 280€ (10€/cours) (en précisant votre horaire et le nom et prénom
-    de la personne qui participe au cours)."
+  text: |-
+    Cours vendredi matin 09h00 jusque 10h00 (arrivée à 08h50 pour se placer dans la salle), 13 cours hebdomadaire entre septembre et décembre 2022 & 14 cours entre janvier et avril 2023. Cours de yoga en présentiel (sauf passage en ligne si obligation de fermer la salle de yoga).
+
+    Pour les tarifs et paiements, engagement pour l'année scolaire payable en 2 fois T1 & T2. (possibilité de trouver des solutions d'étalement de paiement si besoin) ou en 1 fois avec une réduction de 15%.
+
+    **Lieu: Tout Coquelicot, 20 rue de la justice à 4420 Saint-Nicolas.**
+
+    **Quand: début des cours le vendredi 09 septembre 2022.**
+
+    **Comment s’inscrire:**
+
+    1. Formulaire à remplir pour confirmer votre inscription : [https://forms.gle/Fz7pTSh5uGEE2cLd8](https://forms.gle/Fz7pTSh5uGEE2cLd8 "https://forms.gle/Fz7pTSh5uGEE2cLd8")
+    2. Payer en ligne via réservation ci-dessous.
+
+    **Informations & précisions sur les échéances de paiement:**
+
+    **T1/ Sept-déc 2022, 13 cours** : tarif plein 195€ (14€/cours) - tarif réduit 160€ (12€/cours) - payable au plus tard en septembre 2022 ( session d'info gratuite est prévue avant le 10/09)
+
+    **T2/ Jan-avril 2023, 14 cours :** tarif plein 210€ (14€/cours) - tarif réduit 170€ (12€/cours) - payable au plus tard le 10 décembre 2022.
+
+    T1&T2/ Possible abonnement annuel payé en une fois, avec prix réduit de 15%, en payant directement sur le compte BE30 0689 3991 8711 : tarif plein 350€ (13€/cours) - tarif réduit 280€ (10€/cours) (en précisant votre horaire et le nom et prénom de la personne qui participe au cours).
   price: 'T1: 195€ ou 160€ (tarif réduit) / T2: 210€ ou 170€ (tarif réduit)'
   snip_price: 195
   snip_id: yoga-vendmatin-septdec22
