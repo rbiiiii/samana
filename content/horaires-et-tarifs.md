@@ -83,7 +83,7 @@ rate:
 
     **T2/ Jan-avril 2023, 14 cours :** tarif plein 210€ (14€/cours) - tarif réduit 170€ (12€/cours) - payable au plus tard le 10 décembre 2022.
 
-    T1&T2/ Possible abonnement annuel payé en une fois, avec prix réduit de 15%, en payant directement sur le compte BE30 0689 3283 8418 : tarif plein 350€ (13€/cours) - tarif réduit 280€ (10€/cours) (en précisant votre horaire et le nom et prénom de la personne qui participe au cours).
+    T1&T2/ Possible abonnement annuel payé en une fois, avec prix réduit de 15%, en payant directement sur le compte BE30 0689 3991 8711 : tarif plein 350€ (13€/cours) - tarif réduit 280€ (10€/cours) (en précisant votre horaire et le nom et prénom de la personne qui participe au cours).
   price: 'T1: 195€ ou 160€ (tarif réduit) / T2: 210€ ou 170€ (tarif réduit)'
   snip_price: 195
   snip_id: yoga-mercmatin1-sept-dec22
