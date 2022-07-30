@@ -22,7 +22,7 @@ schedule:
     category: ados
     subtext: Yoga ados (Dès la 1ière secondaire) chez Corps et Conscience
   - start: 17h
-    end: 17h30
+    end: 18h
     category: ados
     subtext: Bal Special-danse ados- Ballet Bienveillant :-)
   - start: 18h30
