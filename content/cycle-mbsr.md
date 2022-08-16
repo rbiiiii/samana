@@ -87,7 +87,7 @@ mbsr:
       7. Jeudi 22 décembre 2022, 18h30 – 21h00
       8. Jeudi 05 janvier 2023, 18h30 – 21h30
 
-      #### Cycle du lundi matin (format présentiel, par Chloé Dujardin instructrice MBSR qualifiée)
+      #### Cycle du vendredi matin (format présentiel, par Chloé Dujardin instructrice MBSR qualifiée)
 
       1. Vendredi 11 novembre 2022, 10h30 - 13h30
       2. Vendredi 18 novembre 2022, 10h30 - 13h00
