@@ -29,9 +29,11 @@ content_blocks:
 - title: Méditez
   title_italic: avec&nbsp;moi &nbsp;!
   texts:
-  - text: |-
-      Je vous propose désormais des cycles de réduction du stress par la pleine conscience (MBSR). Le premier cycle démarre en octobre, avec un groupe le lundi matin et un groupe le jeudi soir.
-      Vous trouvez toutes les informations sur le cycle MBSR et les modalités pratiques ci-dessous.
+  - text: "Je vous propose désormais des cycles de réduction du stress par la pleine
+      conscience (MBSR). Un cycle en automne et un cycle au printemps avec une session
+      en soirée et une autre en matinée. \nVous trouvez toutes les informations sur
+      le cycle MBSR et les modalités pratiques ci-dessous en cliquant sur \"Plus d'infos
+      sur le cycle MBSR\"."
   - text: 'La pleine conscience c''est quoi? '
   - text: Plus une façon d’être qu’une technique, la pleine conscience signifie diriger
       son attention, intentionnellement vers l’instant présent et de façon non jugeante.
