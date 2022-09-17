@@ -3,12 +3,12 @@ slug: meditation
 type: meditation
 title: Méditation
 intro_text:
-- text: "Méditation à Liège. \nLa méditation de pleine conscience est la qualité de
-    conscience qui émerge lorsqu’on tourne intentionnellement son esprit vers le moment
-    présent. C’est l’attention portée à l’expérience vécue et éprouvée, sans filtre
-    (on accepte ce qui vient), sans jugement (on ne décide pas si c’est bien ou mal,
-    désirable ou non), sans attente (on ne cherche pas quelque chose de précis). Christophe
-    André"
+- text: Méditation à Liège. "Nous déployons beaucoup d’efforts pour améliorer les
+    conditions extérieures de notre existence, mais en fin de compte c’est toujours
+    notre esprit qui fait l’expérience du monde et le traduit sous forme de bien-être
+    ou de souffrance. Si nous transformons notre façon de percevoir les choses, nous
+    transformons la qualité de notre vie. Et ce changement résulte d’un entraînement
+    de l’esprit que l’on appelle “méditation”." Matthieu Ricard
 - text: <span class="ff-i">La méditation pour moi</span> est une manière d’être, c’est
     observer mon esprit tel qu’il est en profondeur, en toute clarté et bienveillance.
 content_blocks:
