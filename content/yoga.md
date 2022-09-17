@@ -62,27 +62,26 @@ text_under_price: "## Informations utiles - Cours de yoga\n\n### 1 - Tarifs et M
   moins 24 heures à l'avance par sms**.\n\n  Si je ne suis pas prévenue de votre absence,
   le cours ne pourra pas être rattrapé et sera perdu.\n* Concernant les cours à la
   séance, un cours réservé ne sera remboursé que si je suis prévenue au maximum 48h
-  à l'avance.\n\n### 4 - En cas d'abandon ?\n\n* Si vous souhaitez abandonner et vous
-  avez souscrits un abonnement, sachez que tout quadrimestre entamé est à régler dans
-  son intégralité.\n* Un abonnement annuel pourra être partiellement remboursé mais
-  le décompte se fera alors sur le prix trimestriel.\n* Je reste évidemment à votre
-  écoute. Toute demande de remboursement doit se faire par mail et il est impératif
-  de me prévenir de votre absence par sms le plus tôt possible.\n\n### 5 - En cas
-  de maladie?\n\nEn cas de maladie, vous serez remboursé **sur présentation d'un certificat
-  médical d'au moins 4 semaines.**\n\nMerci de me transmettre par mail votre certificat,
-  vos coordonnées, en précisant le cours auquel vous êtes inscrit afin que je puisse
-  examiner votre demande de remboursement et vous tenir informé de ma décision.\n\n###
-  6 - En cas d'annulation de ma part ?\n\nSi je me retrouve dans l'incapacité de donner
-  le cours collectif prévu pour cause de maladie, accident ou formation, ... Deux
-  options:\n\n* Le cours a lieu et je suis remplacée par une personne en qui j'accorde
-  toute ma confiance et vous en serez prévenu\n* Le cours est reporté à une date ultérieure
-  afin de pourvoir l'assurer moi-même.\n\n### 7 - Mesures liées au Covid des studios
-  de yoga\n\nMerci d’être responsable et de ne pas venir en cas de refroidissement
-  ou de contact avec une personne testée positive au Covid.\n\nMerci de venir déjà
-  en tenue et avec le moins d’effets personnels possible.\n\nMerci de prendre votre
-  propre tapis propre et votre couverture si vous en avez besoin.\n\nDes coussins
-  de méditations sont disponibles sur place.\n\nA l’entrée, désinfection des mains
-  avec gel hydro-alcoolique obligatoire et port du masque obligatoire dans l’espace
-  d’entrée et de vestiaire jusqu’au tapis de yoga que vous disposerez dans la salle."
+  à l'avance.\n\n### 4 - En cas d'abandon ?\n\n* Il n'y a pas  de remboursement d'abonnement
+  en cours d'année sauf pour raison médicale appuyée par un certificat de médecin.\n*
+  Je reste évidemment à votre écoute. Toute demande de remboursement doit se faire
+  par mail et il est impératif de me prévenir de votre absence par sms le plus tôt
+  possible.\n\n### 5 - En cas de maladie?\n\nEn cas de maladie, vous serez remboursé
+  **sur présentation d'un certificat médical d'au moins 4 semaines.**\n\nMerci de
+  me transmettre par mail votre certificat, vos coordonnées, en précisant le cours
+  auquel vous êtes inscrit afin que je puisse examiner votre demande de remboursement
+  et vous tenir informé de ma décision.\n\n### 6 - En cas d'annulation de ma part
+  ?\n\nSi je me retrouve dans l'incapacité de donner le cours collectif prévu pour
+  cause de maladie, accident ou formation, ... Deux options:\n\n* Le cours a lieu
+  et je suis remplacée par une personne en qui j'accorde toute ma confiance et vous
+  en serez prévenu\n* Le cours est reporté à une date ultérieure afin de pourvoir
+  l'assurer moi-même.\n\n### 7 - Mesures liées au Covid des studios de yoga\n\nMerci
+  d’être responsable et de ne pas venir en cas de refroidissement ou de contact avec
+  une personne testée positive au Covid.\n\nMerci de venir déjà en tenue et avec le
+  moins d’effets personnels possible.\n\nMerci de prendre votre propre tapis propre
+  et votre couverture si vous en avez besoin.\n\nDes coussins de méditations sont
+  disponibles sur place.\n\nA l’entrée, désinfection des mains avec gel hydro-alcoolique
+  obligatoire et port du masque obligatoire dans l’espace d’entrée et de vestiaire
+  jusqu’au tapis de yoga que vous disposerez dans la salle."
 
 ---
