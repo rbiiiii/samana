@@ -15,14 +15,14 @@ content_blocks:
 - title: 'Yoga et méditation au travail, '
   title_italic: 'Pour&nbsp;quoi ? '
   texts:
-  - text: Cette année, que ce soient les CEO, managers et leurs collaborateurs, tout
-      le monde a vu sa vie et son travail bousculé, suspendu, remis en question, menacé…
-      Comment s'outiller pour vivre au mieux ces changements, retournements, et décisions
-      à prendre alors qu'il nous apparait désormais plus clairement que jamais que
-      nous ne contrôlons pas tout?
+  - text: Ces dernières années, que ce soient les CEO, managers et leurs collaborateurs,
+      tout le monde a vu sa vie et son travail bousculé, suspendu, remis en question,
+      menacé… Comment s'outiller pour vivre au mieux ces changements, retournements,
+      et décisions à prendre alors qu'il nous apparait désormais plus clairement que
+      jamais que nous ne contrôlons pas tout?
   - text: |
-      Je propose dans un premier temps, des séances personnalisées aux managers et membres de comités de direction. ( à domicile ou au bureau)
-      Une belle manière de prendre soin de soi, et indirectement de ses équipes et collaborateurs en ces temps mouvementés. Et pourquoi pas, par la suite, lorsque la situation sanitaire le permet, proposer des initiations à vos équipes...
+      Je propose des séances aux entreprises en les personnalisant pour les managers et membres de comités de direction ou encore directement avec les collaborateurs.
+      Une belle manière de prendre soin de soi, des équipes et de vos collaborateurs. Pour une entreprise solide, des équipes soudées et des outils concrets de gestion du stress pour chacun-e.
 - title: Une expérience nouvelle
   title_italic: avec&nbsp;moi &nbsp;!
   texts:
