@@ -59,7 +59,7 @@ text_under_price: |-
 
   #### Abonnement Studio et Abonnement ados
 
-  ![](https://res.cloudinary.com/dqu7lbbhg/image/upload/v1655308673/sarah-ball-WJHYGJWiOIU-unsplash_hoc7mu.jpg)
+  ![](https://res.cloudinary.com/dqu7lbbhg/image/upload/v1655308673/sarah-ball-WJHYGJWiOIU-unsplash_hoc7mu.jpg "yoga")
 
   ### 2 - Cours d'essais
 
