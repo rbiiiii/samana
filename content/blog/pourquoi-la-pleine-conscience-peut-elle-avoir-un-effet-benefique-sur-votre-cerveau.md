@@ -20,6 +20,8 @@ Et je voulais vous partager le résumé qu'elles retirent à partir du résultat
 
 Nos 3 autrices se sont concentrées sur deux régions du cerveau particulièrement intéressantes pour les professionnels.
 
+![](https://res.cloudinary.com/dqu7lbbhg/image/upload/c_scale,dpr_auto,q_70,w_680,f_auto/v1663935194/zoltan-tasi-vHnVtLK8rCc-unsplash_1_eqamu4.jpg)
+
 ## Des réactions moins impulsives et de meilleures décisions
 
 "La première est le cortex cingulaire antérieur (CCA), une structure située profondément à l’intérieur du crâne, derrière le lobe frontal du cerveau. Le CCA est associé à l’autorégulation, c’est-à-dire à la capacité d’orienter délibérément l’attention et le comportement, de [réprimer les réactions impulsives inappropriées et de changer de stratégie avec souplesse](https://link.springer.com/article/10.3758/CABN.7.4.391). 
@@ -27,6 +29,8 @@ Nos 3 autrices se sont concentrées sur deux régions du cerveau particulièreme
 Les personnes atteintes de lésions du CCA font preuve d’une impulsivité et d’une agressivité incontrôlées et celles qui présentent une altération des liaisons entre celui-ci et les autres régions du cerveau obtiennent des résultats médiocres aux tests de flexibilité mentale : [elles s’accrochent à des stratégies de résolution des problèmes inefficaces plutôt que de choisir d’adapter leur comportement](https://www.ncbi.nlm.nih.gov/pubmed/7895011). 
 
 De leur côté, [les méditants obtiennent d’excellents résultats aux tests d’autorégulation](https://www.hbrfrance.fr/chroniques-experts/2017/10/17290-meditation-va-transformer-entreprises/), résistant aux distractions et [fournissant des réponses correctes plus souvent que les non-méditants](https://www.ncbi.nlm.nih.gov/pubmed/20509209). Ils présentent également [davantage d’activité dans le CCA que les non méditants](https://www.ncbi.nlm.nih.gov/pubmed/17548160). En plus de l’autorégulation, le CCA est associé à l’apprentissage fondé sur les leçons des expériences passées [afin de faciliter une prise de décision optimale](https://www.nature.com/articles/nn1724). Les scientifiques notent que le CCA pourrait être particulièrement important face à des situations incertaines et en évolution rapide."
+
+![](https://res.cloudinary.com/dqu7lbbhg/image/upload/c_scale,dpr_auto,q_70,w_680,f_auto/v1663935214/ravi-pinisetti-1zikZJVXSfA-unsplash_ipfbvs.jpg)
 
 ## Un « must have » plutôt qu’un « nice to have »
 
@@ -37,3 +41,7 @@ Ces découvertes ne sont qu’un début. Les neuroscientifiques ont également m
 La pleine conscience ne devrait plus être considérée comme un « nice to have » pour les dirigeants. C’est un « must have » : une façon de garder nos cerveaux en bonne santé, de savoir s’autodiscipliner et d’être capable de prendre des décisions efficaces, et de nous protéger du stress toxique. 
 
 Elle peut être intégrée dans notre vie religieuse ou spirituelle, ou pratiquée comme une forme d’entraînement mental. Lorsque nous nous asseyons, que nous respirons et que nous nous obligeons à être attentifs – surtout quand nous nous réunissons avec d’autres faisant la même chose –, nous disposons du potentiel nécessaire pour changer."
+
+Alors si vous avez envie d'essayer, de tester, de réaliser ce qui peut être un véritable plus sur votre chemin de leader ou pour vos collaborateurs-rices, contactez-moi.
+
+Toutes les informations concernant le cycle de réduction du stress par la pleine conscience se trouvent ici. [Cycle de méditation](https://www.yogasamana.be/cycle-mbsr/) 
