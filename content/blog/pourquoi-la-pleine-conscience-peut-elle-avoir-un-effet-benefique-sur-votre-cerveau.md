@@ -1,8 +1,8 @@
 +++
-categories = []
+categories = ["Pleine conscience @work"]
 draft = true
 photo = "/v1663935612/joshua-woroniecki--5nwt_aN2E0-unsplash_djzmei.jpg"
-publishdate = ""
+publishdate = 2022-09-23T00:00:00Z
 title = "Pourquoi la pleine conscience peut-elle avoir un effet bénéfique sur votre cerveau ?"
 
 +++
