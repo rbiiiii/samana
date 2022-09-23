@@ -40,7 +40,7 @@ Sortir de la sidération, trouver une place, un mouvement à l'intérieur et au 
 
 C'est tout le récit de l'épopée ancestrale védique de la Bhagavad-Gîta. ( Partie centrale du chant épique Mahabharata). Ce récit m'a été raconté dans ma formation de professeur de yoga et je l'ai écouté de loin. Me contentant, je le remarque maintenant, de m'émerveiller pour immédiatement l'oublier.
 
-L'histoire. Mille fois racontée et traduite, car comme souvent avec les contes, traverse l'humanité dans son essence. Cette histoire, à la base de l’hindouisme, constitue un texte important dans le chemin d'un yogi.
+L'histoire. Mille fois racontées et traduite, comme souvent avec les contes, traverse l'humanité dans son essence. Cette histoire, à la base de l’hindouisme, constitue un texte important dans le chemin d'un yogi.
 
 # L'histoire
 
@@ -62,7 +62,7 @@ Percevoir ses parents et amis dans l’armée qu’il doit combattre, revient po
 
 # L'inéluctable
 
-Cette histoire est inéluctable, nous reliant à notre humanité partagée. 
+Cette histoire est inéluctable, nous reliant à notre humanité partagée.
 
 Nous pouvons toujours faire semblant. Refuser le combat que nous devons mener. L’esquiver à chaque occasion. Mais cela n’effacera jamais la réalité. Alors, la même situation, le même conflit se répétera encore et encore.
 
