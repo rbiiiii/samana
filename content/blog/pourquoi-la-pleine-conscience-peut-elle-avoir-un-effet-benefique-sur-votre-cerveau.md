@@ -1,7 +1,7 @@
 +++
 categories = []
 draft = true
-photo = "/v1663934286/katerina-may-6CLBoiWuzSU-unsplash_tkorib.jpg"
+photo = "/v1663935612/joshua-woroniecki--5nwt_aN2E0-unsplash_djzmei.jpg"
 publishdate = ""
 title = "Pourquoi la pleine conscience peut-elle avoir un effet bénéfique sur votre cerveau ?"
 
@@ -44,4 +44,6 @@ Elle peut être intégrée dans notre vie religieuse ou spirituelle, ou pratiqu�
 
 Alors si vous avez envie d'essayer, de tester, de réaliser ce qui peut être un véritable plus sur votre chemin de leader ou pour vos collaborateurs-rices, contactez-moi.
 
-Toutes les informations concernant le cycle de réduction du stress par la pleine conscience se trouvent ici. [Cycle de méditation](https://www.yogasamana.be/cycle-mbsr/) 
+Toutes les informations concernant le cycle de réduction du stress par la pleine conscience se trouvent ici. [Cycle de méditation](https://www.yogasamana.be/cycle-mbsr/).
+
+![](https://res.cloudinary.com/dqu7lbbhg/image/upload/c_scale,dpr_auto,q_70,w_680,f_auto/v1663934286/katerina-may-6CLBoiWuzSU-unsplash_tkorib.jpg)
