@@ -8,9 +8,17 @@ title = "Pourquoi la pleine conscience peut-elle avoir un effet bénéfique sur 
 +++
 ## Cette pratique permettrait de mieux gérer ses émotions et son stress mais aussi d'améliorer son estime de soi.
 
-On ne parle plus que de la pleine conscience dans le monde des affaires. Mais saviez-vous que tout ce battage repose sur des travaux scientifiques ? Des recherches récentes fournissent des preuves tangibles selon lesquelles [l’attention sur l’instant présent, sans porter de jugement ](https://well.blogs.nytimes.com/2011/01/28/how-meditation-may-change-the-brain/)(encore appelée « pleine conscience »), modifie le cerveau, et cela d’une manière que toute personne travaillant dans [un environnement commercial aussi complexe que celui d’aujourd’hui – et assurément chaque leader – devrait connaître](https://www.hbrfrance.fr/magazine/2014/09/3358-la-pleine-conscience-lere-de-la-complexite/).
+Selon un article publié par [Christina Congleton](https://www.hbrfrance.fr/experts/christina-congleton/), [Britta K. Hölzel](https://www.hbrfrance.fr/experts/britta-k-holzel/), [Sara W. Lazar](https://www.hbrfrance.fr/experts/sara-w-lazar/) dans le Harvard Business Review France en 2018, on ne parle plus que de la pleine conscience dans le monde des affaires. 
 
-Nous avons contribué à ces recherches en 2011 avec [une étude sur des participants ayant terminé un programme de pleine conscience de huit semaines](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3004979/). Nous avons alors constaté une augmentation significative de leur matière grise. Au cours des années qui ont suivi, des laboratoires de neurosciences du monde entier ont également examiné la façon dont la méditation, un des principaux moyens de pratiquer la pleine conscience, influe sur le cerveau. En 2015, une équipe de scientifiques de l’université de la Colombie-Britannique et de l’université de technologie de Chemnitz ont pu rassembler des données provenant d’[une vingtaine d’études pour déterminer quelles zones du cerveau sont systématiquement concernées](https://www.ncbi.nlm.nih.gov/pubmed/24705269). Ils ont identifié au moins huit régions différentes. Nous nous pencherons ici sur deux d’entre elles qui nous semblent particulièrement intéressantes pour les professionnels.
+Ce qui est très intéressant dans leur article est qu'elles rappellent à quel point cet intérêt et ce mouvement de la pleine conscience repose désormais sur toute une série de travaux scientifiques récents.
+
+Des recherches fournissent des preuves tangibles selon lesquelles [l’attention sur l’instant présent, sans porter de jugement ](https://well.blogs.nytimes.com/2011/01/28/how-meditation-may-change-the-brain/)(encore appelée « pleine conscience »), modifie le cerveau, et cela d’une manière que toute personne travaillant dans un environnement aussi complexe qu'aujourd'hui et assurément les leaders devraient connaître.  
+
+Ayant elles-même contribué à la recherche scientifique en 2011, elles ont réalisé [une étude sur des participants ayant terminé un programme de pleine conscience de huit semaines](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3004979/). Elles ont alors constaté une augmentation significative de leur matière grise. 
+
+Et je voulais vous partager le résumé qu'elles retirent à partir du résultat d'une méta-analyse qui a permis de rassembler des données provenant d'[une vingtaine d’études pour déterminer quelles zones du cerveau sont systématiquement concernées](https://www.ncbi.nlm.nih.gov/pubmed/24705269). (recherche effectuée par des scientifiques de l'université de la Colombie-Britannique et de l’université de technologie de Chemnitz). Ils ont identifié au moins huit régions différentes. 
+
+Nos 3 autrices se sont concentrée sur deux régions du cerveau particulièrement intéressantes pour les professionnels.
 
 ## Des réactions moins impulsives et de meilleures décisions
 
