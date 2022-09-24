@@ -56,34 +56,49 @@ schedule:
 - title: Samedi
   blocks: []
 rate:
-- title: Cours de yoga adultes - Mercredi 09h00 reprise le 14/09/22, inscription dès
-    le 20 juillet 22
+- title: 'Cycle MBSR - Gestion du stress par la pleine conscience Automne 2022 '
+  show: false
+  type:
+  - 2h30
+  period: du 10 novembre au 5 janvier 2023 (jeudi soir) et du 11/11 au 6 janvier 2023
+    (vendredi matin)
+  img: "/v1575800419/AdobeStock_216060429_yjx8hp.jpg"
+  text: |-
+    Vous avez participé à la séance d'info MBSR en septembre ou octobre 2022.
+
+    Vous pouvez régler ici votre participation au cycle de réduction du stress par la pleine conscience MBSR.
+
+    Si pas encore rempli, merci de remplir le formulaire d'inscription ici: [https://forms.gle/paLPiQk8EqsSDaqx7](https://forms.gle/paLPiQk8EqsSDaqx7 "https://forms.gle/paLPiQk8EqsSDaqx7")
+  price: 290€
+  snip_price: 290
+  snip_id: MBSRautomne2022
+  snip_sale: false
+  snip_sale_price: 
+- title: Cours de yoga adultes - Mercredi 09h30 COMPLET
   show: true
   type:
   - 1h
   period: du 14 septembre au 26 avril 2023
   img: "/v1575800406/yoga-4595166_1920_sbfhqc.jpg"
-  text: |-
-    Cours mercredi matin 09h00 jusque 10h00 (arrivée à 08h50 pour se placer dans la salle), 13 cours hebdomadaire entre entre septembre et décembre 2022 & 14 cours entre janvier et avril 2023. Cours de yoga en présentiel (sauf passage en ligne si obligation de fermer la salle de yoga).
-
-    Pour les tarifs et paiements, engagement pour l'année scolaire payable en 2 fois T1 & T2. (possibilité de trouver des solutions d'étalement de paiement si besoin) ou en 1 fois avec une réduction de 15%.
-
-    **Lieu: Corps et Conscience, 107 bv Kleyer à 4000 Liège.**
-
-    **Quand: début des cours le mercredi 14 septembre 2022**
-
-    **Comment s’inscrire:**
-
-    1. Formulaire à remplir pour confirmer votre inscription : [https://forms.gle/Fz7pTSh5uGEE2cLd8](https://forms.gle/Fz7pTSh5uGEE2cLd8 "https://forms.gle/Fz7pTSh5uGEE2cLd8")
-    2. Payer en ligne via réservation ci-dessous.
-
-    **Informations & précisions sur les échéances de paiement:**
-
-    **T1/ Sept-déc 2022, 13 cours** : tarif plein 195€ (14€/cours) - tarif réduit 160€ (12€/cours) - payable au plus tard en septembre 2022 ( session d'info gratuite est prévue avant le 10/09)
-
-    **T2/ Jan-avril 2023, 14 cours :** tarif plein 210€ (14€/cours) - tarif réduit 170€ (12€/cours) - payable au plus tard le 10 décembre 2022.
-
-    T1&T2/ Possible abonnement annuel payé en une fois, avec prix réduit de 15%, en payant directement sur le compte BE30 0689 3991 8711 : tarif plein 350€ (13€/cours) - tarif réduit 280€ (10€/cours) (en précisant votre horaire et le nom et prénom de la personne qui participe au cours).
+  text: "Cours mercredi matin 09h00 jusque 10h00 (arrivée à 08h50 pour se placer dans
+    la salle), 13 cours hebdomadaire entre entre septembre et décembre 2022 & 14 cours
+    entre janvier et avril 2023. Cours de yoga en présentiel (sauf passage en ligne
+    si obligation de fermer la salle de yoga).\n\nDates des cours:\n\n14, 21, 28 SEPT
+    - 5, 12, 19 OCT -  9, 16, 23, 30 NOV -  7, 14, 21 DEC (13 séances)   \n 11,18,
+    25 JAN -  1, 8, 15 FEV - 8, 15, 22, 29 MARS, 5, 12, 19, 26 AVRIL (14 séances)\n\n**Lieu:
+    Corps et Conscience, 107 bv Kleyer à 4000 Liège.**\n\n**Quand: début des cours
+    le mercredi 14 septembre 2022**\n\n**Comment s’inscrire:**\n\n1. Formulaire à
+    remplir pour confirmer votre inscription : [https://forms.gle/Fz7pTSh5uGEE2cLd8](https://forms.gle/Fz7pTSh5uGEE2cLd8
+    \"https://forms.gle/Fz7pTSh5uGEE2cLd8\")\n2. Payer en ligne via réservation ci-dessous.\n\n**Informations
+    & précisions sur les échéances de paiement:**\n\n**T1/ Sept-déc 2022, 13 cours**
+    : tarif plein 195€ (14€/cours) - tarif réduit 160€ (12€/cours) - payable au plus
+    tard en septembre 2022 ( session d'info gratuite est prévue avant le 10/09)\n\n**T2/
+    Jan-avril 2023, 14 cours :** tarif plein 210€ (14€/cours) - tarif réduit 170€
+    (12€/cours) - payable au plus tard le 10 décembre 2022.\n\nT1&T2/ Possible abonnement
+    annuel payé en une fois, avec prix réduit de 15%, en payant directement sur le
+    compte BE30 0689 3991 8711 : tarif plein 350€ (13€/cours) - tarif réduit 280€
+    (10€/cours) (en précisant votre horaire et le nom et prénom de la personne qui
+    participe au cours)."
   price: 'T1: 195€ ou 160€ (tarif réduit) / T2: 210€ ou 170€ (tarif réduit)'
   snip_price: 195
   snip_id: yoga-mercmatin1-sept-dec22
@@ -91,7 +106,7 @@ rate:
   snip_sale_price: 35
 - title: Cours de yoga adultes - Mercredi 10h15 reprise le 14/09/22, inscription dès
     le 20 juillet 22
-  show: true
+  show: false
   type:
   - 1h
   period: du 14 septembre au 26 avril 2023
@@ -270,24 +285,6 @@ rate:
   snip_price: 10
   snip_sale: false
   snip_sale_price: 20
-- title: 'Cycle MBSR - Gestion du stress par la pleine conscience Automne 2022 '
-  show: false
-  type:
-  - 2h30
-  period: du 10 novembre au 5 janvier 2023 (jeudi soir) et du 11/11 au 6 janvier 2023
-    (vendredi matin)
-  img: "/v1575800419/AdobeStock_216060429_yjx8hp.jpg"
-  text: |-
-    Vous avez participé à la séance d'info MBSR en septembre ou octobre 2022.
-
-    Vous pouvez régler ici votre participation au cycle de réduction du stress par la pleine conscience MBSR.
-
-    Si pas encore rempli, merci de remplir le formulaire d'inscription ici: [https://forms.gle/paLPiQk8EqsSDaqx7](https://forms.gle/paLPiQk8EqsSDaqx7 "https://forms.gle/paLPiQk8EqsSDaqx7")
-  price: 290€
-  snip_price: 290
-  snip_id: MBSRautomne2022
-  snip_sale: false
-  snip_sale_price: 
 - title: Soutien à la pratique de la méditation (suite à un cycle MBSR)
   show: false
   type: []
