@@ -80,15 +80,13 @@ rate:
   - 1h
   period: du 14 septembre au 26 avril 2023
   img: "/v1575800406/yoga-4595166_1920_sbfhqc.jpg"
-  text: "Cours mercredi matin 09h00 jusque 10h00 (arrivée à 08h50 pour se placer dans
-    la salle), 13 cours hebdomadaire entre entre septembre et décembre 2022 & 14 cours
-    entre janvier et avril 2023. Cours de yoga en présentiel (sauf passage en ligne
-    si obligation de fermer la salle de yoga).\n\nDates des cours:\n\n14, 21, 28 SEPT
-    - 5, 12, 19 OCT -  9, 16, 23, 30 NOV -  7, 14, 21 DÉC (13 séances)  \n11,18, 25
-    JAN -  1, 8, 15 FÉV - 8, 15, 22, 29 MARS, 5, 12, 19, 26 AVRIL (14 séances)\n\n**Lieu:
-    Corps et Conscience, 107 bv Kleyer à 4000 Liège.**\n\n**Quand: début des cours
-    le mercredi 14 septembre 2022**\n\n**Comment s’inscrire:**\n\n1. Formulaire à
-    remplir pour confirmer votre inscription : [https://forms.gle/Fz7pTSh5uGEE2cLd8](https://forms.gle/Fz7pTSh5uGEE2cLd8
+  text: "Cours mercredi matin 09h30 jusque 10h30 (arrivée à 09h20 pour se placer dans
+    la salle). Cours de yoga en présentiel (sauf passage en ligne si obligation de
+    fermer la salle de yoga).\n\nDates des cours:\n\n14, 21, 28 SEPT - 5, 12, 19 OCT
+    -  9, 16, 23, 30 NOV -  7, 14, 21 DÉC (13 séances)  \n11,18, 25 JAN -  1, 8, 15
+    FÉV - 8, 15, 22, 29 MARS, 5, 12, 19, 26 AVRIL (14 séances)\n\n**Lieu: Corps et
+    Conscience, 107 bv Kleyer à 4000 Liège.**\n\n**Quand: mercredi 9:30 - 10:30**\n\n**Comment
+    s’inscrire:**\n\n1. Formulaire à remplir pour confirmer votre inscription : [https://forms.gle/Fz7pTSh5uGEE2cLd8](https://forms.gle/Fz7pTSh5uGEE2cLd8
     \"https://forms.gle/Fz7pTSh5uGEE2cLd8\")\n2. Payer en ligne via réservation ci-dessous.\n\n**Informations
     & précisions sur les échéances de paiement:**\n\n**T1/ Sept-déc 2022, 13 cours**
     : tarif plein 195€ (14€/cours) - tarif réduit 160€ (12€/cours) - payable au plus
