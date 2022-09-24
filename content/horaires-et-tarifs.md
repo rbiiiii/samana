@@ -21,12 +21,12 @@ schedule:
     end: 15h30
     category: ados
     subtext: Yoga ados (Dès la 1ière secondaire) chez Corps et Conscience
-  - start: 17h
-    end: 18h
+  - start: 17h30
+    end: 18h30
     category: ados
     subtext: Bal Special-danse ados- Ballet Bienveillant :-)
-  - start: 18h30
-    end: 20h30
+  - start: 19h00
+    end: 21h00
     category: ados
     subtext: Bal Special - Danse ados
 - title: Jeudi
@@ -94,7 +94,7 @@ rate:
   snip_id: MBSRautomne2022
   snip_sale: false
   snip_sale_price: 
-- title: Cours de yoga adultes - Mercredi 09h30 COMPLET
+- title: Cours de yoga adultes - Mercredi 09:30 COMPLET
   show: true
   type:
   - 1h
@@ -122,7 +122,7 @@ rate:
   snip_id: yoga-mercmatin1-sept-dec22
   snip_sale: true
   snip_sale_price: 35
-- title: Cours de yoga ados - Mercredi 14h00, COMPLET
+- title: Cours de yoga ados - Mercredi 14:00, COMPLET
   show: true
   type:
   - 1h30
