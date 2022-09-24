@@ -56,6 +56,26 @@ schedule:
 - title: Samedi
   blocks: []
 rate:
+- title: Inscription Séance d'information Cycle MBSR - Réduction du stress par la
+    pleine conscience
+  show: true
+  type:
+  - 1h30
+  price: '10€ '
+  period: 'Samedis : 17 septembre, 8 octobre ou 22 octobre 2022'
+  img: "/v1629487416/saffu-pYaKs30p9zg-unsplash_kifjbw.jpg"
+  text: |-
+    Inscription à la séance d'information sur le programme MBSR, (obligatoire en vue d'une inscription au cycle de 8 semaines)
+
+    1\.Remplir le Formulaire d'inscription en ligne **avant** la séance d'info si possible: [https://forms.gle/vydejWFS4dSBmSZW7](https://forms.gle/vydejWFS4dSBmSZW7 "https://forms.gle/vydejWFS4dSBmSZW7")
+
+    Samedi 17/09, Samedi 8 octobre ou 22 octobre de 14h30 à 16h, chez Tout Coquelicot.
+
+    2\.Payer les 10€ en appuyant sur réservation. Merci de remplir également le formulaire google :-)!
+  snip_id: InfoMBSR-novdec22
+  snip_price: 10
+  snip_sale: false
+  snip_sale_price: 20
 - title: 'Cycle MBSR - Gestion du stress par la pleine conscience Automne 2022 '
   show: false
   type:
@@ -130,39 +150,6 @@ rate:
   snip_id: yoga-ados-septdec-22
   snip_sale: true
   snip_sale_price: 20
-- title: Cours de yoga adultes - Mercredi 10h15 reprise le 14/09/22, inscription dès
-    le 20 juillet 22
-  show: false
-  type:
-  - 1h
-  period: du 14 septembre au 26 avril 2023
-  text: |-
-    Cours mercredi matin 10h15 jusque 11h15 (arrivée à 10h05 pour se placer dans la salle), 13 cours hebdomadaire entre entre septembre et décembre 2022 & 14 cours entre janvier et avril 2023. Cours de yoga en présentiel (sauf passage en ligne si obligation de fermer la salle de yoga).
-
-    Pour les tarifs et paiements, engagement pour l'année scolaire payable en 2 fois T1 & T2. (possibilité de trouver des solutions d'étalement de paiement si besoin) ou en 1 fois avec une réduction de 15%.
-
-    **Lieu: Corps et Conscience, 107 bv Kleyer à 4000 Liège.**
-
-    **Quand: début des cours le mercredi 14 septembre 2022**
-
-    **Comment s’inscrire:**
-
-    1. Formulaire à remplir pour confirmer votre inscription : [https://forms.gle/Fz7pTSh5uGEE2cLd8](https://forms.gle/Fz7pTSh5uGEE2cLd8 "https://forms.gle/Fz7pTSh5uGEE2cLd8")
-    2. Payer en ligne via réservation ci-dessous.
-
-    **Informations & précisions sur les échéances de paiement:**
-
-    **T1/ Sept-déc 2022, 13 cours** : tarif plein 195€ (14€/cours) - tarif réduit 160€ (12€/cours) - payable au plus tard en septembre 2022 ( session d'info gratuite est prévue avant le 10/09)
-
-    **T2/ Jan-avril 2023, 14 cours :** tarif plein 210€ (14€/cours) - tarif réduit 170€ (12€/cours) - payable au plus tard le 10 décembre 2022.
-
-    T1&T2/ Possible abonnement annuel payé en une fois, avec prix réduit de 15%, en payant directement sur le compte BE30 0689 3991 8711 : tarif plein 350€ (13€/cours) - tarif réduit 280€ (10€/cours) (en précisant votre horaire et le nom et prénom de la personne qui participe au cours).
-  price: 'T1: 195€ ou 160€ (tarif réduit) / T2: 210€ ou 170€ (tarif réduit)'
-  snip_price: 195
-  snip_id: yoga-mercmatin2-sept-dec22
-  snip_sale: true
-  snip_sale_price: 35
-  img: "/v1584627110/AdobeStock_251503715-min_rvmb3x.jpg"
 - title: Cours de yoga adultes Jeudi 19h - reprise le 15/09 inscription dès le 20
     juillet
   show: true
@@ -170,27 +157,31 @@ rate:
   - 1h
   period: 15 septembre au 27 avril 2023
   img: "/v1598214449/IMG_4551_zbks33.jpg"
-  text: |-
-    Cours jeudi soir à 19h jusque 20h (arrivée à 18h50 pour se placer dans la salle). Il y a alternance entre cours hebdomadaire en septembre/octobre, et ateliers de 2h le samedi en novembre/décembre. (Voir plus précisément ci-dessous). Cours de yoga en présentiel (sauf passage en ligne si obligation de fermer la salle de yoga).
-
-    Pour les tarifs et paiements, engagement pour l'année scolaire payable en 2 fois T1 & T2. (possibilité de trouver des solutions d'étalement de paiement si besoin) ou en 1 fois avec une réduction de 15%.
-
-    **Lieu: Tout Coquelicot, 20 rue de la justice à 4420 Saint-Nicolas.**
-
-    **Quand: début des cours le jeudi 15 septembre 2022.**
-
-    **Comment s’inscrire:**
-
-    1. Formulaire à remplir pour confirmer votre inscription : [https://forms.gle/Fz7pTSh5uGEE2cLd8](https://forms.gle/Fz7pTSh5uGEE2cLd8 "https://forms.gle/Fz7pTSh5uGEE2cLd8")
-    2. Payer en ligne via réservation ci-dessous.
-
-    **Informations & précisions sur les échéances de paiement:**
-
-    **T1/ Sept-déc 2022, 6h cours et 8h de cours-ateliers**: tarif plein 195€ (14€/cours) - tarif réduit 160€ (12€/cours) - payable au plus tard en septembre 2022 ( session d'info gratuite est prévue le 10/09)
-
-    **T2/ Jan-avril 2023, 6h cours et 8h de cours-ateliers :** tarif plein 210€ (14€/cours) - tarif réduit 170€ (12€/cours) - payable au plus tard le 10 décembre 2022.
-
-    **T1&T2/ Possible abonnement annuel** payé en une fois, avec prix réduit de 15%, en payant directement sur le compte BE30 0689 3991 8711: tarif plein 350€ (13€/cours) - tarif réduit 280€ (10€/cours) (en précisant votre horaire et le nom et prénom de la personne qui participe au cours).
+  text: "Cours jeudi soir à 19h jusque 20h (arrivée à 18h50 pour se placer dans la
+    salle). Il y a alternance entre cours hebdomadaire en septembre/octobre, et ateliers
+    de 2h le samedi en novembre/décembre. (Voir plus précisément ci-dessous). Cours
+    de yoga en présentiel (sauf passage en ligne si obligation de fermer la salle
+    de yoga). * En novembre et décembre 2022 & mars avril 2023, on passe en mode atelier
+    en se retrouvant le samedi après-midi pour des ateliers de 2h toute les deux semaines.\n\nDates
+    Jeudis:  \n15, 22, 29 SEPT - 6,13, 20 OCT - NOV et DEC : atelier samedi 12 & 26
+    NOV & atelier samedi 3 & 10 DEC. (14h-16h)   \n   \n12, 19, 26 JAN, 2, 9, 16 FEV
+    2023 - MARS & AVRIL : atelier samedi 11 & 25 mars atelier samedi 8 & 22 avril
+    (14h-16h)\n\nPour les tarifs et paiements, engagement pour l'année scolaire payable
+    en 2 fois T1 & T2. (possibilité de trouver des solutions d'étalement de paiement
+    si besoin) ou en 1 fois avec une réduction de 15%.\n\n**Lieu: Tout Coquelicot,
+    20 rue de la justice à 4420 Saint-Nicolas.**\n\n**Quand: début des cours le jeudi
+    15 septembre 2022.**\n\n**Comment s’inscrire:**\n\n1. Formulaire à remplir pour
+    confirmer votre inscription : [https://forms.gle/Fz7pTSh5uGEE2cLd8](https://forms.gle/Fz7pTSh5uGEE2cLd8
+    \"https://forms.gle/Fz7pTSh5uGEE2cLd8\")\n2. Payer en ligne via réservation ci-dessous.\n\n**Informations
+    & précisions sur les échéances de paiement:**\n\n**T1/ Sept-déc 2022, 6h cours
+    et 8h de cours-ateliers**: tarif plein 195€ (14€/cours) - tarif réduit 160€ (12€/cours)
+    - payable au plus tard en septembre 2022 ( session d'info gratuite est prévue
+    le 10/09)\n\n**T2/ Jan-avril 2023, 6h cours et 8h de cours-ateliers :** tarif
+    plein 210€ (14€/cours) - tarif réduit 170€ (12€/cours) - payable au plus tard
+    le 10 décembre 2022.\n\n**T1&T2/ Possible abonnement annuel** payé en une fois,
+    avec prix réduit de 15%, en payant directement sur le compte BE30 0689 3991 8711:
+    tarif plein 350€ (13€/cours) - tarif réduit 280€ (10€/cours) (en précisant votre
+    horaire et le nom et prénom de la personne qui participe au cours)."
   price: 'T1: 195€ ou 160€ (tarif réduit) / T2: 225€ ou 180€ (tarif réduit)'
   snip_price: 195
   snip_id: yogajeudisoir1-sept-dec-22
@@ -262,26 +253,39 @@ rate:
   type:
   - 1h
   img: "/v1598214449/IMG_4551_zbks33.jpg"
-- title: Inscription Séance d'information Cycle MBSR - Réduction du stress par la
-    pleine conscience
-  show: true
+- title: Cours de yoga adultes - Mercredi 10h15 reprise le 14/09/22, inscription dès
+    le 20 juillet 22
+  show: false
   type:
-  - 1h30
-  price: '10€ '
-  period: 'Samedis : 17 septembre, 8 octobre ou 22 octobre 2022'
-  img: "/v1629487416/saffu-pYaKs30p9zg-unsplash_kifjbw.jpg"
+  - 1h
+  period: du 14 septembre au 26 avril 2023
   text: |-
-    Inscription à la séance d'information sur le programme MBSR, (obligatoire en vue d'une inscription au cycle de 8 semaines)
+    Cours mercredi matin 10h15 jusque 11h15 (arrivée à 10h05 pour se placer dans la salle), 13 cours hebdomadaire entre entre septembre et décembre 2022 & 14 cours entre janvier et avril 2023. Cours de yoga en présentiel (sauf passage en ligne si obligation de fermer la salle de yoga).
 
-    1\.Remplir le Formulaire d'inscription en ligne **avant** la séance d'info si possible: [https://forms.gle/vydejWFS4dSBmSZW7](https://forms.gle/vydejWFS4dSBmSZW7 "https://forms.gle/vydejWFS4dSBmSZW7")
+    Pour les tarifs et paiements, engagement pour l'année scolaire payable en 2 fois T1 & T2. (possibilité de trouver des solutions d'étalement de paiement si besoin) ou en 1 fois avec une réduction de 15%.
 
-    Samedi 17/09, Samedi 8 octobre ou 22 octobre de 14h30 à 16h, chez Tout Coquelicot.
+    **Lieu: Corps et Conscience, 107 bv Kleyer à 4000 Liège.**
 
-    2\.Payer les 10€ en appuyant sur réservation. Merci de remplir également le formulaire google :-)!
-  snip_id: InfoMBSR-novdec22
-  snip_price: 10
-  snip_sale: false
-  snip_sale_price: 20
+    **Quand: début des cours le mercredi 14 septembre 2022**
+
+    **Comment s’inscrire:**
+
+    1. Formulaire à remplir pour confirmer votre inscription : [https://forms.gle/Fz7pTSh5uGEE2cLd8](https://forms.gle/Fz7pTSh5uGEE2cLd8 "https://forms.gle/Fz7pTSh5uGEE2cLd8")
+    2. Payer en ligne via réservation ci-dessous.
+
+    **Informations & précisions sur les échéances de paiement:**
+
+    **T1/ Sept-déc 2022, 13 cours** : tarif plein 195€ (14€/cours) - tarif réduit 160€ (12€/cours) - payable au plus tard en septembre 2022 ( session d'info gratuite est prévue avant le 10/09)
+
+    **T2/ Jan-avril 2023, 14 cours :** tarif plein 210€ (14€/cours) - tarif réduit 170€ (12€/cours) - payable au plus tard le 10 décembre 2022.
+
+    T1&T2/ Possible abonnement annuel payé en une fois, avec prix réduit de 15%, en payant directement sur le compte BE30 0689 3991 8711 : tarif plein 350€ (13€/cours) - tarif réduit 280€ (10€/cours) (en précisant votre horaire et le nom et prénom de la personne qui participe au cours).
+  price: 'T1: 195€ ou 160€ (tarif réduit) / T2: 210€ ou 170€ (tarif réduit)'
+  snip_price: 195
+  snip_id: yoga-mercmatin2-sept-dec22
+  snip_sale: true
+  snip_sale_price: 35
+  img: "/v1584627110/AdobeStock_251503715-min_rvmb3x.jpg"
 - title: Soutien à la pratique de la méditation (suite à un cycle MBSR)
   show: false
   type: []
