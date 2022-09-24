@@ -147,7 +147,7 @@ rate:
     avec son corps qui évolue, améliorer sa posture et sa respiration. Respirer et
     savoir petit à petit apprivoiser sa vie intérieure.\n\nDates des cours:\n\n14,
     21, 28 SEPT - 5, 12, 19 OCT -  9, 16, 23, 30 NOV -  7, 14, 21 DÉC (13 séances)
-    \ \n11,18, 25 JAN -  1, 8, 15 FEV - 8, 15, 22, 29 MARS, 5, 12, 19, 26 AVRIL (14
+    \ \n11,18, 25 JAN -  1, 8, 15 FÉV - 8, 15, 22, 29 MARS, 5, 12, 19, 26 AVRIL (14
     séances)\n\nPour les tarifs et paiements, engagement pour l'année scolaire payable
     en 2 fois T1 & T2. (possibilité de trouver des solutions d'étalement de paiement
     si besoin)\n\n**Lieu: Corps et Conscience, 107 bv Kleyer à 4000 Liège.**\n\n**Quand:
