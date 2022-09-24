@@ -137,8 +137,7 @@ rate:
   snip_sale: true
   snip_sale_price: 35
   img: "/v1584627110/AdobeStock_251503715-min_rvmb3x.jpg"
-- title: 'Cours de yoga ados - Mercredi 14h00, reprise le 14/09 inscription dès le
-    20 juillet 22 '
+- title: Cours de yoga ados - Mercredi 14h00, COMPLET
   show: true
   type:
   - 1h30
@@ -146,14 +145,14 @@ rate:
   img: "/v1575800407/YOGA_POUR_ADOS_12-18_ANS_nwtwus.png"
   text: "Cours de yoga 12-18 ans: gestion du stress, image de soi, rester en lien
     avec son corps qui évolue, améliorer sa posture et sa respiration. Respirer et
-    savoir petit à petit apprivoiser sa vie intérieure. \n\nCours mercredi de 14h
-    à 15h30, 13 cours hebdomadaire entre entre septembre et décembre 2022 & 14 cours
-    entre janvier et avril 2023. Cours de yoga en présentiel (sauf passage en ligne
-    si obligation de fermer la salle de yoga).\n\nPour les tarifs et paiements, engagement
-    pour l'année scolaire payable en 2 fois T1 & T2. (possibilité de trouver des solutions
-    d'étalement de paiement si besoin)\n\n**Lieu: Corps et Conscience, 107 bv Kleyer
-    à 4000 Liège.**\n\n**Quand: début des cours le mercredi 14 septembre 2022**\n\n**Comment
-    s’inscrire:**\n\n1. Formulaire à remplir pour confirmer votre inscription : [https://forms.gle/BnCHo6VUxBMdBQ3M6](https://forms.gle/BnCHo6VUxBMdBQ3M6
+    savoir petit à petit apprivoiser sa vie intérieure.\n\nDates des cours:\n\n14,
+    21, 28 SEPT - 5, 12, 19 OCT -  9, 16, 23, 30 NOV -  7, 14, 21 DÉC (13 séances)
+    \ \n11,18, 25 JAN -  1, 8, 15 FEV - 8, 15, 22, 29 MARS, 5, 12, 19, 26 AVRIL (14
+    séances)\n\nPour les tarifs et paiements, engagement pour l'année scolaire payable
+    en 2 fois T1 & T2. (possibilité de trouver des solutions d'étalement de paiement
+    si besoin)\n\n**Lieu: Corps et Conscience, 107 bv Kleyer à 4000 Liège.**\n\n**Quand:
+    mercredi de 14h à 15h30**\n\n**Comment s’inscrire:**\n\n1. Formulaire à remplir
+    pour confirmer votre inscription : [https://forms.gle/BnCHo6VUxBMdBQ3M6](https://forms.gle/BnCHo6VUxBMdBQ3M6
     \"https://forms.gle/BnCHo6VUxBMdBQ3M6\")\n2. Payer en ligne via réservation ci-dessous.\n\n**Informations
     & précisions sur les échéances de paiement:**\n\n**T1/ Sept-déc 2022, 13 cours**
     : tarif plein 150€ (12€/1h30 cours) - tarif réduit 130€ (10€/1h30 cours) - payable
