@@ -155,13 +155,12 @@ rate:
     de yoga en présentiel (sauf passage en ligne si obligation de fermer la salle
     de yoga). * En novembre et décembre 2022 & mars avril 2023, on passe en mode atelier
     en se retrouvant le samedi après-midi pour des ateliers de 2h toute les deux semaines.\n\nDates
-    Jeudis:  \n15, 22, 29 SEPT - 6,13, 20 OCT - NOV et DEC : atelier samedi 12 & 26
-    NOV & atelier samedi 3 & 10 DEC. (14h-16h)\n\n12, 19, 26 JAN, 2, 9, 16 FEV 2023
-    - MARS & AVRIL : atelier samedi 11 & 25 mars atelier samedi 8 & 22 avril (14h-16h)\n\nPour
-    les tarifs et paiements, engagement pour l'année scolaire payable en 2 fois T1
-    & T2. \n\n**Lieu: Tout Coquelicot, 20 rue de la justice à 4420 Saint-Nicolas.**\n\n**Quand:
-    début des cours le jeudi 15 septembre 2022.**\n\n**T1/ Sept-déc 2022, 6h cours
-    et 8h de cours-ateliers**: tarif plein 195€ (14€/cours) - tarif réduit 160€ (12€/cours)\n\n**T2/
+    Jeudis:  \n15, 22, 29 SEPT - 6,13, 20 OCT - NOV : atelier samedis 12 & 26 nov
+    - DÉC atelier samedis 3 & 10 déc. (14h-16h).\n\n12, 19, 26 JAN, 2, 9, 16 FÉV 2023
+    - MARS : atelier samedis 11 & 25 mars - AVRIL: atelier samedis 8 & 22 avril (14h-16h).\n\n**Lieu:
+    Tout Coquelicot, 20 rue de la justice à 4420 Saint-Nicolas.**\n\n**Quand: début
+    des cours le jeudi 15 septembre 2022.**\n\n**T1/ Sept-déc 2022, 6h cours et 8h
+    de cours-ateliers**: tarif plein 195€ (14€/cours) - tarif réduit 160€ (12€/cours)\n\n**T2/
     Jan-avril 2023, 6h cours et 8h de cours-ateliers :** tarif plein 210€ (14€/cours)
     - tarif réduit 170€ (12€/cours) - payable au plus tard le 10 décembre 2022."
   price: 'T1: 195€ ou 160€ (tarif réduit) / T2: 225€ ou 180€ (tarif réduit)'
