@@ -128,16 +128,12 @@ rate:
     \ \n11,18, 25 JAN -  1, 8, 15 FÉV - 8, 15, 22, 29 MARS, 5, 12, 19, 26 AVRIL (14
     séances)\n\nPour les tarifs et paiements, engagement pour l'année scolaire payable
     en 2 fois T1 & T2. (possibilité de trouver des solutions d'étalement de paiement
-    si besoin)\n\n**Lieu: Corps et Conscience, 107 bv Kleyer à 4000 Liège.**\n\n**Quand:
-    mercredi de 14h à 15h30**\n\n**Comment s’inscrire:**\n\n1. Formulaire à remplir
-    pour confirmer votre inscription : [https://forms.gle/BnCHo6VUxBMdBQ3M6](https://forms.gle/BnCHo6VUxBMdBQ3M6
-    \"https://forms.gle/BnCHo6VUxBMdBQ3M6\")\n2. Payer en ligne via réservation ci-dessous.\n\n**Informations
-    & précisions sur les échéances de paiement:**\n\n**T1/ Sept-déc 2022, 13 cours**
-    : tarif plein 150€ (12€/1h30 cours) - tarif réduit 130€ (10€/1h30 cours) - payable
-    au plus tard en septembre 2022 ( 1 cours d'essai possible s'il reste des places
-    en septembre 22)\n\n**T2/ Jan-avril 2023, 14 cours** : tarif plein 165€ (12€/1h30
-    cours) - tarif réduit 140€ (10€/1h30 cours) - payable au plus tard le 10 décembre
-    2022."
+    si besoin)\n\n**Lieu: Corps et Conscience, 107 bv Kleyer à 4000 Liège.**\n\n**T1/
+    Sept-déc 2022, 13 cours** : tarif plein 150€ (12€/1h30 cours) - tarif réduit 130€
+    (10€/1h30 cours) - payable au plus tard en septembre 2022 ( 1 cours d'essai possible
+    s'il reste des places en septembre 22)\n\n**T2/ Jan-avril 2023, 14 cours** : tarif
+    plein 165€ (12€/1h30 cours) - tarif réduit 140€ (10€/1h30 cours) - payable au
+    plus tard le 10 décembre 2022."
   price: 'T1: 150€ ou 130€ (tarif réduit) / T2: 165€ ou 140€ (tarif réduit)'
   snip_price: 150
   snip_id: yoga-ados-septdec-22
