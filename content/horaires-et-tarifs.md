@@ -105,18 +105,11 @@ rate:
     fermer la salle de yoga).\n\nDates des cours:\n\n14, 21, 28 SEPT - 5, 12, 19 OCT
     -  9, 16, 23, 30 NOV -  7, 14, 21 DÉC (13 séances)  \n11,18, 25 JAN -  1, 8, 15
     FÉV - 8, 15, 22, 29 MARS, 5, 12, 19, 26 AVRIL (14 séances)\n\n**Lieu: Corps et
-    Conscience, 107 bv Kleyer à 4000 Liège.**\n\n**Quand: mercredi 9:30 - 10:30**\n\n**Comment
-    s’inscrire:**\n\n1. Formulaire à remplir pour confirmer votre inscription : [https://forms.gle/Fz7pTSh5uGEE2cLd8](https://forms.gle/Fz7pTSh5uGEE2cLd8
-    \"https://forms.gle/Fz7pTSh5uGEE2cLd8\")\n2. Payer en ligne via réservation ci-dessous.\n\n**Informations
+    Conscience, 107 bv Kleyer à 4000 Liège.**\n\n**Quand: mercredi 9:30 - 10:30**\n\n**Informations
     & précisions sur les échéances de paiement:**\n\n**T1/ Sept-déc 2022, 13 cours**
-    : tarif plein 195€ (14€/cours) - tarif réduit 160€ (12€/cours) - payable au plus
-    tard en septembre 2022 ( session d'info gratuite est prévue avant le 10/09)\n\n**T2/
-    Jan-avril 2023, 14 cours :** tarif plein 210€ (14€/cours) - tarif réduit 170€
-    (12€/cours) - payable au plus tard le 10 décembre 2022.\n\nT1&T2/ Possible abonnement
-    annuel payé en une fois, avec prix réduit de 15%, en payant directement sur le
-    compte BE30 0689 3991 8711 : tarif plein 350€ (13€/cours) - tarif réduit 280€
-    (10€/cours) (en précisant votre horaire et le nom et prénom de la personne qui
-    participe au cours)."
+    : tarif plein 195€ (14€/cours) - tarif réduit 160€ (12€/cours)\n\n**T2/ Jan-avril
+    2023, 14 cours :** tarif plein 210€ (14€/cours) - tarif réduit 170€ (12€/cours)
+    - payable au plus tard le 10 décembre 2022."
   price: 'T1: 195€ ou 160€ (tarif réduit) / T2: 210€ ou 170€ (tarif réduit)'
   snip_price: 195
   snip_id: yoga-mercmatin1-sept-dec22
