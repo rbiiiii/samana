@@ -77,7 +77,7 @@ rate:
   snip_sale: false
   snip_sale_price: 20
 - title: 'Cycle MBSR - Gestion du stress par la pleine conscience Automne 2022 '
-  show: false
+  show: true
   type:
   - 2h30
   period: du 10 novembre au 5 janvier 2023 (jeudi soir) et du 11/11 au 6 janvier 2023
