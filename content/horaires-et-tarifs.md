@@ -89,6 +89,8 @@ rate:
     Vous pouvez régler ici votre participation au cycle de réduction du stress par la pleine conscience MBSR.
 
     Si pas encore rempli, merci de remplir le formulaire d'inscription ici: [https://forms.gle/paLPiQk8EqsSDaqx7](https://forms.gle/paLPiQk8EqsSDaqx7 "https://forms.gle/paLPiQk8EqsSDaqx7")
+
+    Merci de payer par versement avec en communication nom-prénom MBSR automne 22 sur le compte: BE30 0680 3991 8711?
   price: 290€
   snip_price: 290
   snip_id: MBSRautomne2022
