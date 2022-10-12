@@ -165,5 +165,32 @@ mbsr:
       ##### 5. Paiement du cycle
 
       Une fois le formulaire rempli, et à la suite de votre participation à la séance d’information, vous pourrez effectuer le paiement qui sera mis en ligne sur le site internet.(via la page "[horaires et tarifs](https://www.yogasamana.be/horaires-tarifs/)" du site www.yogasamana.be)
+  - title: Témoignages de participant.es au Programme MBSR
+    content: |-
+      J'ai participé à un cycle avec Chloé en avril 2022, et au delà de la rencontre avec l'humaine merveilleuse qu'elle est, j'ai rencontré mon stress, les formes de réactivité de mon corps, et des outils concrets pour revenir au moment présent. J'avais déjà pratiqué avant de participer au Cycle MBSR, et j'ai pourtant beaucoup appris : de moi, du groupe, de ma place dans un groupe, des différentes formes de pratiques, de ce qu'est réellement la pleine conscience, de la légèreté et l'humour qu'on peut ajouter dans ces moments de pratiques formelles! Je crois que c'est ça que j'ai le plus apprécié dans l'enseignement de Chloé : l'humanité, la bienveillance, l'accueil, le tout dans la joie, l'humour, la légèreté! Et je dois dire que ces moments de pratique me manquent beaucoup!! C.
+
+      ***
+
+      Je n'avais jamais pratiqué le yoga ni la méditation il y a deux ans encore. Après des moments difficiles liés à la pandémie, j'ai sauté le pas. Sur les conseils d'une amie, on a fait la rencontre de Chloé, qui nous a aidés à gérer notre stress et nos angoisses. Après, je me suis laissé tenter par des retraites en pleine conscience et la méditation. Deux ans plus tard, je suis bien dans ma peau, je me sens apaisé, zen et en paix avec moi-même. Je pratique maintenant de manière régulière ce genre d'expériences et cela m'aide tous les jours. Chloé avec son approche pleine de bienveillance et son véritable don est un enrichissement spirituel et mental indispensable. Prendre du temps pour soi-même, lâcher prise, gérer le stress ... A.
+
+      ***
+
+      Très belle expérience avec Chloé. Une rencontre enrichissante qui m’a accompagné dans cette rencontre de soi via le programme MBSR et les cours de yoga. Encore merci Chloé pour la bienveillance, l’écoute, l’amour et le partage que tu transmets aux personnes que tu rencontres. L.
+
+      ***
+
+      Je suis très heureuse d’avoir participé, j’ai trouvé cet enseignement riche et varié et je sens que j’ai de nouveaux outils pour vivre ma vie, je sens que j’ai grandi et que c’était ma place à ce moment ci d’être ici. Je prendrais le temps de relire les dossiers et je suis persuadée que encore dans des années ils pourront m’accompagner. L.
+
+      ***
+
+      Découverte de moi et de nouvelles façons de fonctionner. Même si il faudra du temps pour réussir à les intégrer au quotidien, le fait de les savoir possible me permet de me sentir pleine de ressource et moins dépourvue en situation de stress. Les bienfaits des interactions en groupe me font revoir ma tendance à me renfermer sur moi même lors de périodes anxiogènes. A.
+
+      ***
+
+      Je suis très contente d'avoir participé à ce programme, même s'il était parfois difficile ou confrontant. J'ai l'impression d'être un peu plus posée ou sereine ou moins inquiète, en essayant de m'ancrer davantage dans le moment présent et ressenti et d'identifier les pensées pour ce qu'elles sont, où en tout cas d'avoir un outil qui peut m'y aider (via pour moi surtout la méditation assise). J'utilise encore parfois les enregistrements ou d'autres sources. M.
+
+      ***
+
+      Ce fut une grande et belle découverte. J'ai appris à faire des choses dont je ne pensais pas être capable. La méditation, la pleine conscience, jamais je n'aurai pensé pratiquer cela un jour. En cette période difficile, cela m'a aidé à grandir, à me découvrir et à gérer mes angoisses. J'ai également appris à écouter les autres, sans le moindre jugement, simplement être à l'écoute. Ce fut une expérience des plus enrichissantes pour moi. A.
 
 ---
