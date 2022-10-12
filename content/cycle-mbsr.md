@@ -187,10 +187,6 @@ mbsr:
 
       ***
 
-      Je suis très contente d'avoir participé à ce programme, même s'il était parfois difficile ou confrontant. J'ai l'impression d'être un peu plus posée ou sereine ou moins inquiète, en essayant de m'ancrer davantage dans le moment présent et ressenti et d'identifier les pensées pour ce qu'elles sont, où en tout cas d'avoir un outil qui peut m'y aider (via pour moi surtout la méditation assise). J'utilise encore parfois les enregistrements ou d'autres sources. M.
-
-      ***
-
       Ce fut une grande et belle découverte. J'ai appris à faire des choses dont je ne pensais pas être capable. La méditation, la pleine conscience, jamais je n'aurai pensé pratiquer cela un jour. En cette période difficile, cela m'a aidé à grandir, à me découvrir et à gérer mes angoisses. J'ai également appris à écouter les autres, sans le moindre jugement, simplement être à l'écoute. Ce fut une expérience des plus enrichissantes pour moi. A.
 
 ---
