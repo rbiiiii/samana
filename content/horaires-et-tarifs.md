@@ -9,12 +9,8 @@ schedule:
   blocks: []
 - title: Mercredi
   blocks:
-  - start: 9h00
-    end: 10h00
-    category: adultes
-    subtext: Yoga adultes chez Corps et Conscience
-  - start: 10h15
-    end: 11h15
+  - start: 9h30
+    end: 10h30
     category: adultes
     subtext: Yoga adultes chez Corps et Conscience
   - start: 14h00
