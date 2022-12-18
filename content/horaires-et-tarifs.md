@@ -52,6 +52,70 @@ schedule:
 - title: Samedi
   blocks: []
 rate:
+- title: Cours de yoga adultes - Jeudi 20:15! 10 places disponibles dès janvier 2023
+  show: true
+  type:
+  - 1h
+  price: 'T1: 195€ ou 160€ (tarif réduit) / T2: 210€ ou 170€ (tarif réduit)'
+  period: du 15 septembre au 27 avril 2022 !10 places disponibles dès janvier 2023
+  img: "/v1575800434/AdobeStock_245653305_ujwegf.jpg"
+  text: |-
+    Cours avancé de yoga le jeudi soir de 20h15 jusque 21h15 (arrivée à 20h05 pour se placer dans la salle). Cours de yoga en présentiel (sauf passage en ligne si obligation de fermer la salle de yoga). * En mars avril 2023, on passe en mode atelier en se retrouvant le samedi après-midi pour des ateliers de 1,5h ou 2h toute les deux semaines.
+
+    \-> Vous désirez vous inscrire uniquement pour janvier et février en cours du soir? Voir l'abonnement spécifique découverte de 6 semaines. (uniquement pour les élèves démarrant en janvier 2023)
+
+    Dates Jeudis:
+
+    12, 19, 26 JAN, 2, 9, 16 FÉV 2023 - MARS : atelier samedis 04 & 25 mars - AVRIL : atelier samedis 8 & 22 avril (14h-16h).
+
+    **Lieu: Tout Coquelicot, 20 rue de la justice à 4420 Saint-Nicolas.**
+
+    **T2/ Jan-avril 2023, 6h cours et 8h de cours-ateliers :** tarif plein 210€ (15€/cours) - tarif réduit 170€ (12€/cours) - payable au plus tard le 31 décembre 2022.
+  snip_id: yoga-jeudisoir2-jan-avril23
+  snip_price: 210
+  snip_sale: true
+  snip_sale_price: 40
+- title: Cours de yoga adultes Jeudi 19:00 ! 5 places disponibles dès janvier 2023
+  show: true
+  type:
+  - 1h
+  period: 15 septembre au 27 avril 2023
+  img: "/v1598214449/IMG_4551_zbks33.jpg"
+  text: |-
+    Cours débutants le jeudi soir de 19h jusque 20h (arrivée à 18h50 pour se placer dans la salle). Cours de yoga en présentiel (sauf passage en ligne si obligation de fermer la salle de yoga). * En mars avril 2023, on passe en mode atelier en se retrouvant le samedi après-midi pour des ateliers de 1,5h ou 2h toute les deux semaines.
+
+    Dates Jeudis:
+
+    12, 19, 26 JAN, 2, 9, 16 FÉV 2023 - MARS : atelier samedis 04 & 25 mars - AVRIL : atelier samedis 8 & 22 avril (14h-16h).
+
+    **Lieu: Tout Coquelicot, 20 rue de la justice à 4420 Saint-Nicolas.**
+
+    **T2/ Jan-avril 2023, 6h cours et 8h de cours-ateliers :** tarif plein 210€ (15€/cours) - tarif réduit 170€ (12€/cours) - payable au plus tard le 10 décembre 2022.
+  price: 'T2: 210€ ou 170€ (tarif réduit)'
+  snip_price: 210
+  snip_id: yogajeudisoir1-jan-avril-23
+  snip_sale: true
+  snip_sale_price: 40
+- title: Cours de yoga adultes - Mercredi 09:30 !2 places disponibles dès janvier
+    2023
+  show: true
+  type:
+  - 1h
+  period: du 14 septembre au 26 avril 2023
+  img: "/v1575800406/yoga-4595166_1920_sbfhqc.jpg"
+  text: "Cours mercredi matin 09h30 jusque 10h30 (arrivée à 09h20 pour se placer dans
+    la salle). Cours de yoga en présentiel (sauf passage en ligne si obligation de
+    fermer la salle de yoga).\n\nDates des cours:  \n11,18, 25 JAN -  1, 8, 15 FÉV
+    - 8, 15, 22, 29 MARS, 5, 12, 19, 26 AVRIL (14 séances)\n\n**Lieu: Corps et Conscience,
+    107 bv Kleyer à 4000 Liège.**\n\n**Quand: mercredi 9:30 - 10:30**\n\n**Informations
+    & précisions sur les échéances de paiement:**\n\n**T2/ Jan-avril 2023, 14 cours
+    :** tarif plein 210€ (14€/cours) - tarif réduit 170€ (12€/cours) - payable au
+    plus tard le 31 décembre 2022."
+  price: 'T2: 210€ ou 170€ (tarif réduit)'
+  snip_price: 210
+  snip_id: yoga-mercmatin1-sept-dec22
+  snip_sale: true
+  snip_sale_price: 40
 - title: Inscription Séance d'information Cycle MBSR - Réduction du stress par la
     pleine conscience
   show: true
@@ -73,7 +137,7 @@ rate:
   snip_sale: false
   snip_sale_price: 20
 - title: 'Cycle MBSR - Gestion du stress par la pleine conscience Printemps 2023 '
-  show: true
+  show: false
   type:
   - 2h30
   period: du 09 mars au 27 avril 2023 (jeudi soir) et du 10 mars au 28 avril 2023
@@ -92,26 +156,6 @@ rate:
   snip_id: MBSRPrintemps23
   snip_sale: false
   snip_sale_price: 
-- title: Cours de yoga adultes - Mercredi 09:30 !2 places disponibles dès janvier
-    2023
-  show: true
-  type:
-  - 1h
-  period: du 14 septembre au 26 avril 2023
-  img: "/v1575800406/yoga-4595166_1920_sbfhqc.jpg"
-  text: "Cours mercredi matin 09h30 jusque 10h30 (arrivée à 09h20 pour se placer dans
-    la salle). Cours de yoga en présentiel (sauf passage en ligne si obligation de
-    fermer la salle de yoga).\n\nDates des cours:  \n11,18, 25 JAN -  1, 8, 15 FÉV
-    - 8, 15, 22, 29 MARS, 5, 12, 19, 26 AVRIL (14 séances)\n\n**Lieu: Corps et Conscience,
-    107 bv Kleyer à 4000 Liège.**\n\n**Quand: mercredi 9:30 - 10:30**\n\n**Informations
-    & précisions sur les échéances de paiement:**\n\n**T2/ Jan-avril 2023, 14 cours
-    :** tarif plein 210€ (14€/cours) - tarif réduit 170€ (12€/cours) - payable au
-    plus tard le 31 décembre 2022."
-  price: 'T2: 210€ ou 170€ (tarif réduit)'
-  snip_price: 210
-  snip_id: yoga-mercmatin1-sept-dec22
-  snip_sale: true
-  snip_sale_price: 40
 - title: Cours de yoga ados - Mercredi 14:00
   show: true
   type:
@@ -136,50 +180,6 @@ rate:
   snip_id: yoga-ados-septdec-22
   snip_sale: true
   snip_sale_price: 20
-- title: Cours de yoga adultes Jeudi 19:00 ! 5 places disponibles dès janvier 2023
-  show: true
-  type:
-  - 1h
-  period: 15 septembre au 27 avril 2023
-  img: "/v1598214449/IMG_4551_zbks33.jpg"
-  text: |-
-    Cours débutants le jeudi soir de 19h jusque 20h (arrivée à 18h50 pour se placer dans la salle). Cours de yoga en présentiel (sauf passage en ligne si obligation de fermer la salle de yoga). * En mars avril 2023, on passe en mode atelier en se retrouvant le samedi après-midi pour des ateliers de 1,5h ou 2h toute les deux semaines.
-
-    Dates Jeudis:
-
-    12, 19, 26 JAN, 2, 9, 16 FÉV 2023 - MARS : atelier samedis 04 & 25 mars - AVRIL : atelier samedis 8 & 22 avril (14h-16h).
-
-    **Lieu: Tout Coquelicot, 20 rue de la justice à 4420 Saint-Nicolas.**
-
-    **T2/ Jan-avril 2023, 6h cours et 8h de cours-ateliers :** tarif plein 210€ (15€/cours) - tarif réduit 170€ (12€/cours) - payable au plus tard le 10 décembre 2022.
-  price: 'T2: 210€ ou 170€ (tarif réduit)'
-  snip_price: 210
-  snip_id: yogajeudisoir1-jan-avril-23
-  snip_sale: true
-  snip_sale_price: 40
-- title: Cours de yoga adultes - Jeudi 20:15! 10 places disponibles dès janvier 2023
-  show: true
-  type:
-  - 1h
-  price: 'T1: 195€ ou 160€ (tarif réduit) / T2: 210€ ou 170€ (tarif réduit)'
-  period: du 15 septembre au 27 avril 2022 !10 places disponibles dès janvier 2023
-  img: "/v1575800434/AdobeStock_245653305_ujwegf.jpg"
-  text: |-
-    Cours avancé de yoga le jeudi soir de 20h15 jusque 21h15 (arrivée à 20h05 pour se placer dans la salle). Cours de yoga en présentiel (sauf passage en ligne si obligation de fermer la salle de yoga). * En mars avril 2023, on passe en mode atelier en se retrouvant le samedi après-midi pour des ateliers de 1,5h ou 2h toute les deux semaines.
-
-    \-> Vous désirez vous inscrire uniquement pour janvier et février en cours du soir? Voir l'abonnement spécifique découverte de 6 semaines. (uniquement pour les élèves démarrant en janvier 2023)
-
-    Dates Jeudis:
-
-    12, 19, 26 JAN, 2, 9, 16 FÉV 2023 - MARS : atelier samedis 04 & 25 mars - AVRIL : atelier samedis 8 & 22 avril (14h-16h).
-
-    **Lieu: Tout Coquelicot, 20 rue de la justice à 4420 Saint-Nicolas.**
-
-    **T2/ Jan-avril 2023, 6h cours et 8h de cours-ateliers :** tarif plein 210€ (15€/cours) - tarif réduit 170€ (12€/cours) - payable au plus tard le 31 décembre 2022.
-  snip_id: yoga-jeudisoir2-jan-avril23
-  snip_price: 210
-  snip_sale: true
-  snip_sale_price: 40
 - title: Cours de yoga adultes - Vendredi 9:00 - 5 places disponibles dès janvier
     2023
   show: true
