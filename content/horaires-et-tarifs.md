@@ -52,7 +52,8 @@ schedule:
 - title: Samedi
   blocks: []
 rate:
-- title: Petit abonnement du jeudi soir 19h (débutant) ou 20h15 (avancé)
+- title: 2023 - Janvier & Février - Petit abn du jeudi soir 19h (débutant) ou 20h15
+    (avancé)
   show: true
   type: []
   period: du 12 janvier au 16 février 2023
