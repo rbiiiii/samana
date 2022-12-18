@@ -133,6 +133,25 @@ rate:
   snip_id: yoga-mercmatin1-sept-dec22
   snip_sale: true
   snip_sale_price: 40
+- title: Cours de yoga adultes - Vendredi 9:00 - 5 places disponibles dès janvier
+    2023
+  show: true
+  period: Du 09 septembre au 28 avril 2023
+  text: "Cours vendredi matin 09h00 jusque 10h00 (arrivée à 08h50 pour se placer dans
+    la salle), 14 cours entre janvier et avril 2023. Cours de yoga en présentiel (sauf
+    passage en ligne si obligation de fermer la salle de yoga). \n\nDates vendredi:
+    \ \n13, 20, 27 JAN - 3,10,17 FEV - 10, 17, 24, 31 - MARS, 7, 14, 21, 28 - AVRIL
+    (14 séances)\n\n**Lieu: Tout Coquelicot, 20 rue de la justice à 4420 Saint-Nicolas.**\n\n**T2/
+    Jan-avril 2023, 14 cours :** tarif plein 210€ (15€/cours) - tarif réduit 170€
+    (12€/cours) - payable au plus tard le 10 décembre 2022."
+  price: 'T2: 210€ ou 170€ (tarif réduit)'
+  snip_price: 210
+  snip_id: yoga-vendmatin-septdec22
+  snip_sale: true
+  snip_sale_price: 40
+  type:
+  - 1h
+  img: "/v1598214449/IMG_4551_zbks33.jpg"
 - title: Inscription Séance d'information Cycle MBSR - Réduction du stress par la
     pleine conscience
   show: true
@@ -197,25 +216,6 @@ rate:
   snip_id: yoga-ados-septdec-22
   snip_sale: true
   snip_sale_price: 20
-- title: Cours de yoga adultes - Vendredi 9:00 - 5 places disponibles dès janvier
-    2023
-  show: true
-  period: Du 09 septembre au 28 avril 2023
-  text: "Cours vendredi matin 09h00 jusque 10h00 (arrivée à 08h50 pour se placer dans
-    la salle), 14 cours entre janvier et avril 2023. Cours de yoga en présentiel (sauf
-    passage en ligne si obligation de fermer la salle de yoga). \n\nDates vendredi:
-    \ \n13, 20, 27 JAN - 3,10,17 FEV - 10, 17, 24, 31 - MARS, 7, 14, 21, 28 - AVRIL
-    (14 séances)\n\n**Lieu: Tout Coquelicot, 20 rue de la justice à 4420 Saint-Nicolas.**\n\n**T2/
-    Jan-avril 2023, 14 cours :** tarif plein 210€ (15€/cours) - tarif réduit 170€
-    (12€/cours) - payable au plus tard le 10 décembre 2022."
-  price: 'T1: 195€ ou 160€ (tarif réduit) / T2: 210€ ou 170€ (tarif réduit)'
-  snip_price: 210
-  snip_id: yoga-vendmatin-septdec22
-  snip_sale: true
-  snip_sale_price: 40
-  type:
-  - 1h
-  img: "/v1598214449/IMG_4551_zbks33.jpg"
 - title: Soutien à la pratique de la méditation (suite à un cycle MBSR)
   show: false
   type: []
