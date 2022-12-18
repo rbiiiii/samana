@@ -65,7 +65,7 @@ rate:
 
     Voici les dates : Lundi 23 janvier, Lundi 6 février et Lundi 13 février 2023 à 10h et 18h30 en ligne.
 
-    1\.Remplir le Formulaire d'inscription en ligne **avant** la séance d'info si possible:[https://forms.gle/cFZ3itHW7Dmi8jp29](https://forms.gle/cFZ3itHW7Dmi8jp29 "https://forms.gle/cFZ3itHW7Dmi8jp29")
+    **1.Remplir le Formulaire d'inscription en ligne avant la séance d'info si possible:** [**https://forms.gle/cFZ3itHW7Dmi8jp29**](https://forms.gle/cFZ3itHW7Dmi8jp29 "https://forms.gle/cFZ3itHW7Dmi8jp29")
 
     2\.Payer les 10€ en appuyant sur réservation. Merci de remplir également le formulaire google :-)!
   snip_id: InfoMBSR-printemps22
