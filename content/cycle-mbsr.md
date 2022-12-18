@@ -103,6 +103,43 @@ mbsr:
       **Format**: Les deux groupes sont réunis dans un lieu précisé au début du cycle.
 
       **Dates**: Journée de pleine conscience le samedi 17 décembre 2022 de 09h30 à 17h00 Chez Tout Coquelicot.
+  - title: Dates Printemps 2023
+    content: |-
+      #### Séance d’information
+
+      Dates à venir en janvier et février 2023.
+
+      Inscription obligatoire via le site internet ici pour le paiement des 10€: [https://www.yogasamana.be/horaires-tarifs/#tarifs-abonnements](https://www.yogasamana.be/horaires-tarifs/#tarifs-abonnements "https://www.yogasamana.be/horaires-tarifs/#tarifs-abonnements")
+
+      Formulaire en ligne à remplir obligatoirement et si possible avant la séance d'information voir ici :[https://forms.gle/cFZ3itHW7Dmi8jp29](https://forms.gle/cFZ3itHW7Dmi8jp29 "https://forms.gle/cFZ3itHW7Dmi8jp29")
+
+      #### Cycle du jeudi soir (format présentiel, par Chloé Dujardin instructrice MBSR qualifiée)
+
+      1. Jeudi 09 mars 2023, 18h30 – 21h30
+      2. Jeudi 16 mars 2023, 18h30 – 21h00
+      3. Jeudi 23 mars 2023, 18h30 – 21h00
+      4. Jeudi 30 mars 2023, 18h30 – 21h00
+      5. Jeudi 06 avril 2023, 18h30 – 21h00
+      6. Jeudi 13 avril 2023, 18h30 – 21h00
+      7. Jeudi 20 avril 2023, 18h30 – 21h00
+      8. Jeudi 27 avril 2023, 18h30 – 21h30
+
+      #### Cycle du vendredi matin (format présentiel, par Chloé Dujardin instructrice MBSR qualifiée)
+
+      1. Vendredi 24 mars 2023, 10h30 - 13h30
+      2. Vendredi 17 mars 2023, 10h30 - 13h00
+      3. Vendredi 24 mars 2023, 10h30 - 13h00
+      4. Vendredi 31 mars 2023, 10h30 - 13h00
+      5. Vendredi 06 avril 2023, 10h30 - 13h00
+      6. Vendredi 14 avril 2023, 10h30 - 13h00
+      7. Vendredi 21 avril 2023, 10h30 - 13h00
+      8. Vendredi 28 avril 2023, 10h30 - 13h30
+
+      #### Journée de pratique en présentiel
+
+      **Format**: Les deux groupes sont réunis dans un lieu précisé au début du cycle.
+
+      **Dates**: Journée de pleine conscience le samedi 15 avril de 09h30 à 17h00 Lieux à définir.
   - title: Lieux et matériel nécessaire
     content: "Les 2 cycles se déroulent chez « **Tout Coquelicot** »,  \n[20 rue de
       la justice à 4420 Saint-Nicolas.](https://goo.gl/maps/ot8kTot5r1yj8vEA9)\n\nJournée
@@ -134,11 +171,11 @@ mbsr:
 
       S’inscrire au programme MBSR revient à s’engager pour l’entièreté du programme. Il est donc nécessaire d’en régler l’entièreté du tarif. Il ne sera procédé à aucun remboursement en cas d’absence à une des 8 séances. Il est toujours possible de profiter de l’autre créneau horaire pour rattraper une séance manquée (la même semaine du même cycle).
 
-      En cas d’annulation, jusque 72h avant le démarrage du cycle, le remboursement s’effectue avec une retenue de 80€. (non transférable à un autre cycle). Passé ce délais, en cas d’annulation aucun remboursement ne sera effectué.
+      En cas d’annulation, jusque 72h avant le démarrage du cycle, le remboursement s’effectue avec une retenue de 100€. (non transférable à un autre cycle). Passé ce délais, en cas d’annulation aucun remboursement ne sera effectué.
 
-      #### Situation sanitaire pour le cycle de l'automne 2022
+      #### Situation sanitaire pour le cycle du printemps 2023
 
-      Le cycle de l'automne se donne en présentiel. En cas de décisions du gouvernement impliquant de ne plus pouvoir se réunir en présentiel, le programme sera transféré sous le format en ligne. En s’inscrivant au format présentiel, les personnes donnent leur consentement tacite à ces conditions. Il n’y a dès lors aucun remboursement ni transfert vers un programme ultérieur.
+      Le cycle du printemps se donne en présentiel. En cas de décisions du gouvernement impliquant de ne plus pouvoir se réunir en présentiel, le programme sera transféré sous le format en ligne. En s’inscrivant au format présentiel, les personnes donnent leur consentement tacite à ces conditions. Il n’y a dès lors aucun remboursement ni transfert vers un programme ultérieur.
 
       #### Conditions de participation et inscription
 
@@ -150,7 +187,7 @@ mbsr:
 
       ##### 2. Formulaire
 
-      Compléter le formulaire en ligne de demande d’inscription avant la séance d'information si possible. (ici: [https://forms.gle/4xgtat7Y3fQi9Zjm8](https://forms.gle/4xgtat7Y3fQi9Zjm8) "https://forms.gle/4xgtat7Y3fQi9Zjm8"))
+      Compléter le formulaire en ligne de demande d’inscription avant la séance d'information si possible. (ici: [https://forms.gle/cFZ3itHW7Dmi8jp29](https://forms.gle/cFZ3itHW7Dmi8jp29 "https://forms.gle/cFZ3itHW7Dmi8jp29"))
 
       Il est strictement confidentiel et sera consulté exclusivement par l’instructrice Chloé Dujardin. Ce formulaire nous permet avant tout de connaître votre démarche et éventuellement de relever certains points d’attentions quant à votre participation au programme.
 
