@@ -29,7 +29,7 @@ mbsr:
   register:
     show: true
     text: 'Formulaire d''inscription ici '
-    link: https://forms.gle/4xgtat7Y3fQi9Zjm8
+    link: https://forms.gle/cFZ3itHW7Dmi8jp29
   sections:
   - title: Programme MBSR
     content: |-
