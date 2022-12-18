@@ -200,22 +200,16 @@ rate:
   img: "/v1575800407/YOGA_POUR_ADOS_12-18_ANS_nwtwus.png"
   text: "Cours de yoga 12-18 ans: gestion du stress, image de soi, rester en lien
     avec son corps qui évolue, améliorer sa posture et sa respiration. Respirer et
-    savoir petit à petit apprivoiser sa vie intérieure.\n\nDates des cours:\n\n14,
-    21, 28 SEPT - 5, 12, 19 OCT -  9, 16, 23, 30 NOV -  7, 14, 21 DÉC (13 séances)
-    \ \n11,18, 25 JAN -  1, 8, 15 FÉV - 8, 15, 22, 29 MARS, 5, 12, 19, 26 AVRIL (14
-    séances)\n\nPour les tarifs et paiements, engagement pour l'année scolaire payable
-    en 2 fois T1 & T2. (possibilité de trouver des solutions d'étalement de paiement
-    si besoin)\n\n**Lieu: Corps et Conscience, 107 bv Kleyer à 4000 Liège.**\n\n**T1/
-    Sept-déc 2022, 13 cours** : tarif plein 150€ (12€/1h30 cours) - tarif réduit 130€
-    (10€/1h30 cours) - payable au plus tard en septembre 2022 ( 1 cours d'essai possible
-    s'il reste des places en septembre 22)\n\n**T2/ Jan-avril 2023, 14 cours** : tarif
-    plein 165€ (12€/1h30 cours) - tarif réduit 140€ (10€/1h30 cours) - payable au
-    plus tard le 10 décembre 2022."
-  price: 'T1: 150€ ou 130€ (tarif réduit) / T2: 165€ ou 140€ (tarif réduit)'
-  snip_price: 150
+    savoir petit à petit apprivoiser sa vie intérieure.\n\nDates des cours:  \n11,18,
+    25 JAN -  1, 8, 15 FÉV - 8, 15, 22, 29 MARS, 5, 12, 19, 26 AVRIL (14 séances)\n\n**Lieu:
+    Corps et Conscience, 107 bv Kleyer à 4000 Liège.**\n\n**T2/ Jan-avril 2023, 14
+    cours** : tarif plein 165€ (12€/1h30 cours) - tarif réduit 140€ (10€/1h30 cours)
+    - payable au plus tard le 10 décembre 2022."
+  price: " T2: 165€ ou 140€ (tarif réduit)"
+  snip_price: 165
   snip_id: yoga-ados-septdec-22
   snip_sale: true
-  snip_sale_price: 20
+  snip_sale_price: 25
 - title: Soutien à la pratique de la méditation (suite à un cycle MBSR)
   show: false
   type: []
