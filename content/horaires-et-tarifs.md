@@ -72,7 +72,7 @@ rate:
     **T2/ Jan-avril 2023, 6h cours :** tarif 90€ (15€/cours).
   price: "90"
   snip_price: 90
-  snip_id: Abn cour-jeudisoir-jan-avril23
+  snip_id: Abnpetit-jeudisoir-jan-avril23
   snip_sale: false
   snip_sale_price: 
 - title: Cours de yoga adultes Jeudi 19:00 ! 5 places disponibles dès janvier 2023
@@ -152,7 +152,7 @@ rate:
     (12€/cours) - payable au plus tard le 10 décembre 2022."
   price: 'T2: 210€ ou 170€ (tarif réduit)'
   snip_price: 210
-  snip_id: yoga-vendmatin-septdec22
+  snip_id: yoga-vendmatin-jan-avril-23
   snip_sale: true
   snip_sale_price: 40
   type:
