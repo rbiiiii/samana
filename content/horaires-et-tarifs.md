@@ -72,24 +72,24 @@ rate:
   snip_price: 10
   snip_sale: false
   snip_sale_price: 20
-- title: 'Cycle MBSR - Gestion du stress par la pleine conscience Automne 2022 '
+- title: 'Cycle MBSR - Gestion du stress par la pleine conscience Printemps 2023 '
   show: true
   type:
   - 2h30
-  period: du 10 novembre au 5 janvier 2023 (jeudi soir) et du 11/11 au 6 janvier 2023
+  period: du 09 mars au 27 avril 2023 (jeudi soir) et du 10 mars au 28 avril 2023
     (vendredi matin)
   img: "/v1575800419/AdobeStock_216060429_yjx8hp.jpg"
   text: |-
-    Vous avez participé à la séance d'info MBSR en septembre ou octobre 2022.
+    Vous avez participé à la séance d'info MBSR en Janvier ou février 2023.
 
     Vous pouvez régler ici votre participation au cycle de réduction du stress par la pleine conscience MBSR.
 
-    Si pas encore rempli, merci de remplir le formulaire d'inscription ici: [https://forms.gle/paLPiQk8EqsSDaqx7](https://forms.gle/paLPiQk8EqsSDaqx7 "https://forms.gle/paLPiQk8EqsSDaqx7")
+    [https://forms.gle/cFZ3itHW7Dmi8jp29](https://forms.gle/cFZ3itHW7Dmi8jp29 "https://forms.gle/cFZ3itHW7Dmi8jp29")
 
-    Merci de payer par versement avec en communication nom-prénom MBSR automne 22 sur le compte: BE30 0680 3991 8711?
+    Merci de payer par versement avec en communication nom-prénom MBSR automne 22 sur le compte: BE50 0689 3283 8418
   price: 290€
   snip_price: 290
-  snip_id: MBSRautomne2022
+  snip_id: MBSRPrintemps23
   snip_sale: false
   snip_sale_price: 
 - title: Cours de yoga adultes - Mercredi 09:30 !2 places disponibles dès janvier
