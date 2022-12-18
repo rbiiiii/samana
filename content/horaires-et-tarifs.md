@@ -113,7 +113,7 @@ rate:
   snip_price: 210
   snip_sale: true
   snip_sale_price: 40
-- title: Cours de yoga adultes - Mercredi 09:30 !2 places disponibles dès janvier
+- title: Cours de yoga adultes - Mercredi 09:30 ! 2 places disponibles dès janvier
     2023
   show: true
   type:
