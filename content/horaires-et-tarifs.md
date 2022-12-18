@@ -158,6 +158,24 @@ rate:
   type:
   - 1h
   img: "/v1598214449/IMG_4551_zbks33.jpg"
+- title: Cours de yoga ados - Mercredi 14:00
+  show: true
+  type:
+  - 1h30
+  period: du 14 septembre au 26 avril 2023
+  img: "/v1575800407/YOGA_POUR_ADOS_12-18_ANS_nwtwus.png"
+  text: "Cours de yoga 12-18 ans: gestion du stress, image de soi, rester en lien
+    avec son corps qui évolue, améliorer sa posture et sa respiration. Respirer et
+    savoir petit à petit apprivoiser sa vie intérieure.\n\nDates des cours:  \n11,18,
+    25 JAN -  1, 8, 15 FÉV - 8, 15, 22, 29 MARS, 5, 12, 19, 26 AVRIL (14 séances)\n\n**Lieu:
+    Corps et Conscience, 107 bv Kleyer à 4000 Liège.**\n\n**T2/ Jan-avril 2023, 14
+    cours** : tarif plein 165€ (12€/1h30 cours) - tarif réduit 140€ (10€/1h30 cours)
+    - payable au plus tard le 10 décembre 2022."
+  price: " T2: 165€ ou 140€ (tarif réduit)"
+  snip_price: 165
+  snip_id: yoga-ados-septdec-22
+  snip_sale: true
+  snip_sale_price: 25
 - title: Inscription Séance d'information Cycle MBSR - Réduction du stress par la
     pleine conscience
   show: true
@@ -198,24 +216,6 @@ rate:
   snip_id: MBSRPrintemps23
   snip_sale: false
   snip_sale_price: 
-- title: Cours de yoga ados - Mercredi 14:00
-  show: true
-  type:
-  - 1h30
-  period: du 14 septembre au 26 avril 2023
-  img: "/v1575800407/YOGA_POUR_ADOS_12-18_ANS_nwtwus.png"
-  text: "Cours de yoga 12-18 ans: gestion du stress, image de soi, rester en lien
-    avec son corps qui évolue, améliorer sa posture et sa respiration. Respirer et
-    savoir petit à petit apprivoiser sa vie intérieure.\n\nDates des cours:  \n11,18,
-    25 JAN -  1, 8, 15 FÉV - 8, 15, 22, 29 MARS, 5, 12, 19, 26 AVRIL (14 séances)\n\n**Lieu:
-    Corps et Conscience, 107 bv Kleyer à 4000 Liège.**\n\n**T2/ Jan-avril 2023, 14
-    cours** : tarif plein 165€ (12€/1h30 cours) - tarif réduit 140€ (10€/1h30 cours)
-    - payable au plus tard le 10 décembre 2022."
-  price: " T2: 165€ ou 140€ (tarif réduit)"
-  snip_price: 165
-  snip_id: yoga-ados-septdec-22
-  snip_sale: true
-  snip_sale_price: 25
 - title: Soutien à la pratique de la méditation (suite à un cycle MBSR)
   show: false
   type: []
