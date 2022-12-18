@@ -86,9 +86,9 @@ rate:
 
     [https://forms.gle/cFZ3itHW7Dmi8jp29](https://forms.gle/cFZ3itHW7Dmi8jp29 "https://forms.gle/cFZ3itHW7Dmi8jp29")
 
-    Merci de payer par versement avec en communication nom-prénom MBSR automne 22 sur le compte: BE50 0689 3283 8418
-  price: 290€
-  snip_price: 290
+    Merci de payer par versement avec en communication nom-prénom MBSR Printemps 23 sur le compte: BE50 0689 3283 8418
+  price: 300€
+  snip_price: 300
   snip_id: MBSRPrintemps23
   snip_sale: false
   snip_sale_price: 
