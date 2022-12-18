@@ -58,13 +58,18 @@ rate:
   type: []
   period: du 12 janvier au 16 février 2023
   img: "/v1577961813/IMG_4182_kww402.jpg"
-  text: "Cours débutants le jeudi soir de 19h00 jusque 20h00 (arrivée à 18h50 pour
-    se placer dans la salle). Cours avancés le jeudi soir à 20h15 jusque 21h15 (arrivée
-    à 2àh05 pour se placer dans la salle)\n\nAttention places limitées pour ces abonnements.\n\nCours
-    de yoga en présentiel (sauf passage en ligne si obligation de fermer la salle
-    de yoga). \n\nDates Jeudis soir : 12, 19, 26 JAN, 2, 9, 16 FÉV 2023 \n\n**Lieu:
-    Tout Coquelicot, 20 rue de la justice à 4420 Saint-Nicolas.**\n\n**T2/ Jan-avril
-    2023, 6h cours :** tarif 90€ (15€/cours). "
+  text: |-
+    Cours débutants le jeudi soir de 19h00 jusque 20h00 (arrivée à 18h50 pour se placer dans la salle). Cours avancés le jeudi soir à 20h15 jusque 21h15 (arrivée à 2àh05 pour se placer dans la salle)
+
+    Attention places limitées pour ces abonnements.
+
+    Cours de yoga en présentiel (sauf passage en ligne si obligation de fermer la salle de yoga).
+
+    Dates Jeudis soir : 12, 19, 26 JAN + 2, 9, 16 FÉV 2023
+
+    **Lieu: Tout Coquelicot, 20 rue de la justice à 4420 Saint-Nicolas.**
+
+    **T2/ Jan-avril 2023, 6h cours :** tarif 90€ (15€/cours).
   price: "90"
   snip_price: 90
   snip_id: Abn cour-jeudisoir-jan-avril23
