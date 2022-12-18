@@ -38,7 +38,7 @@ schedule:
   - start: 18h30
     end: 21h
     category: adultes
-    subtext: Cycle MBSR dès le 10 nov Chez Tout Coquelicot
+    subtext: Cycle MBSR dès le 09 mars Chez Tout Coquelicot
 - title: Vendredi
   blocks:
   - start: 9h
@@ -48,7 +48,7 @@ schedule:
   - start: 10h30
     end: 13h00
     category: adultes
-    subtext: Cycle MBSR dès le 11 nov Chez Tout Coquelicot
+    subtext: Cycle MBSR dès le 10 mars Chez Tout Coquelicot
 - title: Samedi
   blocks: []
 rate:
