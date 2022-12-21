@@ -20,7 +20,7 @@ sections:
   exclude: _index.md
   templates:
   - blog
-upload_dir: ''
+upload_dir: samana
 public_path: https://res.cloudinary.com/dqu7lbbhg/image/upload/c_scale,dpr_auto,q_70,w_680,f_auto
 front_matter_path: ''
 use_front_matter_path: true
