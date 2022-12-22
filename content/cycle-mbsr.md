@@ -115,31 +115,31 @@ mbsr:
 
       #### Cycle du jeudi soir (format présentiel, par Chloé Dujardin instructrice MBSR qualifiée)
 
-      1. Jeudi 09 mars 2023, 18h30 – 21h30
-      2. Jeudi 16 mars 2023, 18h30 – 21h00
-      3. Jeudi 23 mars 2023, 18h30 – 21h00
-      4. Jeudi 30 mars 2023, 18h30 – 21h00
-      5. Jeudi 06 avril 2023, 18h30 – 21h00
-      6. Jeudi 13 avril 2023, 18h30 – 21h00
-      7. Jeudi 20 avril 2023, 18h30 – 21h00
-      8. Jeudi 27 avril 2023, 18h30 – 21h30
+      1. Jeudi 02 mars 2023, 18h30 – 21h30
+      2. Jeudi 09 mars 2023, 18h30 – 21h00
+      3. Jeudi 16 mars 2023, 18h30 – 21h00
+      4. Jeudi 23 mars 2023, 18h30 – 21h00
+      5. Jeudi 30 mars 2023, 18h30 – 21h00
+      6. Jeudi 06 avril 2023, 18h30 – 21h00
+      7. Jeudi 13 avril 2023, 18h30 – 21h00
+      8. Jeudi 20 avril 2023, 18h30 – 21h30
 
       #### Cycle du vendredi matin (format présentiel, par Chloé Dujardin instructrice MBSR qualifiée)
 
-      1. Vendredi 24 mars 2023, 10h30 - 13h30
-      2. Vendredi 17 mars 2023, 10h30 - 13h00
-      3. Vendredi 24 mars 2023, 10h30 - 13h00
-      4. Vendredi 31 mars 2023, 10h30 - 13h00
-      5. Vendredi 06 avril 2023, 10h30 - 13h00
-      6. Vendredi 14 avril 2023, 10h30 - 13h00
-      7. Vendredi 21 avril 2023, 10h30 - 13h00
-      8. Vendredi 28 avril 2023, 10h30 - 13h30
+      1. Vendredi 03 mars 2023, 10h30 - 13h30
+      2. Vendredi 10 mars 2023, 10h30 - 13h00
+      3. Vendredi 17 mars 2023, 10h30 - 13h00
+      4. Vendredi 24 mars 2023, 10h30 - 13h00
+      5. Vendredi 31 mars 2023, 10h30 - 13h00
+      6. Vendredi 07 avril 2023, 10h30 - 13h00
+      7. Vendredi 14 avril 2023, 10h30 - 13h00
+      8. Vendredi 21 avril 2023, 10h30 - 13h30
 
       #### Journée de pratique en présentiel
 
       **Format**: Les deux groupes sont réunis dans un lieu précisé au début du cycle.
 
-      **Dates**: Journée de pleine conscience le samedi 15 avril de 09h30 à 17h00 Lieux à définir.
+      **Dates**: Journée de pleine conscience le lundi 10 avril de 09h30 à 17h00 Lieux à définir.
   - title: Lieux et matériel nécessaire
     content: "Les 2 cycles se déroulent chez « **Tout Coquelicot** »,  \n[20 rue de
       la justice à 4420 Saint-Nicolas.](https://goo.gl/maps/ot8kTot5r1yj8vEA9)\n\nJournée
