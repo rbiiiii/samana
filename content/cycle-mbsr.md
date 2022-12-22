@@ -107,7 +107,7 @@ mbsr:
     content: |-
       #### Séance d’information
 
-      Dates à venir en janvier et février 2023.
+      Lundi 23 janvier, Lundi 6 février et Lundi 13 février 2023 à 10h et 18h30 en ligne.
 
       Inscription obligatoire via le site internet ici pour le paiement des 10€: [https://www.yogasamana.be/horaires-tarifs/#tarifs-abonnements](https://www.yogasamana.be/horaires-tarifs/#tarifs-abonnements "https://www.yogasamana.be/horaires-tarifs/#tarifs-abonnements")
 
