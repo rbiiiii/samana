@@ -139,7 +139,7 @@ rate:
   snip_id: yoga-mercmatin1-sept-dec22
   snip_sale: true
   snip_sale_price: 40
-- title: Cours de yoga adultes - Vendredi 9:00 - 5 places disponibles dès janvier
+- title: Cours de yoga adultes - Vendredi 9:00 - 8 places disponibles dès janvier
     2023
   show: true
   period: Du 09 septembre au 28 avril 2023
