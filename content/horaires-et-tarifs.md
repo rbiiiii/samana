@@ -110,7 +110,7 @@ rate:
 
     Dates Jeudis:
 
-    12, 19, 26 JAN, 2, 9, 16 FÉV 2023 - MARS : atelier samedis 04 & 25 mars - AVRIL : atelier samedis 8 & 22 avril (14h-16h).
+    12, 19, 26 JAN, 2, 9, 16 FÉV 2023 - MARS : atelier samedis 04 & 18 mars - AVRIL : atelier samedis 01 & 15 avril (14h-16h).
 
     **Lieu: Tout Coquelicot, 20 rue de la justice à 4420 Saint-Nicolas.**
 
