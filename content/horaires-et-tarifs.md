@@ -145,11 +145,12 @@ rate:
   period: Du 09 septembre au 28 avril 2023
   text: "Cours vendredi matin 09h00 jusque 10h00 (arrivée à 08h50 pour se placer dans
     la salle), 14 cours entre janvier et avril 2023. Cours de yoga en présentiel (sauf
-    passage en ligne si obligation de fermer la salle de yoga). \n\nDates vendredi:
+    passage en ligne si obligation de fermer la salle de yoga).\n\nDates vendredi:
     \ \n13, 20, 27 JAN - 3,10,17 FEV - 10, 17, 24, 31 - MARS, 7, 14, 21, 28 - AVRIL
     (14 séances)\n\n**Lieu: Tout Coquelicot, 20 rue de la justice à 4420 Saint-Nicolas.**\n\n**T2/
     Jan-avril 2023, 14 cours :** tarif plein 210€ (15€/cours) - tarif réduit 170€
-    (12€/cours) - payable au plus tard le 10 décembre 2022."
+    (12€/cours) payable au plus tard le 6 janvier 2023. Cours d'essai possible à 10€
+    le vendredi 13 janvier! appelez moi: 0472/099143."
   price: 'T2: 210€ ou 170€ (tarif réduit)'
   snip_price: 210
   snip_id: yoga-vendmatin-jan-avril-23
