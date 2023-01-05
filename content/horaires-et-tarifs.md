@@ -90,7 +90,7 @@ rate:
 
     **Lieu: Tout Coquelicot, 20 rue de la justice à 4420 Saint-Nicolas.**
 
-    **T2/ Jan-avril 2023, 6h cours et 8h de cours-ateliers :** tarif plein 210€ (15€/cours) - tarif réduit 170€ (12€/cours) - payable au plus tard le 10 décembre 2022.
+    **T2/ Jan-avril 2023, 6h cours et 8h de cours-ateliers :** tarif plein 210€ (15€/cours) - tarif réduit 170€ (12€/cours) - payable au plus tard le 6 janvier 2023. Cours d'essai possible à 10€ le jeudi 12 janvier! appelez moi: 0472/099143.
   price: 'T2: 210€ ou 170€ (tarif réduit)'
   snip_price: 210
   snip_id: yogajeudisoir1-jan-avril-23
