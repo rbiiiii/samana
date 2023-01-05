@@ -132,8 +132,9 @@ rate:
     - 8, 15, 22, 29 MARS, 5, 12, 19, 26 AVRIL (14 séances)\n\n**Lieu: Corps et Conscience,
     107 bv Kleyer à 4000 Liège.**\n\n**Quand: mercredi 9:30 - 10:30**\n\n**Informations
     & précisions sur les échéances de paiement:**\n\n**T2/ Jan-avril 2023, 14 cours
-    :** tarif plein 210€ (14€/cours) - tarif réduit 170€ (12€/cours) - payable au
-    plus tard le 31 décembre 2022."
+    :** tarif plein 210€ (14€/cours) - tarif réduit 170€ (12€/cours) payable au plus
+    tard le 6 janvier 2023. Cours d'essai possible à 10€ le mercredi 11 janvier! appelez
+    moi: 0472/099143."
   price: 'T2: 210€ ou 170€ (tarif réduit)'
   snip_price: 210
   snip_id: yoga-mercmatin1-sept-dec22
