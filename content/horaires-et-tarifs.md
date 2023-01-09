@@ -75,6 +75,26 @@ rate:
   snip_id: Abnpetit-jeudisoir-jan-avril23
   snip_sale: false
   snip_sale_price: 
+- title: Inscription Séance d'information Cycle MBSR - Réduction du stress par la
+    pleine conscience
+  show: true
+  type:
+  - 1h30
+  price: '10€ '
+  period: Lundi 23 janvier, Lundi 6 février et 13 février à 10h et 18h30 en ligne
+  img: "/v1629487416/saffu-pYaKs30p9zg-unsplash_kifjbw.jpg"
+  text: |-
+    L'Inscription et la participation à la séance d'information sur le programme MBSR, est obligatoire en vue d'une inscription au cycle de 8 semaines.
+
+    Voici les dates : Lundi 23 janvier, Lundi 6 février et Lundi 13 février 2023 à 10h et 18h30 en ligne.
+
+    **1.Remplir le Formulaire d'inscription en ligne avant la séance d'info si possible:** [**https://forms.gle/cFZ3itHW7Dmi8jp29**](https://forms.gle/cFZ3itHW7Dmi8jp29 "https://forms.gle/cFZ3itHW7Dmi8jp29")
+
+    2\.Payer les 10€ en appuyant sur réservation. Merci de remplir également le formulaire google :-)!
+  snip_id: InfoMBSR-printemps22
+  snip_price: 10
+  snip_sale: false
+  snip_sale_price: 20
 - title: Cours de yoga adultes Jeudi 19:00 ! 5 places disponibles dès janvier 2023
   show: true
   type:
@@ -96,7 +116,7 @@ rate:
   snip_id: yogajeudisoir1-jan-avril-23
   snip_sale: true
   snip_sale_price: 40
-- title: Cours de yoga adultes - Jeudi 20:15! 10 places disponibles dès janvier 2023
+- title: Cours de yoga adultes - Jeudi 20:15! 5 places disponibles dès janvier 2023
   show: true
   type:
   - 1h
@@ -177,26 +197,6 @@ rate:
   snip_id: yoga-ados-septdec-22
   snip_sale: true
   snip_sale_price: 25
-- title: Inscription Séance d'information Cycle MBSR - Réduction du stress par la
-    pleine conscience
-  show: true
-  type:
-  - 1h30
-  price: '10€ '
-  period: Lundi 23 janvier, Lundi 6 février et 13 février à 10h et 18h30 en ligne
-  img: "/v1629487416/saffu-pYaKs30p9zg-unsplash_kifjbw.jpg"
-  text: |-
-    L'Inscription et la participation à la séance d'information sur le programme MBSR, est obligatoire en vue d'une inscription au cycle de 8 semaines.
-
-    Voici les dates : Lundi 23 janvier, Lundi 6 février et Lundi 13 février 2023 à 10h et 18h30 en ligne.
-
-    **1.Remplir le Formulaire d'inscription en ligne avant la séance d'info si possible:** [**https://forms.gle/cFZ3itHW7Dmi8jp29**](https://forms.gle/cFZ3itHW7Dmi8jp29 "https://forms.gle/cFZ3itHW7Dmi8jp29")
-
-    2\.Payer les 10€ en appuyant sur réservation. Merci de remplir également le formulaire google :-)!
-  snip_id: InfoMBSR-printemps22
-  snip_price: 10
-  snip_sale: false
-  snip_sale_price: 20
 - title: 'Cycle MBSR - Gestion du stress par la pleine conscience Printemps 2023 '
   show: false
   type:
