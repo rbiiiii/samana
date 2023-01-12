@@ -284,6 +284,18 @@ rate:
   snip_sale_price: 35
   img: "/v1584627110/AdobeStock_251503715-min_rvmb3x.jpg"
 retreat:
+- title: Stage Yoga t meditaiton pour enfants 08 - 12 ans
+  type: []
+  period: du 24 juillet au 28 juillet 2023
+  img: ''
+  text: Stage de Yoga pour enfant de la 3 ème primaire à la sixième primaire (pas
+    encore en secondaire)
+  price: 150€
+  snip_price: 150
+  snip_id: Stage_enfant_été2023
+  snip_sale: true
+  snip_sale_price: 25
+  show: true
 - title: Retraite Yoga et Méditation été 2022
   show: false
   type:
