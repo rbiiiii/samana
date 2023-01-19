@@ -9,13 +9,14 @@ Samana yoga (dans le cadre de son activité commerciale ci-après dénommée « 
 
 **Siège d'exploitation ET siège social**
 
+Piazza del anima Asbl
 Rue Saint-Nicolas 49  
 B-4000 Liège  
 Belgique
 
 Tél. +32 (0) 472 099 143
 
-Numéro d'entreprise: BE0.760.690.628
+Numéro d'entreprise: BE 0713.601.779
 
 Contact : contact@yogasamana.be
 
