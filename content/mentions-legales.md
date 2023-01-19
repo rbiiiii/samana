@@ -9,7 +9,7 @@ Samana yoga (dans le cadre de son activité commerciale ci-après dénommée « 
 
 **Siège d'exploitation ET siège social**
 
-Piazza del anima Asbl
+_Piazza del anima Asbl_  
 Rue Saint-Nicolas 49  
 B-4000 Liège  
 Belgique
