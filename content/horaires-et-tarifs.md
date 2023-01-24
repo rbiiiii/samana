@@ -284,27 +284,30 @@ rate:
   snip_sale_price: 35
   img: "/v1584627110/AdobeStock_251503715-min_rvmb3x.jpg"
 retreat:
-- title: Stage Yoga et Méditation pour enfants 08 - 12 ans
-  type: []
-  period: du 24 juillet au 28 juillet 2023
-  img: "/v1674592691/samana/yoga_enfants_pjydri.png"
+- title: Journée de pratique méditative Juin 2023
+  type:
+  - 8h
+  period: Dimanche 25 juin 2023
+  img: "/v1641740804/chloe-0018_1_-min_e8pdmj.jpg"
   text: |-
-    Stage de Yoga pour enfant de la 3 ième primaire à la sixième primaire (pas encore en secondaire). Nous ferons des pratiques de yoga, de méditation de pleine conscience, des activités autour des émotions et se connaître mieux (et une sortie fun sur la semaine). Bricolages et constructions d'outils de retour au calme à emmener chez soi.
+    Pour démarrer l'été, pour terminer l'année scolaire, pour reprendre de l'énergie, pour s'arrêter tout simplement. Une pause, une journée de pratique méditative pour les pratiquant.es régulier.ière.s ou ayant déjà participé à un programme complet de pleine conscience (MBSR, MBCT, ...)
 
-    **Dates**: Lundi 24 juillet au vendredi 28 juillet 2023 de 9h à 16h.
+    Dans un endroit merveilleux et en pleine nature : "Terre et source".
 
-    **Lieu**: École Don Bosco - 63 rue du Laveu, 4000 Liège.
+    Journée avec auberge espagnole le midi. Délicieux thés, tisanes et fruits bio offerts toute la journée. Places limitées***
 
-    **Tarif**: 150€ prix plein et 100€ tarif réduit, à payer via versement ici : BE50 06893283 8418 avec en communication stage yoga enfant + nom et prénom de l'enfant).
+    **Lieu**: [Terre et source](https://terreetsource.be/ "Terre et source"), rue d'Aubel 59 à 4651 Battice.
 
-    Prix réduit pour famille monoparentale, enfants d'une même fratrie, situation de chômage ou de maladie de longue durée. Le prix ne doit pas vous empêcher d'inscrire votre enfant, n'hésitez pas à m'en parler et nous trouverons ensemble une solution.
+    **Tarif** : 60€ et 40€ tarif réduit, à payer via versement ici : BE50 06893283 8418 avec en communication journée méditation + vos nom et prénom).
 
-    __En cas d’annulation*__ jusqu’à 72h avant le démarrage du stage, un dédit de 50€ est conservé. Celui-ci n’est pas transférable à un autre stage. En cas d’annulation* passé ce délai, aucun remboursement ne sera effectué pour quelque raison que ce soit.
-  price: 150€
-  snip_price: 150
-  snip_id: Stage_enfant_été2023
+    **Conditions d'annulation:** une fois votre versement effectué, vous êtes formellement inscrit.e à la journée. Aucun remboursement ne pourra être effectué pour quelque raison que ce soit.
+
+    Le tarif ne doit doit pas être un frein à votre participation, c'est pourquoi le tarif réduit est destiné aux personnes en maladie, chômage, famille monoparentale, pension, étudiants. Si ce tarif réduit est un soucis, ne pas hésiter à m'en parler, nous trouverons une solution ensemble.
+  price: 60€ ou 45€ (tarif réduit)
+  snip_price: 60
+  snip_id: Journéejuin-23
   snip_sale: true
-  snip_sale_price: 50
+  snip_sale_price: 15
   show: true
 - title: Retraite Yoga et Méditation été 2023
   show: true
@@ -340,30 +343,27 @@ retreat:
   snip_sale: true
   snip_sale_price: 50
   price: 250€ ou 200€* (prix réduit)
-- title: Journée de pratique méditative Juin 2023
-  type:
-  - 8h
-  period: Dimanche 25 juin 2023
-  img: "/v1641740804/chloe-0018_1_-min_e8pdmj.jpg"
+- title: Stage Yoga et Méditation pour enfants 08 - 12 ans
+  type: []
+  period: du 24 juillet au 28 juillet 2023
+  img: "/v1674592691/samana/yoga_enfants_pjydri.png"
   text: |-
-    Pour démarrer l'été, pour terminer l'année scolaire, pour s'arrêter tout simplement. Une pause, une journée de pratique méditative pour les pratiquant.es régulier.ière.s ou ayant déjà participé à un programme complet de pleine conscience(MBSR, MBCT, ...)
+    Stage de Yoga pour enfant de la 3 ième primaire à la sixième primaire (pas encore en secondaire). Nous ferons des pratiques de yoga, de méditation de pleine conscience, des activités autour des émotions et se connaître mieux (et une sortie fun sur la semaine). Bricolages et constructions d'outils de retour au calme à emmener chez soi.
 
-    Dans un endroit merveilleux et en pleine nature : "Terre et source".
+    **Dates**: Lundi 24 juillet au vendredi 28 juillet 2023 de 9h à 16h.
 
-    Journée avec auberge espagnole le midi. Délicieux thés, tisanes et fruits bio offerts toute la journée. Places limitées***
+    **Lieu**: École Don Bosco - 63 rue du Laveu, 4000 Liège.
 
-    **Lieu**: [Terre et source](https://terreetsource.be/ "Terre et source"), rue d'Aubel 59 à 4651 Battice.
+    **Tarif**: 150€ prix plein et 100€ tarif réduit, à payer via versement ici : BE50 06893283 8418 avec en communication stage yoga enfant + nom et prénom de l'enfant).
 
-    **Tarif** : 60€ et 40€ tarif réduit, à payer via versement ici : BE50 06893283 8418 avec en communication journée méditation + vos nom et prénom).
+    Prix réduit pour famille monoparentale, enfants d'une même fratrie, situation de chômage ou de maladie de longue durée. Le prix ne doit pas vous empêcher d'inscrire votre enfant, n'hésitez pas à m'en parler et nous trouverons ensemble une solution.
 
-    **Conditions d'annulation:** une fois votre versement effectué, vous êtes formellement inscrit.e à la journée. Aucun remboursement ne pourra être effectué pour quelque raison que ce soit.
-
-    Le tarif ne doit doit pas être un frein à votre participation, c'est pourquoi le tarif réduit est destiné aux personnes en maladie, chômage, famille monoparentale, pension, étudiants. Si ce tarif réduit est un soucis, ne pas hésiter à m'en parler, nous trouverons une solution ensemble.
-  price: 60€ ou 45€ (tarif réduit)
-  snip_price: 60
-  snip_id: Journéejuin-23
+    __En cas d’annulation*__ jusqu’à 72h avant le démarrage du stage, un dédit de 50€ est conservé. Celui-ci n’est pas transférable à un autre stage. En cas d’annulation* passé ce délai, aucun remboursement ne sera effectué pour quelque raison que ce soit.
+  price: 150€
+  snip_price: 150
+  snip_id: Stage_enfant_été2023
   snip_sale: true
-  snip_sale_price: 15
-  show: false
+  snip_sale_price: 50
+  show: true
 
 ---
