@@ -339,25 +339,27 @@ retreat:
 - title: Journée de pratique méditative Juin 2023
   type:
   - 8h
-  period: 25 jiun 2023
+  period: Dimanche 25 juin 2023
   img: "/v1641740804/chloe-0018_1_-min_e8pdmj.jpg"
-  text: "Pour démarrer l'été, pour terminer l'année scolaire, pour s'arrêter tout
-    simplement. Une journée de pratique méditative pour les pratiquants réguliers
-    ou ayant déjà participé à un programme complet de pleine conscience\n\nJournée
-    avec auberge espagnole tous les midis. Délicieux thé, tisanes et fruits bio disponibles
-    toute la journée. Places limitées*** \n\n**Lieu**: [Terre et source](https://terreetsource.be/
-    \"Terre et source\"), rue d'Aubel 59 à 4651 Battice. \n\n**Tarif** : 50€ et 40€
-    tarif réduit à payer via versement ici: BE30 0689 3991 8711 avec en communication
-    journée méditation + vos nom et prénom).\n\nUne fois le \n\nLe tarif ne doit doit
-    pas être un frein à votre participation, c'est pourquoi le tarif réduit est destiné
-    aux personnes en maladie, chômage, famille monoparentale, pension, étudiants.
-    Si ce tarif réduit est un soucis, ne pas hésiter à m'en parler, nous trouverons
-    une solution ensemble."
-  price: 180€ ou 155€ (tarif réduit)
-  snip_price: 180
-  snip_id: retraiteavril-22
+  text: |-
+    Pour démarrer l'été, pour terminer l'année scolaire, pour s'arrêter tout simplement. Une pause, une journée de pratique méditative pour les pratiquant.es régulier.ière.s ou ayant déjà participé à un programme complet de pleine conscience(MBSR, MBCT, ...)
+
+    Dans un endroit merveilleux et en pleine nature : "Terre et source".
+
+    Journée avec auberge espagnole le midi. Délicieux thés, tisanes et fruits bio offerts toute la journée. Places limitées***
+
+    **Lieu**: [Terre et source](https://terreetsource.be/ "Terre et source"), rue d'Aubel 59 à 4651 Battice.
+
+    **Tarif** : 60€ et 40€ tarif réduit, à payer via versement ici : BE50 06893283 8418 avec en communication journée méditation + vos nom et prénom).
+
+    **Conditions d'annulation:** une fois votre versement effectué, vous êtes formellement inscrit.e à la journée. Aucun remboursement ne pourra être effectué pour quelque raison que ce soit.
+
+    Le tarif ne doit doit pas être un frein à votre participation, c'est pourquoi le tarif réduit est destiné aux personnes en maladie, chômage, famille monoparentale, pension, étudiants. Si ce tarif réduit est un soucis, ne pas hésiter à m'en parler, nous trouverons une solution ensemble.
+  price: 60€ ou 45€ (tarif réduit)
+  snip_price: 60
+  snip_id: Journéejuin-23
   snip_sale: true
-  snip_sale_price: 25
+  snip_sale_price: 15
   show: false
 
 ---
