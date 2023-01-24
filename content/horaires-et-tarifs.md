@@ -284,7 +284,7 @@ rate:
   snip_sale_price: 35
   img: "/v1584627110/AdobeStock_251503715-min_rvmb3x.jpg"
 retreat:
-- title: Stage Yoga et meditation pour enfants 08 - 12 ans
+- title: Stage Yoga et Méditation pour enfants 08 - 12 ans
   type: []
   period: du 24 juillet au 28 juillet 2023
   img: "/v1674592691/samana/yoga_enfants_pjydri.png"
@@ -302,7 +302,7 @@ retreat:
   snip_price: 150
   snip_id: Stage_enfant_été2023
   snip_sale: true
-  snip_sale_price: 30
+  snip_sale_price: 50
   show: true
 - title: Retraite Yoga et Méditation été 2023
   show: true
