@@ -359,7 +359,7 @@ retreat:
     Prix réduit pour famille monoparentale, enfants d'une même fratrie, situation de chômage ou de maladie de longue durée. Le prix ne doit pas vous empêcher d'inscrire votre enfant, n'hésitez pas à m'en parler et nous trouverons ensemble une solution.
 
     __En cas d’annulation*__ jusqu’à 72h avant le démarrage du stage, un dédit de 50€ est conservé. Celui-ci n’est pas transférable à un autre stage. En cas d’annulation* passé ce délai, aucun remboursement ne sera effectué pour quelque raison que ce soit.
-  price: 150€
+  price: 150€ ou 100€ (prix réduit)
   snip_price: 150
   snip_id: Stage_enfant_été2023
   snip_sale: true
