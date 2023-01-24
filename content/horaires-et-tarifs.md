@@ -295,9 +295,11 @@ retreat:
 
     **Lieu**: École Don Bosco - 63 rue du Laveu, 4000 Liège.
 
-    Prix réduit pour famille monoparentale, enfants d'une même fratrie, situation de chômage ou maladie de longue durée.
+    **Tarif**: 150€ prix plein et 100€ tarif réduit, à payer via versement ici : BE50 06893283 8418 avec en communication stage yoga enfant + nom et prénom de l'enfant).
 
-    Le prix ne doit pas vous empêcher d'inscrire votre enfant, n'hésitez pas à m'en parler et nous trouverons une solution.
+    Prix réduit pour famille monoparentale, enfants d'une même fratrie, situation de chômage ou maladie de longue durée. Le prix ne doit pas vous empêcher d'inscrire votre enfant, n'hésitez pas à m'en parler et nous trouverons une solution.
+
+    __En cas d’annulation*__ jusqu’à 72h avant le démarrage du stage, un dédit de 50€ est conservé. Celui-ci n’est pas transférable à un autre stage. En cas d’annulation* passé ce délai, aucun remboursement ne sera effectué pour quelque raison que ce soit.
   price: 150€
   snip_price: 150
   snip_id: Stage_enfant_été2023
@@ -321,16 +323,18 @@ retreat:
     de célébrer l'instant présent, de profiter d'un partage sur la sagesse millénaire
     du yoga et de la méditation.\n\nRetraite non résidentielle, avec auberge espagnole
     tous les midis.          Délicieux thé, tisanes et fruits bio disponibles gratuitement
-    toute la journée.  \nPlaces limitées*** (Lieu: [Terre et source](https://terreetsource.be/
+    toute la journée.  \nPlaces limitées*** (\n\n**Lieu**: [Terre et source](https://terreetsource.be/
     \"Terre et source\"), rue d'Aubel 59 à 4651 Battice). Nécessité de participer
-    à l'entièreté de la retraite.\n\nLe tarif ne doit doit pas être un frein à votre
+    à l'entièreté de la retraite.\n\n**Tarif**: 250€ prix plein et 200€ tarif réduit,
+    à payer via versement ici : BE50 06893283 8418 avec en communication retraite
+    été 2023 + vos nom et prénom).\n\nLe tarif ne doit doit pas être un frein à votre
     participation, c'est pourquoi le tarif réduit est destiné aux personnes en maladie
     de longue durée, chômage, famille monoparentale, pension, étudiant.es. Si le tarif
     est un soucis, ne pas hésiter à m'en parler, nous trouverons ensemble une solution
-    qui rendent votre participation possible.\n\nEn cas d’annulation* jusqu’à 72h
-    avant le démarrage de la retraite, un dédit de 100€ est conservé. Celui-ci n’est
-    pas transférable à un autre stage. En cas d’annulation* passé ce délai, aucun
-    remboursement ne sera effectué pour quelque raison que ce soit."
+    qui rendent votre participation possible.\n\n__En cas d’annulation*__ jusqu’à
+    72h avant le démarrage de la retraite, un dédit de 100€ est conservé. Celui-ci
+    n’est pas transférable à un autre stage. En cas d’annulation* passé ce délai,
+    aucun remboursement ne sera effectué pour quelque raison que ce soit."
   snip_price: 250
   snip_id: Retraite-juillet-2023
   snip_sale: true
