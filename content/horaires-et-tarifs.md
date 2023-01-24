@@ -300,9 +300,9 @@ retreat:
 
     **Tarif** : 60€ et 45€ tarif réduit, à payer via versement ici : BE50 06893283 8418 avec en communication journée méditation + vos nom et prénom).
 
-    **Conditions d'annulation:** une fois votre versement effectué, vous êtes formellement inscrit.e à la journée. Aucun remboursement ne pourra être effectué pour quelque raison que ce soit.
-
     Le tarif ne doit doit pas être un frein à votre participation, c'est pourquoi le tarif réduit est destiné aux personnes en maladie, chômage, famille monoparentale, pension, étudiants. Si ce tarif réduit est un soucis, ne pas hésiter à m'en parler, nous trouverons une solution ensemble.
+
+    **Conditions d'annulation:** une fois votre versement effectué, vous êtes formellement inscrit.e à la journée. Aucun remboursement ne pourra être effectué pour quelque raison que ce soit.
   price: 60€ ou 45€ (tarif réduit)
   snip_price: 60
   snip_id: Journeejuin23
