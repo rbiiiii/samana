@@ -288,7 +288,7 @@ retreat:
   type:
   - 8h
   period: Dimanche 25 juin 2023
-  img: "/v1641740804/chloe-0018_1_-min_e8pdmj.jpg"
+  img: "/v1674600821/samana/journe%CC%81e_23juin_bq1ysw.png"
   text: |-
     Pour démarrer l'été, pour terminer l'année scolaire, pour reprendre de l'énergie, pour s'arrêter tout simplement. Une pause, une journée de pratique méditative pour les pratiquant.es régulier.ière.s ou ayant déjà participé à un programme complet de pleine conscience (MBSR, MBCT, ...)
 
@@ -298,14 +298,14 @@ retreat:
 
     **Lieu**: [Terre et source](https://terreetsource.be/ "Terre et source"), rue d'Aubel 59 à 4651 Battice.
 
-    **Tarif** : 60€ et 40€ tarif réduit, à payer via versement ici : BE50 06893283 8418 avec en communication journée méditation + vos nom et prénom).
+    **Tarif** : 60€ et 45€ tarif réduit, à payer via versement ici : BE50 06893283 8418 avec en communication journée méditation + vos nom et prénom).
 
     **Conditions d'annulation:** une fois votre versement effectué, vous êtes formellement inscrit.e à la journée. Aucun remboursement ne pourra être effectué pour quelque raison que ce soit.
 
     Le tarif ne doit doit pas être un frein à votre participation, c'est pourquoi le tarif réduit est destiné aux personnes en maladie, chômage, famille monoparentale, pension, étudiants. Si ce tarif réduit est un soucis, ne pas hésiter à m'en parler, nous trouverons une solution ensemble.
   price: 60€ ou 45€ (tarif réduit)
   snip_price: 60
-  snip_id: Journéejuin-23
+  snip_id: Journeejuin23
   snip_sale: true
   snip_sale_price: 15
   show: true
