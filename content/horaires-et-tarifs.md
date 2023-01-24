@@ -284,17 +284,25 @@ rate:
   snip_sale_price: 35
   img: "/v1584627110/AdobeStock_251503715-min_rvmb3x.jpg"
 retreat:
-- title: Stage Yoga t meditaiton pour enfants 08 - 12 ans
+- title: Stage Yoga et meditation pour enfants 08 - 12 ans
   type: []
   period: du 24 juillet au 28 juillet 2023
-  img: ''
-  text: Stage de Yoga pour enfant de la 3 ème primaire à la sixième primaire (pas
-    encore en secondaire)
+  img: "/v1674592691/samana/yoga_enfants_pjydri.png"
+  text: |-
+    Stage de Yoga pour enfant de la 3 ième primaire à la sixième primaire (pas encore en secondaire). Nous ferons des pratiques de yoga, de méditation de pleine conscience, des activités autour des émotions et se connaître mieux. Bricolages, et constructions d'outils à emmener chez soi et qui aide à la pratique.
+
+    **Dates**: Lundi 24 juillet au vendredi 28 juillet 2023 de 9h à 16h.
+
+    **Lieu**: École Don Bosco - 63 rue du Laveu, 4000 Liège.
+
+    Prix réduit pour famille monoparentale, enfants d'une même fratrie, situation de chômage ou maladie de longue durée.
+
+    Le prix ne doit pas vous empêcher d'inscrire votre enfant, n'hésitez pas à m'en parler et nous trouverons une solution.
   price: 150€
   snip_price: 150
   snip_id: Stage_enfant_été2023
   snip_sale: true
-  snip_sale_price: 25
+  snip_sale_price: 30
   show: true
 - title: Retraite Yoga et Méditation été 2022
   show: false
