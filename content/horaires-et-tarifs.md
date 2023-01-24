@@ -315,7 +315,7 @@ retreat:
     pour se retirer quelques jours à 25 minutes de Liège dans un magnifique lieu,
     un écrin de verdure et de calme. Une retraite pour prendre soin de soi, pratiquer
     du yoga et de la méditation 3 journées d'affilées. Prendre le temps d'approfondir,
-    de laisser faire la pratique. \n\nAvec une introduction à la réduction du stress
+    de laisser faire la pratique.\n\nAvec une introduction à la réduction du stress
     par la pleine conscience (MBSR) et aux écrits fondateurs du yoga. La retraite
     est accessible à toutes et tous, débutants ou pratiquants.\n\nMagnifique manière
     de célébrer l'instant présent, de profiter d'un partage sur la sagesse millénaire
@@ -327,32 +327,32 @@ retreat:
     participation, c'est pourquoi le tarif réduit est destiné aux personnes en maladie
     de longue durée, chômage, famille monoparentale, pension, étudiant.es. Si le tarif
     est un soucis, ne pas hésiter à m'en parler, nous trouverons ensemble une solution
-    qui rendent votre participation possible."
+    qui rendent votre participation possible.\n\nEn cas d’annulation* jusqu’à 72h
+    avant le démarrage de la retraite, un dédit de 100€ est conservé. Celui-ci n’est
+    pas transférable à un autre stage. En cas d’annulation* passé ce délai, aucun
+    remboursement ne sera effectué pour quelque raison que ce soit."
   snip_price: 250
   snip_id: Retraite-juillet-2023
   snip_sale: true
   snip_sale_price: 50
   price: 250€ ou 200€* (prix réduit)
-- title: Retraite yoga et méditation Printemps 2022
+- title: Journée de pratique méditative Juin 2023
   type:
-  - 15h
-  period: du 16 au 18 avril 2022
+  - 8h
+  period: 25 jiun 2023
   img: "/v1641740804/chloe-0018_1_-min_e8pdmj.jpg"
-  text: "Trois journées complètes pour se retirer quelques jours et pratiquer du yoga
-    et de la méditation. (9h30 - 16h00)\n\nAvec une introduction aux écrits fondateurs
-    du yoga.  \nLa retraite est accessible à toutes et tous, débutants ou pratiquants.\n\nS'offrir
-    une pause sans attendre l'été, se ressourcer avec notre propre souffle.\n\nRetraite
-    non résidentielle, avec auberge espagnole tous les midis. Délicieux thé, tisanes
-    et fruits bio disponibles toute la journée.  \nPlaces limitées*** (Lieu: Tout
-    Coquelicot, 20 rue de la justice à 4420 Saint-Nicolas) Possibilité de faire 1,
-    2 ou 3 journées avec une priorité accordée aux personnes participant à l'entièreté
-    de la retraite.\n\nTarif pour une journée 85€, pour 2 jours 140€ et pour 3 180€.
-    (possibilité d'1 tarif réduit pour les 3 jours). Les 85€ ou 140€ peuvent être
-    payé en cash ou via versement ici: BE30 0689 3991 8711 avec en communication retraite
-    printemps 1 ou 2 jours et vos noms et prénoms)\n\nLe tarif ne doit doit pas être
-    un frein à votre participation, c'est pourquoi le tarif réduit est destiné aux
-    personnes en maladie, chômage, famille monoparentale, pension, étudiants. Si le
-    tarif est un soucis, ne pas hésiter à m'en parler, nous trouverons une solution."
+  text: "Pour démarrer l'été, pour terminer l'année scolaire, pour s'arrêter tout
+    simplement. Une journée de pratique méditative pour les pratiquants réguliers
+    ou ayant déjà participé à un programme complet de pleine conscience\n\nJournée
+    avec auberge espagnole tous les midis. Délicieux thé, tisanes et fruits bio disponibles
+    toute la journée. Places limitées*** \n\n**Lieu**: [Terre et source](https://terreetsource.be/
+    \"Terre et source\"), rue d'Aubel 59 à 4651 Battice. \n\n**Tarif** : 50€ et 40€
+    tarif réduit à payer via versement ici: BE30 0689 3991 8711 avec en communication
+    journée méditation + vos nom et prénom).\n\nUne fois le \n\nLe tarif ne doit doit
+    pas être un frein à votre participation, c'est pourquoi le tarif réduit est destiné
+    aux personnes en maladie, chômage, famille monoparentale, pension, étudiants.
+    Si ce tarif réduit est un soucis, ne pas hésiter à m'en parler, nous trouverons
+    une solution ensemble."
   price: 180€ ou 155€ (tarif réduit)
   snip_price: 180
   snip_id: retraiteavril-22
