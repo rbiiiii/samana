@@ -289,7 +289,7 @@ retreat:
   period: du 24 juillet au 28 juillet 2023
   img: "/v1674592691/samana/yoga_enfants_pjydri.png"
   text: |-
-    Stage de Yoga pour enfant de la 3 ième primaire à la sixième primaire (pas encore en secondaire). Nous ferons des pratiques de yoga, de méditation de pleine conscience, des activités autour des émotions et se connaître mieux. Bricolages, et constructions d'outils à emmener chez soi et qui aide à la pratique.
+    Stage de Yoga pour enfant de la 3 ième primaire à la sixième primaire (pas encore en secondaire). Nous ferons des pratiques de yoga, de méditation de pleine conscience, des activités autour des émotions et se connaître mieux (et une sortie fun sur la semaine). Bricolages et constructions d'outils de retour au calme à emmener chez soi.
 
     **Dates**: Lundi 24 juillet au vendredi 28 juillet 2023 de 9h à 16h.
 
