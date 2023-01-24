@@ -312,14 +312,16 @@ retreat:
   img: "/v1674594581/samana/Terre_et_source_-_retraite_2023_r8sisx.png"
   text: "Vous êtes en Belgique ce mois de juillet 2023?\n\nOffrez-vous une retraite
     de yoga et de méditation. Du vendredi 14 au dimanche 16 juillet: 3 journées complètes
-    pour se retirer quelques jours à Liège. Une retraite pour prendre soin de soi,
-    pratiquer du yoga et de la méditation 3 journées d'affilées.\n\nAvec une introduction
-    à la réduction du stress par la pleine conscience (MBSR) et aux écrits fondateurs
-    du yoga. La retraite est accessible à toutes et tous, débutants ou pratiquants.\n\nMagnifique
-    manière de célébrer l'instant présent, de profiter d'un partage sur la sagesse
-    millénaire du yoga et de la méditation.\n\nRetraite non résidentielle, avec auberge
-    espagnole tous les midis.          Délicieux thé, tisanes et fruits bio disponibles
-    gratuitement toute la journée.  \nPlaces limitées*** (Lieu: [Terre et source](https://terreetsource.be/
+    pour se retirer quelques jours à 25 minutes de Liège dans un magnifique lieu,
+    un écrin de verdure et de calme. Une retraite pour prendre soin de soi, pratiquer
+    du yoga et de la méditation 3 journées d'affilées. Prendre le temps d'approfondir,
+    de laisser faire la pratique. \n\nAvec une introduction à la réduction du stress
+    par la pleine conscience (MBSR) et aux écrits fondateurs du yoga. La retraite
+    est accessible à toutes et tous, débutants ou pratiquants.\n\nMagnifique manière
+    de célébrer l'instant présent, de profiter d'un partage sur la sagesse millénaire
+    du yoga et de la méditation.\n\nRetraite non résidentielle, avec auberge espagnole
+    tous les midis.          Délicieux thé, tisanes et fruits bio disponibles gratuitement
+    toute la journée.  \nPlaces limitées*** (Lieu: [Terre et source](https://terreetsource.be/
     \"Terre et source\"), rue d'Aubel 59 à 4651 Battice). Nécessité de participer
     à l'entièreté de la retraite.\n\nLe tarif ne doit doit pas être un frein à votre
     participation, c'est pourquoi le tarif réduit est destiné aux personnes en maladie
