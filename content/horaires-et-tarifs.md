@@ -305,7 +305,7 @@ retreat:
   snip_sale_price: 30
   show: true
 - title: Retraite Yoga et Méditation été 2023
-  show: false
+  show: true
   type:
   - 20h
   period: du 14 juillet au 16 juillet 2023
