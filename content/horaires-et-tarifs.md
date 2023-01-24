@@ -304,32 +304,32 @@ retreat:
   snip_sale: true
   snip_sale_price: 30
   show: true
-- title: Retraite Yoga et Méditation été 2022
+- title: Retraite Yoga et Méditation été 2023
   show: false
   type:
   - 20h
-  period: du 21 juillet au 23 juillet 2022
-  img: "/v1641740543/chloe-0076-min_ogdxdm.jpg"
-  text: "Vous êtes en Belgique ce mois de juillet 2022? \n\nOffrez-vous une retraite
-    de yoga et de méditation. Du 21 au 23 juillet: 3 journées complètes pour se retirer
-    quelques jours à Liège. Un retraite pour prendre soin de soi, pratiquer du yoga
-    et de la méditation autour du thème de la compassion.\n\nAvec une introduction
-    à la gestion du stress par la pleine conscience (MBSR) et aux écrits fondateurs
+  period: du 14 juillet au 16 juillet 2023
+  img: "/v1674594581/samana/Terre_et_source_-_retraite_2023_r8sisx.png"
+  text: "Vous êtes en Belgique ce mois de juillet 2023?\n\nOffrez-vous une retraite
+    de yoga et de méditation. Du vendredi 14 au dimanche 16 juillet: 3 journées complètes
+    pour se retirer quelques jours à Liège. Une retraite pour prendre soin de soi,
+    pratiquer du yoga et de la méditation 3 journées d'affilées.\n\nAvec une introduction
+    à la réduction du stress par la pleine conscience (MBSR) et aux écrits fondateurs
     du yoga. La retraite est accessible à toutes et tous, débutants ou pratiquants.\n\nMagnifique
     manière de célébrer l'instant présent, de profiter d'un partage sur la sagesse
     millénaire du yoga et de la méditation.\n\nRetraite non résidentielle, avec auberge
-    espagnole tous les midis. Délicieux thé, tisanes et fruits bio disponibles toute
-    la journée.  \nPlaces limitées*** (Lieu: Tout Coquelicot, 20 rue de la justice
-    à 4420 Saint-Nicolas) Nécessité de participer à l'entièreté de la retraite.\n\nLe
-    tarif ne doit doit pas être un frein à votre participation, c'est pourquoi le
-    tarif réduit est destiné aux personnes en maladie de longue durée, chômage, famille
-    monoparentale, pension, étudiants. Si le tarif est un soucis, ne pas hésiter à
-    m'en parler, nous trouverons ensemble une solution."
-  snip_price: 210
-  snip_id: retraite-juillet-2022
+    espagnole tous les midis.          Délicieux thé, tisanes et fruits bio disponibles
+    gratuitement toute la journée.  \nPlaces limitées*** (Lieu: [Terre et source](https://terreetsource.be/
+    \"Terre et source\"), rue d'Aubel 59 à 4651 Battice). Nécessité de participer
+    à l'entièreté de la retraite.\n\nLe tarif ne doit doit pas être un frein à votre
+    participation, c'est pourquoi le tarif réduit est destiné aux personnes en maladie
+    de longue durée, chômage, famille monoparentale, pension, étudiants. Si le tarif
+    est un soucis, ne pas hésiter à m'en parler, nous trouverons ensemble une solution."
+  snip_price: 250
+  snip_id: Retraite-juillet-2023
   snip_sale: true
-  snip_sale_price: 40
-  price: 210€ ou 170€* (prix réduit)
+  snip_sale_price: 50
+  price: 250€ ou 200€* (prix réduit)
 - title: Retraite yoga et méditation Printemps 2022
   type:
   - 15h
