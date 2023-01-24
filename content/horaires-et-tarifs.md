@@ -318,7 +318,7 @@ retreat:
   text: "Vous êtes en Belgique ce mois de juillet 2023?\n\nOffrez-vous une retraite
     de yoga et de méditation. Du vendredi 14 au dimanche 16 juillet: 3 journées complètes
     pour se retirer quelques jours à 25 minutes de Liège dans un magnifique lieu,
-    un écrin de verdure et de calme. \n\nUne retraite pour prendre soin de soi, pratiquer
+    un écrin de verdure et de calme.\n\nUne retraite pour prendre soin de soi, pratiquer
     du yoga et de la méditation 3 journées d'affilées. Prendre le temps d'approfondir,
     de laisser faire la pratique.\n\nLa retraite est accessible à toutes et tous,
     débutants ou pratiquants.\n\nRetraite non résidentielle, avec auberge espagnole
@@ -331,7 +331,7 @@ retreat:
     participation, c'est pourquoi le tarif réduit est destiné aux personnes en maladie
     de longue durée, chômage, famille monoparentale, pension, étudiant.es. Si le tarif
     est un soucis, ne pas hésiter à m'en parler, nous trouverons ensemble une solution
-    qui rendent votre participation possible.\n\n__En cas d’annulation*__ jusqu’à
+    qui rendent votre participation possible.\n\n**Conditions d'annulation:** jusqu’à
     72h avant le démarrage de la retraite, un dédit de 100€ est conservé. Celui-ci
     n’est pas transférable à un autre stage. En cas d’annulation* passé ce délai,
     aucun remboursement ne sera effectué pour quelque raison que ce soit."
@@ -355,7 +355,7 @@ retreat:
 
     Prix réduit pour famille monoparentale, enfants d'une même fratrie, situation de chômage ou de maladie de longue durée. Le prix ne doit pas vous empêcher d'inscrire votre enfant, n'hésitez pas à m'en parler et nous trouverons ensemble une solution.
 
-    __En cas d’annulation*__ jusqu’à 72h avant le démarrage du stage, un dédit de 50€ est conservé. Celui-ci n’est pas transférable à un autre stage. En cas d’annulation* passé ce délai, aucun remboursement ne sera effectué pour quelque raison que ce soit.
+    **Conditions d'annulation:** jusqu’à 72h avant le démarrage du stage, un dédit de 50€ est conservé. Celui-ci n’est pas transférable à un autre stage. En cas d’annulation* passé ce délai, aucun remboursement ne sera effectué pour quelque raison que ce soit.
   price: 150€ ou 100€ (prix réduit)
   snip_price: 150
   snip_id: Stage_enfant_été2023
