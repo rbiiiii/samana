@@ -327,14 +327,16 @@ retreat:
     \"Terre et source\"), rue d'Aubel 59 à 4651 Battice). Nécessité de participer
     à l'entièreté de la retraite.\n\n**Tarif**: 250€ prix plein et 200€ tarif réduit,
     à payer via versement ici : BE50 06893283 8418 avec en communication retraite
-    été 2023 + vos nom et prénom).\n\nLe tarif ne doit doit pas être un frein à votre
-    participation, c'est pourquoi le tarif réduit est destiné aux personnes en maladie
-    de longue durée, chômage, famille monoparentale, pension, étudiant.es. Si le tarif
-    est un soucis, ne pas hésiter à m'en parler, nous trouverons ensemble une solution
-    qui rendent votre participation possible.\n\n**Conditions d'annulation:** jusqu’à
-    72h avant le démarrage de la retraite, un dédit de 100€ est conservé. Celui-ci
-    n’est pas transférable à un autre stage. En cas d’annulation* passé ce délai,
-    aucun remboursement ne sera effectué pour quelque raison que ce soit."
+    été 2023 + vos nom et prénom).\n\n**Inscription:** merci de remplir ce formulaire
+    en ligne et de payer le tarif précisé ci-dessus: [https://forms.gle/4zHkM88WPKVSvhy4A](https://forms.gle/4zHkM88WPKVSvhy4A
+    \"https://forms.gle/4zHkM88WPKVSvhy4A\")\n\nLe tarif ne doit doit pas être un
+    frein à votre participation, c'est pourquoi le tarif réduit est destiné aux personnes
+    en maladie de longue durée, chômage, famille monoparentale, pension, étudiant.es.
+    Si le tarif est un soucis, ne pas hésiter à m'en parler, nous trouverons ensemble
+    une solution qui rendent votre participation possible.\n\n**Conditions d'annulation:**
+    jusqu’à 72h avant le démarrage de la retraite, un dédit de 100€ est conservé.
+    Celui-ci n’est pas transférable à un autre stage. En cas d’annulation* passé ce
+    délai, aucun remboursement ne sera effectué pour quelque raison que ce soit."
   snip_price: 250
   snip_id: Retraite-juillet-2023
   snip_sale: true
