@@ -52,45 +52,22 @@ schedule:
 - title: Samedi
   blocks: []
 rate:
-- title: 2023 - Janvier & Février - Petit abn du jeudi soir 19h (débutant) ou 20h15
-    (avancé)
-  show: false
-  type: []
-  period: du 12 janvier au 16 février 2023
-  img: "/v1577961813/IMG_4182_kww402.jpg"
-  text: |-
-    Cours débutants le jeudi soir de 19h00 jusque 20h00 (arrivée à 18h50 pour se placer dans la salle). Cours avancés le jeudi soir à 20h15 jusque 21h15 (arrivée à 2àh05 pour se placer dans la salle)
-
-    Attention places limitées pour ces abonnements.
-
-    Cours de yoga en présentiel (sauf passage en ligne si obligation de fermer la salle de yoga).
-
-    Dates Jeudis soir : 12, 19, 26 JAN + 2, 9, 16 FÉV 2023
-
-    **Lieu: Tout Coquelicot, 20 rue de la justice à 4420 Saint-Nicolas.**
-
-    **T2/ Jan-avril 2023, 6h cours :** tarif 90€ (15€/cours).
-  price: "90"
-  snip_price: 90
-  snip_id: Abnpetit-jeudisoir-jan-avril23
-  snip_sale: false
-  snip_sale_price: 
 - title: Inscription Séance d'information Cycle MBSR - Réduction du stress par la
     pleine conscience
   show: true
   type:
   - 1h30
   price: '10€ '
-  period: Lundi 23 janvier, Lundi 6 février et 13 février à 10h et 18h30 en ligne
+  period: Lundi 6 février et 13 février à 10h et 18h30 en ligne, dimanche 19 février
+    en présentiel
   img: "/v1629487416/saffu-pYaKs30p9zg-unsplash_kifjbw.jpg"
-  text: |-
-    L'Inscription et la participation à la séance d'information sur le programme MBSR, est obligatoire en vue d'une inscription au cycle de 8 semaines.
-
-    Voici les dates : Lundi 23 janvier, Lundi 6 février et Lundi 13 février 2023 à 10h et 18h30 en ligne.
-
-    **1.Remplir le Formulaire d'inscription en ligne avant la séance d'info si possible:** [**https://forms.gle/cFZ3itHW7Dmi8jp29**](https://forms.gle/cFZ3itHW7Dmi8jp29 "https://forms.gle/cFZ3itHW7Dmi8jp29")
-
-    2\.Payer les 10€ en appuyant sur réservation. Merci de remplir également le formulaire google :-)!
+  text: "L'Inscription et la participation à la séance d'information sur le programme
+    MBSR, est obligatoire en vue d'une inscription au cycle de 8 semaines.\n\nVoici
+    les dates : Lundi 6 février et Lundi 13 février 2023 à 10h et 18h30 en ligne.
+    Dimanche 19 février en présentiel 14h30-16h à Liège (adresse à préciser)\n\n**1.Remplir
+    le Formulaire d'inscription en ligne avant la séance d'info si possible:** [**https://forms.gle/cFZ3itHW7Dmi8jp29**](https://forms.gle/cFZ3itHW7Dmi8jp29
+    \"https://forms.gle/cFZ3itHW7Dmi8jp29\")\n\n2\\.Payer les 10€ en appuyant sur
+    réservation. \n\nMerci de remplir également le formulaire google :-)!"
   snip_id: InfoMBSR-printemps22
   snip_price: 10
   snip_sale: false
@@ -160,6 +137,25 @@ rate:
   snip_price: 210
   snip_sale: true
   snip_sale_price: 40
+- title: Cours de yoga adultes - Vendredi 9:00
+  show: true
+  period: Du 09 septembre au 28 avril 2023
+  text: "Cours vendredi matin 09h00 jusque 10h00 (arrivée à 08h50 pour se placer dans
+    la salle), 14 cours entre janvier et avril 2023. Cours de yoga en présentiel (sauf
+    passage en ligne si obligation de fermer la salle de yoga).\n\nDates vendredi:
+    \ \n13, 20, 27 JAN - 3,10,17 FEV - 10, 17, 24, 31 - MARS, 7, 14, 21, 28 - AVRIL
+    (14 séances)\n\n**Lieu: Tout Coquelicot, 20 rue de la justice à 4420 Saint-Nicolas.**\n\n**T2/
+    Jan-avril 2023, 14 cours :** tarif plein 210€ (15€/cours) - tarif réduit 170€
+    (12€/cours) payable au plus tard le 6 janvier 2023. Cours d'essai possible à 10€
+    le vendredi 13 janvier! appelez moi: 0472/099143."
+  price: 'T2: 210€ ou 170€ (tarif réduit)'
+  snip_price: 210
+  snip_id: yoga-vendmatin-jan-avril-23
+  snip_sale: true
+  snip_sale_price: 40
+  type:
+  - 1h
+  img: "/v1598214449/IMG_4551_zbks33.jpg"
 - title: Cours de yoga adultes - Mercredi 09:30 ! COMPLET
   show: true
   type:
@@ -180,25 +176,6 @@ rate:
   snip_id: yoga-mercmatin1-sept-dec22
   snip_sale: true
   snip_sale_price: 40
-- title: Cours de yoga adultes - Vendredi 9:00
-  show: true
-  period: Du 09 septembre au 28 avril 2023
-  text: "Cours vendredi matin 09h00 jusque 10h00 (arrivée à 08h50 pour se placer dans
-    la salle), 14 cours entre janvier et avril 2023. Cours de yoga en présentiel (sauf
-    passage en ligne si obligation de fermer la salle de yoga).\n\nDates vendredi:
-    \ \n13, 20, 27 JAN - 3,10,17 FEV - 10, 17, 24, 31 - MARS, 7, 14, 21, 28 - AVRIL
-    (14 séances)\n\n**Lieu: Tout Coquelicot, 20 rue de la justice à 4420 Saint-Nicolas.**\n\n**T2/
-    Jan-avril 2023, 14 cours :** tarif plein 210€ (15€/cours) - tarif réduit 170€
-    (12€/cours) payable au plus tard le 6 janvier 2023. Cours d'essai possible à 10€
-    le vendredi 13 janvier! appelez moi: 0472/099143."
-  price: 'T2: 210€ ou 170€ (tarif réduit)'
-  snip_price: 210
-  snip_id: yoga-vendmatin-jan-avril-23
-  snip_sale: true
-  snip_sale_price: 40
-  type:
-  - 1h
-  img: "/v1598214449/IMG_4551_zbks33.jpg"
 - title: Cours de yoga ados - Mercredi 14:00
   show: true
   type:
@@ -250,6 +227,29 @@ rate:
   snip_price: 40
   snip_id: yoga-atelier-fevmars22
   snip_sale: true
+- title: 2023 - Janvier & Février - Petit abn du jeudi soir 19h (débutant) ou 20h15
+    (avancé)
+  show: false
+  type: []
+  period: du 12 janvier au 16 février 2023
+  img: "/v1577961813/IMG_4182_kww402.jpg"
+  text: |-
+    Cours débutants le jeudi soir de 19h00 jusque 20h00 (arrivée à 18h50 pour se placer dans la salle). Cours avancés le jeudi soir à 20h15 jusque 21h15 (arrivée à 2àh05 pour se placer dans la salle)
+
+    Attention places limitées pour ces abonnements.
+
+    Cours de yoga en présentiel (sauf passage en ligne si obligation de fermer la salle de yoga).
+
+    Dates Jeudis soir : 12, 19, 26 JAN + 2, 9, 16 FÉV 2023
+
+    **Lieu: Tout Coquelicot, 20 rue de la justice à 4420 Saint-Nicolas.**
+
+    **T2/ Jan-avril 2023, 6h cours :** tarif 90€ (15€/cours).
+  price: "90"
+  snip_price: 90
+  snip_id: Abnpetit-jeudisoir-jan-avril23
+  snip_sale: false
+  snip_sale_price: 
 - title: Cours de yoga adultes - Mercredi 10h15 reprise le 14/09/22, inscription dès
     le 20 juillet 22
   show: false
