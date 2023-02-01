@@ -84,12 +84,12 @@ rate:
 
     Vous pouvez régler ici votre participation au cycle de réduction du stress par la pleine conscience MBSR.
 
-    Merci de payer par versement avec en communication nom-prénom MBSR Printemps 23 sur le compte: BE50 0689 3283 8418
+    Merci de payer par versement avec en communication nom-prénom MBSR Printemps 23 sur le compte: BE50 0689 3283 8418. (!possibilité de verser en plusieurs mensualités)
 
     Prix réduit pour toute personne en situation de maladie de longue durée, au chômage, famille monoparentale, étudiant.e, pensionné.e. Vous n'êtes pas dans cette situation mais le tarif est trop élevé, nous pouvons en parler et trouver une solution ensemble. Le tarif ne doit pas être un obstacle à votre participation.
 
     Si ne l'avez pas encore rempli, merci de cliquer sur ce lien et de compléter le formulaire d'inscription: [https://forms.gle/cFZ3itHW7Dmi8jp29](https://forms.gle/cFZ3itHW7Dmi8jp29 "https://forms.gle/cFZ3itHW7Dmi8jp29").
-  price: 300€
+  price: 300€ - 260€ (Tarif Réduit)
   snip_price: 300
   snip_id: MBSRPrintemps23
   snip_sale: true
