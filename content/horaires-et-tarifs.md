@@ -194,19 +194,17 @@ rate:
   snip_id: yoga-ados-septdec-22
   snip_sale: true
   snip_sale_price: 25
-- title: Soutien à la pratique de la méditation (suite à un cycle MBSR)
+- title: Soutien à la pratique de la méditation
   show: false
   type: []
   period: 24/02 & 24/03
   img: "/v1575800433/mountain-top-983890_1920_da2eoa.jpg"
   text: |-
-    2 soirées de soutien à la méditation, destinés uniquement pour les personnes ayant suivi un cycle de gestion du stress par la pleine conscience (MBSR).
+    2 soirées de soutien à la méditation, destinés aux personnes ayant suivi un cycle de gestion du stress par la pleine conscience (MBSR) ou encore ayant une pratique régulière de la méditation.
 
-    40€ pour les 2 ou 25€ par session.
-
-    \*Si vous ne pouvez, désirez ne participer qu’à un atelier, prix de 15€ à verser au compte BE30 0689 3991 8711 avec en communication support médiation février ou mars + nom et prénom.
-  price: "40"
-  snip_price: 40
+    Prix conscient à payer sur place (min 10€)
+  price: "10"
+  snip_price: 10
   snip_id: supportmeditation-janmars22
   snip_sale: false
   snip_sale_price: 
