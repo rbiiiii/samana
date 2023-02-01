@@ -54,7 +54,7 @@ schedule:
 rate:
 - title: 2023 - Janvier & Février - Petit abn du jeudi soir 19h (débutant) ou 20h15
     (avancé)
-  show: true
+  show: false
   type: []
   period: du 12 janvier au 16 février 2023
   img: "/v1577961813/IMG_4182_kww402.jpg"
@@ -159,8 +159,7 @@ rate:
   snip_id: yoga-mercmatin1-sept-dec22
   snip_sale: true
   snip_sale_price: 40
-- title: Cours de yoga adultes - Vendredi 9:00 - 8 places disponibles dès janvier
-    2023
+- title: Cours de yoga adultes - Vendredi 9:00
   show: true
   period: Du 09 septembre au 28 avril 2023
   text: "Cours vendredi matin 09h00 jusque 10h00 (arrivée à 08h50 pour se placer dans
@@ -198,25 +197,26 @@ rate:
   snip_sale: true
   snip_sale_price: 25
 - title: 'Cycle MBSR - Gestion du stress par la pleine conscience Printemps 2023 '
-  show: false
+  show: true
   type:
   - 2h30
-  period: du 09 mars au 27 avril 2023 (jeudi soir) et du 10 mars au 28 avril 2023
+  period: du 02 mars au 20 avril 2023 (jeudi soir) et du 03 mars au 21 avril 2023
     (vendredi matin)
   img: "/v1575800419/AdobeStock_216060429_yjx8hp.jpg"
-  text: |-
-    Vous avez participé à la séance d'info MBSR en Janvier ou février 2023.
-
-    Vous pouvez régler ici votre participation au cycle de réduction du stress par la pleine conscience MBSR.
-
-    [https://forms.gle/cFZ3itHW7Dmi8jp29](https://forms.gle/cFZ3itHW7Dmi8jp29 "https://forms.gle/cFZ3itHW7Dmi8jp29")
-
-    Merci de payer par versement avec en communication nom-prénom MBSR Printemps 23 sur le compte: BE50 0689 3283 8418
+  text: "Vous avez participé à la séance d'info MBSR en février 2023.\n\nVous pouvez
+    régler ici votre participation au cycle de réduction du stress par la pleine conscience
+    MBSR. \n\nMerci de payer par versement avec en communication nom-prénom MBSR Printemps
+    23 sur le compte: BE50 0689 3283 8418\n\nPrix réduit pour toute personne en situation
+    de maladie de longue durée, au chômage, famille monoparentale, étudiant.e, pensionné.e.
+    Vous n'êtes pas dans cette situation mais le tarif est trop élevé, nous pouvons
+    en parler et trouver une solution ensemble. Le tarif en doit pas être un obstacle
+    à votre participation.\n\n[https://forms.gle/cFZ3itHW7Dmi8jp29](https://forms.gle/cFZ3itHW7Dmi8jp29
+    \"https://forms.gle/cFZ3itHW7Dmi8jp29\")"
   price: 300€
   snip_price: 300
   snip_id: MBSRPrintemps23
-  snip_sale: false
-  snip_sale_price: 
+  snip_sale: true
+  snip_sale_price: 50
 - title: Soutien à la pratique de la méditation (suite à un cycle MBSR)
   show: false
   type: []
