@@ -335,7 +335,7 @@ retreat:
     frein à votre participation, c'est pourquoi le tarif réduit est destiné aux personnes
     en maladie de longue durée, chômage, famille monoparentale, pension, étudiant.es.
     Si le tarif est un soucis, ne pas hésiter à m'en parler, nous trouverons ensemble
-    une solution qui rende votre participation possible.\n\n**Conditions d'annulation:**
+    une solution afin de faciliter votre participation.\n\n**Conditions d'annulation:**
     jusqu’à 72h avant le démarrage de la retraite, un dédit de 100€ est conservé.
     Celui-ci n’est pas transférable à un autre stage. En cas d’annulation* passé ce
     délai, aucun remboursement ne sera effectué pour quelque raison que ce soit."
