@@ -79,20 +79,21 @@ rate:
   period: du 02 mars au 20 avril 2023 (jeudi soir) et du 03 mars au 21 avril 2023
     (vendredi matin)
   img: "/v1575800419/AdobeStock_216060429_yjx8hp.jpg"
-  text: "Vous avez participé à la séance d'info MBSR en février 2023.\n\nVous pouvez
-    régler ici votre participation au cycle de réduction du stress par la pleine conscience
-    MBSR. \n\nMerci de payer par versement avec en communication nom-prénom MBSR Printemps
-    23 sur le compte: BE50 0689 3283 8418\n\nPrix réduit pour toute personne en situation
-    de maladie de longue durée, au chômage, famille monoparentale, étudiant.e, pensionné.e.
-    Vous n'êtes pas dans cette situation mais le tarif est trop élevé, nous pouvons
-    en parler et trouver une solution ensemble. Le tarif en doit pas être un obstacle
-    à votre participation.\n\n[https://forms.gle/cFZ3itHW7Dmi8jp29](https://forms.gle/cFZ3itHW7Dmi8jp29
-    \"https://forms.gle/cFZ3itHW7Dmi8jp29\")"
+  text: |-
+    Vous avez participé à la séance d'info MBSR en février 2023.
+
+    Vous pouvez régler ici votre participation au cycle de réduction du stress par la pleine conscience MBSR.
+
+    Merci de payer par versement avec en communication nom-prénom MBSR Printemps 23 sur le compte: BE50 0689 3283 8418
+
+    Prix réduit pour toute personne en situation de maladie de longue durée, au chômage, famille monoparentale, étudiant.e, pensionné.e. Vous n'êtes pas dans cette situation mais le tarif est trop élevé, nous pouvons en parler et trouver une solution ensemble. Le tarif ne doit pas être un obstacle à votre participation.
+
+    Si ne l'avez pas encore rempli, merci de cliquer sur ce lien et de compléter le formulaire d'inscription: [https://forms.gle/cFZ3itHW7Dmi8jp29](https://forms.gle/cFZ3itHW7Dmi8jp29 "https://forms.gle/cFZ3itHW7Dmi8jp29").
   price: 300€
   snip_price: 300
   snip_id: MBSRPrintemps23
   snip_sale: true
-  snip_sale_price: 50
+  snip_sale_price: 40
 - title: Cours de yoga adultes Jeudi 19:00 ! 5 places disponibles dès janvier 2023
   show: true
   type:
