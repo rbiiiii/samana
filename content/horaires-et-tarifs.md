@@ -64,11 +64,11 @@ rate:
   text: |-
     L'Inscription et la participation à la séance d'information sur le programme MBSR, est obligatoire en vue d'une inscription au cycle de 8 semaines.
 
-    Voici les dates : Lundi 6 février et Lundi 13 février 2023 à 10h et 18h30 en ligne. Dimanche 19 février en présentiel 14h30-16h à Liège (adresse à préciser)
+    Voici les dates : Lundi 6 février et Lundi 13 février 2023 à 10h et 18h30 en ligne. Dimanche 19 février en présentiel 14h30-16h à Liège (chez Tout coquelicot, 20 rue de la justice à 4420 saint-Nicolas)
 
     **1.Remplir le Formulaire d'inscription en ligne avant la séance d'info si possible:** [**https://forms.gle/cFZ3itHW7Dmi8jp29**](https://forms.gle/cFZ3itHW7Dmi8jp29 "https://forms.gle/cFZ3itHW7Dmi8jp29")
 
-    2\.Payer les 10€: merci de payer par versement avec en communication "séance-info-MBSR Printemps23" sur le compte: BE50 0689 3283 8418.
+    2\.Payer les 10€: merci de payer par versement avec en communication "Séance-info-MBSR Printemps23" sur le compte: BE50 0689 3283 8418.
 
     Merci de remplir également le formulaire google :-)!
   snip_id: InfoMBSR-printemps22
