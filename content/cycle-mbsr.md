@@ -66,43 +66,6 @@ mbsr:
       * dissociation
       * attaques de panique récurrentes
       * troubles psychotiques (hallucinations, délires)
-  - title: Dates Automne 2022
-    content: |-
-      #### Séance d’information
-
-      Dates samedis 17 septembre, 8 octobre ou 22 octobre 2022 de 14h30 à 16h, chez Tout Coquelicot, 20 rue de la justice à 4420 Saint-Nicolas)
-
-      Inscription obligatoire via le site internet ici pour le paiement des 10€: [https://www.yogasamana.be/horaires-tarifs/#tarifs-abonnements](https://www.yogasamana.be/horaires-tarifs/#tarifs-abonnements "https://www.yogasamana.be/horaires-tarifs/#tarifs-abonnements")
-
-      Formulaire en ligne à remplir obligatoirement et si possible avant la séance d'information voir ici : [https://forms.gle/4xgtat7Y3fQi9Zjm8](https://forms.gle/4xgtat7Y3fQi9Zjm8 "https://forms.gle/4xgtat7Y3fQi9Zjm8")
-
-      #### Cycle du jeudi soir (format présentiel, par Chloé Dujardin instructrice MBSR qualifiée)
-
-      1. Jeudi 10 novembre 2022, 18h30 – 21h30
-      2. Jeudi 17 novembre 2022, 18h30 – 21h00
-      3. Jeudi 24 novembre 2022, 18h30 – 21h00
-      4. Jeudi 01 décembre 2022, 18h30 – 21h00
-      5. Jeudi 08 décembre 2022, 18h30 – 21h00
-      6. Jeudi 15 décembre 2022, 18h30 – 21h00
-      7. Jeudi 22 décembre 2022, 18h30 – 21h00
-      8. Jeudi 05 janvier 2023, 18h30 – 21h30
-
-      #### Cycle du vendredi matin (format présentiel, par Chloé Dujardin instructrice MBSR qualifiée)
-
-      1. Vendredi 11 novembre 2022, 10h30 - 13h30
-      2. Vendredi 18 novembre 2022, 10h30 - 13h00
-      3. Vendredi 25 novembre 2022, 10h30 - 13h00
-      4. Vendredi 02 décembre 2022, 10h30 - 13h00
-      5. Vendredi 09 décembre 2022, 10h30 - 13h00
-      6. Vendredi 16 décembre 2022, 10h30 - 13h00
-      7. Vendredi 23 décembre 2022, 10h30 - 13h00
-      8. Vendredi 06 janvier 2023, 10h30 - 13h30
-
-      #### Journée de pratique en présentiel
-
-      **Format**: Les deux groupes sont réunis dans un lieu précisé au début du cycle.
-
-      **Dates**: Journée de pleine conscience le samedi 17 décembre 2022 de 09h30 à 17h00 Chez Tout Coquelicot.
   - title: Dates Printemps 2023
     content: |-
       #### Séance d’information
