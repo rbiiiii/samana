@@ -70,11 +70,11 @@ mbsr:
     content: |-
       #### Séance d’information
 
-      Lundi 23 janvier, Lundi 6 février et Lundi 13 février 2023 à 10h et 18h30 en ligne. (durée 1h30)
+      Lundi 13 février 2023 à 10h et 18h30 en ligne et le dimanche 19 février à 14h30 en présentiel chez Tout Coquelicot. (durée 1h30)
 
-      Inscription obligatoire via le site internet ici pour le paiement des 10€: [https://www.yogasamana.be/horaires-tarifs/#tarifs-abonnements](https://www.yogasamana.be/horaires-tarifs/#tarifs-abonnements "https://www.yogasamana.be/horaires-tarifs/#tarifs-abonnements")
+      Inscription via le site internet ici pour le paiement des 10€: [https://www.yogasamana.be/horaires-tarifs/#tarifs-abonnements](https://www.yogasamana.be/horaires-tarifs/#tarifs-abonnements "https://www.yogasamana.be/horaires-tarifs/#tarifs-abonnements")
 
-      Formulaire en ligne à remplir obligatoirement et si possible avant la séance d'information voir ici :[https://forms.gle/cFZ3itHW7Dmi8jp29](https://forms.gle/cFZ3itHW7Dmi8jp29 "https://forms.gle/cFZ3itHW7Dmi8jp29")
+      Formulaire en ligne à remplir et si possible avant la séance d'information voir ici :[https://forms.gle/cFZ3itHW7Dmi8jp29](https://forms.gle/cFZ3itHW7Dmi8jp29 "https://forms.gle/cFZ3itHW7Dmi8jp29")
 
       #### Cycle du jeudi soir (format présentiel, par Chloé Dujardin instructrice MBSR qualifiée)
 
