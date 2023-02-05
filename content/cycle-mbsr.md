@@ -120,7 +120,11 @@ mbsr:
 
       #### Programme MBSR
 
-      290 € pour le programme de 8 séances et 1 journée complète (30h). Ce tarif donne également accès à un syllabus imprimé et les enregistrements de méditations guidées pour la pratique à domicile.
+      300 € pour le programme de 8 séances et 1 journée complète (30h). Ce tarif donne également accès à un syllabus imprimé et les enregistrements de méditations guidées pour la pratique à domicile.
+
+      Un tarif réduit est disponible pour toute personne en situation de chômage, maladie de longue durée, famille monoparentale, étudiant.e, pensioné.e.
+
+      Il est possible de régler le cycle en plusieurs mensualités.
 
       Un problème financier ne doit pas être un frein à votre engagement dans cette démarche. Contactez-moi et nous trouverons ensemble le moyen de rendre votre participation possible.
 
