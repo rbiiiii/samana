@@ -2,7 +2,7 @@
 categories = ["Pleine conscience @work"]
 photo = "/v1663935612/joshua-woroniecki--5nwt_aN2E0-unsplash_djzmei.jpg"
 publishdate = 2022-09-23T00:00:00Z
-title = "Pourquoi la pleine conscience peut-elle avoir un effet bénéfique sur votre cerveau ?"
+title = "Pleine conscience & effet bénéfique sur le cerveau"
 
 +++
 ## Cette pratique permettrait de mieux gérer ses émotions et son stress mais aussi d'améliorer son estime de soi.
