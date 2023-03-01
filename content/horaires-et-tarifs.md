@@ -52,29 +52,6 @@ schedule:
 - title: Samedi
   blocks: []
 rate:
-- title: Inscription Séance d'information Cycle MBSR - Réduction du stress par la
-    pleine conscience
-  show: true
-  type:
-  - 1h30
-  price: '10€ '
-  period: Lundi 6 février et 13 février à 10h et 18h30 en ligne, dimanche 19 février
-    en présentiel
-  img: "/v1629487416/saffu-pYaKs30p9zg-unsplash_kifjbw.jpg"
-  text: |-
-    L'Inscription et la participation à la séance d'information sur le programme MBSR, est obligatoire en vue d'une inscription au cycle de 8 semaines.
-
-    Voici les dates : Lundi 6 février et Lundi 13 février 2023 à 10h et 18h30 en ligne. Dimanche 19 février en présentiel 14h30-16h à Liège (chez Tout coquelicot, 20 rue de la justice à 4420 saint-Nicolas)
-
-    **1.Remplir le Formulaire d'inscription en ligne avant la séance d'info si possible:** [**https://forms.gle/cFZ3itHW7Dmi8jp29**](https://forms.gle/cFZ3itHW7Dmi8jp29 "https://forms.gle/cFZ3itHW7Dmi8jp29")
-
-    2\.Payer les 10€: merci de payer par versement avec en communication "Séance-info-MBSR Printemps23" sur le compte: BE50 0689 3283 8418.
-
-    Merci de remplir également le formulaire google :-)!
-  snip_id: InfoMBSR-printemps22
-  snip_price: 10
-  snip_sale: false
-  snip_sale_price: 20
 - title: 'Cycle MBSR - Gestion du stress par la pleine conscience Printemps 2023 '
   show: true
   type:
@@ -285,11 +262,34 @@ rate:
   snip_sale: true
   snip_sale_price: 35
   img: "/v1584627110/AdobeStock_251503715-min_rvmb3x.jpg"
+- title: Inscription Séance d'information Cycle MBSR - Réduction du stress par la
+    pleine conscience
+  show: false
+  type:
+  - 1h30
+  price: '10€ '
+  period: Lundi 6 février et 13 février à 10h et 18h30 en ligne, dimanche 19 février
+    en présentiel
+  img: "/v1629487416/saffu-pYaKs30p9zg-unsplash_kifjbw.jpg"
+  text: |-
+    L'Inscription et la participation à la séance d'information sur le programme MBSR, est obligatoire en vue d'une inscription au cycle de 8 semaines.
+
+    Voici les dates : Lundi 6 février et Lundi 13 février 2023 à 10h et 18h30 en ligne. Dimanche 19 février en présentiel 14h30-16h à Liège (chez Tout coquelicot, 20 rue de la justice à 4420 saint-Nicolas)
+
+    **1.Remplir le Formulaire d'inscription en ligne avant la séance d'info si possible:** [**https://forms.gle/cFZ3itHW7Dmi8jp29**](https://forms.gle/cFZ3itHW7Dmi8jp29 "https://forms.gle/cFZ3itHW7Dmi8jp29")
+
+    2\.Payer les 10€: merci de payer par versement avec en communication "Séance-info-MBSR Printemps23" sur le compte: BE50 0689 3283 8418.
+
+    Merci de remplir également le formulaire google :-)!
+  snip_id: InfoMBSR-printemps22
+  snip_price: 10
+  snip_sale: false
+  snip_sale_price: 20
 retreat:
 - title: Journée de pratique méditative Juin 2023
   type:
   - 8h
-  period: Dimanche 25 juin 2023
+  period: Samedi 24 juin 2023
   img: "/v1674600821/samana/journe%CC%81e_23juin_bq1ysw.png"
   text: |-
     Pour démarrer l'été, pour terminer l'année scolaire, pour reprendre de l'énergie, pour s'arrêter tout simplement. Une pause, une journée de pratique méditative pour les pratiquant.es régulier.ière.s ou ayant déjà participé à un programme complet de pleine conscience (MBSR, MBCT, ...)
