@@ -286,6 +286,31 @@ rate:
   snip_sale: false
   snip_sale_price: 20
 retreat:
+- title: Journée de pleine conscience  - Pour méditant.es ayant fait un cycle de 8
+    semaines
+  type: []
+  period: Lundi 10 avril 2023
+  img: "/v1671645098/samana/dewang-gupta-ESEnXckWlLY-unsplash_np7khm_r3slys.jpg"
+  text: "**Journée de pleine conscience** Une nouvelle journée de méditation est organisée
+    le lundi 10 avril de 9h30 à 17h00 chez [Terre et Source](https://www.facebook.com/terreetsource?__cft__\\[0\\]=AZXg7r9itHtsT1AVAsj1vCxlSadQYlRN4YkP7FFm96UyZCkS_xecq6kkZYKMdIRwnL9x8EiKA68P0KI6itOizdi5G-FEq9jOYEwZd1ehqnaqTrnG5iWZoR1sFkED_U-dB68v4ZXAYDFjJ7tntp8Ysoa0Uaskce9C26qTq9R1rASBoyZe0iEJtSDbcb0RvBz28t4&__tn__=-\\]K-R)
+    ! \n\n**!Important :** cette journée est réservée aux personnes ayant suivi le
+    cycle de pleine conscience de 8 semaines (MBSR, MBCT ou autre). Hâte de respirer
+    avec vous\n\n**Lieu**: [Terre et source](https://terreetsource.be/ \"Terre et
+    source\"), rue d'Aubel 59 à 4651 Battice.\n\n**Tarif** : 50€ et 40€ tarif réduit,
+    à payer via versement ici : BE50 06893283 8418 avec en communication journée méditation
+    + vos nom et prénom).\n\nLe tarif ne doit doit pas être un frein à votre participation,
+    c'est pourquoi le tarif réduit est destiné aux personnes en maladie, chômage,
+    famille monoparentale, pension, étudiants. Si ce tarif réduit est un soucis, ne
+    pas hésiter à m'en parler, nous trouverons une solution ensemble.\n\n**Conditions
+    d'annulation:** une fois votre versement effectué, vous êtes formellement inscrit.e
+    à la journée. Aucun remboursement ne pourra être effectué pour quelque raison
+    que ce soit."
+  price: 50€ ou 40€ (prix réduit)
+  snip_price: 50
+  snip_id: JournéecycleMBSR-avril23
+  snip_sale: true
+  snip_sale_price: 10
+  show: true
 - title: Journée de pratique méditative Juin 2023
   type:
   - 8h
