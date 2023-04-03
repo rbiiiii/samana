@@ -311,7 +311,7 @@ retreat:
   snip_sale: true
   snip_sale_price: 10
   show: true
-- title: Journée de pratique méditative Juin 2023
+- title: Journée de pratique méditative 24 Juin 2023
   type:
   - 8h
   period: Samedi 24 juin 2023
@@ -324,6 +324,8 @@ retreat:
     Journée avec auberge espagnole le midi. Délicieux thés, tisanes et fruits bio offerts toute la journée. Places limitées***
 
     **Lieu**: [Terre et source](https://terreetsource.be/ "Terre et source"), rue d'Aubel 59 à 4651 Battice.
+
+    **Horaire:** Accueil dès 09:30, pratique de 10:00 à 16:30 (pause de midi 12:00-13:30)
 
     **Tarif** : 50€ et 40€ tarif réduit, à payer via versement ici : BE50 06893283 8418 avec en communication journée méditation + vos nom et prénom).
 
