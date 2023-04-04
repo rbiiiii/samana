@@ -317,13 +317,11 @@ retreat:
   period: Samedi 24 juin 2023
   img: "/v1674600821/samana/journe%CC%81e_23juin_bq1ysw.png"
   text: |-
-    Pour démarrer l'été, pour terminer l'année scolaire, pour reprendre de l'énergie, pour s'arrêter tout simplement. Une pause, une journée de pratique méditative pour les pratiquant.es régulier.ière.s ou ayant déjà participé à un programme complet de pleine conscience (MBSR, MBCT, ...)
-
-    Dans un endroit merveilleux et en pleine nature : "Terre et source".
+    Pour démarrer l'été, pour terminer l'année scolaire, pour reprendre de l'énergie, pour s'arrêter tout simplement. Une pause, une journée de pratique méditative avec du yoga, des échanges et de la méditation de pleine conscience. Une journée ouverte à toutes et tous,y compris si vous n'avez jamais pratiqué le yoga et/ou la pleine conscience.
 
     Journée avec auberge espagnole le midi. Délicieux thés, tisanes et fruits bio offerts toute la journée. Places limitées***
 
-    **Lieu**: [Terre et source](https://terreetsource.be/ "Terre et source"), rue d'Aubel 59 à 4651 Battice.
+    **Lieu**: Dans un endroit merveilleux et en pleine nature : [Terre et source](https://terreetsource.be/ "Terre et source"), rue d'Aubel 59 à 4651 Battice.
 
     **Horaire:** Accueil dès 09:30, pratique de 10:00 à 16:30 (pause de midi 12:00-13:30)
 
