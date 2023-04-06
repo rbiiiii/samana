@@ -325,9 +325,9 @@ retreat:
 
     **Horaire:** Accueil dès 09:30, pratique de 10:00 à 16:30 (pause de midi 12:00-13:30)
 
-    **Inscription via le formulaire ici:** [https://forms.gle/HiEmWzCon5azh4i8A](https://forms.gle/HiEmWzCon5azh4i8A "https://forms.gle/HiEmWzCon5azh4i8A")
+    **Inscription ici:** [https://forms.gle/HiEmWzCon5azh4i8A](https://forms.gle/HiEmWzCon5azh4i8A "https://forms.gle/HiEmWzCon5azh4i8A")
 
-    **Tarif & paiement** : 50€ et 40€ tarif réduit, à payer via versement ici : BE50 06893283 8418 avec en communication journée méditation + vos nom et prénom).
+    **Tarif & paiement ici** : 50€ et 40€ tarif réduit, à payer via versement ici : BE50 06893283 8418 avec en communication journée méditation + vos nom et prénom).
 
     Le tarif ne doit doit pas être un frein à votre participation, c'est pourquoi le tarif réduit est destiné aux personnes en maladie, chômage, famille monoparentale, pension, étudiants. Si ce tarif réduit est un soucis, ne pas hésiter à m'en parler, nous trouverons une solution ensemble.
 
