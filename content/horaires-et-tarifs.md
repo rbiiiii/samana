@@ -76,8 +76,8 @@ rate:
 
     **Tarifs**
 
-    * Carte de 6 cours valable pour toute la période 90€ (15€/cours).
-    * Carte de 10 cours 120€ (12€/cours)
+    * Carte de 6 cours valable de mai à juillet 2023 - 90€ (15€/cours).
+    * Carte de 10 cours valable de mai à juillet 2023 - 120€ (12€/cours)
     * À l'unité 17€ à payer sur place directement.
     * !!! Vous êtes déjà inscrit.es aux cours de yoga cette année 2022-2023?
 
