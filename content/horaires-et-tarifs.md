@@ -107,7 +107,7 @@ rate:
   snip_sale: true
   snip_sale_price: 30
 - title: Cours de yoga adultes - Jeudi 20:15! 5 places disponibles dès janvier 2023
-  show: true
+  show: false
   type:
   - 1h
   price: 'T1: 195€ ou 160€ (tarif réduit) / T2: 210€ ou 170€ (tarif réduit)'
@@ -130,7 +130,7 @@ rate:
   snip_sale: true
   snip_sale_price: 40
 - title: Cours de yoga adultes - Vendredi 9:00
-  show: true
+  show: false
   period: Du 09 septembre au 28 avril 2023
   text: "Cours vendredi matin 09h00 jusque 10h00 (arrivée à 08h50 pour se placer dans
     la salle), 14 cours entre janvier et avril 2023. Cours de yoga en présentiel (sauf
@@ -149,7 +149,7 @@ rate:
   - 1h
   img: "/v1598214449/IMG_4551_zbks33.jpg"
 - title: Cours de yoga adultes - Mercredi 09:30 ! COMPLET
-  show: true
+  show: false
   type:
   - 1h
   period: du 14 septembre au 26 avril 2023
