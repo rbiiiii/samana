@@ -59,9 +59,7 @@ rate:
   period: 17 mai au 27 juillet
   img: "/v1598214449/IMG_4551_zbks33.jpg"
   text: |-
-    **Cours de yoga tous niveaux** mercredi matin, vendredi matin et jeudi soir (arrivée 10 min à l'avance pour se placer dans la salle). La carte achetée vous permet de venir aux cours lorsque vous le désirez. Une fois par semaine, deux fois, changer de jour.
-
-    Jeudi et vendredi: Cours en studio ou dans le jardin s'il fait beau :-).
+    **Cours de yoga tous niveaux** mercredi matin, vendredi matin et jeudi soir (arrivée 10 min à l'avance pour se placer dans la salle). La carte achetée vous permet de venir aux cours lorsque vous le désirez. Une fois par semaine, deux fois, changer de jour. Jeudi et vendredi: Cours en studio ou dans le jardin s'il fait beau :-).
 
     \*Vous démarrez le yoga et vous désirez essayer le cours avant de vous engager? Pas de soucis c'est 15€ à payer sur place et si vous continuez, soit vous prenez la carte, soit vous payez à la séance.
 
@@ -73,7 +71,7 @@ rate:
 
     **Lieux**
 
-    * **Mercredi** chez Corps et conscience 107, Bv Kleyer à 4000 Liège
+    * **Mercredi** chez Corps et conscience 107, Bv Kleyer à 4000 Liège.
     * **Jeudi et Vendredi**  chez Tout Coquelicot, 20 rue de la justice à 4420 Saint-Nicolas.
 
     **Tarifs**
@@ -81,7 +79,7 @@ rate:
     * Carte de 6 cours valable pour toute la période 90€ (15€/cours).
     * Carte de 10 cours 120€ (12€/cours)
     * À l'unité 17€ à payer sur place directement.
-    * !!!Vous êtes déjà inscrit.es aux cours de yoga cette année 2022-2023?
+    * !!! Vous êtes déjà inscrit.es aux cours de yoga cette année 2022-2023?
 
       Pour vous remercier de votre fidélité, profitez de 10 cours pour le prix de 6 :-)!
 
