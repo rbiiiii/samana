@@ -74,27 +74,38 @@ rate:
   snip_id: MBSRPrintemps23
   snip_sale: true
   snip_sale_price: 40
-- title: Cours de yoga adultes Jeudi 19:00 ! 5 places disponibles dès janvier 2023
+- title: COURS YOGA ADULTES - ETE 2023 - MAI JUIN JUILLET
   show: true
   type:
   - 1h
-  period: 15 septembre au 27 avril 2023
+  period: 17 mai au 27 juillet
   img: "/v1598214449/IMG_4551_zbks33.jpg"
-  text: |-
-    Cours débutants le jeudi soir de 19h jusque 20h (arrivée à 18h50 pour se placer dans la salle). Cours de yoga en présentiel (sauf passage en ligne si obligation de fermer la salle de yoga). * En mars avril 2023, on passe en mode atelier en se retrouvant le samedi après-midi pour des ateliers de 1,5h ou 2h toute les deux semaines.
-
-    Dates Jeudis:
-
-    12, 19, 26 JAN, 2, 9, 16 FÉV 2023 - MARS : atelier samedis 04 & 18 mars - AVRIL : atelier samedis 01 & 15 avril (14h-16h).
-
-    **Lieu: Tout Coquelicot, 20 rue de la justice à 4420 Saint-Nicolas.**
-
-    **T2/ Jan-avril 2023, 6h cours et 8h de cours-ateliers :** tarif plein 210€ (15€/cours) - tarif réduit 170€ (12€/cours) - payable au plus tard le 6 janvier 2023. Cours d'essai possible à 10€ le jeudi 12 janvier! appelez moi: 0472/099143.
-  price: 'T2: 210€ ou 170€ (tarif réduit)'
-  snip_price: 210
-  snip_id: yogajeudisoir1-jan-avril-23
+  text: "**Cours de yoga tous niveaux** mercredi matin, vendredi matin et jeudi soir
+    (arrivée 10 min à l'avance pour se placer dans la salle). La carte achetée vous
+    permet de venir aux cours lorsque vous le désirez. Une fois par semaine, deux
+    fois, changer de jour. \n\nJeudi et vendredi: Cours en studio ou dans le jardin
+    s'il fait beau :-). \n\n\\*Vous démarrez le yoga et vous désirez essayer le cours
+    avant de vous engager? Pas de soucis c'est 15€ à payer sur place et si vous continuez,
+    soit vous prenez la carte, soit vous payez à la séance.\n\n**Planning** \n\n*
+    **Mercredis 9:30 - 10:30** : 17, 24, 31 MAI | 1, 14, 21, 28 JUIN 2023 \n* **Jeudis
+    19:00 - 20:00 :** 18, 25 MAI | 1, 15, 22, 29 JUIN | 13, 20, 27 JUILLET \n* **Vendredis
+    09:00 - 10:00 :** 19, 26 MAI | 2, 16, 23, 30 JUIN 2023 \n\n**Lieux**\n\n* **Mercredi**
+    chez Corps et conscience 107, Bv Kleyer à 4000 Liège\n* **Jeudi et Vendredi**
+    \ chez Tout Coquelicot, 20 rue de la justice à 4420 Saint-Nicolas.\n\n**Tarifs**\n\n*
+    Carte de 6 cours valable pour toute la période 90€ (15€/cours).  \n* Carte de
+    10 cours 120€ (12€/cours)\n* À l'unité 17€ à payer sur place directement. \n*
+    !!!Vous êtes déjà inscrit.es aux cours de yoga cette année 2022-2023? \n\n  Pour
+    vous remercier de votre fidélité, profitez de 10 cours pour le prix de 6 :-)!\n\n**Inscription:**\n\n1.
+    Vérifier avec moi qu'il y a assez de places appelez moi au 0472/099.132\n2. Remplir
+    le mini formulaire ici: [https://forms.gle/DUrjSnpCmx47YY4h7](https://forms.gle/DUrjSnpCmx47YY4h7
+    \"https://forms.gle/DUrjSnpCmx47YY4h7\")\n3. **Merci de payer par versement**
+    avec en communication \"nom-prénom Yoga été 23\" sur le compte: BE50 0689 3283
+    8418. \n\n   **Avant le 08 mai 2023.**"
+  price: 'T3: Carte 10 cours 120€ | Carte de 6 cours 90€'
+  snip_price: 120
+  snip_id: yogajeudisoirmai-juillet23
   snip_sale: true
-  snip_sale_price: 40
+  snip_sale_price: 30
 - title: Cours de yoga adultes - Jeudi 20:15! 5 places disponibles dès janvier 2023
   show: true
   type:
