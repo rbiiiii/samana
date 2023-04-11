@@ -52,28 +52,6 @@ schedule:
 - title: Samedi
   blocks: []
 rate:
-- title: 'Cycle MBSR - Gestion du stress par la pleine conscience Printemps 2023 '
-  show: true
-  type:
-  - 2h30
-  period: du 02 mars au 20 avril 2023 (jeudi soir) et du 03 mars au 21 avril 2023
-    (vendredi matin)
-  img: "/v1575800419/AdobeStock_216060429_yjx8hp.jpg"
-  text: |-
-    Vous avez participé à la séance d'info MBSR en février 2023.
-
-    Vous pouvez régler ici votre participation au cycle de réduction du stress par la pleine conscience MBSR.
-
-    Merci de payer par versement avec en communication nom-prénom MBSR Printemps 23 sur le compte: BE50 0689 3283 8418. (!possibilité de verser en plusieurs mensualités)
-
-    Prix réduit pour toute personne en situation de maladie de longue durée, au chômage, famille monoparentale, étudiant.e, pensionné.e. Vous n'êtes pas dans cette situation mais le tarif est trop élevé, nous pouvons en parler et trouver une solution ensemble. Le tarif ne doit pas être un obstacle à votre participation.
-
-    Si ne l'avez pas encore rempli, merci de cliquer sur ce lien et de compléter le formulaire d'inscription: [https://forms.gle/cFZ3itHW7Dmi8jp29](https://forms.gle/cFZ3itHW7Dmi8jp29 "https://forms.gle/cFZ3itHW7Dmi8jp29").
-  price: 300€ - 260€ (Tarif Réduit)
-  snip_price: 300
-  snip_id: MBSRPrintemps23
-  snip_sale: true
-  snip_sale_price: 40
 - title: COURS YOGA ADULTES - ETE 2023 - MAI JUIN JUILLET
   show: true
   type:
@@ -106,6 +84,28 @@ rate:
   snip_id: yogajeudisoirmai-juillet23
   snip_sale: true
   snip_sale_price: 30
+- title: 'Cycle MBSR - Gestion du stress par la pleine conscience Printemps 2023 '
+  show: false
+  type:
+  - 2h30
+  period: du 02 mars au 20 avril 2023 (jeudi soir) et du 03 mars au 21 avril 2023
+    (vendredi matin)
+  img: "/v1575800419/AdobeStock_216060429_yjx8hp.jpg"
+  text: |-
+    Vous avez participé à la séance d'info MBSR en février 2023.
+
+    Vous pouvez régler ici votre participation au cycle de réduction du stress par la pleine conscience MBSR.
+
+    Merci de payer par versement avec en communication nom-prénom MBSR Printemps 23 sur le compte: BE50 0689 3283 8418. (!possibilité de verser en plusieurs mensualités)
+
+    Prix réduit pour toute personne en situation de maladie de longue durée, au chômage, famille monoparentale, étudiant.e, pensionné.e. Vous n'êtes pas dans cette situation mais le tarif est trop élevé, nous pouvons en parler et trouver une solution ensemble. Le tarif ne doit pas être un obstacle à votre participation.
+
+    Si ne l'avez pas encore rempli, merci de cliquer sur ce lien et de compléter le formulaire d'inscription: [https://forms.gle/cFZ3itHW7Dmi8jp29](https://forms.gle/cFZ3itHW7Dmi8jp29 "https://forms.gle/cFZ3itHW7Dmi8jp29").
+  price: 300€ - 260€ (Tarif Réduit)
+  snip_price: 300
+  snip_id: MBSRPrintemps23
+  snip_sale: true
+  snip_sale_price: 40
 - title: Cours de yoga adultes - Jeudi 20:15! 5 places disponibles dès janvier 2023
   show: false
   type:
@@ -321,7 +321,7 @@ retreat:
   snip_id: JournéecycleMBSR-avril23
   snip_sale: true
   snip_sale_price: 10
-  show: true
+  show: false
 - title: Journée de pratique méditative 24 Juin 2023
   type:
   - 8h
