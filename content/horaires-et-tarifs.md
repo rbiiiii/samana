@@ -85,7 +85,7 @@ rate:
 
     **Inscription:**
 
-    1. Vérifier avec moi qu'il y a assez de places appelez moi au 0472/099.132
+    1. Vérifier avec moi qu'il y a assez de places appelez moi au 0472/099.143
     2. Remplir le mini formulaire ici: [https://forms.gle/DUrjSnpCmx47YY4h7](https://forms.gle/DUrjSnpCmx47YY4h7 "https://forms.gle/DUrjSnpCmx47YY4h7")
     3. **Merci de payer par versement** avec en communication "nom-prénom Yoga été 23" sur le compte: BE50 0689 3283 8418.
 
