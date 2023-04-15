@@ -168,7 +168,7 @@ rate:
   snip_sale: true
   snip_sale_price: 40
 - title: Cours de yoga ados - Mercredi 14:00
-  show: true
+  show: false
   type:
   - 1h30
   period: du 14 septembre au 26 avril 2023
