@@ -31,24 +31,12 @@ schedule:
     end: 20h
     category: adultes
     subtext: Yoga adultes chez Tout Coquelicot
-  - start: 20h15
-    end: 21h15
-    category: adultes
-    subtext: Yoga adultes chez Tout Coquelicot
-  - start: 18h30
-    end: 21h
-    category: adultes
-    subtext: Cycle MBSR dès le 02 mars Chez Tout Coquelicot
 - title: Vendredi
   blocks:
   - start: 9h
     end: 10h
     category: adultes
     subtext: Yoga adultes chez Tout Coquelicot
-  - start: 10h30
-    end: 13h00
-    category: adultes
-    subtext: Cycle MBSR dès le 03 mars Chez Tout Coquelicot
 - title: Samedi
   blocks: []
 rate:
