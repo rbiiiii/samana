@@ -9,3 +9,5 @@ cloudinary_base_url = "https://res.cloudinary.com/dqu7lbbhg/image/upload"
 [taxonomies]
    tag = "tags"
    category = "categories"
+[outputs]
+  home = ["HTML", "_redirects"]
